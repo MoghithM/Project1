@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+5479efce9633ba541695f67db12cff07,5c508777098cd5c583e3d827cee7674a,567.32,2023-04-15,Failed,VAD307,Vadapalani,Chennai,UPI,Merchant_82,Groceries
+c492ec778abdeb77aa394917fb6d8914,a8a67f948c5e14bae04fbac90ab63069,450.99,2023-03-14,Failed,VAD506,Vadapalani,Chennai,UPI,Merchant_2,Groceries
+f43d836b8dd2cb51b9bc50a6f14f2c74,89e0d865564dc935eb8185523379cfd8,473.87,2023-03-18,Failed,VAD439,Vadapalani,Chennai,UPI,Merchant_79,Electronics
+4235bc8f2356b3818b501c20885ad191,1b96a31490ba39cd8afde18103b4557e,185.88,2023-03-30,Failed,VAD983,Vadapalani,Chennai,Net Banking,Merchant_57,Clothing
+509169db4815043bad8faa071797ecb5,22538f868d502502a93c970d8ecb5591,433.2,2023-05-23,Failed,VAD121,Vadapalani,Chennai,Credit,Merchant_19,Clothing
+e57310835a6e7813dc0ee0421c8843da,7b14714f5f1ce330a44d2c3023a7b06f,230.21,2023-10-25,Successful,VAD292,Vadapalani,Chennai,UPI,Merchant_100,Health
+e647fabe0e5f4ce89a4e744ed56f0a7f,3071dc8e039e9bb1da4b58c73bc23ace,525.11,2023-11-15,Failed,VAD904,Vadapalani,Chennai,Debit,Merchant_79,Clothing
+3a933be9b075f941ea620354f7f7e25e,376cdecd09d93bdc66aaf349d51232ee,952.76,2023-11-22,Successful,VAD357,Vadapalani,Chennai,Net Banking,Merchant_54,Electronics
+966ed896c33eca77fb5b05c7627898af,f567379f912840e910989abc8145f7c6,645.06,2023-01-09,Failed,VAD804,Vadapalani,Chennai,Net Banking,Merchant_78,Clothing
+2695206b4834566d934cf5d2130c811b,2867651f53de635d9dbf25339db30e55,375.89,2023-02-12,Failed,VAD283,Vadapalani,Chennai,Debit,Merchant_32,Health
+aa9ffeeb45dd303cf615b9482c8c5689,6a767be56339a0cc0e906779ac4538d5,131.06,2023-01-31,Failed,VAD655,Vadapalani,Chennai,Credit,Merchant_39,Electronics
+4d0a10b8b3750c157db50156cca6bf50,a0832ca54037ae2a89af403da3c61a2b,385.96,2023-08-12,Successful,VAD917,Vadapalani,Chennai,UPI,Merchant_1,Electronics
+f09491f737eb00ca92d9c7be9a73b14d,ecec1e7bf8097a5aab548e1c3696ecc2,187.08,2023-11-24,Failed,VAD700,Vadapalani,Chennai,UPI,Merchant_56,Health
+8355d53116d55d76a282e52219d24d6a,0c0fc081a616695498e21cb4778ad0a2,427.65,2023-08-06,Failed,VAD951,Vadapalani,Chennai,UPI,Merchant_14,Groceries
+84e60c1f52c6e7e5e6a800fce1bd9636,1b60196732ad6c6b189d348dd3a763f2,697.65,2023-03-10,Failed,VAD208,Vadapalani,Chennai,Credit,Merchant_2,Groceries
+814430f2f4773fbbea984e0cfb3426a1,1942e57a546f43bb741b4d894830fcc0,720.03,2023-10-21,Successful,VAD203,Vadapalani,Chennai,Debit,Merchant_25,Clothing
+98f68ccf8606667b636aa49fe736e29a,c1608167200e2f97467ada95b83feb02,576.68,2023-04-20,Successful,VAD497,Vadapalani,Chennai,UPI,Merchant_56,Groceries
+65372c03225636acd01188139fd8580e,2acb563d59b71f28acb15d0a3b09aa9c,178.95,2023-07-21,Successful,VAD843,Vadapalani,Chennai,Debit,Merchant_86,Groceries
+bc756d64d881896c6d598253a5712de4,08f316172a20a91c04a01a3d93682f38,365.65,2023-05-07,Failed,VAD448,Vadapalani,Chennai,Credit,Merchant_79,Electronics
+758326a7ffdc194814acc2352601e88d,ec34608576276bf49d01c67dbb3b9913,918.3,2023-06-03,Successful,VAD791,Vadapalani,Chennai,Credit,Merchant_28,Electronics
+cfd3dab5e3a62cc6b464111e6158a968,081cfe4b9e52a8ebf65961f650a7088f,558.17,2023-12-29,Successful,VAD330,Vadapalani,Chennai,Credit,Merchant_70,Groceries
+393a149231eb600e3593a2dbcdeb6bcd,a065bfe32a79674da92967152445a48a,420.05,2023-05-12,Failed,VAD825,Vadapalani,Chennai,Net Banking,Merchant_84,Clothing
+b76f585998809604838a425f13dfe309,a5ed4145634594595b56e84210d487de,457.24,2023-03-17,Failed,VAD648,Vadapalani,Chennai,UPI,Merchant_39,Electronics
+b006181229696def298742b7ab7f68a0,599c66470e76be340cb417b2d582469c,516.11,2023-11-06,Successful,VAD804,Vadapalani,Chennai,Credit,Merchant_70,Groceries
+8c6df84dc8235e5dfc65e4dc49c0e0ef,0f77759ed7ac0417f0b86611b14613c4,286.76,2023-05-20,Failed,VAD400,Vadapalani,Chennai,Debit,Merchant_1,Electronics
+acbd6674900d69b459a9859a5ce2f8a3,0e332f2e85d57cabed492d911c935578,492.05,2023-07-06,Failed,VAD551,Vadapalani,Chennai,UPI,Merchant_63,Groceries
+af42d3fd1011b3bfc2e368bff4a5732a,8bdf180c9ee5396c7ffd7145bc59ce61,149.52,2023-05-29,Failed,VAD859,Vadapalani,Chennai,Credit,Merchant_13,Groceries
+4a75bd4ae75ab2fc06f2b3f2b47e5595,e2432e32bba8c1a56170730e3eda8014,476.09,2023-08-04,Failed,VAD563,Vadapalani,Chennai,Debit,Merchant_3,Electronics
+746d66993beabd839d77ad4446f3d3ee,c2a93ff832e33f3f64f465adf5176566,952.33,2023-07-24,Failed,VAD630,Vadapalani,Chennai,Debit,Merchant_58,Electronics
+edc728f56036b8bde00e340776fc9f2c,7f9aa958c8fa37c1d247712fa3676498,981.98,2023-08-04,Failed,VAD110,Vadapalani,Chennai,Debit,Merchant_15,Clothing
+c61ca6e387e72f497aa6d5f7d34966fd,37261e7352ba47a0f24e9869b1ec5a30,958.12,2023-05-18,Successful,VAD703,Vadapalani,Chennai,UPI,Merchant_36,Health
+9d1eda6fc6b592c8de7626ec4d5915c5,8f7019b0e60cacb92093deab35b419a2,480.14,2023-05-16,Failed,VAD100,Vadapalani,Chennai,UPI,Merchant_31,Clothing
+e51d273f7a06a735ea4b29784b9de8ed,402942c052269979d7019d08125765b5,818.15,2023-01-28,Successful,VAD535,Vadapalani,Chennai,Credit,Merchant_39,Electronics
+d1a68b0dc5ac3a3b577fc14eab9caa72,55b3f4c68d65a04224b668284292c3d0,526.32,2023-08-12,Successful,VAD370,Vadapalani,Chennai,Debit,Merchant_29,Clothing
+5f28ccfac6341b8a1dbceded6c50c7cd,572b68871b4c2053af026fb28a02c7b6,421.61,2023-07-04,Failed,VAD406,Vadapalani,Chennai,UPI,Merchant_49,Health
+a4b01233ee38bf6f01aed58022031ba8,0252b05815ad16a64e655abc8a23f8fd,370.63,2023-07-22,Failed,VAD928,Vadapalani,Chennai,Net Banking,Merchant_80,Groceries
+5948823058c938f2877010269f6b99f9,276733714d4e6be0854107c8e96945ce,391.56,2023-02-06,Successful,VAD667,Vadapalani,Chennai,Net Banking,Merchant_66,Clothing
+1373ad30f26cf5ab873e3321a3ee4658,694e0a6c8bc87e4d11f27d6b287b2251,555.1,2023-04-13,Failed,VAD357,Vadapalani,Chennai,Debit,Merchant_23,Health
+6508493f00601a43ec94a66f0c9dc3fc,5577e8a685f2fef7588d54915ec8cb97,616.58,2023-05-07,Failed,VAD583,Vadapalani,Chennai,UPI,Merchant_7,Clothing
+d828b331600750398abf7eecb66573e6,79a3e001edb0435cc95bff600d99295a,964.95,2023-04-30,Failed,VAD889,Vadapalani,Chennai,UPI,Merchant_63,Health
+6aafaf8b0d62cf460a684d766b148a92,f29d31c88969db0dd53cc540e67f14bb,18.0,2023-08-19,Failed,VAD254,Vadapalani,Chennai,UPI,Merchant_26,Clothing
+a2af4a82b2e2b00a32c1f11893b7810c,8795791bb4ed03ad886b953d8e65f225,164.54,2023-04-15,Successful,VAD743,Vadapalani,Chennai,Debit,Merchant_94,Clothing
+7680ab6785b75271a81643fb3dd14a4f,a791b4aab86a6d2dcaff0b1552c1ad8e,583.05,2023-04-03,Successful,VAD468,Vadapalani,Chennai,UPI,Merchant_46,Clothing
+f1a0e4002c76831cd5ae7f8d96df0329,923a3d2752dfe327d8b83045d5f65857,455.84,2023-09-08,Successful,VAD222,Vadapalani,Chennai,UPI,Merchant_45,Health
+699ef4ce34f87d0f8e84c6547d88ccef,dc03f7466a48e0f59d430fd929fce0c8,49.18,2023-01-21,Failed,VAD450,Vadapalani,Chennai,Credit,Merchant_71,Health
+3f3a2b8157b1c85cfb37e650e1d4b753,9793b6101c7a5e492a6909d6a964f4bb,772.23,2023-05-26,Failed,VAD657,Vadapalani,Chennai,Debit,Merchant_69,Clothing
+7baa8549ff0a4420ef57a9df8bd7649b,d4d989147a45775729d853d2614cbf55,952.75,2023-12-09,Successful,VAD305,Vadapalani,Chennai,Net Banking,Merchant_27,Groceries
+bd8396abddd3b127069358e28c28fcd1,0fca1f5153723122012e0f12a95baa7f,99.98,2023-07-17,Successful,VAD273,Vadapalani,Chennai,Net Banking,Merchant_78,Health
+86c719a0cd7d926c341246bc94a63e5f,a55d4d6ba2bd1537a58df55016725ba6,536.18,2023-11-29,Failed,VAD927,Vadapalani,Chennai,Debit,Merchant_88,Clothing
+f44aa28c28d5feb600877c4ef7387f97,1bf54ba103949c1d2734ed7a6dd6f6c1,497.31,2023-09-20,Successful,VAD906,Vadapalani,Chennai,Credit,Merchant_80,Groceries
+4906b71a7a72f20e4ec02ed1b9655512,e344440eb28fdc1e40847bb7b0b12859,228.76,2023-04-23,Failed,VAD328,Vadapalani,Chennai,Net Banking,Merchant_39,Electronics
+d3c47cee5b714c646f20aad996b15db6,7bcd89346fdbf0428b84453670251bcb,963.57,2023-03-07,Failed,VAD270,Vadapalani,Chennai,Net Banking,Merchant_6,Health
+433da28e73b9ae24aae2e8599b6030f4,11e9c928504712a4a4651a7462c2bad4,241.53,2023-11-03,Failed,VAD105,Vadapalani,Chennai,Net Banking,Merchant_33,Electronics
+9eab3c13d15f5d7c69b671306ea8c29d,e387b6fd74c0a3a730219bdb9cc92096,782.61,2023-08-01,Successful,VAD518,Vadapalani,Chennai,Net Banking,Merchant_71,Clothing
+b561314e247ada748165760ffbb344c5,2f35001e62bbe9534ebb0f00274ac540,40.95,2023-12-17,Failed,VAD522,Vadapalani,Chennai,UPI,Merchant_4,Clothing
+fb89c3343c8e817c981a83a68d86e441,9d515c27430e1aa161b126ba652564ff,435.23,2023-05-08,Successful,VAD110,Vadapalani,Chennai,Credit,Merchant_24,Electronics
+ed0060c620790766373db682c47d3db6,e7c573440d15ec0f643ae495005b59e4,96.88,2023-09-08,Successful,VAD782,Vadapalani,Chennai,Credit,Merchant_64,Electronics
+8d3a47ddfb90087e4a08327042a4fe05,65ba508fe3f695521f6aa437b39e7edf,986.05,2023-07-14,Failed,VAD516,Vadapalani,Chennai,Debit,Merchant_76,Electronics
+98e1452039b4ecdb6a42fa18534dc8b0,73329c590625f5fb316e1a91ccd14396,392.51,2023-01-07,Failed,VAD252,Vadapalani,Chennai,UPI,Merchant_5,Clothing
+2e5e4a53cd4e0629e2c8f54f70176b7b,3b4719c925f6fbf661a681ff965aefc4,224.6,2023-05-26,Failed,VAD883,Vadapalani,Chennai,Credit,Merchant_8,Electronics
+2974ba5f7f58ba41b4d0236676ffff1b,2b588f71726d1b22a25bf091ada580f0,944.09,2023-08-06,Successful,VAD556,Vadapalani,Chennai,Credit,Merchant_52,Groceries
+570380deefdd516e826591614e48e749,f2509bd76c72e8e8a36395ba2b54f9b3,767.94,2023-12-21,Failed,VAD541,Vadapalani,Chennai,Credit,Merchant_19,Health
+2263e0b628f2ded69775656338e31bfe,a7ba68ca830baba6a24f930dedcb7491,414.62,2023-03-08,Failed,VAD127,Vadapalani,Chennai,UPI,Merchant_46,Groceries
+5582fc8cafc7a33ed29b7631b065403c,59602d7128b4ce6ad11e8ed5a491db40,160.72,2023-12-16,Successful,VAD671,Vadapalani,Chennai,Debit,Merchant_18,Electronics
+11b5933178003ca827de31d98e7233c7,a98f55c89753badc2371fc2741e4cd64,11.3,2023-05-30,Successful,VAD573,Vadapalani,Chennai,Debit,Merchant_29,Groceries
+507e30f6ca5531f195c03d303a1f84ed,814c313ed46dd4cc98a41d871a084fc6,404.13,2023-11-13,Successful,VAD872,Vadapalani,Chennai,Credit,Merchant_71,Clothing
+0dd22fee1597d337f9eff6d051e7946c,930a50d59e03b790f5f61cb7a2df8bd7,828.8,2023-08-12,Successful,VAD609,Vadapalani,Chennai,UPI,Merchant_36,Clothing
+fb594d61dd18df7f79c9c6ba75a07629,666b21e6bf843ec5db2cc1067f09afc2,437.47,2023-03-06,Failed,VAD422,Vadapalani,Chennai,UPI,Merchant_44,Clothing
+073625f334ef93aa85c05a9015e6e367,3fcd293c441c0c507fb6e9683bb8d860,338.64,2023-02-21,Successful,VAD144,Vadapalani,Chennai,UPI,Merchant_69,Health
+71478527c83f4f7c419d7c92df25f454,0bb165c1756adf27a79946bbb931719a,938.11,2023-04-23,Failed,VAD154,Vadapalani,Chennai,Debit,Merchant_44,Clothing
+048f1bd2e812d1472ec7c4c6d62a98f8,2d73716935dec4a8bba5091bdf6374b1,583.47,2023-07-22,Successful,VAD133,Vadapalani,Chennai,Net Banking,Merchant_56,Health
+db8f362d20540bdb36ea7b9180d08bda,7926503451f791c401ab90dcbf50dab7,75.11,2023-07-13,Failed,VAD461,Vadapalani,Chennai,Credit,Merchant_90,Health
+2440ec3d654e9243b341a678c9ed454a,9baf71b58bf8cd772d9333a72c04daf3,154.52,2023-07-23,Failed,VAD548,Vadapalani,Chennai,Credit,Merchant_96,Clothing
+e9cb45220c95b9e57dc0ebedbe119e8b,762bec7504c71f9ccbfc9fc93dae0fa0,917.39,2023-02-21,Successful,VAD483,Vadapalani,Chennai,Debit,Merchant_59,Clothing
+5048f66ce8341281a2b1a3c7e4475082,fd90d636d6c583f2a021dc46e3dc87ed,677.44,2023-02-27,Failed,VAD105,Vadapalani,Chennai,UPI,Merchant_22,Groceries
+a8b667131783e8d9d5031eaa61c67f8e,8fe4180ab34eb9ff9fd1c9f68b92d7df,453.93,2023-06-17,Failed,VAD526,Vadapalani,Chennai,Net Banking,Merchant_80,Health
+1711e134e126f82f3adc2bd836833c0e,6211161619751057a162d6764ee700ea,516.68,2023-06-13,Failed,VAD406,Vadapalani,Chennai,Debit,Merchant_11,Electronics
+db1c79297cd23a040d365a2dacc6d22d,c77feb68ad95137ba1bffb69a28142a5,178.37,2023-02-26,Successful,VAD249,Vadapalani,Chennai,Credit,Merchant_39,Health
+d617d9f2fe84744b5b7c8863d823e905,d353dc7734be8e37c08140bff0343963,919.25,2023-10-26,Successful,VAD525,Vadapalani,Chennai,UPI,Merchant_11,Health
+c66f00f4f579c3f3e028a3cf0df0fc01,e3d59fabc2ad16bc25bcce173c53224d,780.68,2023-02-09,Failed,VAD551,Vadapalani,Chennai,Debit,Merchant_8,Clothing
+df539f3f8dfc82a68463ece18aaafdc5,3ffdbfd3e585d7caa9e9d2345bf72a81,216.09,2023-07-22,Failed,VAD789,Vadapalani,Chennai,UPI,Merchant_66,Groceries
+484032a6cd74f19669271696ce809735,155b5710f024ca8c2f2eb06052ec123f,118.55,2023-01-04,Successful,VAD693,Vadapalani,Chennai,Credit,Merchant_57,Clothing
+ebb3e471e98c6f17ba3359e47a29b70c,3b1f00a89d990b11c1316c1dafec4495,759.87,2023-08-25,Failed,VAD374,Vadapalani,Chennai,Net Banking,Merchant_50,Clothing
+e17fa5e7c7701022d683ee25ad37c783,f1cedd96806583fd3a991422e561ad31,642.26,2023-05-18,Successful,VAD878,Vadapalani,Chennai,UPI,Merchant_50,Groceries
+0c9554f20d61f780188d9d1f1ef46d51,1e062314b4c6c7e37aee697464c22e7e,192.14,2023-06-26,Failed,VAD254,Vadapalani,Chennai,Net Banking,Merchant_17,Groceries
+af9d686b4ec078f5626c64e63119bdfb,dea4e904dc895026d2361f45fc1c2b3a,561.55,2023-01-28,Failed,VAD248,Vadapalani,Chennai,Net Banking,Merchant_62,Groceries
+ceeabe9422da57ad3c359310e987edce,ceb25ba8de41f967da8f8807f5a60db2,98.82,2023-03-11,Failed,VAD346,Vadapalani,Chennai,Net Banking,Merchant_74,Electronics
+a1dde81ca5612dcb537f0a15c74edb10,72006af01164710433d8368758a2ea06,731.77,2023-01-21,Successful,VAD231,Vadapalani,Chennai,Debit,Merchant_94,Groceries
+d5cccc54a82d33de050538e716a09494,5929b66c0859ab2849175b3718fa415d,922.03,2023-04-18,Failed,VAD850,Vadapalani,Chennai,UPI,Merchant_51,Health
+41307cc80e4125fa7f214e9c40415cb7,9795420e9a1bc68867b384e22d203f04,250.92,2023-04-02,Successful,VAD147,Vadapalani,Chennai,Credit,Merchant_39,Clothing
+491c698db6eba1f99cfdf001e7f37430,d7bd5dee88ec48410e3cd2ac5c5c538c,331.85,2023-07-13,Successful,VAD611,Vadapalani,Chennai,Credit,Merchant_54,Electronics
+9f04777200d136dbcfd46d6b9e273972,b192de7f41399093958f5a8e5f91e6d4,378.9,2023-04-13,Successful,VAD956,Vadapalani,Chennai,Debit,Merchant_74,Health
+2c97252a97a259967cdd36042364a5d8,3a9441de188677bdc1ca8c8e79e6908c,363.38,2023-05-03,Successful,VAD251,Vadapalani,Chennai,Credit,Merchant_55,Groceries
+687e0a155865242fb1ea9c7bc092b6c1,151804175b216d49b95c442ae216d347,437.75,2023-07-25,Successful,VAD674,Vadapalani,Chennai,UPI,Merchant_64,Groceries
+3cd188a2abb42d4fcceeac378dc95531,8bf0e934cc4d598e2a80e6d8b60d6faf,615.8,2023-10-24,Failed,VAD453,Vadapalani,Chennai,Credit,Merchant_38,Health
+6c47416ecaac25fae4ceb12811bef5bc,a71e4895ea353b57b027e3d4e9100092,936.25,2023-04-26,Successful,VAD973,Vadapalani,Chennai,UPI,Merchant_60,Health
+827bae27b8e248c1b0a28269f8f423cb,6375d66cb7c8bac4a10634ebb1a96816,690.14,2023-03-08,Successful,VAD263,Vadapalani,Chennai,Net Banking,Merchant_15,Electronics
+f172462c5232a6ecc795f44453d3e82e,29dd4f35bed072c33fa36dfabaeae712,707.39,2023-06-07,Failed,VAD334,Vadapalani,Chennai,Credit,Merchant_23,Electronics
+5b6e4d220fba3fc71eed640be7dad843,d99b1d4cfbb1d2358bcc4f9684a5cd70,632.57,2023-05-29,Successful,VAD983,Vadapalani,Chennai,Credit,Merchant_34,Electronics
+7b09e7d544276bc25c907b01ce100cd4,5e66007a0a1f800a25f5d134d1db8bab,201.99,2023-09-24,Successful,VAD563,Vadapalani,Chennai,Credit,Merchant_69,Health
+afff610019bdf5f5d0956bd2a2e5d311,f3085601df886e04342ed395f194dfca,771.87,2023-06-19,Successful,VAD866,Vadapalani,Chennai,Credit,Merchant_32,Groceries
+dae906b97af6738e7aeab6e1e50a9c14,2e54df008e1105c840c49c5a0e2eedb7,187.77,2023-06-04,Successful,VAD581,Vadapalani,Chennai,UPI,Merchant_16,Health
+b7173b7a824c726e7c30a34fd0a3faab,72052a583e70a02422406145b1aeff8e,127.56,2023-10-21,Successful,VAD910,Vadapalani,Chennai,Net Banking,Merchant_16,Health
+ece3cb939d66d049078a4dc16a07e93b,4b7e57eadb8af81e18aa4c97c9f92bff,617.09,2023-03-29,Failed,VAD250,Vadapalani,Chennai,Debit,Merchant_93,Clothing
+edc86f62dfa36943a88a85891bc55c1c,d63842ed674092168acfea679f201a68,834.56,2023-04-14,Failed,VAD425,Vadapalani,Chennai,Debit,Merchant_67,Electronics
+214665fef3893871ea8cbac53395dd2a,8a7d234e3013d59cf1bb8a8e3e2eec00,243.44,2023-12-02,Successful,VAD192,Vadapalani,Chennai,Net Banking,Merchant_97,Clothing
+3715af5c3de375c01d095cd30ac94ad0,b108aca51fec4b576011e01161c549e8,166.24,2023-12-05,Failed,VAD654,Vadapalani,Chennai,UPI,Merchant_62,Electronics
+3eaebafd2665584c22bd1bd844ec32d8,cfc0e79afdb370c8167547783f56d3b5,846.97,2023-08-13,Successful,VAD400,Vadapalani,Chennai,Credit,Merchant_22,Electronics
+6751287229707e4afa49445182c3491b,06facb5c6780e2e452c24461311d0bc3,770.32,2023-02-12,Successful,VAD777,Vadapalani,Chennai,UPI,Merchant_96,Clothing
+7e7faafd28760a29e63e2bd99e2f5df4,bb164f843db3723706af49aa137ac246,772.18,2023-01-19,Successful,VAD175,Vadapalani,Chennai,UPI,Merchant_36,Clothing
+301fe7bc62298a49260cd70a2274dfd2,39aea4da367d76af2f1c9bcbab5a17c9,850.48,2023-10-30,Failed,VAD652,Vadapalani,Chennai,Credit,Merchant_96,Clothing
+2167b794a3c1539bea3547c2d90cd227,6c0541a6c89c743eb79048fbc0b1253c,910.92,2023-12-12,Successful,VAD302,Vadapalani,Chennai,UPI,Merchant_1,Health
+d37c115f78091202b80e58dcb591f9e8,88c816c4b81eb4bd3321ba9f0f200178,929.67,2023-06-08,Successful,VAD430,Vadapalani,Chennai,Debit,Merchant_38,Clothing
+bde5c4a88c6f7cd56fd5a8bb6f46018d,3efbc3aece579fff3bc92f9882a1e410,400.86,2023-08-21,Successful,VAD243,Vadapalani,Chennai,UPI,Merchant_61,Groceries
+d403ed1e416913e670bce0e638ace8c1,5b553ba60c17c7be6bf68dab7d30b686,832.34,2023-01-28,Failed,VAD236,Vadapalani,Chennai,Debit,Merchant_13,Clothing
+804d866ff9f0428a3bf07499624df0cc,ae898f5b2997f26b0f16a6fc1359e11e,662.72,2023-08-28,Successful,VAD730,Vadapalani,Chennai,Net Banking,Merchant_86,Health
+ccddad7de6c4a4599a6e1dac35a7a799,ec11c478e75e3b3a682ed942de2e2817,699.62,2023-07-24,Failed,VAD238,Vadapalani,Chennai,Net Banking,Merchant_40,Electronics
+be1fa4e991437a80c66bfc54d0970036,0b4359ba5d6fe6decef5b99b017c194a,672.62,2023-12-19,Successful,VAD562,Vadapalani,Chennai,UPI,Merchant_12,Groceries
+914b60da1021121b93068c0609cfa261,73815e147ae2d98609095b474a506dd8,17.09,2023-06-13,Successful,VAD773,Vadapalani,Chennai,Credit,Merchant_42,Clothing
+779a11917e4f0851c30df53a456136d3,da88078fc3e1361cb9ac51e68e06c5c3,215.72,2023-07-06,Failed,VAD516,Vadapalani,Chennai,Credit,Merchant_79,Groceries
+6cf57458360f8d76d72037d600b7882c,6a1444bc29b627abc6df1b0a280c46b5,88.55,2023-08-06,Successful,VAD300,Vadapalani,Chennai,Net Banking,Merchant_6,Electronics
+67beb13b4b964d50d048ffdf48139c75,993133cbc4bb862f3465e573583da750,304.25,2023-05-28,Failed,VAD659,Vadapalani,Chennai,UPI,Merchant_75,Health
+1723d19398db3821d009694be54afe8f,f7f75a89f69227e7303642445421d0c7,649.51,2023-02-25,Failed,VAD843,Vadapalani,Chennai,UPI,Merchant_38,Electronics
+dea30af2cab67c46a6e83d97fbeaef68,45ea33fc1c2256e314ff7010e59485d9,730.01,2023-02-25,Failed,VAD895,Vadapalani,Chennai,Credit,Merchant_67,Health
+0a245ecf63a8f3fe903de70967fb176e,57730eaf37779998785737df8d493191,320.95,2023-09-15,Failed,VAD895,Vadapalani,Chennai,Debit,Merchant_16,Electronics
+6760fc7037fe280c686f097cc20622bf,e90b7b4f0d1e635da9d9d5b8891de3e7,608.36,2023-08-22,Failed,VAD282,Vadapalani,Chennai,UPI,Merchant_99,Electronics
+6c4eacd1b20000ecffa416b957e077e0,d98f0c6a7f5d20fca1110f45a7c4fb45,426.36,2023-11-16,Successful,VAD527,Vadapalani,Chennai,Net Banking,Merchant_79,Groceries
+e9705ae36318dd8cdbe6222220e23112,37543c585172509dc6323121ee10fd1b,673.83,2023-08-27,Failed,VAD573,Vadapalani,Chennai,UPI,Merchant_77,Groceries
+db48e2f747a1a6113c8362209b7bb20b,c9452f4ba0204b7e750a703bccc0c9e7,793.79,2023-10-19,Successful,VAD689,Vadapalani,Chennai,Debit,Merchant_24,Clothing
+883b956a095e1bb1f0d3e007fb3f74da,c344e85f04e7a90f1c88e51a0eca8573,551.76,2023-01-21,Failed,VAD653,Vadapalani,Chennai,UPI,Merchant_16,Groceries
+421fe22908c8658835966f03f834bb6d,23fd43458ff70bc56adb9d3cd828d4ce,545.57,2023-11-29,Failed,VAD331,Vadapalani,Chennai,Net Banking,Merchant_61,Health
+552165a80a6e54c04e900b15d85a30b3,c05b410bc627df62eae76d64e690b62a,908.75,2023-06-16,Failed,VAD661,Vadapalani,Chennai,Credit,Merchant_27,Electronics
+f36d34d64c8ec2ebc1e3b417adb94f89,13ea9fa3394195c676310dbad8cd2e81,474.39,2023-10-25,Successful,VAD678,Vadapalani,Chennai,Credit,Merchant_18,Clothing
+0d72b36836ae37a02176e1bd78fb305f,5b05ea8d2e4cada0954e9a6c521400fb,474.07,2023-04-01,Failed,VAD721,Vadapalani,Chennai,Net Banking,Merchant_7,Electronics
+a9c89a9d94e502487dd192fbef92b38d,131652edc59460502cadc28d56d6bc42,916.34,2023-08-20,Failed,VAD462,Vadapalani,Chennai,Credit,Merchant_50,Health
+7b2c32e5837ec673ab9131f2e8be15f4,93244630f3f31c4719676109da376053,766.21,2023-01-09,Successful,VAD376,Vadapalani,Chennai,UPI,Merchant_73,Health
+061d71e4b12455edc34ad9cbd3142355,20b0d6c43b327cc76626cb88948db387,519.04,2023-05-15,Failed,VAD427,Vadapalani,Chennai,Debit,Merchant_1,Groceries
+496df4c854044d4d35c165d87f4679e6,2a5da68d8c6fcc3ee1a65ca07ddcc22a,377.44,2023-12-02,Failed,VAD337,Vadapalani,Chennai,UPI,Merchant_10,Health
+e04f11ca59db41a82dac4b20a7f31e1c,9a5f0e8d2b5dcc901027c49f6f4ee1eb,467.86,2023-06-08,Successful,VAD899,Vadapalani,Chennai,Debit,Merchant_60,Electronics
+2f29859acbec7e6903a5d8f83632b473,d4437d0cbcbf1eb9939c7ec5786ddcea,360.23,2023-06-30,Successful,VAD193,Vadapalani,Chennai,Debit,Merchant_45,Clothing
+5dc4a9f6e1318001030bc66bdfe27203,8cdc62c57e8f72590270f66a0405fab8,782.07,2023-12-07,Failed,VAD851,Vadapalani,Chennai,Debit,Merchant_72,Groceries
+647b2769a41ee4ff7eebc06795941abc,ef00632ae0c64af6f1a720d94742ce8f,816.17,2023-03-21,Successful,VAD454,Vadapalani,Chennai,Debit,Merchant_55,Health
+e6c45ad08ddcdc6ebfda60b41563c05e,15023d358fe6e94d37a8d49dffbb1537,404.98,2023-02-17,Successful,VAD125,Vadapalani,Chennai,UPI,Merchant_77,Clothing
+0e098927c2d82404ddb15918adaca558,7deff48cdf55f28d824e687b2562d203,157.09,2023-10-24,Failed,VAD219,Vadapalani,Chennai,Credit,Merchant_39,Electronics
+0d1c20a22810910de3075893cba1764d,efc9e4eabbd10912711950872ed465e8,236.16,2023-04-05,Successful,VAD647,Vadapalani,Chennai,Debit,Merchant_100,Health
+e30f8a0e92ac7df3b11b778943692728,68c6b7253d4da33e1d8bb27a3f3522a5,497.37,2023-12-16,Successful,VAD181,Vadapalani,Chennai,Net Banking,Merchant_51,Clothing
+94b531225814da7f727a91229588d007,eb13259dfa5a2413fd5c65b163501273,408.23,2023-01-25,Successful,VAD361,Vadapalani,Chennai,UPI,Merchant_49,Clothing
+adae864ca9c946d9d3d8f2d52bb041d8,6d10501b01a2648f2f67222f209e2723,403.18,2023-03-20,Failed,VAD981,Vadapalani,Chennai,UPI,Merchant_20,Clothing
+3aeacf623ed198d87159c427bdfcd555,5ebaf78cc3c1c288b8ed103338855f4a,141.09,2023-11-17,Successful,VAD368,Vadapalani,Chennai,UPI,Merchant_91,Groceries
+a93dc2bff8eb27588b158aaa0558c210,36f766391465165e59f4618231d2dda3,284.73,2023-06-18,Successful,VAD133,Vadapalani,Chennai,UPI,Merchant_29,Groceries
+0178b31a681c319000997b902e171e1b,728a1d282960f2cd126556b51965ddce,534.92,2023-09-14,Successful,VAD243,Vadapalani,Chennai,Net Banking,Merchant_65,Electronics
+1b293ff29d114aaa5080622a1c545f54,89a8f9a97b6917519804bbf48193fb7e,144.27,2023-08-25,Failed,VAD221,Vadapalani,Chennai,Credit,Merchant_91,Electronics
+a808f523b733a70068cb3bae61790089,3412e01e8cde0f6eed3e813a8dff511f,894.17,2023-06-22,Failed,VAD813,Vadapalani,Chennai,UPI,Merchant_16,Clothing
+2999cfc4c067a3381b87d8a3e1d24e82,6ed736e2d51164bdbef55dbb22b06323,560.68,2023-08-15,Failed,VAD524,Vadapalani,Chennai,UPI,Merchant_55,Groceries
+38b7fc425d5ebf8dae9f59bd7777b457,2e4445af67fce3a6e394b4b3271833ef,372.67,2023-10-01,Successful,VAD532,Vadapalani,Chennai,Credit,Merchant_17,Clothing
+3424287018c20c6e4452f33fe6e9e249,6738d25595c1ec3ffd6d0434cd2a5c31,181.73,2023-10-31,Successful,VAD585,Vadapalani,Chennai,Net Banking,Merchant_29,Clothing
+d4353c8389de9db09e907fe65c048fe9,756fa93b68e8edcac87d265ed413c6d9,392.44,2023-06-03,Successful,VAD631,Vadapalani,Chennai,UPI,Merchant_92,Electronics
+afb4e80a398f44eebbb8aa426a0d436f,e9f0552d03759f6f7345fb12f0f2edd1,190.99,2023-02-06,Successful,VAD753,Vadapalani,Chennai,UPI,Merchant_7,Clothing
+0fbc16dcb0a35836f9b1f22613f5d4c6,f698767ec34acb0088f44c9eff219268,930.1,2023-06-17,Successful,VAD758,Vadapalani,Chennai,Debit,Merchant_35,Groceries
+1b2e32301a45f0a310ebc0db65dcef77,1e433f8f90fed729dff12a2e9f2cbb71,62.14,2023-11-10,Failed,VAD862,Vadapalani,Chennai,UPI,Merchant_34,Electronics
+7a8574f012f462a07c903f8ceef62753,188a4b7d9f9d94924345027fa410ed97,138.74,2023-09-25,Failed,VAD547,Vadapalani,Chennai,Credit,Merchant_34,Clothing
+af13b60aff7a098f55d40da25de3e667,084e4ba5f0887e8c8fc522cbda385206,951.32,2023-09-11,Successful,VAD390,Vadapalani,Chennai,UPI,Merchant_4,Electronics
+8b0b0b702899fd084f9b82f0bcb99f62,11eb05be7372fb38a6da7be0ec23f9ad,369.44,2023-06-24,Failed,VAD257,Vadapalani,Chennai,UPI,Merchant_50,Groceries
+a8e9fba8ebba835c86957ecf54c5ea38,a7859f549b3f59e6a4e431854180972e,918.56,2023-11-02,Failed,VAD745,Vadapalani,Chennai,Net Banking,Merchant_31,Electronics
+c1b5fd8cfb0a28ef4ccbdd3a7d234426,2a78445bdd8398f01710d0ca46d330c1,798.29,2023-08-09,Failed,VAD217,Vadapalani,Chennai,Credit,Merchant_25,Groceries
+eaad840f658428b3a23ec9757879a16f,9f90c762528a4d7ca2142c407f48ae5c,166.53,2023-10-27,Failed,VAD837,Vadapalani,Chennai,Credit,Merchant_72,Clothing
+c9a0233093b4a8e73b95bb4561d71589,e6f03c7e39a2dd1fd6d3e924e8ae9406,692.84,2023-07-30,Failed,VAD188,Vadapalani,Chennai,Credit,Merchant_31,Clothing
+62b584d2e6b84080ada84e7021f7dbd1,f31522215e890b936c75bc17143a522b,561.35,2023-02-08,Failed,VAD461,Vadapalani,Chennai,UPI,Merchant_45,Electronics
+8a54505bcfeca88b436da26f8633ee7f,210c33ef66d44fce31a58dd98992009e,463.12,2023-07-02,Failed,VAD958,Vadapalani,Chennai,Credit,Merchant_12,Groceries
+163527684e17123b0fee345a05ca85f1,986e2e315dc4316948ecdabdc886ba89,710.73,2023-08-18,Failed,VAD244,Vadapalani,Chennai,Credit,Merchant_72,Electronics
+0a842b777725bfaa9f047e0f6ec2e541,177ad3dc844bd4d3939799331bb797fe,473.11,2023-07-25,Successful,VAD920,Vadapalani,Chennai,Debit,Merchant_85,Groceries
+5cf16b7146ba62397d024b67f521156a,cb1518bd0e33f0574c006cc856a1071a,92.28,2023-10-03,Successful,VAD186,Vadapalani,Chennai,UPI,Merchant_53,Health
+8a23480f03d1ed228e7957a2983c80d1,8450e3143515def44b20317079ae4f49,677.95,2023-09-12,Failed,VAD907,Vadapalani,Chennai,Debit,Merchant_20,Health
+9a0161f6930087bb4c65db1a1bdeb198,61f3508842bf471f8176d9a867034d8c,214.27,2023-04-10,Successful,VAD175,Vadapalani,Chennai,Debit,Merchant_84,Health
+5d6093cad539854730a06d4037a384d4,ed8765bb19a32dcec7f446a4bca239f9,788.6,2023-11-28,Failed,VAD301,Vadapalani,Chennai,UPI,Merchant_94,Electronics
+4320835b63089654cd19bf37b712792d,89ebf6b4c676d9a44ffaeb3e842fc6c6,784.83,2023-09-08,Successful,VAD140,Vadapalani,Chennai,Credit,Merchant_97,Clothing
+bbf60da8410718cb10bf05b3c6cc4051,f69ffa0dc98e42734ad1640f813191e3,767.69,2023-08-22,Successful,VAD287,Vadapalani,Chennai,Net Banking,Merchant_29,Groceries
+7aa1b2598f890b60edbe7e6d6a948852,247530e2675d154b76362c3642caa67c,486.87,2023-08-01,Successful,VAD953,Vadapalani,Chennai,Debit,Merchant_8,Groceries
+7c936ae340e716f07c0fb4d4b014f91a,6501c9e194aa77bbb4d668a92d23f610,632.1,2023-08-25,Failed,VAD440,Vadapalani,Chennai,Net Banking,Merchant_73,Health
+5e8a3fdd8cb9f708f81e7768412330c6,940dc0d57c1b2183756345989537ce2d,355.43,2023-07-06,Successful,VAD145,Vadapalani,Chennai,UPI,Merchant_55,Clothing
+1f83f1b162bba3b749a00263974b0143,c17ff2d2a61753340419742bd3bff8f9,59.34,2023-11-11,Successful,VAD738,Vadapalani,Chennai,Credit,Merchant_57,Electronics
+0639b1a289c9da421598d7ef04d6e5ae,2c72f7859c91ee3f684b467d38177053,152.45,2023-01-25,Failed,VAD901,Vadapalani,Chennai,Credit,Merchant_47,Groceries
+294edec30a90cab0dceb68f51ea78696,850887f073400cb8f3814e880fa71ba4,833.76,2023-01-09,Failed,VAD747,Vadapalani,Chennai,Credit,Merchant_12,Health
+d47d350f28f70dbd4b94faeca25ab275,81f3b79a3371c3c3f0fd33b18e0237c3,613.89,2023-06-07,Successful,VAD997,Vadapalani,Chennai,Credit,Merchant_61,Groceries
+f055698ec34a7ef7f2d77ba8ca12834f,3eb720d326619c44a45dcef52e1e4c9d,569.78,2023-05-15,Failed,VAD221,Vadapalani,Chennai,UPI,Merchant_41,Clothing
+28eb30f913728e8cad2db78c9ec1651e,50bcabdc7e11605001f08235ed07fe17,520.77,2023-10-16,Failed,VAD294,Vadapalani,Chennai,Credit,Merchant_89,Electronics
+be3229e93ab9644aadcd3da7c15c56b5,c1a52b28383b7a95fece19b958726c5a,207.48,2023-12-03,Successful,VAD759,Vadapalani,Chennai,Credit,Merchant_88,Clothing
+65e23a93625fce3c0c8715d96ccf3a6e,6351c8a0fc5032c9be8525db69648a76,512.78,2023-12-31,Failed,VAD181,Vadapalani,Chennai,UPI,Merchant_9,Groceries
+360e2cd1ec8022861b1c96d8e36eabcd,7aca2890af673962dcfcc3a08bd52218,504.72,2023-03-19,Successful,VAD828,Vadapalani,Chennai,UPI,Merchant_36,Groceries
+7db4fe66793b0882da219188c067e6c2,3b4c424d93683dc1a9e93b2bec3a94e6,241.15,2023-09-06,Successful,VAD816,Vadapalani,Chennai,Net Banking,Merchant_52,Electronics
+5784e67d40a40c6f05576ddc9ffbe476,64af585d1b0582b8d0ce49a20940b255,398.49,2023-03-10,Failed,VAD497,Vadapalani,Chennai,UPI,Merchant_22,Health
+aae1a1a75b964b9d1f594736bd787b85,645286e9b4a5b6a813f04d0862739bd4,86.96,2023-12-23,Failed,VAD927,Vadapalani,Chennai,Debit,Merchant_43,Groceries
+a44296ac63f6e44064a340dbd6b2be67,e550386c9f0cd60dd7ff9e47c098ec38,292.94,2023-06-28,Successful,VAD608,Vadapalani,Chennai,Debit,Merchant_22,Electronics
+8fb5a78675b6bffb128294d07e61a803,8523c6eea88af050ec223129b97547bb,931.18,2023-11-12,Successful,VAD211,Vadapalani,Chennai,UPI,Merchant_68,Electronics
+b1ddc2eef190f0b63f0f3840757bf9c4,26d23c638b0245d0e9c962b54adc9f18,770.97,2023-07-11,Successful,VAD786,Vadapalani,Chennai,Net Banking,Merchant_48,Clothing
+251bf8a67243c2634103e13b64e2338c,1c1329a2cd2c9cb6126c0cb3735f243a,54.03,2023-08-07,Failed,VAD326,Vadapalani,Chennai,Net Banking,Merchant_12,Groceries
+f112abcad3baa9d1c0cec8d237f6255b,6b52b5fe12ceb70231f80b9a429768ec,195.21,2023-05-03,Failed,VAD620,Vadapalani,Chennai,Debit,Merchant_51,Groceries
+524812b3374e835a770e1ec862fedd1f,6b5b5a1a67b91f07c93a2fd29236f449,583.93,2023-02-15,Failed,VAD479,Vadapalani,Chennai,UPI,Merchant_40,Groceries
+329100e4212723623edcf966750ecefc,831ae624fe573360be65f502911a62c8,783.22,2023-10-28,Failed,VAD150,Vadapalani,Chennai,UPI,Merchant_75,Groceries
+6cdd273c7c0cef46bc8f92309ff7fd54,29a4dea88c9b108533c458b6f6aef5ba,696.82,2023-07-08,Successful,VAD369,Vadapalani,Chennai,Debit,Merchant_3,Clothing
+0b6777b8e6b057079158e313a0eab9f2,181efd13900215a502ad2bbaf853b16f,274.67,2023-02-27,Successful,VAD326,Vadapalani,Chennai,UPI,Merchant_40,Clothing
+a1cb151a728f4c99cab7556f4e30a78d,5470156b57bb6e3bc6f90c996ac39f0c,695.77,2023-07-09,Failed,VAD492,Vadapalani,Chennai,Debit,Merchant_99,Health
+1846b7939c78b97f0fa1c998aa3b016a,ca8c91a5b273dd80ee282fa0758c23e5,967.24,2023-02-10,Successful,VAD392,Vadapalani,Chennai,UPI,Merchant_60,Clothing
+141205b6ddfbf16fe7a5a17c29db5ce7,84c407a21a6deae0da39e7a9ef598860,608.6,2023-01-01,Successful,VAD987,Vadapalani,Chennai,Net Banking,Merchant_64,Groceries
+0d04a0a345f115cb6755a5642c5d620a,7c4c89e8191a2ae6730fd0d822b5ac6e,449.66,2023-12-11,Failed,VAD368,Vadapalani,Chennai,Net Banking,Merchant_35,Electronics
+16d7cc18e0d75fee215a4b3801c96eb7,fe5eaff55f4bf0afaeccabef1b6a9d3b,763.08,2023-12-28,Successful,VAD394,Vadapalani,Chennai,UPI,Merchant_28,Groceries
+ca7a718f90dfc0b294f6ec6f9ae7df10,6dad8fc1a26cff3b4a474e0aaadf5ce7,194.11,2023-09-11,Successful,VAD464,Vadapalani,Chennai,UPI,Merchant_40,Electronics
+98bc1178e60becb041ef405cf316cdd6,796890b9f3899c29ef386ef2969de87d,350.29,2023-09-25,Successful,VAD836,Vadapalani,Chennai,Credit,Merchant_82,Groceries
+36fc2f63cce0d51ab395bb2f2e9d07ad,1e41737dcbf74b1c5a9f6924dc1a6552,166.44,2023-03-30,Failed,VAD935,Vadapalani,Chennai,Debit,Merchant_89,Electronics
+bf1a9673239a3182dc1bc22f5472463c,4f1f00722874a8b0a632fe3612c3a63d,154.42,2023-11-17,Failed,VAD409,Vadapalani,Chennai,Net Banking,Merchant_43,Groceries
+1785390fbf2237f330495915f441ed1b,713faea33d01106a0bc8c6da731d236e,107.94,2023-10-06,Failed,VAD968,Vadapalani,Chennai,UPI,Merchant_100,Health
+8061c251ee95f83483ca9760045c77ff,1adba1b6e58df48e8ef19c4f909ceb29,682.45,2023-12-26,Successful,VAD271,Vadapalani,Chennai,Credit,Merchant_11,Electronics
+ad0b9e4655dd5f7fe1a29d95bea90cc0,f835ba977973dd81d076cafa21787eff,680.3,2023-08-24,Successful,VAD147,Vadapalani,Chennai,Debit,Merchant_23,Health
+43d41347d081d7ff8be086fac609f8ba,73219d8ba7e495bce37ba710615db85b,685.41,2023-07-19,Successful,VAD697,Vadapalani,Chennai,Credit,Merchant_67,Clothing
+873bc703ef44f742fe42f80a94c841a4,29339bbe4679e8b68f9567f88ca73beb,77.18,2023-09-29,Failed,VAD492,Vadapalani,Chennai,Debit,Merchant_1,Clothing
+4efc8a6e0b68022027253b9131716e93,149677d56119052c63a37724101392ec,436.57,2023-06-24,Successful,VAD122,Vadapalani,Chennai,Credit,Merchant_5,Electronics
+dfbbc2de071a3f13b4df54b84ce5b105,f574748ce3f2758b2b487ff4f9ee0cba,167.74,2023-10-20,Successful,VAD134,Vadapalani,Chennai,UPI,Merchant_6,Electronics
+ebe031dcfd090f87569fec814ad9173f,ff0ad01ff24a0381c04c3031831730af,631.09,2023-09-22,Successful,VAD469,Vadapalani,Chennai,Debit,Merchant_5,Groceries
+1dda5bbf071f5fbf23c67ad197629414,c136706f95a582f8c5ff1efb348c85a6,460.73,2023-08-31,Failed,VAD176,Vadapalani,Chennai,Credit,Merchant_9,Health
+e4f3e02dd1b7003cf0f55de2dca41849,8b0448d3c728f1564aaf6fd74a2ad979,404.4,2023-12-02,Failed,VAD282,Vadapalani,Chennai,Credit,Merchant_16,Groceries
+7d3a6d2a6d95576c2bef15f33f32a807,24cdc2d3a84636f57d182788696a1709,797.26,2023-03-12,Successful,VAD268,Vadapalani,Chennai,Net Banking,Merchant_91,Clothing
+a1841ae3203ebfebbc24db06b6233541,02bae7786dc590c63a94b97afa679add,344.09,2023-12-13,Successful,VAD234,Vadapalani,Chennai,Credit,Merchant_28,Electronics
+739ec9d3f2e801ccad48dfb97f714520,ad640d14c6c80e2b8280882992b68ca2,41.26,2023-04-02,Failed,VAD872,Vadapalani,Chennai,UPI,Merchant_85,Health
+8d41eae9eba48bfed7b1d3c73c00b578,7c6fec2dee0d48c9461b2d233815dc4c,801.65,2023-01-26,Failed,VAD525,Vadapalani,Chennai,Net Banking,Merchant_93,Health
+65ffa62ea6ffac46bd66f1135efb1ed8,121149f3901fab314ae5a5fe32432166,653.14,2023-03-13,Failed,VAD801,Vadapalani,Chennai,UPI,Merchant_71,Health
+7ee19360b7b4f06429e6960dbd8efa14,4077ba113464654ca62ecf0b89f6a3d1,684.08,2023-03-09,Successful,VAD781,Vadapalani,Chennai,Credit,Merchant_24,Groceries
+7d7dbb320d98b1d665aa75c53d03666f,21a3266e0594decc096bbe38018ac2eb,169.11,2023-01-23,Failed,VAD558,Vadapalani,Chennai,Credit,Merchant_65,Electronics
+59b26be7fbd88da20fb5fa1867897515,fffac5913c9b062266b619438af4a240,653.32,2023-02-07,Failed,VAD972,Vadapalani,Chennai,Debit,Merchant_25,Clothing
+d2c549c2e64e8b3b029d61b14c3cee39,aef87668aaab89a2d9b0b9bf63b29162,212.55,2023-09-24,Successful,VAD133,Vadapalani,Chennai,Net Banking,Merchant_25,Groceries
+e25ed80e75fc1997e0fdba590e341ca8,171572dc01f21366edb6c369a720e8d7,572.28,2023-06-15,Failed,VAD309,Vadapalani,Chennai,Debit,Merchant_98,Electronics
+0a44e55fd6f82cb708a87c9915045126,6113328456719d9b0d8db6bc656e9f32,777.41,2023-05-09,Failed,VAD494,Vadapalani,Chennai,Credit,Merchant_10,Electronics
+a814dc5d237bc1952cd13bbc533de167,969360d29efacca726cb8c1480dd65cc,855.83,2023-07-15,Successful,VAD428,Vadapalani,Chennai,Debit,Merchant_20,Health
+8fd86dc126fa6b74db5f99b82240f344,b0d4ab8f7645097fb69f9cf0423411ba,449.3,2023-06-12,Failed,VAD140,Vadapalani,Chennai,Net Banking,Merchant_83,Health
+1368f864cb076fd3b2d135895d9fe808,eff709958e7065bac7748ce38de91b85,262.96,2023-06-17,Successful,VAD171,Vadapalani,Chennai,Debit,Merchant_4,Electronics
+93d2834bcc1a780db83b97a037240967,6aeb255baaf7691c2545beb95482e468,393.43,2023-05-08,Failed,VAD347,Vadapalani,Chennai,Credit,Merchant_15,Electronics
+c62c2cf975f1fc1ef7a985c0e5316502,4ff247440cd8741da059ba4963291514,281.75,2023-08-09,Failed,VAD315,Vadapalani,Chennai,Debit,Merchant_43,Electronics
+fecf1fd8ab7dcf27ebf23945b6de4d35,3a19a9b60e53d0ce1e36cf3a53e33e44,429.94,2023-03-11,Failed,VAD215,Vadapalani,Chennai,Net Banking,Merchant_12,Health
+a02c7427103c61adbcf53d2ea3e376e4,78a0734ca6bf268b49f612524afa7483,32.99,2023-09-10,Successful,VAD409,Vadapalani,Chennai,Debit,Merchant_98,Electronics
+4f2097722ca1b891af0a78311644ff84,b082e6550da16e17f8ae2c3c22e0168c,160.13,2023-03-19,Successful,VAD388,Vadapalani,Chennai,UPI,Merchant_34,Clothing
+df7ef53f0e70d0e5066f60f5d542107f,f397f617baec10f74a4d78682dedd1ef,297.98,2023-10-22,Successful,VAD997,Vadapalani,Chennai,UPI,Merchant_18,Groceries
+5fe7b7639bd310cb94da91f2346d198e,8e1347d99dd7a26f7f9a08725c470bb5,212.2,2023-06-04,Successful,VAD819,Vadapalani,Chennai,Net Banking,Merchant_45,Clothing
+d78a9e0c535af391e46d949361a502ec,74d84eea7c89ad499bbaffbc91827ed8,614.52,2023-02-25,Successful,VAD812,Vadapalani,Chennai,UPI,Merchant_20,Groceries
+f1527c0de0ffcbd5625c6f59c6b77741,6b8d5745c2648f9f2b61c0159b39381c,148.96,2023-03-04,Failed,VAD549,Vadapalani,Chennai,UPI,Merchant_58,Groceries
+6eb27f909e5e1f4077d8c02d60276061,fe3f10dcfc19a430fbc1164f74ea9b33,249.92,2023-01-31,Failed,VAD961,Vadapalani,Chennai,UPI,Merchant_72,Health
+38b1ad1c0218e83173ce6d292d9e4b55,ba197acdbe228f31df8471944547fc90,672.72,2023-07-28,Successful,VAD489,Vadapalani,Chennai,Credit,Merchant_21,Electronics
+b8d8017f51d8b2b84dc0efb574135b9b,c21bc2196cbfa2ae71d10582c272a59e,819.01,2023-01-02,Successful,VAD177,Vadapalani,Chennai,Net Banking,Merchant_28,Health
+f23f65f058d4fdb7eccbb09df4d1209d,04807306797d5c99d63c356d7f586c63,755.57,2023-03-14,Failed,VAD300,Vadapalani,Chennai,Debit,Merchant_76,Groceries
+9cfffde9a758f322fba646e2205f8817,6c650edd86318a59224be2a790bb3559,65.04,2023-05-24,Failed,VAD146,Vadapalani,Chennai,Credit,Merchant_7,Groceries
+c908badebfd40494aaad5af8004b60b0,0928ae085108f9a21a11e731e7f59de3,425.07,2023-08-09,Successful,VAD861,Vadapalani,Chennai,Net Banking,Merchant_11,Clothing
+31f53d176ede0ac5f42d64a2e9c9315a,ec716e64a4adad346e74b2fd26a541bb,80.24,2023-07-23,Failed,VAD671,Vadapalani,Chennai,Debit,Merchant_71,Health
+f402a2a0e14ea3466b8886170c8583b2,e173cf91e6f666c13e7f3a4e80742030,765.79,2023-03-24,Failed,VAD820,Vadapalani,Chennai,Credit,Merchant_65,Clothing
+aefec8bb1a5a0e6972b64e43e01629c1,03eed12005ba65de46236141ed4a2dab,903.63,2023-05-08,Failed,VAD813,Vadapalani,Chennai,UPI,Merchant_24,Health
+62342d29580569a813500ae6a1a16e82,abaa53c942b42cb245509024bdf15ddb,827.88,2023-02-25,Successful,VAD537,Vadapalani,Chennai,Credit,Merchant_57,Clothing
+0e9ce0bc22b1483ce2d1a4290166c805,d5c637e8f72c44f62cef8b28b9b24394,414.13,2023-10-10,Successful,VAD906,Vadapalani,Chennai,Debit,Merchant_57,Health
+5eaa13666417a33f6c40116195829db1,0f09db70e4d0ff6d926745940e849b86,746.34,2023-05-05,Successful,VAD180,Vadapalani,Chennai,Credit,Merchant_18,Electronics
+4e0a7f2b5152189e64b01bf722a45053,ca97311a2594b8cf7ae83d9cd1adf601,701.37,2023-02-04,Failed,VAD795,Vadapalani,Chennai,Credit,Merchant_37,Health
+61d3721b1cb846fa83e2f425c08e0de9,ca2938c6c42e295bfce49a71d85aef5d,106.39,2023-05-21,Failed,VAD999,Vadapalani,Chennai,Net Banking,Merchant_64,Electronics
+27aa9f8d9c64ce1bab9c69aa818b8a3f,38f8486ff42794186c646db4252075bb,374.39,2023-12-06,Failed,VAD774,Vadapalani,Chennai,Net Banking,Merchant_92,Clothing
+3aeb783438175a7c344bc5f18d357ab2,4065f61d8a05c93574cb9716f6003fee,238.82,2023-10-23,Successful,VAD113,Vadapalani,Chennai,Debit,Merchant_89,Groceries
+1913c7227680ec9dba3aba6ae6c18de7,9c71c3a100c73492de8a06ce3cde2459,351.55,2023-08-01,Failed,VAD120,Vadapalani,Chennai,Debit,Merchant_77,Health
+11bc93d8abc3c32fc4dc3d3a80f8a75f,d2447b8d6054c3bcc025b4277b446d65,84.2,2023-07-30,Successful,VAD346,Vadapalani,Chennai,UPI,Merchant_84,Clothing
+5fecefc8a15c5b964466159b06874d5e,f9efa38cbdaa9de9aca04d27173a1d13,546.49,2023-04-20,Successful,VAD758,Vadapalani,Chennai,UPI,Merchant_38,Electronics
+e5e61c45a51f737d6f67013a245acffa,35b648ef4537e382ec585dce93245e53,20.08,2023-05-24,Successful,VAD853,Vadapalani,Chennai,UPI,Merchant_91,Health
+d4e045fe0c086469b9917b35f57bcbc6,9f73f6e1c51bdbc1617659a14d73da83,173.99,2023-04-28,Failed,VAD193,Vadapalani,Chennai,UPI,Merchant_57,Electronics
+ff6df48e65eed2be1b980a06bbc8222b,2dbd98e7daa0d07b1c47f01d41c21122,252.35,2023-12-06,Successful,VAD696,Vadapalani,Chennai,Net Banking,Merchant_41,Electronics
+7fffeb6991c6c3fbbe0ff911abc0a729,2a66afe670f97325c8c7282d09afcb31,770.78,2023-11-28,Failed,VAD321,Vadapalani,Chennai,UPI,Merchant_9,Groceries
+c73ff171de25da433677d0a22c3c28c1,6b5e25019336d4429be6b7691518e040,347.25,2023-05-20,Successful,VAD132,Vadapalani,Chennai,UPI,Merchant_41,Clothing
+16fa8ace85dc9a56426dd9a0910decf1,4414fa8e503501c1e0209d1c2cbb1807,191.59,2023-08-16,Successful,VAD180,Vadapalani,Chennai,UPI,Merchant_84,Groceries
+8aa19ef00de5dcbad836a91b249a36de,e1bf300edcc7e940fb523a263bbbecd6,751.74,2023-11-03,Successful,VAD540,Vadapalani,Chennai,UPI,Merchant_61,Clothing
+af64220c4a505b1fbe570571261011d3,e6d1b15763adf710038e07110c44d3fb,424.82,2023-09-03,Successful,VAD158,Vadapalani,Chennai,Credit,Merchant_79,Groceries
+a70d64fab2624c291c4e7e7b1ac04bec,6ab49756f7b984c752be96cc17da866a,982.74,2023-10-03,Failed,VAD996,Vadapalani,Chennai,UPI,Merchant_37,Groceries
+048151c34596823f54c4d9476ed147ea,a3babe83602af15d06a20de43f437f45,839.35,2023-10-23,Successful,VAD907,Vadapalani,Chennai,UPI,Merchant_42,Health
+8de13c0237c3f39e2bed2ea162141b76,fb0dd2eb761f0e7a1fce1d46634e0606,755.38,2023-12-12,Failed,VAD134,Vadapalani,Chennai,Net Banking,Merchant_87,Clothing
+b18fc29e1bccfa5fed5bb01dd6be9c9b,1e0243c93d0c9672548ce46217e72982,158.83,2023-08-31,Successful,VAD117,Vadapalani,Chennai,Credit,Merchant_19,Groceries
+ae2046d407b6613d745405f548a26f0b,f76a680e9bebe7886a0874f852d1a156,315.14,2023-10-13,Successful,VAD205,Vadapalani,Chennai,UPI,Merchant_94,Clothing
+badcd5f3516379ce74aae255deac46a2,4cde7dfb159814d5472ce1de525802e2,729.53,2023-04-28,Successful,VAD204,Vadapalani,Chennai,Net Banking,Merchant_53,Groceries
+1abaea810b11ce593f9b203b093428a2,1386ca5f25878db1bb108ef369167e78,383.68,2023-02-27,Failed,VAD246,Vadapalani,Chennai,UPI,Merchant_58,Health
+98a612b0a6a551cd3df785f223495f5e,968b0b0a1dd12b13cdea2ae0c478e3ea,83.95,2023-10-07,Failed,VAD556,Vadapalani,Chennai,Net Banking,Merchant_19,Groceries
+7c50649a79268857146edaeefa0aea2d,14db7274a01e38afae3547dae8ed17e0,285.25,2023-12-16,Successful,VAD140,Vadapalani,Chennai,Debit,Merchant_23,Health
+b17d1d1543302c7ce406c53f1f3da81c,eb3ec479a10ae385d3a6a449fbc6860e,260.95,2023-06-29,Successful,VAD950,Vadapalani,Chennai,Credit,Merchant_88,Clothing
+5cb065f90d9c54b000abe149dfbea047,b60990ff243eab91b561fd9c6dfa43a0,577.94,2023-01-04,Failed,VAD743,Vadapalani,Chennai,Debit,Merchant_28,Electronics
+0bd0f3574bab7d9f62439c6a6b3a8e08,f22d156c11a048fe2a847196233aec29,584.6,2023-03-28,Failed,VAD871,Vadapalani,Chennai,Net Banking,Merchant_46,Electronics
+fa9f5b87ac2eda624710f300c2939859,3987f1be76ab39e043bc7888a5226fd1,908.54,2023-10-18,Successful,VAD334,Vadapalani,Chennai,UPI,Merchant_27,Groceries
+af58fd19617a953034c121e84899cca1,6cbd289eb7df7532b878cdafa0514e23,452.04,2023-04-23,Successful,VAD107,Vadapalani,Chennai,Debit,Merchant_33,Health
+d6cf260b3dddfaea19e7661906ec3283,61315c73fc9edd3cc5155cfda4815a39,430.37,2023-07-11,Successful,VAD110,Vadapalani,Chennai,Debit,Merchant_84,Groceries
+ebc8e7f5d51c05c93de64b3e164886e1,58e98e02e8f499ceb12d804e5d48348f,52.81,2023-06-12,Successful,VAD448,Vadapalani,Chennai,UPI,Merchant_100,Groceries
+957e2ca394b1baa4026d089a4a18f243,4f977c95d6551c9191fefa0557a87804,825.62,2023-11-07,Successful,VAD624,Vadapalani,Chennai,UPI,Merchant_88,Clothing
+39dd00e6523042535521ca9ef1ab98e9,0b5ebeb0c0669808a07d11cbbf72f21d,655.16,2023-08-31,Successful,VAD235,Vadapalani,Chennai,Net Banking,Merchant_73,Clothing
+dec49aab811c8036152ca4c1e7a19d3b,dc7315e268dce30e5b187df4a51eaebb,465.85,2023-12-27,Failed,VAD582,Vadapalani,Chennai,UPI,Merchant_16,Electronics
+ad94984a693a202a37a77ed9f7bb3fe6,0b3ded89e6123abab734a973929d5659,297.0,2023-09-07,Successful,VAD474,Vadapalani,Chennai,Debit,Merchant_17,Health
+86da7727f45e3eb58fa0b991e507abab,8170f3534b71b4549e8d0093ad50e9ea,82.4,2023-05-20,Failed,VAD181,Vadapalani,Chennai,Debit,Merchant_43,Clothing
+f3455e26b10059292556d0b577e0c99b,d5b717eac5bed28e3522f8cd866b3b48,535.71,2023-03-10,Failed,VAD116,Vadapalani,Chennai,Net Banking,Merchant_26,Groceries
+31ff56d300ec88ee8debc54ca8c5d869,25f4a8fb6d29e2fdb61915f23006fde0,468.43,2023-07-07,Successful,VAD828,Vadapalani,Chennai,Credit,Merchant_31,Clothing
+1397295986c7c5041110337e1529c1f0,4c92c27ee66d31400fe95414a8f53fe5,223.13,2023-10-28,Failed,VAD518,Vadapalani,Chennai,Credit,Merchant_100,Electronics
+6235f7018c66f657dda47694e7723f6d,2c44c3eeb5373c8b0dc0a0c6eb54448b,436.18,2023-11-22,Successful,VAD268,Vadapalani,Chennai,Net Banking,Merchant_51,Health
+b3514a587734aff1c4708e31697a0a96,8e94cb1318c0ef1ab6a21cad8d6f9d0d,532.2,2023-05-20,Failed,VAD155,Vadapalani,Chennai,Debit,Merchant_72,Clothing
+19476fae65de53049fcfde32ec6dc7e7,b1232a2f1fd3ce82b1b12a515288b8e3,208.05,2023-11-27,Failed,VAD691,Vadapalani,Chennai,Debit,Merchant_89,Electronics
+7de12a12a03c756d8f5dfaf73b91eb6a,a66fea46bfd814e4442160e7db534474,211.3,2023-05-31,Failed,VAD940,Vadapalani,Chennai,Net Banking,Merchant_52,Electronics
+bb69235095d76ddc99ae0d0e623bed91,b451f0fc49817164f5d02b8c15425ca8,97.92,2023-03-16,Failed,VAD717,Vadapalani,Chennai,Credit,Merchant_87,Electronics
+1fee06e090fef829598397b4326a6fe1,f6545d197ebed9adabbb56eeaa9bc1b0,435.94,2023-06-12,Successful,VAD636,Vadapalani,Chennai,Net Banking,Merchant_95,Health
+5a477df66ff5aa1bfc50aae63167310e,522053c15062e63635148e56d2ce36e9,147.85,2023-05-14,Successful,VAD783,Vadapalani,Chennai,Debit,Merchant_18,Electronics
+1d396c87e2aa4049874f4a99e87be8d2,015e48754baad14c2d5e052fda3a980e,719.27,2023-02-26,Failed,VAD405,Vadapalani,Chennai,Credit,Merchant_69,Clothing
+e9b9ce4ebea9abaf2ca44922f291bbc3,392a81237e6598537d57fe0aa67634ee,945.78,2023-06-22,Successful,VAD135,Vadapalani,Chennai,UPI,Merchant_17,Clothing
+03d4c50c807bce0ee23022dec3ad1c6d,3811812ee99765d0d513f56a6ab6b79c,696.01,2023-12-25,Failed,VAD254,Vadapalani,Chennai,UPI,Merchant_57,Health
+af41db20737a37a60fd279686167b501,6cf40fbd1b9909d7f52a249e3005dd13,607.14,2023-02-13,Failed,VAD971,Vadapalani,Chennai,UPI,Merchant_44,Groceries
+ad31b2cc84a9a1481b623d9ddc70bc04,aba374f5e2c994bf49d511a3517bd4cd,813.96,2023-02-25,Failed,VAD515,Vadapalani,Chennai,Credit,Merchant_7,Electronics
+4f7f7e92d1691dcf252a3712470fb0d1,0456999b2ba3de9f21039cf94531b1fb,438.04,2023-09-17,Failed,VAD992,Vadapalani,Chennai,Net Banking,Merchant_96,Groceries
+3c47e7e91af02a068fb1f5234fabc14e,48ddbb36d68a99dc6a0e82dc76e39a0e,552.27,2023-07-15,Failed,VAD395,Vadapalani,Chennai,Debit,Merchant_90,Health
+6c8e77477183d1dfa1a9a2c077db28f7,05e4ca3e7d4fe10b3e05f690e0e6252f,759.47,2023-09-26,Failed,VAD907,Vadapalani,Chennai,Net Banking,Merchant_4,Clothing
+cd0e55baec9859408fa33b7e5937fc71,e11027f66e174013fccee19d37961337,881.63,2023-01-21,Failed,VAD703,Vadapalani,Chennai,UPI,Merchant_76,Clothing
+bc0bab0f9fe611c159edfdb2a3f93ba3,a0d9fa268217af373642d889d111fc0c,590.84,2023-06-03,Successful,VAD850,Vadapalani,Chennai,Credit,Merchant_30,Electronics
+d3257ce9b69a971b75780a73ee0ff196,0497c9e43de330fb8e4d4d5166f35f4f,419.86,2023-08-09,Successful,VAD194,Vadapalani,Chennai,Credit,Merchant_25,Groceries
+63b18f976a95c8fbbdff12bb518e49c5,6dd98ffcdddbd5cfc4b7fd2e966eb3e1,185.88,2023-05-24,Failed,VAD338,Vadapalani,Chennai,Debit,Merchant_22,Health
+aaa7549e004afe3fbf23c0747a1299d5,5cc4ebc4c58b0a8b6c71ac4dfd28a718,724.33,2023-09-23,Failed,VAD980,Vadapalani,Chennai,UPI,Merchant_41,Electronics
+bfba1d597c9d9871c7e6328ab2bda66b,ec7ebf70b6216a3ac04a5370a807dd09,803.88,2023-07-23,Failed,VAD735,Vadapalani,Chennai,Net Banking,Merchant_66,Health
+edebee6624c29a3e9956380356480f25,29ecca5c2114e4ab7e2035a092484f89,234.13,2023-06-28,Successful,VAD655,Vadapalani,Chennai,Credit,Merchant_92,Groceries
+2461fd26bc45a4fa56e2d6c1a657e14a,d522586dd0513c5f3399607fc98355d1,272.66,2023-08-07,Successful,VAD727,Vadapalani,Chennai,Net Banking,Merchant_77,Health
+1b2d644387d36c0f5d73cddc26374440,223891542a2246afc7b6415aa19e825f,241.73,2023-09-29,Successful,VAD941,Vadapalani,Chennai,UPI,Merchant_100,Electronics
+ae20cb83bb8258ade0e84157030537a0,8d88a29c3a942f60f4710f3f7a150772,90.98,2023-10-24,Failed,VAD289,Vadapalani,Chennai,Credit,Merchant_100,Electronics
+fb97bb447e525701aabeacf563391e56,647435cad6ea13602899a64fd8812830,504.17,2023-02-02,Failed,VAD612,Vadapalani,Chennai,Credit,Merchant_73,Electronics
+ac1b5a5ce3a137c59694fe41b90d149e,bd4e127e8fa8cda83eb81f31a1db1dfa,835.07,2023-03-16,Successful,VAD174,Vadapalani,Chennai,Net Banking,Merchant_35,Electronics
+de0c0e8e5b63b6d98d611b59e0d82c69,1ded84d7b733c3733fa2aa029635bd69,798.65,2023-08-29,Successful,VAD341,Vadapalani,Chennai,Net Banking,Merchant_94,Health
+e4097bcaaa84e690d91fa6791f5c8650,99d22deecdaa57941f1340a0e79ab226,616.12,2023-09-12,Successful,VAD887,Vadapalani,Chennai,UPI,Merchant_63,Clothing
+caf37e47870be50c87a7dbe993b79b3e,abd6f09af8ee8f7de0e5d63ae234769e,940.31,2023-03-02,Failed,VAD159,Vadapalani,Chennai,Net Banking,Merchant_61,Groceries
+eee717770891b414d0c33646bbc054d9,170cedbbcc0d9569d52bd74fff0d031f,513.77,2023-09-11,Failed,VAD841,Vadapalani,Chennai,UPI,Merchant_46,Electronics
+b872b6c2854f4d69b2d88d229e7ba529,ba12659e67bc58c4f3810bb2471b289a,389.96,2023-10-17,Failed,VAD793,Vadapalani,Chennai,Net Banking,Merchant_3,Electronics
+11f8937377d0b1a45f0541ea4ec2252b,f843405be32112988ea3dab9f16bbe3e,615.26,2023-03-06,Failed,VAD506,Vadapalani,Chennai,Credit,Merchant_93,Health
+7e6f753ceaab1c5472137fdb643bdd37,b45afc6775490c1336fc2fbc1540aeab,72.65,2023-04-22,Successful,VAD185,Vadapalani,Chennai,Debit,Merchant_96,Groceries
+53778ebdf69066f5b76c8055aa6f9233,f00098e73c6bdaca8bfd97a716fdbfae,574.01,2023-12-23,Failed,VAD262,Vadapalani,Chennai,Net Banking,Merchant_43,Electronics
+e11e5d4382bc4062e81fc9017f122d60,69a094c9acde056bc2e58d8068148640,10.62,2023-09-07,Successful,VAD379,Vadapalani,Chennai,Debit,Merchant_95,Clothing
+368d152c34a38f821d1ce82a4269f1df,5cc130e5592adb9be75f703d661876d8,121.66,2023-07-11,Successful,VAD910,Vadapalani,Chennai,Credit,Merchant_55,Groceries
+e1f4f6f84cab4f27e9f9f796047ee724,0d8bc90a79a57d40423fa3dcd24cbb3d,683.59,2023-07-23,Successful,VAD854,Vadapalani,Chennai,Debit,Merchant_75,Electronics
+cf58de3a3aa85fa621a90924d7b83afe,10b3056c0c66a6f9630f52edcac447da,829.75,2023-11-16,Failed,VAD411,Vadapalani,Chennai,UPI,Merchant_40,Health
+53b51805924d0bf07737750c9f1d8863,1da0294ae9e275f772e8c8daa0d37f02,320.1,2023-11-04,Failed,VAD304,Vadapalani,Chennai,Credit,Merchant_63,Groceries
+b277674845970202bb1678a11c69ec62,8cf11b900c6e48b91f894d0d2bb45928,759.46,2023-07-20,Successful,VAD383,Vadapalani,Chennai,Debit,Merchant_12,Clothing
+ffad7c983c074b31b16b0d6a6ca54f15,d8228d8dd5e3598c3f9fe56d5fc26c84,129.26,2023-09-06,Successful,VAD776,Vadapalani,Chennai,UPI,Merchant_49,Groceries
+a585d52dfeb1c8743674d92e4948d344,76175f36a18cf5ca9a766efd147988b8,568.73,2023-05-12,Failed,VAD474,Vadapalani,Chennai,UPI,Merchant_20,Electronics
+edee5b0aa855bb12fba047f760ea47aa,35a431c2c20b197fe3121c5ec48751c9,675.59,2023-10-15,Failed,VAD870,Vadapalani,Chennai,UPI,Merchant_3,Health
+9f1c358df9f546d13062228a93b8691b,7d944128d5ea8664222faa161b33305d,336.61,2023-08-18,Successful,VAD218,Vadapalani,Chennai,Net Banking,Merchant_72,Groceries
+759f3f6a53ee482a1a140ec89acd9d8e,4577d90b19358177d650e00e90d241e7,558.72,2023-11-02,Successful,VAD777,Vadapalani,Chennai,UPI,Merchant_97,Health
+419ac7a5f4759f153678f02791692ef8,e8c4272378a48a3077eb1a47e8f41d50,980.93,2023-11-06,Successful,VAD897,Vadapalani,Chennai,UPI,Merchant_10,Clothing
+e9c621d168079615f5a060a547766e6c,26fb1e6ba75ecc3028dbebc03e874f64,817.73,2023-04-27,Failed,VAD164,Vadapalani,Chennai,Debit,Merchant_25,Groceries
+8256730bbd981575f59a360c78e2a1c4,7a0d54ff4067dbe4d8daeb88b846ed12,286.98,2023-10-01,Successful,VAD141,Vadapalani,Chennai,Credit,Merchant_44,Clothing
+45a3398df712651e44bb040b8b78345f,df3b8963884497e3eea9bfc8898bf57e,561.42,2023-06-03,Successful,VAD488,Vadapalani,Chennai,UPI,Merchant_13,Health
+d45a3808311bdeea3b45766610020894,ecb7367a29db2101aae88d261bb8e6fe,370.9,2023-11-13,Successful,VAD416,Vadapalani,Chennai,Debit,Merchant_9,Electronics
+62271a6cd766a56afd1a648f34cb7e9f,851e59b2fb36748939b158e0558b67c2,396.53,2023-07-03,Successful,VAD668,Vadapalani,Chennai,Net Banking,Merchant_7,Health
+09b1998eedcb59f9e471e7910dde93b1,03927f6f4c1f529814f8d0b00bc4bcbb,148.79,2023-10-17,Successful,VAD406,Vadapalani,Chennai,Credit,Merchant_99,Health
+7dd88495c946a1b210a9b1d3251ef4af,d944d6b3f6e965f4d69eb8e9b06e7dd6,765.54,2023-11-13,Successful,VAD769,Vadapalani,Chennai,UPI,Merchant_4,Health
+85105805f69977806a43090a2bb4107e,9e829fc526ad253bf970966ab83dd1db,621.18,2023-06-24,Failed,VAD162,Vadapalani,Chennai,Credit,Merchant_7,Electronics
+3f1cd2fb815e58fd8165868c12954e81,211ca1c0122dde6f9681f52b6aa0f797,160.83,2023-04-08,Successful,VAD698,Vadapalani,Chennai,Credit,Merchant_41,Groceries
+4036fa8e33fb879ecc4e66e7e04d6d73,9d569a54df47dc28f1bd00ef9997ee4e,276.9,2023-08-06,Successful,VAD152,Vadapalani,Chennai,Net Banking,Merchant_70,Health
+b9d7ad2d0d6efc93c0a221bdfaa5bf31,2080b4556a1a243a437e8e65e00975b6,987.71,2023-03-30,Failed,VAD325,Vadapalani,Chennai,Debit,Merchant_28,Clothing
+2b870c666e8328b7bee8be25641efa9e,71ee8a02187cbcc36c4308589e3828ad,275.13,2023-01-24,Successful,VAD570,Vadapalani,Chennai,Net Banking,Merchant_58,Clothing
+f4bc32ef8f345b25e57a31efb9590f3c,1ceba45beb2ecf87fc4a887d4e54b53a,209.08,2023-06-08,Successful,VAD457,Vadapalani,Chennai,UPI,Merchant_40,Groceries
+552d3960beeab5c05e3ca717fcaeacf7,b040afe8b7348a83ef71a240ba229bf4,557.4,2023-01-16,Successful,VAD430,Vadapalani,Chennai,Credit,Merchant_11,Health
+4549d575623229aebaec191e9405bdb3,9f99d02662b94ea6546094d6584bb2ab,559.76,2023-02-09,Successful,VAD308,Vadapalani,Chennai,Debit,Merchant_76,Electronics
+4acc78eb3ec495ba002d306b1a73a0f1,4fb3570ff857356c72f5f7d02bb64be5,27.55,2023-08-06,Successful,VAD329,Vadapalani,Chennai,Credit,Merchant_55,Health
+d236da68b86585aaad9dc09584ead01a,216d731603eed4c86a3268a4660238bf,634.87,2023-03-22,Failed,VAD481,Vadapalani,Chennai,Credit,Merchant_93,Electronics
+1db43102c3289b4f768bf0bf7d13fed2,e90530a4edafdd277ac2e2cd1fcc3694,144.25,2023-07-02,Successful,VAD405,Vadapalani,Chennai,Net Banking,Merchant_89,Clothing
+f755bff0efe2e4ce124eaed4c6bc0568,15548ab3841d81ba0ed8adebb109c87c,821.28,2023-08-20,Successful,VAD782,Vadapalani,Chennai,Credit,Merchant_38,Groceries
+903499b27b5f56912e506ea6845508ed,a46cc9cd06cd09fd45cb272e68516bc9,46.98,2023-01-05,Successful,VAD444,Vadapalani,Chennai,Credit,Merchant_30,Electronics
+4c8b496641d3fde55fcaf04f07292ba4,1f54a1e404a28df987ab2b55f1b515f2,860.92,2023-08-21,Failed,VAD716,Vadapalani,Chennai,Debit,Merchant_29,Electronics
+6b7f05176569fdb901de6a66d22462f1,1c7f6d0341932b36dbc4b56503b0f782,916.19,2023-04-13,Failed,VAD483,Vadapalani,Chennai,Credit,Merchant_61,Electronics
+70e29047971ab712e2b145d6b9587f92,f5b04f5ea2a2748120e51246cb7680b4,861.0,2023-07-08,Successful,VAD287,Vadapalani,Chennai,UPI,Merchant_23,Clothing
+74faecf524c55c9f0f43092f84a962da,bb81ac8eac1c35e0652c7cc615306a80,894.47,2023-03-19,Successful,VAD690,Vadapalani,Chennai,UPI,Merchant_70,Health
+46b78f2c3ec12b8dc2a75314823d1749,1120282850ab4686ef2aadcf957a4e70,840.57,2023-04-29,Successful,VAD255,Vadapalani,Chennai,Net Banking,Merchant_59,Health
+da9f532678074849d5e22a483ada1670,e6cc4cd50d5e2d72179e35f8e63a246e,73.95,2023-01-05,Successful,VAD823,Vadapalani,Chennai,Net Banking,Merchant_69,Health
+805a7d6ded3f1af85167144acfae7606,005a59d15b70a8a9667b980098ef6bc7,803.19,2023-11-27,Failed,VAD164,Vadapalani,Chennai,Debit,Merchant_89,Groceries
+33561e1f23602003ec4667f90f064e6e,f9f7b5c21f4cbd973c447a8ec357cc8a,705.84,2023-12-01,Successful,VAD606,Vadapalani,Chennai,UPI,Merchant_12,Health
+74cebc004cb66504d16a535c45a98351,b0deb17de9d4884bf2fa0b0ab06690a5,17.93,2023-05-31,Successful,VAD894,Vadapalani,Chennai,Debit,Merchant_93,Groceries
+b5150490e4f841d7825ebec972b77845,00c8948c7f78ae1d9687d09db768e442,871.65,2023-05-01,Failed,VAD474,Vadapalani,Chennai,Credit,Merchant_70,Electronics
+d61ebc824d0c6cd98bac5abe60b943b2,a081d8977181ec21882650489f417523,396.01,2023-11-09,Successful,VAD438,Vadapalani,Chennai,UPI,Merchant_3,Clothing
+cd554c96745db83887079346eb20f8ef,1a751db9f8bf8594a7207854d8a2c4e3,320.82,2023-02-10,Failed,VAD609,Vadapalani,Chennai,Debit,Merchant_10,Electronics
+39b4b53bb08d5619b173bd5e2f279d80,5cfe166de825cbc361a43b8f78cd415f,449.1,2023-08-12,Failed,VAD807,Vadapalani,Chennai,Debit,Merchant_50,Electronics
+331ce29bfb9716cd5f0c4af7c525fb6b,e004b09e2af75873662990d6a9801bc4,578.82,2023-11-28,Successful,VAD572,Vadapalani,Chennai,Debit,Merchant_95,Clothing
+af5bcde9426149417d73f6f4271acd2f,8b243490456f8a20122d88f193047b23,404.51,2023-12-12,Successful,VAD979,Vadapalani,Chennai,UPI,Merchant_10,Health
+43f951a24896bc35f371604ac1733b66,6eb2ea2e1581fa18e029ba68a6d5cda8,469.79,2023-03-29,Failed,VAD537,Vadapalani,Chennai,Debit,Merchant_45,Clothing
+9c1453923c8d0c8d22794db64768756d,1970d925e9fadb5535e5a0a289a0576d,680.53,2023-10-28,Successful,VAD931,Vadapalani,Chennai,Credit,Merchant_51,Groceries
+9ab8c7f3d69d9e3b491aec520485f4bc,d7b95ad0df49810a9039b4596e445f05,590.31,2023-10-30,Failed,VAD762,Vadapalani,Chennai,Debit,Merchant_93,Health
+5b1e3664b64812b5fe6198b5d029432a,67f07f8b0d4c2085bb232a223a8384e5,827.22,2023-09-11,Successful,VAD824,Vadapalani,Chennai,UPI,Merchant_61,Groceries
+e730ff26df771612de09cad80aff3198,306908125c6fef4bee1ec50cd3275294,120.05,2023-11-06,Successful,VAD859,Vadapalani,Chennai,Net Banking,Merchant_9,Electronics
+42b0cc05c27aefd8a07c179637249d81,c011ad660687fdd8d51c7c12706bdf31,208.31,2023-09-10,Failed,VAD920,Vadapalani,Chennai,Debit,Merchant_51,Clothing
+fa1083332334da184e99d520b2f449d3,a21ddec7376ba46551929386571c1bb6,423.38,2023-09-25,Failed,VAD309,Vadapalani,Chennai,Debit,Merchant_93,Groceries
+50adebacf50df83b348830f4eb655be2,6e2b2060ef1de6dce4c4a60c0010bc6d,183.71,2023-08-24,Failed,VAD189,Vadapalani,Chennai,Net Banking,Merchant_19,Electronics
+445af45f0bd73006465f4af67359746c,0f25916195e8ecef08b7366c1ef4fcfd,476.51,2023-06-13,Failed,VAD643,Vadapalani,Chennai,Credit,Merchant_57,Clothing
+967b33c87d1b155798e7a914ff608735,96b564c5487c13d215aaaeb995d57246,290.31,2023-08-15,Successful,VAD126,Vadapalani,Chennai,Credit,Merchant_13,Electronics
+8602f299ab94b952b21839fc65c3d894,8d1cc9f1683fe08f7183bc781320fc88,25.26,2023-05-30,Failed,VAD232,Vadapalani,Chennai,Net Banking,Merchant_86,Electronics
+ef5176dba04371e4dce29e2dbe1c77df,4ad32d2872e012ba0c5c5a3afae8c2d5,584.58,2023-12-20,Failed,VAD797,Vadapalani,Chennai,Debit,Merchant_89,Groceries
+d17da492a445d82ae1fc630e52bed570,f5c35765fc478305e3c8b51feb507950,663.59,2023-04-13,Failed,VAD915,Vadapalani,Chennai,Credit,Merchant_92,Electronics
+6058bf4117ad9549c8aaa05a0f0b84a2,e3a72cb49e6ecb579202f15c454af71d,618.42,2023-11-14,Successful,VAD798,Vadapalani,Chennai,Debit,Merchant_17,Groceries
+38c776266fa97373769f8818f49ae019,83ea23052340c22cdae9c8deb72cfbd7,208.3,2023-02-05,Failed,VAD422,Vadapalani,Chennai,UPI,Merchant_56,Electronics
+fb824d0ff4677b124aebed66f7009c46,ca151e1b3232e9845aead6ca588a4d0b,184.97,2023-05-23,Successful,VAD635,Vadapalani,Chennai,Debit,Merchant_60,Groceries
+6633186bc15a0dce67d453754c0a3abf,850d5936cc0eaf421fec3f9b04dcc945,224.73,2023-10-06,Successful,VAD825,Vadapalani,Chennai,Debit,Merchant_50,Electronics
+fee3ad076e3136ad3cf65a3ec9ef03cb,bfe2d1221f2159512af5d434951b68f8,942.92,2023-02-05,Failed,VAD905,Vadapalani,Chennai,Debit,Merchant_72,Clothing
+cc41618fe02474c93eea8359eefc9ed9,003ab8cf0b1c41fe4b433adca7c4c7eb,267.5,2023-08-18,Successful,VAD184,Vadapalani,Chennai,Debit,Merchant_7,Groceries
+46ffb66236d514d86a58275c126a37fa,29a7d87f3961fe5989d653004694b3d2,67.45,2023-01-01,Failed,VAD218,Vadapalani,Chennai,Credit,Merchant_4,Clothing
+9da4b0de9b0773fc4083cbbe0671f21b,88e20fc10a8fcc344ce1dfc1bc1f881a,738.89,2023-07-10,Failed,VAD623,Vadapalani,Chennai,UPI,Merchant_94,Clothing
+456416971995ce6aa4787ccad80b559b,0d04b989af9fcdc4362c2ff8551fd78e,838.37,2023-05-29,Failed,VAD711,Vadapalani,Chennai,Debit,Merchant_21,Health
+3575fb4cab340809da06215047077ab6,cf7d8124abac6953cd7c0c0383b12e78,592.7,2023-05-20,Failed,VAD911,Vadapalani,Chennai,Net Banking,Merchant_25,Electronics
+16ec78f4ea4f82d5dc4e45881fd83e50,4ba1dbbac8491903ff7fccfcc2413d7a,737.42,2023-06-28,Successful,VAD525,Vadapalani,Chennai,Net Banking,Merchant_9,Groceries

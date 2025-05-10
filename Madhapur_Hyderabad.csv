@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+800539ad75ad6461199f0c79e0fb7783,e9d5f65acaf78ec6cb2a5b59e684b461,156.2,2023-11-11,Successful,MAD991,Madhapur,Hyderabad,Net Banking,Merchant_15,Groceries
+e0f2288381ddd4c18305c97bad78386d,18b2c3437812af3c26d9fb9ed60b1ee2,611.0,2023-11-07,Failed,MAD717,Madhapur,Hyderabad,Net Banking,Merchant_29,Groceries
+ec60fffbf0a9517fa344c6a78049e74d,1eba14ec1726e38855971df8ff8e2710,970.66,2023-06-28,Successful,MAD496,Madhapur,Hyderabad,Credit,Merchant_52,Clothing
+97e796a3fbf421e414691dee6fb42a7c,b7002799c4b3e9dea07849d316f7b938,627.16,2023-06-22,Successful,MAD511,Madhapur,Hyderabad,Net Banking,Merchant_10,Clothing
+059e54a3fec611ac927dd0d47d595010,ee9ddbcc7ba9a0dbc7f3bbe7a55b64b2,474.0,2023-06-06,Successful,MAD754,Madhapur,Hyderabad,Credit,Merchant_45,Electronics
+7c63551fa53d67bf66bce00b2d4e8835,94b8e17522aca54ce25a69d870572732,971.56,2023-11-03,Successful,MAD134,Madhapur,Hyderabad,UPI,Merchant_17,Health
+09722fa3a3daae9f61b90ce3875190f4,8875ad696bf6c1c06072969f195c81b5,489.23,2023-01-03,Successful,MAD714,Madhapur,Hyderabad,Debit,Merchant_7,Electronics
+9c61cdf78d3a68c4c5fd3f12b3879b1e,2263b7de5f2b6d5ccd2e57758faf2524,880.42,2023-10-07,Failed,MAD349,Madhapur,Hyderabad,UPI,Merchant_27,Clothing
+7f7ed58bed275f01861830ce499f91b7,3dccef95f6a999ef37f1344c7c363793,994.58,2023-04-24,Failed,MAD877,Madhapur,Hyderabad,UPI,Merchant_45,Groceries
+021d7892e9ef13e4fdb76fce6b09139c,edf1ff73a0c7f7f5dcb8db4173bde16c,474.46,2023-01-09,Successful,MAD594,Madhapur,Hyderabad,Credit,Merchant_16,Clothing
+6d580e548779fe13c3682ec2625d4dd7,288c3926af71a5cd3cb45ccd3535a4f6,806.96,2023-03-28,Successful,MAD694,Madhapur,Hyderabad,Debit,Merchant_93,Groceries
+ad8960099b16b3c1cfc3039c36dbbd1c,d0a9842245032834e0f7a1dbe8d23e46,151.53,2023-08-02,Successful,MAD143,Madhapur,Hyderabad,Net Banking,Merchant_14,Clothing
+69df574e1adcc1349b6f519e85dc6d50,3d4cf7b614d55749603e13593ee27611,264.35,2023-04-26,Successful,MAD414,Madhapur,Hyderabad,Debit,Merchant_70,Groceries
+87b58fb107caf94cb579af8c3a0acbae,8f3535f780c5e582ef074c44d2dc2f06,876.13,2023-03-29,Failed,MAD271,Madhapur,Hyderabad,Net Banking,Merchant_4,Electronics
+ac906ce3b1823ac4a05b8a1c2b1d0adf,dbb6d2017e36fdb3ec7fc1999a2ca797,67.41,2023-09-22,Successful,MAD378,Madhapur,Hyderabad,UPI,Merchant_37,Clothing
+f3549681c09f4371ebc24c857ad17b31,6f064e6c8d38017b7e6bcc1e67350204,897.92,2023-07-03,Failed,MAD761,Madhapur,Hyderabad,UPI,Merchant_100,Clothing
+702bba9985606f0b4ca307b04e63f5eb,097f4644782be5ec1f1aecf6f31eb2e7,285.71,2023-06-29,Failed,MAD394,Madhapur,Hyderabad,Debit,Merchant_7,Groceries
+72e8b15cb3f2cabf0079fd50a97f9e66,59c286e29380569c5d320ad83f47bd1a,614.13,2023-11-17,Successful,MAD781,Madhapur,Hyderabad,Credit,Merchant_5,Clothing
+3615778c3d40e6510d037588137988b6,8d6c5166d885093051551e88047f1465,480.16,2023-02-26,Failed,MAD125,Madhapur,Hyderabad,UPI,Merchant_13,Clothing
+a3196c6eb0141ae7eda16b07248b0c3e,0c69891f297124b2dc71db21045bb78c,881.33,2023-07-02,Failed,MAD950,Madhapur,Hyderabad,Net Banking,Merchant_40,Clothing
+8332e62fc2357ebaf3b373fbd3e2fa6f,667c7b1d7987cc5a55600ce4ac319da2,674.09,2023-07-13,Successful,MAD269,Madhapur,Hyderabad,Debit,Merchant_42,Health
+d36c2a3a7cf472d3d094bfb73c54ea8a,c8fb9f79316e127cbddc2aef022e06e3,109.02,2023-09-08,Successful,MAD730,Madhapur,Hyderabad,Debit,Merchant_10,Electronics
+c1dc0261180c6100fbb6463390400ae6,b6a4cdceba65c2a7cb28350fda71ef85,299.16,2023-05-27,Failed,MAD213,Madhapur,Hyderabad,UPI,Merchant_22,Electronics
+311161b43e2a557234abc7dc495a2a2d,bcc3e76836c97a907cbdf2a202b8365d,951.94,2023-06-10,Successful,MAD308,Madhapur,Hyderabad,Credit,Merchant_65,Groceries
+60902d771951d7f34617b60a26feaaaa,56f24d70285b645336f99a9c28d22a34,44.42,2023-09-20,Failed,MAD973,Madhapur,Hyderabad,UPI,Merchant_72,Groceries
+e4069db849f2af92417c43ae5014bbff,70be915fd267fc4d9703855febcf8e7b,376.63,2023-09-09,Failed,MAD500,Madhapur,Hyderabad,UPI,Merchant_46,Groceries
+4a4766b77522580b856d5a75626702b9,500793b166fc67bd690248aa5d6c9684,526.4,2023-12-16,Successful,MAD724,Madhapur,Hyderabad,Credit,Merchant_50,Electronics
+e57172436f5fc4aa7474bdc6cc584f0d,5571fd6dc82af324a98896a2161eed3f,265.07,2023-06-01,Failed,MAD184,Madhapur,Hyderabad,UPI,Merchant_20,Electronics
+a3c12853f7c85cb3b93ba56817e1af2e,865d50d0f62b3a0ded6d1be0a1ef75b0,695.87,2023-12-01,Successful,MAD273,Madhapur,Hyderabad,Credit,Merchant_32,Electronics
+f4e6bda4d45b5dfdd8659fe3eec29c0a,2acee74085ff90819ab83254067a6342,117.81,2023-03-03,Successful,MAD107,Madhapur,Hyderabad,Debit,Merchant_25,Clothing
+3ae28f5578387d60d292960ac16ea9a5,05abba23100bfd9886382a5b0fea14ee,898.33,2023-08-06,Failed,MAD733,Madhapur,Hyderabad,Net Banking,Merchant_56,Clothing
+a7e6eaa8365c6b0d1956cd9c64dea131,8fdf16b833fac35c8e5493d9d08aaebb,897.83,2023-11-24,Failed,MAD297,Madhapur,Hyderabad,Credit,Merchant_45,Clothing
+d78758d2a26f3b139fe7e3e4981b7013,25f9f0f308650870b6a8e0fc47d628fe,735.17,2023-05-03,Successful,MAD612,Madhapur,Hyderabad,Net Banking,Merchant_38,Clothing
+9cb06aa3c171b7bfe8bc184fb33af733,b7fd3771ebe6bfa5ec3707c46b2c33f8,276.46,2023-07-28,Successful,MAD123,Madhapur,Hyderabad,Debit,Merchant_66,Health
+7c4c3f3f566a3292449430fd8d93d35c,920c13730813cb8b636e69f96122fe9a,522.63,2023-03-21,Failed,MAD207,Madhapur,Hyderabad,UPI,Merchant_86,Electronics
+40a2c2df2507dcb99958a37621a54256,ba94e6078b3032329c9547e6f1697ce3,681.61,2023-05-16,Failed,MAD543,Madhapur,Hyderabad,Net Banking,Merchant_47,Health
+79e1cce6b4a8b549f37acbf0acd651b8,c870e7a956c35ac8a7516824023453fe,565.19,2023-04-01,Successful,MAD245,Madhapur,Hyderabad,Debit,Merchant_55,Health
+384b2596f41c86d731a9f3ff7b810776,ffa1968c90ac365044d7b761bf46dc2d,900.36,2023-03-02,Failed,MAD454,Madhapur,Hyderabad,Debit,Merchant_50,Health
+9757fdb251a3adfbad2db7a00bf7aeb0,b1c660a6c663cc26617c887bc6b6d2a6,807.61,2023-03-22,Failed,MAD253,Madhapur,Hyderabad,Credit,Merchant_86,Electronics
+83b0711bcca7a4ca23583ee4bd5a0908,3b50cc6f81cbf7a421b2dc7d68867e07,558.28,2023-02-21,Failed,MAD567,Madhapur,Hyderabad,Debit,Merchant_98,Health
+dda0d1ace93ef3a692513fd58d034235,9d724a013e199469ae10b019136d4748,48.15,2023-06-30,Failed,MAD382,Madhapur,Hyderabad,Net Banking,Merchant_92,Groceries
+b52b3b75c357896aaca748f4fb886bf0,b9a5abc9d733abb9094a2535e9d27b8c,352.68,2023-05-31,Successful,MAD343,Madhapur,Hyderabad,Net Banking,Merchant_91,Groceries
+d48967a2ed2d49a377e8c9020048ed21,c79b5fa0f12a53c702a428e2aae6fe2e,90.46,2023-12-16,Successful,MAD604,Madhapur,Hyderabad,Debit,Merchant_80,Electronics
+e72da0d8499b2912fa0ccea4236bdb02,8b409ca4acb84eb343e9d289018bf14f,647.05,2023-08-25,Successful,MAD671,Madhapur,Hyderabad,Net Banking,Merchant_47,Electronics
+4b59ddf8e7ef4e43eb5e880fd0b96193,ddc9e8d2e8235f8303579143a6659ce6,292.09,2023-11-07,Failed,MAD126,Madhapur,Hyderabad,Net Banking,Merchant_55,Electronics
+eeb607d4624ceda67f36fe23b4e1ec6d,20eb100f9c4e59455e1e4690b3f72da0,254.15,2023-05-22,Failed,MAD795,Madhapur,Hyderabad,Net Banking,Merchant_76,Electronics
+95021f36d34aaa9efdda9ab1daf3de57,93aae7e59497caf65c504f559a0e4f54,221.0,2023-11-19,Failed,MAD821,Madhapur,Hyderabad,Debit,Merchant_54,Clothing
+ffab2d80fc56295e2cac94b2cc06a36e,42fa600f4036b7e73802c9aa6260f38c,549.32,2023-12-02,Failed,MAD918,Madhapur,Hyderabad,Net Banking,Merchant_54,Electronics
+97a6e0390f0fc347c6e866b3ec178149,6b727505db4c7388c1f545ac0d7583d6,150.42,2023-10-01,Failed,MAD492,Madhapur,Hyderabad,Debit,Merchant_71,Clothing
+7cd6111cafe32638ee9dc762cb61cf39,19a270ed1fe88ccccd0374bbc555cee3,941.38,2023-08-11,Failed,MAD920,Madhapur,Hyderabad,Debit,Merchant_1,Electronics
+5f15a52d2da339eec0fdbd0357448203,d8acd2f4068105b5075b4f20dac336d6,925.6,2023-06-22,Successful,MAD640,Madhapur,Hyderabad,UPI,Merchant_20,Electronics
+57aff1620052409fb11b99f6cfa62f89,ec95cfd51fce5a7d141df5d12d05cf3c,484.31,2023-11-23,Successful,MAD375,Madhapur,Hyderabad,Net Banking,Merchant_46,Electronics
+333466b2281f7948e3503ee7d26ed821,67c926a44b763884e51dbfaf5b244bc9,249.63,2023-07-13,Successful,MAD139,Madhapur,Hyderabad,Credit,Merchant_73,Health
+ea3291b469520fe28ae352e0994c45ff,00c7ec1c509b5e6d27efb910a3b2fd0b,182.8,2023-01-08,Failed,MAD472,Madhapur,Hyderabad,Credit,Merchant_31,Health
+4828bfcc896004e3cefc054e33d41d42,8d0de65d1682ca800a44b6386a6ba8bc,992.18,2023-11-26,Successful,MAD147,Madhapur,Hyderabad,UPI,Merchant_79,Clothing
+bac75fc425d3bb8f6a7ea2da535a400b,52ff32b805592f2269c160f8df6798f1,292.93,2023-12-06,Successful,MAD585,Madhapur,Hyderabad,Credit,Merchant_42,Clothing
+3c272c6a7e9fb0d9bba10e0ae1d10852,853bb4e6fe8f50c618a43add76ccee79,48.64,2023-01-21,Failed,MAD829,Madhapur,Hyderabad,Net Banking,Merchant_26,Groceries
+0e86a2af55cc09e05179903914db47df,5c84d88fcbec3d03bcbaaab7f73bd5a0,131.5,2023-06-24,Failed,MAD747,Madhapur,Hyderabad,Credit,Merchant_30,Clothing
+dc6565228fb98386cb4ff48aefd926cd,b8fadc1a6e34a6d047d624bbfedada9b,580.81,2023-05-26,Successful,MAD584,Madhapur,Hyderabad,Debit,Merchant_43,Clothing
+28e59deab2e520f0e6444d96e0eb2a25,c3db4c4bdfeb43f49656e86df85f47e6,405.14,2023-08-24,Successful,MAD534,Madhapur,Hyderabad,Net Banking,Merchant_41,Electronics
+f2ac8b8ddac25e0d936ae0d71326796e,596b76c05b9a09c56e2ea2960dcb3563,155.38,2023-08-15,Failed,MAD468,Madhapur,Hyderabad,Debit,Merchant_60,Health
+99562e616cf35e92002ac95d7a5aaa7d,dfa0467cf17a9ce13064c2a0c436c1fb,838.8,2023-08-15,Successful,MAD111,Madhapur,Hyderabad,UPI,Merchant_16,Health
+219d5d881517386a993ae2889268f443,2dc852feeb3c494d873229ec1da8b310,674.2,2023-09-21,Successful,MAD953,Madhapur,Hyderabad,Debit,Merchant_40,Health
+2a1d9e6dd12ef60a63f56cd4b3b50a7e,69ec44c0454b24085623158c36b9db17,333.65,2023-04-30,Failed,MAD339,Madhapur,Hyderabad,Net Banking,Merchant_25,Health
+00feeae2f67c50d6d1dbd518d4b76eb9,7c1ee570794a8e348e72f1cd37847ab1,544.43,2023-05-08,Successful,MAD956,Madhapur,Hyderabad,Credit,Merchant_23,Clothing
+75bdbbca968347e17bd6264311d067f1,76b5d7e37d6cf72cd3f7f670aeef38e7,500.93,2023-04-17,Successful,MAD769,Madhapur,Hyderabad,Credit,Merchant_94,Groceries
+109792ff7c19ddb661f7ba7d011ea5c3,eeae56abae5bbd98c819488d1176cf48,966.51,2023-02-08,Successful,MAD707,Madhapur,Hyderabad,Net Banking,Merchant_96,Electronics
+b1b198cc643fe19c7b6cc4458b8729d7,e47ddeb3bb35bad42985685db58b584c,896.9,2023-07-27,Successful,MAD370,Madhapur,Hyderabad,Net Banking,Merchant_16,Electronics
+f420c8262d064f11df0f465d547629e0,0ee47d65cd56226caab0c554c2a480fe,287.91,2023-05-22,Failed,MAD101,Madhapur,Hyderabad,UPI,Merchant_97,Health
+0d52fe276110cc899850ef35d89f02b6,0efdb6bbb5ca1a215d3f595d48ff89a0,698.86,2023-09-02,Failed,MAD287,Madhapur,Hyderabad,Debit,Merchant_50,Clothing
+b8ec90dc8ef50b07ff6b8e038541146c,7834bd126d360012af0017459cad1dfb,618.56,2023-08-26,Failed,MAD600,Madhapur,Hyderabad,Net Banking,Merchant_96,Clothing
+186232a6ea5a3e4a2e70f5c046e19832,0c89902ebcae0eb3f29aad9bd056e06b,827.43,2023-08-25,Successful,MAD480,Madhapur,Hyderabad,Credit,Merchant_83,Health
+938ad3e5a99db7ec90155e1f5b8851b9,a8e315b7dac4486e7083bea4babb30f2,153.7,2023-04-09,Failed,MAD793,Madhapur,Hyderabad,Debit,Merchant_81,Health
+feb4bece04deb209cfc3b0ad80c512b8,115601c73fbe8c974b975ea19ed3faa5,501.03,2023-01-09,Failed,MAD212,Madhapur,Hyderabad,Debit,Merchant_86,Clothing
+d14950e7df30cf5bc820036cbb7e490a,999c3e366c5333367ce90118ecf4abaa,129.3,2023-10-20,Successful,MAD959,Madhapur,Hyderabad,Net Banking,Merchant_20,Clothing
+f50687245546e73fd198781f7ba1b609,0c69b74a5f4ddbed744adcd680a2cc87,651.07,2023-04-13,Successful,MAD430,Madhapur,Hyderabad,Credit,Merchant_62,Clothing
+3e0994616a44fec75bfe397d58022d9a,4c8c4157e93efba56202507f463ddd90,519.24,2023-09-07,Failed,MAD589,Madhapur,Hyderabad,UPI,Merchant_82,Electronics
+4e84b3c5b31199dc676e9bca88f4062a,18a3eb85fa1011b8be59928eafc5dee9,435.16,2023-10-26,Successful,MAD415,Madhapur,Hyderabad,Net Banking,Merchant_12,Groceries
+192de1008005744a8e995b78d84f9e4a,67976b6676fab0156aa2949e1c44e733,595.83,2023-04-24,Failed,MAD713,Madhapur,Hyderabad,UPI,Merchant_1,Electronics
+dadd6717d1552f3119bd19c3e8c55e59,dd6b621a615edc3c4505972452f037c5,353.4,2023-02-20,Failed,MAD547,Madhapur,Hyderabad,Credit,Merchant_78,Health
+74b3c5fbaf8511a6f4e10e5a2e74f202,14e374a7bd883246f2499e1318c4c9f8,438.21,2023-07-12,Successful,MAD630,Madhapur,Hyderabad,Credit,Merchant_28,Electronics
+def1387720a9eaddd053a5121131769b,8f4ecaced0d47b490c7b9272d6b9e23b,771.69,2023-09-05,Successful,MAD201,Madhapur,Hyderabad,Net Banking,Merchant_18,Clothing
+b92e4d1181f5f518e12a1df7fd73bd99,cd0e28ffa861bee71ba1a7bcf6830de4,71.8,2023-08-03,Failed,MAD982,Madhapur,Hyderabad,UPI,Merchant_34,Groceries
+fdb02a9a0f32e64497f1db892969b071,d28bb5e2ac16fad39081e84028f19163,938.71,2023-12-19,Successful,MAD622,Madhapur,Hyderabad,UPI,Merchant_27,Clothing
+04ead5002fcc95d3b37d4f6c77d870da,98a02458de668c7a75fc08c7dd23c88a,380.95,2023-01-13,Successful,MAD636,Madhapur,Hyderabad,UPI,Merchant_55,Health
+9b0fd0bc9f9a6ecc37140d2aacafe836,933e816ec9ee4b297b1279e0a080f55e,583.12,2023-02-10,Successful,MAD620,Madhapur,Hyderabad,Credit,Merchant_60,Electronics
+3bfb0717026fc8a31e37d32631b92ac5,b3d3057457f30c121b9af4c632048547,128.53,2023-07-02,Successful,MAD250,Madhapur,Hyderabad,UPI,Merchant_38,Groceries
+6d3e9bd33b4007dfb8868c62939b6c6a,8dbf21738ec18373aa3f3b2be9668644,557.12,2023-02-27,Successful,MAD116,Madhapur,Hyderabad,Net Banking,Merchant_76,Groceries
+8eff1004239b7b22e332cf159c37d0bc,f49cd0288f3eefc752cbc13016520eea,197.21,2023-06-02,Successful,MAD842,Madhapur,Hyderabad,UPI,Merchant_20,Clothing
+e51778cb839eb1bfbc1abb029b1d39d5,e4cacc0763ad856eb94389287280756d,789.72,2023-10-27,Successful,MAD222,Madhapur,Hyderabad,UPI,Merchant_52,Electronics
+c0d064b2e92f952fee5a64777dbda6ee,a612d0ca9647dc05f7f1e645e06557b2,561.14,2023-01-02,Successful,MAD728,Madhapur,Hyderabad,Credit,Merchant_13,Electronics
+ffcc0c4e51b9e38140307c4eeae75274,b858bd76a90d3e68206dae85f353372a,633.74,2023-03-10,Failed,MAD518,Madhapur,Hyderabad,Credit,Merchant_8,Clothing
+a6d52ea48f1a8daa1e76d0606baf6110,f277068c54534e7f23f589062c1e9015,741.33,2023-07-16,Successful,MAD218,Madhapur,Hyderabad,Net Banking,Merchant_24,Electronics
+9d55c60359ce89be844d896be2c1b10b,1db14028d8d0639f4fb378931419e5c2,403.04,2023-05-20,Failed,MAD189,Madhapur,Hyderabad,Credit,Merchant_86,Groceries
+99a5b455edec273ab92da68c3c81a506,c8a735de22e64644e334758da2f10a18,950.64,2023-08-24,Failed,MAD549,Madhapur,Hyderabad,Net Banking,Merchant_9,Groceries
+dc43e11b3a541cc211b4963506a9df2f,7cbb94120cf259b46b8b5ea383ad20c2,475.01,2023-10-29,Successful,MAD779,Madhapur,Hyderabad,Debit,Merchant_51,Clothing
+33a3b8617ce259322948f10d232c5c3e,940e0afddd31e559e971a52d33d2ae99,163.46,2023-06-28,Successful,MAD587,Madhapur,Hyderabad,Credit,Merchant_37,Groceries
+205f1e6189aec3c9ba5840573d5895cb,63befa21f30bad4d34dc131375c3feef,486.65,2023-10-21,Failed,MAD283,Madhapur,Hyderabad,Net Banking,Merchant_59,Clothing
+fa787d33c7f337e354d8d26fa40b1976,503c728df514989973b0191d2a64785e,891.78,2023-08-30,Successful,MAD727,Madhapur,Hyderabad,Credit,Merchant_51,Clothing
+5fd28b0ab5cbecdd0774c1da69759c9e,3700c6b714c23d03393def0dedeea6c2,873.2,2023-10-04,Successful,MAD722,Madhapur,Hyderabad,UPI,Merchant_31,Groceries
+81d406a7af986768b318d6a3d57761c9,7576488177246d50be74c9e0d77892c1,704.87,2023-07-03,Failed,MAD559,Madhapur,Hyderabad,Debit,Merchant_54,Electronics
+6feee23e700e385002ce396d340a2c17,106078c54bc74fa3cfb8bbe82cfaeb18,625.17,2023-03-07,Failed,MAD433,Madhapur,Hyderabad,Net Banking,Merchant_52,Health
+b49a4111de375a8e8db25cd1979b746d,f11aaad7969d27a320ec7dac5d074c89,467.16,2023-11-27,Failed,MAD829,Madhapur,Hyderabad,Credit,Merchant_31,Groceries
+88cb110dd3833db5e28b75506d0dfd0d,9090841c485eccb0d204cc4e40bf059e,234.82,2023-03-26,Successful,MAD394,Madhapur,Hyderabad,UPI,Merchant_74,Clothing
+3b55bfbef0e5b65dc1d148d93e8b6bfb,8eaff589d9dabbdb659352042dbac1bf,116.94,2023-03-10,Successful,MAD571,Madhapur,Hyderabad,Credit,Merchant_57,Clothing
+e72ba13a2080d2f3c2d18d197db9e4b2,fcb4926eca91884528d0a374a8fb5540,415.85,2023-07-26,Successful,MAD302,Madhapur,Hyderabad,Net Banking,Merchant_35,Electronics
+e7963966054b20590c4da295ea841614,bd8b6da80867e9e5e2384d4dffbcaa5b,452.35,2023-07-25,Successful,MAD766,Madhapur,Hyderabad,Credit,Merchant_50,Clothing
+8685e51974ab5fea919b61ace2a4f295,bbf73686acf7d6b7784ded199262a1ae,423.32,2023-08-14,Successful,MAD636,Madhapur,Hyderabad,UPI,Merchant_38,Electronics
+5acdb2ca06c7ab5a265971daa208a72f,e1424a8d4d746b37b8cd5ea01755de17,589.31,2023-12-10,Failed,MAD970,Madhapur,Hyderabad,Net Banking,Merchant_94,Groceries
+1a7e481822ddd8f7ff1e86cd53ac7518,ec0a2e1857b16a48bcc9639f5018e382,968.73,2023-10-31,Failed,MAD130,Madhapur,Hyderabad,UPI,Merchant_19,Electronics
+e6cf9cef443a1d2a997e98da8feb5ec8,40a419f522a7d1bb8d4ff0b192f83bdf,406.27,2023-11-12,Successful,MAD368,Madhapur,Hyderabad,UPI,Merchant_98,Electronics
+ba82e78ab59e7b4d87aaa39bef2a369c,7e8fd511c3a02c064c37626fb552a4ca,789.55,2023-01-15,Successful,MAD105,Madhapur,Hyderabad,UPI,Merchant_72,Health
+868badd395702f05e3ddcc45a40c4882,c972920601ebc5a7606b1c54371cd3d7,903.1,2023-07-03,Failed,MAD358,Madhapur,Hyderabad,Debit,Merchant_18,Electronics
+d85da7ada23a1d65a98e7a7b89e2e20b,f3934c592bea88dadb930e6bc8b4eec6,216.7,2023-03-16,Failed,MAD774,Madhapur,Hyderabad,Credit,Merchant_39,Electronics
+09ecaef5d5d795732a4fad32098d0c24,831565cf5fe7cf43f5c77c9afdaa58a4,648.91,2023-05-08,Failed,MAD545,Madhapur,Hyderabad,Debit,Merchant_49,Health
+62aa13e5abfdde7d85b06e7552dfb87b,36624e98db31b582a539f034dd69b052,932.72,2023-10-26,Successful,MAD330,Madhapur,Hyderabad,Net Banking,Merchant_42,Clothing
+4c6f0e2e9c42408251f46c1ef513913e,5b99886c011ab39b16270ad85a3e3c16,95.7,2023-11-01,Failed,MAD193,Madhapur,Hyderabad,UPI,Merchant_9,Health
+924ccb0309845a62adb0d0122373e04f,212a0ce22c488909841bc17017929936,560.42,2023-02-08,Failed,MAD625,Madhapur,Hyderabad,Net Banking,Merchant_76,Clothing
+bcd93a979b17b9c7afb990ef1421f3b7,250f3f22c69b660e0565d07f3e812b71,786.37,2023-04-08,Failed,MAD385,Madhapur,Hyderabad,UPI,Merchant_34,Health
+7eddc91f16220c935ffeb591cc6abb18,2a460e1ee5b63946b74a45557f5b60c9,808.88,2023-10-18,Successful,MAD886,Madhapur,Hyderabad,UPI,Merchant_60,Health
+d47d807e9673a437a0e740df9a930f88,6ca8e195031980200613856d4534991f,170.72,2023-11-30,Failed,MAD549,Madhapur,Hyderabad,Credit,Merchant_7,Groceries
+ac70448774873fb17a68b931af7837d8,68da9991172233c516979f06a42aa5a6,391.53,2023-02-22,Successful,MAD740,Madhapur,Hyderabad,Debit,Merchant_70,Health
+24382f3f9b08cbe929cf7c851c96d927,81808a901a7a38446ed043bd27719271,431.08,2023-10-21,Failed,MAD946,Madhapur,Hyderabad,Net Banking,Merchant_3,Health
+b9018738d952ecbdd74e1df48b60ce0e,978dab01741f773da10e8e53e99ea0d9,397.85,2023-03-31,Failed,MAD314,Madhapur,Hyderabad,Credit,Merchant_55,Health
+ab4dc6e020a3cf4f078edaea15d01e36,702e50b7c607270c2040f3ab51ba4a2e,991.05,2023-08-09,Successful,MAD353,Madhapur,Hyderabad,UPI,Merchant_24,Groceries
+dd4566be3a678de6e4f9226882482b82,3517ef2e5e45edcd2daabc43a4033110,958.13,2023-12-12,Successful,MAD462,Madhapur,Hyderabad,Debit,Merchant_33,Clothing
+088afcdae8568b28869a5dd8f1392b9c,12bca374f9fbdaafa0a7425f1f19d8f8,888.91,2023-06-21,Failed,MAD173,Madhapur,Hyderabad,Debit,Merchant_93,Electronics
+0f0aaeed74f8de6135ad401dc0208dc2,0ba9a011fac7f4e5677808e318fccb6d,481.47,2023-12-05,Failed,MAD131,Madhapur,Hyderabad,Credit,Merchant_50,Clothing
+ad81f65ffbfc4ce471c392125957006f,04d0f945e6defff8b5f1cdbf227d49fa,967.4,2023-09-18,Failed,MAD456,Madhapur,Hyderabad,Net Banking,Merchant_34,Electronics
+dd58ce216c409138dbfa3078298ac3e1,4bfe661ab085054073cf9098034d4662,762.3,2023-06-21,Failed,MAD229,Madhapur,Hyderabad,Credit,Merchant_90,Electronics
+36d3e2194ad02c11da0ea5b3c38123f7,0ade2a9f8192d5841222a9a73c361426,690.58,2023-02-11,Failed,MAD270,Madhapur,Hyderabad,UPI,Merchant_73,Electronics
+af04d894e3084a78dc0c02ad92b69a1d,d3c759e1d3570a616bfa90d528e9c260,89.5,2023-11-28,Failed,MAD989,Madhapur,Hyderabad,Credit,Merchant_15,Clothing
+b26d281f82f7aad230e13ccfdb507d7b,709cb8553f6126c7e355253bcce7e33b,555.17,2023-10-01,Successful,MAD981,Madhapur,Hyderabad,Net Banking,Merchant_44,Clothing
+237d8c352bc2abd0209d20ecd839a03a,ade825895a720566cee581bf37d4136c,603.37,2023-09-24,Successful,MAD802,Madhapur,Hyderabad,Debit,Merchant_7,Clothing
+e16a24d01fe33fe21e9140d6c3e9c8f5,ff2e7f58516088764c224bc23dc1d4c5,138.68,2023-01-11,Successful,MAD507,Madhapur,Hyderabad,Debit,Merchant_25,Groceries
+2da71dc90b8301de83fc27e01b83bdc1,c74e7bb010b0d5951bf828c66b8695cc,817.16,2023-12-16,Successful,MAD355,Madhapur,Hyderabad,Net Banking,Merchant_69,Electronics
+efaff620bd17da5c3a1d36a75afa6be4,2b79f08a3936f8959294b0ad9238e77b,965.34,2023-04-07,Failed,MAD923,Madhapur,Hyderabad,Credit,Merchant_27,Clothing
+ec025f989573f0a244e9aa94e91310dc,e0d5608d60e9b36e7d1ff1f84df486c1,141.98,2023-10-10,Failed,MAD943,Madhapur,Hyderabad,UPI,Merchant_98,Groceries
+248e97c7a801b06f3d24cc9536e928b5,46318c588f4d9ef36c397148a3aaa156,563.93,2023-10-20,Successful,MAD947,Madhapur,Hyderabad,Net Banking,Merchant_72,Groceries
+20c225483ed886a9e934f2d5c7d04b9b,fa2fe54a7329ee5eacb7ea2b94968fd8,884.67,2023-07-04,Successful,MAD115,Madhapur,Hyderabad,Debit,Merchant_94,Clothing
+ba9cb843da50eb2436ca92f9db9b998d,3eeb850a3d379fe868c2cd0f224da07c,248.09,2023-06-13,Successful,MAD962,Madhapur,Hyderabad,Net Banking,Merchant_51,Electronics
+00228418a73cc0f33e9296d4f4a9f424,220622ee20655ed572e8ad8e816a54e6,419.98,2023-05-12,Failed,MAD535,Madhapur,Hyderabad,Credit,Merchant_93,Health
+8eb5f8463e8810fcaa1c639fdcc09f38,fc5ecddd4313e6797afb4d5923c52181,829.28,2023-11-09,Successful,MAD364,Madhapur,Hyderabad,Credit,Merchant_77,Health
+cc2f68979e8552a7dcbcff399444005d,a0adf186bb4e1377500a43beaa678596,221.41,2023-10-31,Successful,MAD443,Madhapur,Hyderabad,Net Banking,Merchant_58,Clothing
+b8047816310cfdfe47ba399fc919cfa1,3b804ef036523d14f0b8003f75fea73d,325.21,2023-05-30,Successful,MAD494,Madhapur,Hyderabad,Credit,Merchant_45,Clothing
+6f17e3af9f3a59c836ebf01b0bb977c3,a8d0ec6e0b3d47057c4093341d3c416f,682.42,2023-02-22,Successful,MAD424,Madhapur,Hyderabad,Credit,Merchant_62,Electronics
+42b54b7de12569647813a9f3f2e19d33,9ec009320c34b001a09125ebb7aa478e,167.36,2023-12-18,Successful,MAD203,Madhapur,Hyderabad,Credit,Merchant_74,Electronics
+b1c0f9f97475514e52ddffd65c1c35eb,8ffe1f71a8ce9685edf9983c2ac538c1,768.32,2023-11-16,Failed,MAD388,Madhapur,Hyderabad,Debit,Merchant_44,Health
+88cfa8143851ab2fc97bce3e7cdd3b63,181b3aebd18e3782334f9d430009a0b7,323.91,2023-12-28,Failed,MAD244,Madhapur,Hyderabad,UPI,Merchant_67,Health
+67e1cc721f7073c34bc2e9b21d236f0e,593d25c682de34e8ab17bec4727e9df1,969.51,2023-02-26,Failed,MAD734,Madhapur,Hyderabad,UPI,Merchant_79,Electronics
+b0f6f1b2968d00d809c41ef0d2e669f4,633bed5c4d83312195fcfc9b6f295788,687.01,2023-03-23,Failed,MAD145,Madhapur,Hyderabad,Net Banking,Merchant_32,Health
+a06471c5f621cf5a209952c3d8ee9752,bdd265fcf40f327cee0a5c0b66a812e9,323.25,2023-09-19,Failed,MAD284,Madhapur,Hyderabad,UPI,Merchant_46,Clothing
+11f1d362336b1694148bb9695f18226b,061cfc6d7beb14aea2d158861613a92a,85.96,2023-04-10,Failed,MAD670,Madhapur,Hyderabad,Credit,Merchant_90,Clothing
+83f2ee796c87726d2a125c0e60ca9f95,6b0b78e50b197506ffbc7e5dbea28525,289.69,2023-03-30,Successful,MAD752,Madhapur,Hyderabad,Debit,Merchant_16,Health
+e66032c7df2bd0ea3f40ea006b44a485,cff013994098717c1a0f3586cf272cde,738.39,2023-04-18,Successful,MAD630,Madhapur,Hyderabad,Debit,Merchant_54,Health
+8c73a9eea43daba096138ec9acba09c7,dc5d64d61af18d6c69d2bd5ce4a2078c,221.48,2023-07-20,Successful,MAD429,Madhapur,Hyderabad,Net Banking,Merchant_28,Groceries
+524fb66171c0f0e49aec3d6ea99a54fc,5c83c5a747b9d9cd4b402cfa15fcd980,173.71,2023-10-01,Successful,MAD958,Madhapur,Hyderabad,Credit,Merchant_73,Electronics
+e1832862296b335b43b08f4158f6d3d7,49c73e70cb610d347c7e92e2e0d433b7,182.57,2023-12-15,Successful,MAD106,Madhapur,Hyderabad,Net Banking,Merchant_73,Electronics
+2e79a1e07598ff819f933048facff0e4,82391529b7a71abf3b6d0a6b0c7273ab,606.4,2023-10-03,Successful,MAD800,Madhapur,Hyderabad,UPI,Merchant_16,Health
+9d457d23dd95fb6f985ff5b1a3dedea7,ed19adb26f104d4e0ddf98f85634b4f9,292.8,2023-12-16,Failed,MAD811,Madhapur,Hyderabad,Net Banking,Merchant_45,Clothing
+d3b77ea1d0da9239bfc7395a92820ff4,aebed3d1099acb031f2eb912f8835763,536.94,2023-02-12,Failed,MAD595,Madhapur,Hyderabad,Net Banking,Merchant_13,Electronics
+7813fe171c180be35328d55e897f44e1,50047756668b788778d3fa8957781ba7,805.63,2023-07-02,Successful,MAD246,Madhapur,Hyderabad,Net Banking,Merchant_18,Electronics
+3f63087ef45c0addfebd398e8096abda,93c83b0555c0b346577e37b933fa0d8b,219.0,2023-01-25,Failed,MAD260,Madhapur,Hyderabad,Debit,Merchant_26,Health
+e7d1fcbea2fa8e43f75e8093dd0aeb6a,34fe93a7b64f3a4fb628e51c24f9e4b2,506.18,2023-01-31,Failed,MAD630,Madhapur,Hyderabad,Net Banking,Merchant_68,Electronics
+796479f03b959091671b159c6cb1f49c,0d0d54db9879289fc221cf12367414e2,390.91,2023-07-31,Failed,MAD938,Madhapur,Hyderabad,Credit,Merchant_62,Clothing
+fa8bc6029b93e5abf6e76c6a63abb419,3d8ef02a82a92616df7c1962b54da5c6,204.4,2023-11-07,Successful,MAD239,Madhapur,Hyderabad,Credit,Merchant_62,Groceries
+68ecae7c74a92b9471ef5a0ce3582eef,4e618f542f2985be2443ed27434d535c,338.2,2023-05-17,Successful,MAD349,Madhapur,Hyderabad,Debit,Merchant_50,Electronics
+29044571bf6da65e695bd592ba7c4b8a,e43694b9ae1280dd0423683a951024b1,747.65,2023-05-30,Failed,MAD165,Madhapur,Hyderabad,Credit,Merchant_28,Clothing
+cd6cc0f91cd0001bd1fbf769e421664b,ca7e37fd11116f7530a0643daa51190b,192.56,2023-06-02,Successful,MAD696,Madhapur,Hyderabad,Credit,Merchant_89,Groceries
+e1cecd8f1b6708028ce8d7014df2c6b6,b2b2baf33bf74898838d58052a6edfbd,319.95,2023-01-01,Failed,MAD393,Madhapur,Hyderabad,Credit,Merchant_39,Health
+f38dd748f7b7c2204a4d4a51c5d7e06f,2672f0eb9ec716fd16988a2c45890490,678.49,2023-07-01,Failed,MAD978,Madhapur,Hyderabad,UPI,Merchant_84,Health
+434a342773440f73613f03b343219f5a,f71e685ac944fff0de7dfb1270c5916d,905.67,2023-10-20,Failed,MAD746,Madhapur,Hyderabad,Debit,Merchant_100,Health
+3a387b6018eb9b9ca8e54d0a56b62a62,9c7d6d032ce0255bb4a343fa26051f3d,949.8,2023-07-15,Failed,MAD282,Madhapur,Hyderabad,Net Banking,Merchant_86,Groceries
+856e3a116d95873b58ea8db399c6a742,9052bdfd7b3cd621319eab99417cd490,998.43,2023-06-09,Successful,MAD118,Madhapur,Hyderabad,Net Banking,Merchant_50,Clothing
+6737b413b3c1bb803724846c25aa0bed,7ae48c9444604ad491989462960d6a76,854.47,2023-07-24,Successful,MAD565,Madhapur,Hyderabad,Debit,Merchant_29,Groceries
+dded90a2a4770cc34dae22f825bde644,62e2e0c8b11a6a6f4a1b2471e581be7b,536.57,2023-08-07,Failed,MAD794,Madhapur,Hyderabad,UPI,Merchant_96,Clothing
+a32cb243e89d1223de6ef070cb9bf9db,a306309c76fdb43fee2403922eed5b87,165.9,2023-09-06,Failed,MAD958,Madhapur,Hyderabad,UPI,Merchant_77,Clothing
+2d21ef47d709248685b5acf8226bde53,8f5f4be18fab61f1d94e13261cb74166,274.42,2023-09-03,Successful,MAD376,Madhapur,Hyderabad,Net Banking,Merchant_94,Health
+9896bf334727b7dda3a49ca934b00f39,e44fe316e456620845ec2fc450e366f1,585.17,2023-03-14,Failed,MAD617,Madhapur,Hyderabad,Net Banking,Merchant_61,Clothing
+a929399749da27a47abf03de69eea437,fcb0a123a25864c116e9cdc27c947db8,847.71,2023-06-08,Failed,MAD397,Madhapur,Hyderabad,UPI,Merchant_80,Groceries
+afea7d22761888efa12629499b1ab93a,573b124a8ec9d0a45794329c6ba8ebf6,269.97,2023-04-10,Successful,MAD749,Madhapur,Hyderabad,Net Banking,Merchant_93,Electronics
+3c55463428129201bcd3d5bb437f7687,7bee4adbe480d8ae89da943ec69fc5ad,268.63,2023-11-04,Failed,MAD268,Madhapur,Hyderabad,UPI,Merchant_51,Groceries
+e41ad9a88f7434276a6481080249c61d,a30a20e714208bad7cd84946887cd3ff,77.0,2023-01-20,Failed,MAD830,Madhapur,Hyderabad,Credit,Merchant_65,Health
+6995a26d35e639e4c7bf6fd3bc62a2b0,fe6272be061e5b9e42c58a8582471973,242.51,2023-02-08,Successful,MAD891,Madhapur,Hyderabad,Credit,Merchant_54,Clothing
+9a51ae38a4a94a5111282f338a16bb4d,fea643fee520e6b2b3522133ed9bf644,88.26,2023-08-10,Failed,MAD554,Madhapur,Hyderabad,Credit,Merchant_30,Health
+391fe787729dc282b53abad99e2568fd,37979cb7b97c250c51f8f41d13a25e0a,46.4,2023-07-19,Failed,MAD616,Madhapur,Hyderabad,UPI,Merchant_51,Clothing
+1facef398274ec339bc3bb5de71a40b9,cb806563a434ee0e1e905a8ba0861ce0,537.59,2023-02-07,Failed,MAD650,Madhapur,Hyderabad,UPI,Merchant_77,Electronics
+014d8fb93b7addb3ec0414e07c672cac,7c8585722cbf2adc1c73cd8cdc10876b,135.51,2023-06-26,Failed,MAD942,Madhapur,Hyderabad,UPI,Merchant_66,Clothing
+67c5b3755cd3872f3d04340c1b37558f,b52e517f2d57f667ff1b433c250de41d,53.46,2023-10-14,Successful,MAD334,Madhapur,Hyderabad,Net Banking,Merchant_26,Groceries
+024dbca93a5911a462d990cbe447751e,cd688ec96c08ce493110826dedb18df7,285.38,2023-10-06,Failed,MAD400,Madhapur,Hyderabad,Debit,Merchant_39,Health
+77be12718fb9d8dcf9171ae7344ce479,aa459b9892d2d4a5fdb2c603551793db,472.96,2023-01-01,Failed,MAD815,Madhapur,Hyderabad,Credit,Merchant_89,Groceries
+bf107779f74373358f95f3b9de3018d2,0d6c3a2111a106c5f73ee29ff4d4ee8d,915.76,2023-05-03,Successful,MAD752,Madhapur,Hyderabad,Credit,Merchant_97,Electronics
+bc5a4e3c07f68f2164f6fa1a7181042a,57fd1bd6852374cf3673bd91c36024a3,933.52,2023-11-24,Successful,MAD315,Madhapur,Hyderabad,UPI,Merchant_90,Health
+fdc121ae608092fa74362bf8b8f21aff,376cd79592bb8d92f246139438a3f48a,866.78,2023-04-19,Successful,MAD550,Madhapur,Hyderabad,Net Banking,Merchant_100,Electronics
+a2bed27b02b8025176f4fb38f1127c2e,3cbfb234d4be559d1d4171c672850990,801.93,2023-12-22,Failed,MAD865,Madhapur,Hyderabad,UPI,Merchant_26,Groceries
+6365181f2aa135198319e367f58739fe,b5d330408f6f504896fe4c83552e63cd,490.26,2023-08-21,Successful,MAD945,Madhapur,Hyderabad,Debit,Merchant_24,Health
+d20bcb057338c510dc109555ca16bd9c,adc94c8cfdda100db36c26893318e9b9,27.33,2023-03-08,Failed,MAD667,Madhapur,Hyderabad,UPI,Merchant_60,Electronics
+128056128c3260e98e6f0f3567433537,7df081d97683c39c92dac8b0a9764f81,129.58,2023-05-05,Failed,MAD805,Madhapur,Hyderabad,Debit,Merchant_19,Groceries
+c9c07d48a3e76522df09ed4e66e183ff,517ba1429da80923b154c6d5151880c6,977.08,2023-04-01,Successful,MAD900,Madhapur,Hyderabad,Debit,Merchant_44,Groceries
+d435658341c688a1a728b9274ce8fe42,dd1d726457c41ed4f9c86448f7e24dee,27.18,2023-04-08,Successful,MAD673,Madhapur,Hyderabad,Net Banking,Merchant_61,Groceries
+3f5bd4045f57bd76b7f547e0e2aae3d3,430e44fbe659a9275098cac933690ae6,548.94,2023-12-23,Successful,MAD255,Madhapur,Hyderabad,Debit,Merchant_59,Electronics
+6f0f1473abc352caeda6414242fc7a49,2bbb0a7d64dff1d7f294d98eb7676651,172.41,2023-02-26,Successful,MAD510,Madhapur,Hyderabad,UPI,Merchant_21,Groceries
+4928a2b5279e2f770f4a8ea152023d98,49fc530187ce816a8776d28b8a3f8711,755.58,2023-06-03,Failed,MAD916,Madhapur,Hyderabad,UPI,Merchant_48,Clothing
+3652066aa964bd05550293865c39ac14,73cfbc2ee05ebcc6bd3ab9deeccb0d2c,546.36,2023-03-05,Successful,MAD611,Madhapur,Hyderabad,Debit,Merchant_98,Clothing
+878539d413942ea0d4600b281dbb8da5,7c3db4b82676bd3a4d15039b22109ec8,859.77,2023-12-26,Failed,MAD228,Madhapur,Hyderabad,Net Banking,Merchant_28,Clothing
+ae1dea8481185854e7fa52af0671f7ab,aa2f37af443280f6266d36d4e07d3bb6,695.95,2023-07-02,Successful,MAD677,Madhapur,Hyderabad,Credit,Merchant_75,Clothing
+81693d107e5208a2ba3abcd4922e6c52,f43b29e5fba5dd44aed7a91090840051,843.15,2023-04-06,Failed,MAD689,Madhapur,Hyderabad,UPI,Merchant_39,Groceries
+4dd05523d74d967c79827d6b68574f80,80b04ee66ce7aede0acfc9f821cfe874,855.78,2023-02-06,Successful,MAD263,Madhapur,Hyderabad,Debit,Merchant_34,Health
+3b096cb99ff88f3dc58f75cefc28b8b1,86a9dd28ff56031434be0ef6eac8f1e5,872.67,2023-05-04,Successful,MAD156,Madhapur,Hyderabad,Credit,Merchant_14,Health
+07b4f569b696ba7a4ecdb1d29cc2a7f6,5167973563e105d3dcbf9c341e384181,195.98,2023-12-15,Failed,MAD921,Madhapur,Hyderabad,Net Banking,Merchant_37,Health
+1ff52ab5c190a53cd4cd37e6ed70e66d,e3aacb1ba105282927c5b43a486401f3,28.89,2023-06-02,Successful,MAD552,Madhapur,Hyderabad,Credit,Merchant_55,Clothing
+bb89f23f127175c05ba12a2ead4e537c,746f1fe47aee3252fdcab736b5b24405,926.52,2023-03-18,Failed,MAD484,Madhapur,Hyderabad,Credit,Merchant_14,Electronics
+cc3f236b871d047c419c15849bc2808c,9d43476dbc884a9d492324118dcf2d86,638.37,2023-09-05,Successful,MAD906,Madhapur,Hyderabad,Credit,Merchant_21,Health
+1674a4907c123a0133a11830a2372eab,400999c0e341c7b84af02f9d24063e8a,786.37,2023-06-26,Successful,MAD422,Madhapur,Hyderabad,Credit,Merchant_53,Health
+ac5c4bd83b3998ae4f032497fd03bd0c,68f22e0953e1dc56df3b3c21247364f9,361.29,2023-04-12,Failed,MAD340,Madhapur,Hyderabad,Credit,Merchant_77,Health
+72084780539f721c9d36505c9cfcccad,0afa094cf95c73c842fae4f8dc793d09,492.34,2023-10-16,Failed,MAD625,Madhapur,Hyderabad,UPI,Merchant_99,Groceries
+2868945bdb36c27604789db71d339ecc,bb449e15a86f4f3384bfb753a6c83133,563.67,2023-04-20,Successful,MAD144,Madhapur,Hyderabad,Debit,Merchant_67,Groceries
+2d2cd1b4bdb021b3d298364574146377,b2f0ea9e3e1da2b696876fc8c6d6cf6a,215.66,2023-01-17,Successful,MAD833,Madhapur,Hyderabad,Credit,Merchant_39,Health
+5826870e9eb5013b76ecce31a002822c,b70e918debd05900327e68e34ee72c8b,49.64,2023-09-09,Successful,MAD225,Madhapur,Hyderabad,Debit,Merchant_26,Electronics
+2f6c2006dadbf7a619c6e5136c06b95b,a7a85a4cd27c017ca1599d71cc0f6163,141.69,2023-05-06,Successful,MAD123,Madhapur,Hyderabad,UPI,Merchant_58,Electronics
+ae1ec90cd2f0720857814d981bb259fe,f10067cf601534bafbfc167c249bd5cb,979.71,2023-02-07,Successful,MAD401,Madhapur,Hyderabad,Debit,Merchant_87,Groceries
+b3595d3fb2853da15929c1cd59c27947,7e580775f8b4fd8d042ee17dd85d1b63,436.13,2023-01-11,Failed,MAD729,Madhapur,Hyderabad,Debit,Merchant_61,Electronics
+d271d977fb0e0569168fa93ee537d32f,541c34f9a4dc55225f196a8e2fca83de,49.38,2023-06-26,Successful,MAD420,Madhapur,Hyderabad,UPI,Merchant_52,Health
+a010310d0891c479c19bc393301353d5,324a44a76fd45f2aa909103c41796ed2,751.08,2023-01-30,Failed,MAD840,Madhapur,Hyderabad,UPI,Merchant_93,Clothing
+6d68bed2de63225b807238b510610c20,7f5d3928fdc722640df94ba8d5057faf,715.35,2023-12-22,Failed,MAD685,Madhapur,Hyderabad,Net Banking,Merchant_26,Clothing
+e5abf111da911f62a25bbde877560cd3,45f4e7b059a4b9542f98136ef26fa72a,28.68,2023-01-22,Failed,MAD530,Madhapur,Hyderabad,Debit,Merchant_26,Health
+1644d3422dbc445286213e6978ffd6fe,c2115a3a4fda67839fc915f8fa79aebb,381.6,2023-06-08,Failed,MAD448,Madhapur,Hyderabad,Net Banking,Merchant_8,Clothing
+6fe5560f03e7e1b1c875e3de4cc6b947,00d685d3a6188b626c6eacd3b4311c97,469.35,2023-01-26,Failed,MAD329,Madhapur,Hyderabad,Net Banking,Merchant_9,Electronics
+03e087a1abd1719fbb42de27b4e6290c,8d89f55b2062b76354ec2ae615b55f57,360.34,2023-03-10,Failed,MAD958,Madhapur,Hyderabad,Credit,Merchant_88,Groceries
+be1691c0809e56d816d9400ca6690a20,8bdc05dadc7a7b6342340053ab5de88f,529.83,2023-06-14,Failed,MAD265,Madhapur,Hyderabad,UPI,Merchant_23,Health
+ea7e870cb01e1e3ddb079bf93f938e7b,899db0b1d173a12dd26c063eaabc57e9,31.84,2023-12-18,Failed,MAD317,Madhapur,Hyderabad,Credit,Merchant_62,Health
+382dd8003b574daecaf3192d7d50aa71,864200c80929b54df5bcc601cb156a0c,241.04,2023-01-11,Failed,MAD851,Madhapur,Hyderabad,Debit,Merchant_22,Health
+0b4392b676650bb62bd9d2b08598131d,2c540929d18044f4e17111bcb5848cf5,782.21,2023-02-08,Failed,MAD812,Madhapur,Hyderabad,Debit,Merchant_83,Electronics
+c8265fe6718e4f5694affbaa7be487c3,ec4d0be847dd848b44ae084b53f64a57,803.87,2023-11-13,Failed,MAD271,Madhapur,Hyderabad,Debit,Merchant_91,Clothing
+7ca66708ebe60ea51f1cdfe9ab152450,a0ecba59e6548757b9e0a7a3b12673ed,38.18,2023-03-10,Failed,MAD940,Madhapur,Hyderabad,Net Banking,Merchant_35,Electronics
+e4696fbd114b387d50589ed956f31bf8,35374b44a06ec9305344d697fdc4bdaf,122.13,2023-05-09,Failed,MAD869,Madhapur,Hyderabad,Net Banking,Merchant_48,Groceries
+c47f325e47baca478f4679c4c60b1ef2,9463f91578d8c3788edc515fc494b3c1,825.51,2023-10-20,Successful,MAD460,Madhapur,Hyderabad,Credit,Merchant_62,Electronics
+63461b4e6d550861264e5ddaafa620c9,ba6d82b5de9d88111a62a2e9aec9a43e,552.63,2023-03-20,Successful,MAD664,Madhapur,Hyderabad,Credit,Merchant_34,Groceries
+37934d97972b92321e3eb9ddf7478153,6a389c62923039c0c447e89d9a91627e,178.8,2023-12-22,Successful,MAD241,Madhapur,Hyderabad,Net Banking,Merchant_17,Health
+c9ad1459f489d53fbfa6d515ff2cee41,1ef9f95107a7acf41e3798c793d233c2,943.68,2023-02-10,Failed,MAD204,Madhapur,Hyderabad,Debit,Merchant_52,Electronics
+16dca70ea3b91b789cace1d7684c8666,7fd373b7f58756988647ac438752d31a,431.29,2023-07-06,Successful,MAD706,Madhapur,Hyderabad,Credit,Merchant_34,Health
+c8e45d7df56e399f6750ab3ad30c83e9,7f7f99017226295700964ea613798311,586.72,2023-10-20,Failed,MAD871,Madhapur,Hyderabad,Credit,Merchant_98,Clothing
+fc390cf647da7bfa0c640d17b7620011,9ad236c5cdddd12e84fe7ad3c70249a7,817.75,2023-04-01,Successful,MAD144,Madhapur,Hyderabad,Credit,Merchant_71,Clothing
+58af67eb7037e5219717ed2d7b56687a,a5c6a2fe39354fa5f83620c3295b0ca8,700.7,2023-02-09,Failed,MAD221,Madhapur,Hyderabad,Credit,Merchant_19,Electronics
+dd8a4840b7ac0f6f00f6247cc9e785a3,4e6c97e4784e7ac85454a31e6b0a9f73,335.47,2023-04-02,Failed,MAD395,Madhapur,Hyderabad,Debit,Merchant_17,Groceries
+caea173399bf2a9478ec979b601b86ee,74edea4c51580544f7052b0f3693a493,646.42,2023-05-06,Successful,MAD590,Madhapur,Hyderabad,Net Banking,Merchant_15,Health
+cfaad52a1d12697d3c67fd74dff0f596,97d0490d2241fccb84f595c1c950e80a,323.46,2023-03-16,Failed,MAD571,Madhapur,Hyderabad,Debit,Merchant_76,Groceries
+2e45e7c6e4250729d2fb3916910429ba,1e6d104874b1395883879c555423a44b,350.44,2023-10-17,Successful,MAD581,Madhapur,Hyderabad,UPI,Merchant_20,Health
+3b3ebbd8b2c462f9e5b42cb9e7369ded,ba16fe4910cc466c816a35fd6644701f,857.77,2023-01-21,Failed,MAD776,Madhapur,Hyderabad,UPI,Merchant_35,Groceries
+786468119ad6679bc2f01ac9d237efcf,ea3a196a348afa78289c8e1a09b3d27f,87.5,2023-04-15,Successful,MAD448,Madhapur,Hyderabad,Debit,Merchant_82,Health
+87339af25a5d127beb07a3a5f45a4f61,4fef0dbcff223847cc4c0613d11f2606,401.6,2023-10-06,Successful,MAD393,Madhapur,Hyderabad,Debit,Merchant_42,Electronics
+0373fdcebad88db3a44a2bc9fca3ea8e,6cc554aba63b67bf06e0c0670f4edf44,115.04,2023-05-22,Failed,MAD365,Madhapur,Hyderabad,Net Banking,Merchant_16,Electronics
+55fb1ac0d4246b1166060f78797c4dab,813a66e486d909150bac2df4b4797a9e,153.4,2023-06-04,Successful,MAD450,Madhapur,Hyderabad,UPI,Merchant_6,Clothing
+727219c680b350e0eed67e31da306def,692101553bc9165a67a1eeb043295994,772.38,2023-02-12,Failed,MAD975,Madhapur,Hyderabad,Net Banking,Merchant_60,Electronics
+d94bb71748ccddb9ae83f0b046228430,943d9b8c59dfab6f1244023c0f606d63,38.69,2023-11-28,Failed,MAD580,Madhapur,Hyderabad,Net Banking,Merchant_7,Health
+d05f8993045b213b27c92f6c567ffc1d,4dc2aeb40f60b83b7c812bbbd09683d8,779.6,2023-10-05,Failed,MAD778,Madhapur,Hyderabad,UPI,Merchant_29,Groceries
+7c2fcf54096ca50b86e5068909c70b11,d0bd82ddd5d6973002bb54df03bf6350,131.02,2023-03-06,Successful,MAD146,Madhapur,Hyderabad,Credit,Merchant_8,Health
+1de05f16f32c4f7964e4a07e0e72aa1a,d627f3ac23eb49ae0de6d7ab1c7490f2,461.51,2023-04-29,Failed,MAD956,Madhapur,Hyderabad,Credit,Merchant_30,Electronics
+2e34124d806905adb83533c6d453baad,45f1ebb23220bdea778743340592afbc,903.05,2023-06-28,Successful,MAD754,Madhapur,Hyderabad,Net Banking,Merchant_81,Groceries
+e28852b9a71187e08074e75583c3dab1,c860c9a9bde3da5689fa66ac8cfd60ad,878.64,2023-03-20,Failed,MAD338,Madhapur,Hyderabad,Credit,Merchant_93,Health
+e6319c20b74d023f14f7a6456e03b40b,a73b1fcd29373ecf1c832d1114fa74d4,837.48,2023-06-13,Failed,MAD922,Madhapur,Hyderabad,UPI,Merchant_19,Health
+0590983f4f9b6cdfec442081206943f5,c19c1b760dd429f641a7dc43cb8cdfc4,773.11,2023-10-11,Successful,MAD858,Madhapur,Hyderabad,Net Banking,Merchant_15,Clothing
+b97cfd836e7bfebff040c18028c4422d,72b2a526b061dc3760bca9a1c343b6e0,685.71,2023-01-22,Successful,MAD443,Madhapur,Hyderabad,Net Banking,Merchant_100,Health
+25aa3210381e2b17d3f0f2268f977082,e20e8271b6aeb070a622d006964565e8,409.37,2023-09-28,Successful,MAD295,Madhapur,Hyderabad,UPI,Merchant_21,Clothing
+756cdd93f5f4f08eb36b543af63f4a3e,442ebc5ccea0c9bd222bb8d15a795f4e,507.39,2023-04-09,Failed,MAD580,Madhapur,Hyderabad,Credit,Merchant_88,Health
+d42468899d252b109130fd7b9ee97445,68fff04196d6fba0e84fc42b9120fb71,519.14,2023-10-29,Successful,MAD369,Madhapur,Hyderabad,Debit,Merchant_60,Electronics
+868dfe5c1d568f668384b1f65341f55b,db6c21f16d9532755187e4c6b6556d79,160.95,2023-02-07,Successful,MAD165,Madhapur,Hyderabad,Debit,Merchant_91,Clothing
+bb37fd1e98d1ab3cb4265fee213aea99,6a03ca661230b7bd72c17754b3e89bed,305.78,2023-11-07,Failed,MAD949,Madhapur,Hyderabad,Net Banking,Merchant_59,Health
+9af386f1c36daf3f4c70e002358cc315,7b19f916ce00e25728b2f55d12136c80,676.8,2023-11-28,Failed,MAD236,Madhapur,Hyderabad,UPI,Merchant_75,Clothing
+d0f696f655b01013974f1e98e6ce6512,c34432c644adaeeb7e4f65437b4b42bf,307.04,2023-01-24,Successful,MAD501,Madhapur,Hyderabad,Net Banking,Merchant_60,Health
+b4a76a9c865015755405526dd4255bb6,bfd20fbc6747e17ef8492dba3afc482c,454.09,2023-07-15,Failed,MAD338,Madhapur,Hyderabad,Net Banking,Merchant_58,Health
+44f1e5eb20bc909a5270cf97626566e0,a9abfc65c972ea32e37b1c463e442807,589.4,2023-07-18,Failed,MAD762,Madhapur,Hyderabad,Credit,Merchant_27,Electronics
+b0246a4d4c746c74b00109772f0f463a,1bc2a5445f411644b4d8a0534933fc2b,638.9,2023-11-27,Successful,MAD366,Madhapur,Hyderabad,Debit,Merchant_45,Health
+9132ec23567afef3f0eb69d195e67977,4f6b3ac8923f2146d87f9b524a35ffbd,334.84,2023-03-29,Failed,MAD230,Madhapur,Hyderabad,Debit,Merchant_64,Health
+344a6ebe30e2a27b18a780fece1fb359,4d76040d818663b9a89a98245f723eec,259.88,2023-02-25,Failed,MAD766,Madhapur,Hyderabad,UPI,Merchant_5,Clothing
+c0f817e6b39c62dfc439673995bd5246,21d1ff824d2f9c7d5fb9a3459fc85077,820.42,2023-09-24,Successful,MAD761,Madhapur,Hyderabad,Net Banking,Merchant_36,Groceries
+809c687909b7ffb95df622aa3b840fa2,e1d65e8a0cb5e80b8acb8546f6e77642,435.3,2023-04-26,Successful,MAD296,Madhapur,Hyderabad,Credit,Merchant_69,Clothing
+c8b694dfa8cff47e23067666e53175de,713b510ca96dbbf01b97b8d83047c6cf,44.48,2023-10-26,Successful,MAD530,Madhapur,Hyderabad,UPI,Merchant_51,Electronics
+cbbbdf2242045cbbb9cb779bf2d2e186,5ea8951a81bf6cd5ba5b9bcb23533bd9,578.79,2023-04-24,Successful,MAD463,Madhapur,Hyderabad,Net Banking,Merchant_87,Groceries
+5d3abb22caa9683b1696b857b7f66ac1,328e8354d38d10cec502da87135e8cde,24.35,2023-08-28,Failed,MAD359,Madhapur,Hyderabad,UPI,Merchant_79,Groceries
+7612cc597c6fa27ddb6e59c2b6bccc12,77026303cfe0fc90e4c428ffcff05d24,969.33,2023-07-22,Successful,MAD338,Madhapur,Hyderabad,Credit,Merchant_4,Clothing
+01c4ff08893baecc56056b6b68a5b1c7,1f505896d16fd9d335703fa2bebda88e,927.08,2023-05-25,Failed,MAD762,Madhapur,Hyderabad,Net Banking,Merchant_27,Groceries
+d995e2f8cda097d4a4362d8146a5175d,b14a760890b7f57c23312c67d15a41a1,888.25,2023-12-14,Successful,MAD892,Madhapur,Hyderabad,Credit,Merchant_11,Electronics
+fbb866de3de6da43d14a5df0435936f4,d2a96624bf5aff28c1bc68152fb5a522,624.72,2023-06-13,Successful,MAD107,Madhapur,Hyderabad,UPI,Merchant_36,Electronics
+542e77bb6c52bfac82bd16f51b27c753,95cf22580ed3b75e851ecaff7fa8efac,695.96,2023-05-01,Failed,MAD151,Madhapur,Hyderabad,UPI,Merchant_5,Clothing
+65b640356ab6b3aff7c1332331fc581c,8deb3246bda064df3fd0b69216131c70,743.22,2023-05-06,Successful,MAD449,Madhapur,Hyderabad,Credit,Merchant_16,Groceries
+57fe5cd7512a9ccb12d67229fb557476,c1e289ac277e595f24443a6ccbf34be7,209.96,2023-02-09,Successful,MAD862,Madhapur,Hyderabad,Credit,Merchant_4,Clothing
+3769aac9b19591653def2f7c6c5998ce,a41707b3fdd278a76124e682121d12e5,964.19,2023-09-25,Successful,MAD772,Madhapur,Hyderabad,Debit,Merchant_3,Health
+c677b2dceae3f8fd108e66e1b40cd8b5,aa67fb1ebb028ec5c8ebe99615ad544e,817.32,2023-08-26,Failed,MAD860,Madhapur,Hyderabad,Credit,Merchant_3,Clothing
+75b3d1f105c4c7ebdfa7ac32e45b38d8,cb72c79f7c9923bacf8935c1736730c5,570.02,2023-12-05,Failed,MAD659,Madhapur,Hyderabad,Net Banking,Merchant_69,Electronics
+37591ba1b151627f80765c4cec93923a,1f2879d77a4f4cef4fe30e3f8cb21b21,547.44,2023-11-16,Successful,MAD602,Madhapur,Hyderabad,Debit,Merchant_60,Health
+3e8bc53136ec0554290b556e84ad3d43,cdbfe88b4c3786975f60f898b77befb9,304.52,2023-03-24,Successful,MAD318,Madhapur,Hyderabad,Net Banking,Merchant_18,Health
+81dbca3f4ecdfe442f1dcea89f034dec,081a8eba4174a84f21d69a8a8d183bdb,744.36,2023-07-24,Failed,MAD605,Madhapur,Hyderabad,Debit,Merchant_89,Health
+6f1e2e8c00466f751d055a4cb959314c,29664906122065f6d866480cc17696ba,814.89,2023-04-06,Successful,MAD650,Madhapur,Hyderabad,Debit,Merchant_80,Health
+6e2890a2749018bb2d75e7f897d9c532,57e96b949ca6ce850b4ce8a54ce2a697,800.84,2023-07-23,Failed,MAD590,Madhapur,Hyderabad,Credit,Merchant_88,Groceries
+f7cffba88ab51d0742710c906f22a2a2,77d44d09709091392a39d9ae7c6b223a,26.83,2023-10-18,Successful,MAD133,Madhapur,Hyderabad,Net Banking,Merchant_76,Groceries
+c39908ddaec86391433e9f2e5193e250,3d615b4b45b0d546205f7ba502661f3d,769.22,2023-11-21,Successful,MAD886,Madhapur,Hyderabad,Credit,Merchant_41,Clothing
+7408e16d9c4db5bebf67385e3a0e8e0e,68799e7d0c7c98e2f62369fe7188ccb1,806.29,2023-12-15,Successful,MAD324,Madhapur,Hyderabad,Credit,Merchant_65,Groceries
+f3cdb2c62f42964347059d68af234ee1,be432fec4069c61b8edd508706d2c3a0,933.88,2023-03-22,Successful,MAD694,Madhapur,Hyderabad,Credit,Merchant_25,Clothing
+570acdbde00fbde6955e0cede6c1e2b8,84af00bf001b3d501e52c9992ba8d48e,936.7,2023-02-09,Failed,MAD438,Madhapur,Hyderabad,Net Banking,Merchant_37,Health
+4721184a15cded38f9761f7d66fdac6a,98553fbd34307f4fcba15b707586f92c,798.23,2023-08-28,Failed,MAD597,Madhapur,Hyderabad,Credit,Merchant_85,Health
+049d751ce61bbf6a29a8ee8adb3e84b5,53fd389796fe0abd883fadf1ac5affb8,235.99,2023-07-01,Failed,MAD866,Madhapur,Hyderabad,UPI,Merchant_84,Groceries
+9fc9f2c9e2c113aaf2e90c55e421c3dd,2393124d785af8c3fc01fa4c1da8edb7,102.74,2023-05-16,Successful,MAD279,Madhapur,Hyderabad,Debit,Merchant_18,Health
+8c92ff0ac196e0e2617379be3126024a,e65bf39a0b3200fdaf88374beef4d20f,316.69,2023-09-22,Successful,MAD414,Madhapur,Hyderabad,Net Banking,Merchant_1,Clothing
+89c2e58baf5a045b1e9f19bc28c8fea8,1a36aaddd7cee66dbb069b53dd21df67,902.2,2023-08-12,Failed,MAD971,Madhapur,Hyderabad,Debit,Merchant_67,Electronics
+04b2b376c263c6871b12880444c0676f,c631d6c6088ffa96e98d5fc0d7c0a6df,73.84,2023-10-20,Successful,MAD498,Madhapur,Hyderabad,UPI,Merchant_7,Clothing
+201d8190787d2ce6771968b882e57e34,63dab64900b5074bbd5ed928e7df7128,588.01,2023-05-09,Failed,MAD203,Madhapur,Hyderabad,Credit,Merchant_8,Clothing
+229eca912865834eb9635d20df254c15,48db20a7ff65bbcf9d82b19c543e9860,545.25,2023-07-08,Failed,MAD533,Madhapur,Hyderabad,UPI,Merchant_31,Electronics
+0e045eb9f486fdc422f65b1d955a3ac1,4b737f711b07a22cc81a057a4b88a923,596.21,2023-01-20,Failed,MAD188,Madhapur,Hyderabad,UPI,Merchant_23,Clothing
+be2defc04f483957283bb1d0c5b55a38,a19ba41cb8156a9c1892f65a3c637444,573.74,2023-07-30,Successful,MAD217,Madhapur,Hyderabad,Debit,Merchant_51,Electronics
+ee7a6e40fba030e29f842e57874a66ff,447a61d2e9ea463278bcd0f593f3ec80,494.24,2023-01-25,Failed,MAD848,Madhapur,Hyderabad,Credit,Merchant_52,Electronics
+237927828aaa7d9474120704c458bade,a9d11f307cd5a63c2ac67bca21765ed7,127.16,2023-11-20,Failed,MAD975,Madhapur,Hyderabad,Credit,Merchant_24,Health
+d5e9b68e03798efde08bd8df3e161725,393f87482391f549b56e3a8fc993dd9d,127.21,2023-12-17,Failed,MAD556,Madhapur,Hyderabad,Debit,Merchant_76,Clothing
+d6e7a808faf55e8e02c96ca8003651a7,86d4f340d5b86a85921b9c02d03496dd,111.33,2023-04-11,Successful,MAD486,Madhapur,Hyderabad,Net Banking,Merchant_67,Clothing
+c3aa550ba2fb1f8209bdbf8afc93f058,8f9696d18eade3bee8a545bf59f1ec5b,44.4,2023-08-07,Successful,MAD522,Madhapur,Hyderabad,Net Banking,Merchant_64,Health
+31eff5c3e33c34caf8d25a0d992e0ff5,d5c4d0d610dec0c1ffed8d1134e498d8,31.41,2023-07-30,Successful,MAD635,Madhapur,Hyderabad,Credit,Merchant_64,Health
+be0e24da0cd8aee124a1bd069b637ad2,79a6e99f76db2e3e72596ccfc5672d27,216.26,2023-08-20,Successful,MAD136,Madhapur,Hyderabad,Debit,Merchant_7,Clothing
+cd3da216a29ab5ffa32aa9d1bf1fc534,fe3066d01d40ed7a39f5b603dfaa2d8f,104.99,2023-09-24,Failed,MAD349,Madhapur,Hyderabad,Debit,Merchant_79,Clothing
+f42c3d0a2987e0695e2448e4cfdd7468,6c8449dd688c7107b862d5e781b287a5,621.84,2023-12-25,Failed,MAD636,Madhapur,Hyderabad,Net Banking,Merchant_100,Health
+884f8877df3c5167729ffae42c22e4ea,d77fc1ada3551702f86ab73bdd32fb30,190.74,2023-06-11,Successful,MAD122,Madhapur,Hyderabad,Debit,Merchant_35,Electronics
+ef32e252d6ce173acbb471c2b3bb9d3f,6e39e838edbff5ff01573e15e7b1ce70,719.7,2023-11-08,Failed,MAD324,Madhapur,Hyderabad,Credit,Merchant_90,Clothing
+65baefc3b8cf311c4352b94141491fb9,bee5584cc10fcb9e27c4ed620b691061,714.23,2023-08-16,Failed,MAD593,Madhapur,Hyderabad,Net Banking,Merchant_19,Clothing
+0513f256ef0af64211b77a667eaf4022,21a1bc8e487c8bef98cdd2eddad73241,363.74,2023-01-22,Successful,MAD120,Madhapur,Hyderabad,Credit,Merchant_5,Groceries
+7986e98a8a2533662c52313235ec3261,2b4847a899fc2c8d9574fe0af9f6b8d1,333.17,2023-06-10,Failed,MAD187,Madhapur,Hyderabad,UPI,Merchant_73,Clothing
+444e393a713ae6351da69c88547e2047,6116a748307c0238afd70a47148e050c,683.43,2023-08-19,Successful,MAD170,Madhapur,Hyderabad,Net Banking,Merchant_77,Groceries
+930296035c5b3caab6c83f11b2869138,2247779fa82df8374fbe98244333b4d9,250.22,2023-12-13,Successful,MAD578,Madhapur,Hyderabad,Credit,Merchant_11,Electronics
+f3d1f481b4927d39b24deaef65abb554,d08523df661794e87bc5ddf3c39a7e3f,666.26,2023-06-05,Successful,MAD796,Madhapur,Hyderabad,Debit,Merchant_63,Health
+7816abe87ae82322a5c6ae67c9dbe23c,6b365f33d2d518a41fbcb637e7d18e71,109.42,2023-02-15,Failed,MAD343,Madhapur,Hyderabad,Credit,Merchant_13,Electronics
+40758a8d88cc1f05c5d2a068f8272c83,89f13e0adaf7078c151d4f27bce21d8e,262.24,2023-09-29,Failed,MAD961,Madhapur,Hyderabad,Net Banking,Merchant_56,Clothing
+78917ba0cf6b7062ca124fc9a66f0560,c89ad45a0d08afb48db35803b45592ce,510.63,2023-11-17,Successful,MAD408,Madhapur,Hyderabad,Debit,Merchant_55,Health
+f83956191af7c580c79fc7edc97796a0,5c2327bf00276c3dec19f3e884d9f3a0,62.64,2023-09-07,Successful,MAD729,Madhapur,Hyderabad,Debit,Merchant_52,Clothing
+8153bfb71eb2aa9a80aad2af673c009a,b96d9b8cc8c08af863fac34c95d5ed8d,898.57,2023-07-07,Failed,MAD166,Madhapur,Hyderabad,Net Banking,Merchant_86,Clothing
+c892f34d0027a523de5f7f95c5328615,12730fd2c6f4e975a97549f164a2e327,442.73,2023-09-30,Successful,MAD192,Madhapur,Hyderabad,Credit,Merchant_97,Electronics
+24343fbc84de666af980a5a529ccfc42,0e33d233acbe4cf19c1e75adc6cc1014,532.52,2023-04-27,Failed,MAD469,Madhapur,Hyderabad,UPI,Merchant_16,Clothing
+5139ff940e0b4153a5752b6408e470f7,218529a9d9a3df94a522be3404865717,843.21,2023-01-28,Successful,MAD460,Madhapur,Hyderabad,UPI,Merchant_61,Groceries
+02382eaa265919ae0b2e9fb8e937d8c4,73880fc438667b3b407d3cfe9c4a2171,546.29,2023-08-09,Successful,MAD965,Madhapur,Hyderabad,Debit,Merchant_45,Groceries
+c8cd3c8afe14634a4aa02325d305c90d,057b83c5a11b04df90bf0f1575c201bd,14.58,2023-09-23,Failed,MAD382,Madhapur,Hyderabad,UPI,Merchant_93,Health
+4f3ca945ceff61e1b2b24c5d973fb473,f282ce493ea51c0c262e1f35855f9cb4,45.22,2023-11-29,Successful,MAD329,Madhapur,Hyderabad,UPI,Merchant_85,Electronics
+7b0f71707714a310f538d986fbf73adc,9509ebc95e39584a2703fc0ebb29696f,848.97,2023-07-05,Successful,MAD489,Madhapur,Hyderabad,Net Banking,Merchant_29,Groceries
+7b1a63850b88eca5eec1a6f1e4ff75c3,aea79b041d5293f7842617789edc84aa,740.25,2023-07-08,Successful,MAD150,Madhapur,Hyderabad,Debit,Merchant_45,Electronics
+eccb32f48693bee171f291b5b6a4472b,c64c04cee01cb35441af51f717fe422e,753.12,2023-05-04,Failed,MAD118,Madhapur,Hyderabad,UPI,Merchant_22,Groceries
+4b3bf73489877fc6c1f0bb9252a346a6,752b0d92e79b5161f832b78f5fb4db73,441.79,2023-02-18,Successful,MAD453,Madhapur,Hyderabad,Net Banking,Merchant_48,Clothing
+ac756386b9a67a6ba8ec9bc7d354a292,f92454c69979bbfd05479c1aa7c76e22,834.23,2023-06-06,Successful,MAD349,Madhapur,Hyderabad,Net Banking,Merchant_42,Electronics
+ef33e976316d2fef5451e25d2a80c745,656e63e0c7f1eec1b88b57c8dbf3713b,780.34,2023-09-26,Successful,MAD341,Madhapur,Hyderabad,Net Banking,Merchant_84,Health
+7e0cecd971509235402edb7f8efd45bc,eaea518b769cae493474f696c8a6ae63,308.48,2023-01-05,Successful,MAD627,Madhapur,Hyderabad,Debit,Merchant_42,Clothing
+a0c500003e7643d7a22c1729fa575418,62a91c4714ffc80830148916d8227aaf,857.37,2023-02-20,Successful,MAD209,Madhapur,Hyderabad,Debit,Merchant_59,Health
+130e3f6d722d8422f324d9c86db7ddf5,97de70a3e89607502c2800879373dc4e,910.54,2023-07-06,Failed,MAD420,Madhapur,Hyderabad,Credit,Merchant_18,Health
+03548186e83ad675b1c77b1faead62c4,17e098b33d54b4eb3edcbe9dd5d8ec11,736.53,2023-09-07,Failed,MAD168,Madhapur,Hyderabad,UPI,Merchant_72,Groceries
+46ef5f18a6189646befeb95752ae6f03,e9eae059a1858a5e2e677f738b45ac44,431.63,2023-05-02,Successful,MAD194,Madhapur,Hyderabad,UPI,Merchant_31,Health
+e92d978fd9d11d135fe230dd1fcfb88a,b98d12f87550827c12f95ef5e0554045,484.71,2023-09-30,Successful,MAD919,Madhapur,Hyderabad,UPI,Merchant_76,Groceries
+9021c79216b9588bac8ff1c1c0e66b60,5b684d106f6185e89a953889a31f60c0,694.65,2023-06-04,Failed,MAD189,Madhapur,Hyderabad,Debit,Merchant_76,Groceries
+5a6600c08e04131d8a3be787a3e205a3,12b05520e532366814309b4a7cb979c3,568.84,2023-10-24,Failed,MAD479,Madhapur,Hyderabad,Credit,Merchant_37,Electronics
+b9560c829a75a7d1f7a7814cda8631d2,e718b2809658f6d36939c1e151f5b183,542.47,2023-06-07,Failed,MAD535,Madhapur,Hyderabad,Net Banking,Merchant_51,Clothing
+fd673d5b04521495803f6064e69ad933,1e601ca139525d6e562606b15ab66662,117.44,2023-01-10,Failed,MAD869,Madhapur,Hyderabad,UPI,Merchant_48,Health
+3a83067e4a797974874d6bbd37c9018a,84ab259650870ee6ced383203b037fb9,689.9,2023-09-09,Successful,MAD363,Madhapur,Hyderabad,UPI,Merchant_61,Clothing
+27e42da3c2e80d71ed8936f424223111,58f10a182503756e983afe2a35bb9b4b,321.9,2023-12-19,Successful,MAD459,Madhapur,Hyderabad,Credit,Merchant_18,Electronics
+204d7fa9143b40316a35759532020420,0552ae3afe80023209416ff6015de1cb,166.48,2023-05-14,Failed,MAD307,Madhapur,Hyderabad,Net Banking,Merchant_27,Groceries
+4fae82ae33659aeb384a177dc3b93675,2131ca5f7ab3a3abb2e3c76e13ef831e,691.83,2023-02-24,Successful,MAD594,Madhapur,Hyderabad,Debit,Merchant_51,Electronics
+7fe3cb60642778d1039beeef416451b6,90b0e22b3b4bc956c4d116752a1dd53d,436.58,2023-04-07,Successful,MAD158,Madhapur,Hyderabad,Debit,Merchant_39,Clothing
+4c14637e1779e3b89f043ae570ab1b63,7d7f5b609fa31e83a67df8fdf1f7837c,133.3,2023-07-08,Successful,MAD732,Madhapur,Hyderabad,UPI,Merchant_47,Electronics
+f13b883c629b89ca1bd0f76b1b71b293,bee38ea055e6e77e35972ba50a8656cd,109.33,2023-10-19,Failed,MAD872,Madhapur,Hyderabad,UPI,Merchant_10,Clothing
+fc3b2dc47b97b972a0dbe40eafd348ce,220841c096c2562d57def68cae8111f4,867.0,2023-01-22,Failed,MAD929,Madhapur,Hyderabad,Net Banking,Merchant_39,Electronics
+dc4479f74e93de45528ce159ccc51cd6,be7cf3b15da263622f695dc2df77845e,293.79,2023-08-08,Successful,MAD833,Madhapur,Hyderabad,Credit,Merchant_29,Health
+496265a3e8a0837ca8879b61aa6b357c,9234553347b3ddb168b4f285185f82f6,68.4,2023-07-25,Failed,MAD484,Madhapur,Hyderabad,Debit,Merchant_78,Groceries
+4d9755f4de8212691eacf626c7fb986b,36e261240f59f5896b039b46ab1229d4,678.73,2023-03-01,Successful,MAD844,Madhapur,Hyderabad,Credit,Merchant_10,Health
+7fa06c26426e1822494bd1ab2beaf040,b4f8aca5d4d6ad9673e01d750d21214e,400.85,2023-01-06,Failed,MAD751,Madhapur,Hyderabad,UPI,Merchant_47,Clothing
+e0055d627df4b65a221495340d83a840,2c0fea0c1e2cf76643da384b8eb9557f,978.58,2023-10-08,Failed,MAD384,Madhapur,Hyderabad,Net Banking,Merchant_34,Clothing
+9723c5b0333d2e63cd882c17089e33e4,13cca4c6a13a43548507560d34d20b96,548.61,2023-06-05,Successful,MAD852,Madhapur,Hyderabad,Debit,Merchant_60,Electronics
+4ff3e3c1dcba73965f3bb46fd2a3a571,1dc80bc00590f1ba3af43656e7d2104f,703.5,2023-11-14,Successful,MAD364,Madhapur,Hyderabad,Credit,Merchant_23,Health
+6c66548544027f58873309d04200ceea,cb1d1bb905e0bcaa04fb36412c7a7b52,701.94,2023-09-20,Failed,MAD506,Madhapur,Hyderabad,UPI,Merchant_37,Electronics
+b17edb31affe5c9e6391c7968371c17f,17359308b6f0ae0efc6e3de657d6fd54,386.31,2023-03-06,Failed,MAD448,Madhapur,Hyderabad,Net Banking,Merchant_47,Electronics
+f5263b0cc11332240ab46097592eb5c4,810ad1b8facd680458c65aedda3b63c7,185.37,2023-08-23,Successful,MAD236,Madhapur,Hyderabad,Credit,Merchant_88,Clothing
+7d4a85bf5315693af3130b32b539a911,026154a5b64ff71177bb3101f79706c8,509.03,2023-06-02,Successful,MAD430,Madhapur,Hyderabad,Net Banking,Merchant_52,Electronics
+689902d34784cc1134109a25221ad936,8c3ad2ee92fa1cd9791934692f4fb610,269.58,2023-09-21,Successful,MAD941,Madhapur,Hyderabad,Net Banking,Merchant_3,Groceries
+6fb614769329c7651a4167ae8a6aac81,8ae9cb2c12bdd90f269244ddb5bf5a22,158.72,2023-10-11,Failed,MAD679,Madhapur,Hyderabad,UPI,Merchant_4,Electronics
+62c71d6f2b13ac72045f0a1626f2579a,d129368ef6195892d973fc8cd1626ca5,491.1,2023-01-03,Successful,MAD833,Madhapur,Hyderabad,Debit,Merchant_41,Health
+370dc6a44f7c51e7b5d82f6636bf5028,c0858078c0f252b5845345c0be947384,186.31,2023-03-21,Failed,MAD610,Madhapur,Hyderabad,UPI,Merchant_35,Clothing
+7307e8b00b9c18fae021031a6e15a050,7d175d1b881d0a57c450cfa52ffc630f,669.03,2023-11-27,Failed,MAD681,Madhapur,Hyderabad,UPI,Merchant_62,Clothing
+49122c5856dcf61fd5bd270f3f70ce07,c6c4b8ec60a087b48cdc64e136c59cc8,447.33,2023-12-11,Successful,MAD828,Madhapur,Hyderabad,Debit,Merchant_22,Groceries
+96f1bf56fbb6a2b2c9ef9745bd74792f,1f168631ec6a2f2090b017276985a4c0,415.02,2023-09-20,Failed,MAD230,Madhapur,Hyderabad,Debit,Merchant_32,Groceries
+0f11aed5931b1450d634612914e3de61,11c1a4fd20e12421f6c3eef7080c027c,230.5,2023-03-28,Failed,MAD965,Madhapur,Hyderabad,Net Banking,Merchant_41,Clothing
+a2eeec483759e6b6f6b46e0abb24426d,0fd2555096951165dc5afd0aec2604cb,700.74,2023-06-29,Successful,MAD248,Madhapur,Hyderabad,Net Banking,Merchant_45,Groceries
+185952e6568426f32e342037489de20e,aa9cea832043a3e36c4f477d440fcf5e,28.12,2023-04-12,Successful,MAD618,Madhapur,Hyderabad,UPI,Merchant_45,Groceries
+a564ce1ea4f3b1eed0c33d6436a6ef73,9711dbe0f074476d3fb604a14e9cfca1,87.36,2023-05-31,Failed,MAD611,Madhapur,Hyderabad,UPI,Merchant_96,Electronics
+4684b18323ee086f332c58920a657165,4601791e6566aeff13911a5077563579,364.28,2023-12-03,Failed,MAD825,Madhapur,Hyderabad,Credit,Merchant_7,Electronics
+c38b420ee008322e01c6beb39b32e737,e554333b52787479c4739e65d575d597,718.0,2023-08-31,Failed,MAD294,Madhapur,Hyderabad,UPI,Merchant_27,Electronics
+52f203d920685ade38c8509d56f2ced5,466155bcc5cb47e80172f7d0984bf7f5,412.64,2023-08-15,Failed,MAD429,Madhapur,Hyderabad,Debit,Merchant_48,Health
+1d03d21893381a74f2c2d10550652f3d,c03329538a17a06ccf57d14061eb299a,393.59,2023-08-27,Successful,MAD700,Madhapur,Hyderabad,UPI,Merchant_55,Electronics
+266c268cba0be92ea2ea723fab662810,0f3499d04f7dca0ad85ffb338553a6cb,102.86,2023-01-25,Failed,MAD814,Madhapur,Hyderabad,Debit,Merchant_70,Health
+90fab73c672174e61750dd2ff8b48253,69c47d9f190c97da007ffd838778a896,692.42,2023-08-13,Failed,MAD281,Madhapur,Hyderabad,Credit,Merchant_14,Clothing
+e5a247e3e4007592d6a4a6d5d225b83d,ac0228a777cfe2d30182c66e729a31eb,286.22,2023-12-24,Failed,MAD437,Madhapur,Hyderabad,UPI,Merchant_84,Clothing
+36d80d5e01a08d350d85ea953457b9e9,c08269be63d7277dc1559fcd96ac4adb,24.54,2023-12-06,Failed,MAD878,Madhapur,Hyderabad,Debit,Merchant_24,Clothing
+24db85f7b08790b6351464d6248af453,758b41864a0c0d4d603a34aa229f9a14,945.21,2023-03-23,Failed,MAD728,Madhapur,Hyderabad,Debit,Merchant_34,Groceries
+7d37249885b1ca0adc707f2d4715c93c,2950434f47db07d6c3c49a553f65f1ed,591.42,2023-07-24,Successful,MAD397,Madhapur,Hyderabad,Net Banking,Merchant_68,Clothing
+7647ea11e9ed30e05a4cd7477c85a2e7,43b5a9ebea448beacc462087117f708d,71.96,2023-05-09,Successful,MAD944,Madhapur,Hyderabad,Debit,Merchant_21,Electronics
+b7eefcbca9b4d61abe77c2bf1667071a,5485570e44e770f686c476e0334478ec,332.69,2023-02-11,Successful,MAD647,Madhapur,Hyderabad,Credit,Merchant_100,Electronics
+1a9351a963564d73b97df14bc0c41b98,c92c6b2879c6144a0fff737eb9386fce,772.22,2023-07-06,Failed,MAD912,Madhapur,Hyderabad,Net Banking,Merchant_42,Groceries
+fa7916a55a2bd9b0e5f70886e16f19b6,cf8b547d2d263b50ee4b688dc280b99e,488.7,2023-10-24,Successful,MAD847,Madhapur,Hyderabad,Net Banking,Merchant_54,Health
+4786a26a6685ed780f244c24b60bae06,16f5bf8dc83c718b55a76f913d2ee206,427.92,2023-06-26,Successful,MAD479,Madhapur,Hyderabad,UPI,Merchant_54,Groceries
+60a90e3e6dd4c1b3d99f2207fd33a7c1,f6840573e389b9737b047c2381821b8e,198.25,2023-01-30,Failed,MAD413,Madhapur,Hyderabad,UPI,Merchant_46,Health

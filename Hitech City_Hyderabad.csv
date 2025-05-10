@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+c2bef5094141c2c337ea84c392ff771d,3f6f6085bd0f1936f50adee3ff079cea,15.44,2023-09-27,Failed,HIT857,Hitech City,Hyderabad,UPI,Merchant_92,Clothing
+cc85e2b4fd0a4ac4a6c8cfb89e2dc699,5474d521783f7cb0a070c14ab7cc207e,327.84,2023-07-18,Failed,HIT805,Hitech City,Hyderabad,Credit,Merchant_48,Health
+8d75c601cb7f30de5aeb0e34e80a947f,a8c2f052c168c6fc0be7761e26aba99d,400.54,2023-04-03,Failed,HIT220,Hitech City,Hyderabad,Credit,Merchant_100,Health
+6ead7a180653da170164b573009d55bd,ef444329db2dbb4697966c38b3e009c7,262.11,2023-02-14,Failed,HIT257,Hitech City,Hyderabad,Net Banking,Merchant_52,Health
+8333ce89f6f1c7ec3f3cdebd5faba559,bb8a4cfaf9ce75cb7ef5e0b5d03fc68c,266.19,2023-10-30,Successful,HIT337,Hitech City,Hyderabad,UPI,Merchant_57,Groceries
+d318ebdc50577dcce87bb6d52cf22dc0,364947397af4c5a847e3f613b32d9ff0,832.33,2023-09-29,Successful,HIT584,Hitech City,Hyderabad,Credit,Merchant_67,Clothing
+c1c273dba349a9174ca397904d8345f0,6c76d68b63725401b7497949a8f78ab0,441.44,2023-04-04,Successful,HIT494,Hitech City,Hyderabad,UPI,Merchant_14,Electronics
+4b1c5348ae06ee452795cc80b84025f1,0b6bb9334496d3a80d99ffd7f69f8e96,292.81,2023-01-27,Successful,HIT986,Hitech City,Hyderabad,UPI,Merchant_91,Clothing
+2afa118c1b3881f28a95fee84ea7c277,756d96a79f586a81a54f5a21a2966f08,576.25,2023-04-16,Failed,HIT888,Hitech City,Hyderabad,Debit,Merchant_83,Health
+1f6c25d2fc03230f20854ba82c39cfe4,8cb52b50393b95d7a81f2e57e2c1aaf2,177.28,2023-03-28,Failed,HIT684,Hitech City,Hyderabad,Credit,Merchant_11,Electronics
+8a29feaca06f141c6fb6d1c46cbaa380,87f443b80c0aaff825c1a41a262ddb94,785.04,2023-04-10,Failed,HIT611,Hitech City,Hyderabad,Credit,Merchant_88,Health
+f6b12679b99b7c09685aee4104b72fd0,e4bf1f9b5b2ae0d007c7da95bc8085a1,996.7,2023-03-29,Failed,HIT701,Hitech City,Hyderabad,UPI,Merchant_34,Groceries
+817966f939fa2901d46b77f0ff542cf3,e46f31ce3f935bac07f97452909a8527,914.63,2023-09-10,Failed,HIT549,Hitech City,Hyderabad,Debit,Merchant_43,Health
+f722eba8f9ea1b8424232dcd534995cf,38b8bcc78331f411464359ae7e06039c,919.87,2023-01-25,Successful,HIT391,Hitech City,Hyderabad,UPI,Merchant_8,Electronics
+c2d723f10c1050c1f5bd019cac16eb28,50855cdecb78c457f02f3f0673c1daea,949.62,2023-07-25,Failed,HIT439,Hitech City,Hyderabad,Net Banking,Merchant_88,Electronics
+d7873645c9c8af44079304c049fa6295,22a1e99d5e50fd82420abb49bc34cf95,221.47,2023-12-31,Successful,HIT513,Hitech City,Hyderabad,Net Banking,Merchant_22,Clothing
+066734bd14f39fcd1c2f92c8271b8be2,8e5694fc466547f5703f2fc002479e04,485.22,2023-03-14,Successful,HIT766,Hitech City,Hyderabad,UPI,Merchant_88,Health
+2e5f8af3ca81a5da7cfe4cdac43a8d40,a09dac77abb99eb3a2bddef75f2e8544,554.34,2023-12-25,Successful,HIT317,Hitech City,Hyderabad,Debit,Merchant_30,Groceries
+bed62bb2ae182cb51e77d956c7acddd5,311fe6348783dadaffb5a9430ed4efde,589.95,2023-04-07,Failed,HIT709,Hitech City,Hyderabad,Net Banking,Merchant_23,Electronics
+bd21f494de4b25a505d208388d355eb1,a319456acd90aa12a588b077eac05667,425.32,2023-09-14,Failed,HIT469,Hitech City,Hyderabad,Debit,Merchant_13,Health
+fa706042065395f69096338caf93a5d1,5e5d0e7e7b76ab9bb1142a289da12e42,809.78,2023-08-14,Successful,HIT302,Hitech City,Hyderabad,Debit,Merchant_20,Electronics
+34bd6e9df6ea93d7ee97beaa44a18ed8,bfa34a66bdfaed0f825c2e05ca0737f8,417.5,2023-08-20,Failed,HIT274,Hitech City,Hyderabad,Net Banking,Merchant_45,Electronics
+92499244c9d2c4f41ca6ca6d52985610,6769f1182a7f4411eeebb4662174b829,863.55,2023-05-19,Successful,HIT986,Hitech City,Hyderabad,Credit,Merchant_84,Electronics
+dafd934e23ceaf2253913cc6c02f00f1,7ea1538b6dbb817fc5ccbd7877dcac4c,866.45,2023-01-25,Successful,HIT582,Hitech City,Hyderabad,Debit,Merchant_2,Electronics
+75ad5692eccbd7c0ae9a5bddaf6a8fae,545d9acb064886387f55ca73fa7f6636,949.71,2023-08-06,Successful,HIT581,Hitech City,Hyderabad,Net Banking,Merchant_94,Clothing
+b8370b86621b5753e85e86123d3add80,8c58988b471964fa79b04ea2d3768731,709.07,2023-05-10,Successful,HIT249,Hitech City,Hyderabad,UPI,Merchant_15,Clothing
+eb3715973ada762a666b59cf3016be3e,7f690261b5a0e11e33c44faa3f2d5bc5,330.26,2023-09-09,Successful,HIT757,Hitech City,Hyderabad,Debit,Merchant_41,Groceries
+d35ddf34b7a530ecbf1918ce93a951c6,891c2e3a26f96e512fbf409ff269c405,763.69,2023-04-23,Successful,HIT365,Hitech City,Hyderabad,Debit,Merchant_26,Health
+d20d43886265de6571176a080f06883e,cc4063355d9cf3f12feafbb44fbbe26e,262.32,2023-03-23,Successful,HIT518,Hitech City,Hyderabad,Net Banking,Merchant_68,Health
+a52e88a670fa05dccbe75d0d485402f3,26982d76e6a915923ab7d546ce53e727,302.48,2023-04-28,Failed,HIT217,Hitech City,Hyderabad,Debit,Merchant_47,Electronics
+36b7113c1e83eaae072f7875239b5070,8f0a70f92f1c9da8921b3d4d51361fd0,70.05,2023-08-05,Failed,HIT186,Hitech City,Hyderabad,Debit,Merchant_94,Electronics
+3ff5b39cb5c50cebdd3de52044f3d1ff,9f5cab706873cd5eb4fe8ffaaa04d361,826.21,2023-11-13,Successful,HIT718,Hitech City,Hyderabad,Debit,Merchant_33,Clothing
+6a167b86331f36065612070352d95b53,cbae2fc8099fd870b84ec4a508a6c97f,622.74,2023-07-25,Successful,HIT552,Hitech City,Hyderabad,Debit,Merchant_20,Clothing
+c30232014ea8f985d76ba2d0f122e54f,1c67ed2ef8f21b0b5cf6585133aa3683,918.78,2023-02-03,Successful,HIT563,Hitech City,Hyderabad,Net Banking,Merchant_95,Health
+24f98e8fd3a934b90c339c42cdc99c28,9047e8a1b9e2b4e40512f0a17dfb9427,528.69,2023-06-05,Failed,HIT882,Hitech City,Hyderabad,UPI,Merchant_49,Electronics
+7095553b7cbe5565d6aaf9350d8572ac,614a4f3a8ef79c49efd6e8802fdc2934,820.8,2023-11-22,Successful,HIT164,Hitech City,Hyderabad,Net Banking,Merchant_79,Health
+e13e61a9ff10ae62f664c4e8a50130ec,68bf76399403c187e36c0f08ed956e49,463.25,2023-03-06,Successful,HIT970,Hitech City,Hyderabad,Credit,Merchant_41,Clothing
+3403f387eb13e3aaebd212dd229c408f,d85246c356c4a373f48ce38162bf69d2,744.26,2023-07-15,Successful,HIT418,Hitech City,Hyderabad,Net Banking,Merchant_30,Electronics
+038f1d4d674f08284bfe5c577ff6a589,41e7787dc4a86005356d9985031f5d51,792.66,2023-05-10,Successful,HIT267,Hitech City,Hyderabad,Debit,Merchant_72,Health
+9ca4843ef4f03fb59795d1afa5a54d15,8191737d9d791a81df13eb74a3729993,33.04,2023-01-18,Successful,HIT104,Hitech City,Hyderabad,Debit,Merchant_33,Groceries
+3ef2ed5eb792bcf98da98aceb92b3fc2,347b291619e394c838764a9146bbc4a4,403.09,2023-03-05,Successful,HIT886,Hitech City,Hyderabad,Net Banking,Merchant_81,Health
+afa15acd1f1b8a3814cdd576809741d5,7410144823e9701cb22918c6e4cf4f4a,739.5,2023-02-26,Successful,HIT306,Hitech City,Hyderabad,UPI,Merchant_77,Clothing
+a8fd021eede92ca24aa102cccbf1d014,5327b3013963690a24b5bd3824f74a75,604.92,2023-07-21,Failed,HIT702,Hitech City,Hyderabad,Credit,Merchant_27,Groceries
+3a227d56f65535d0bd297e1e10e3d6f2,fcf80e9f19fac6bafea26b23ce7df2b5,741.45,2023-07-31,Failed,HIT329,Hitech City,Hyderabad,Net Banking,Merchant_43,Electronics
+4bbced1d8fcff0909c214e3b3f5cb74a,57849cd2ad0ab1b7f40d58e24b2b4ee0,169.42,2023-11-10,Successful,HIT611,Hitech City,Hyderabad,Net Banking,Merchant_71,Groceries
+87b63d7e696e591d446431326f26d642,9e2fb3ba764663a78b3f2797b9c8a54f,337.89,2023-12-28,Successful,HIT627,Hitech City,Hyderabad,Net Banking,Merchant_96,Electronics
+b716d7f460764dda129d198d0cccd053,812a98113998499115d94839970e8d12,644.31,2023-12-12,Failed,HIT992,Hitech City,Hyderabad,Net Banking,Merchant_74,Groceries
+93d254551cca3633c3b07a2dc03b2386,943145553f83e61bce09a57238ffa11a,93.82,2023-10-20,Failed,HIT694,Hitech City,Hyderabad,Credit,Merchant_3,Health
+3bd92dc941e41bf6f97292fa7c7ff28f,278e28c2381c379d778444314d28b53c,543.29,2023-10-18,Failed,HIT387,Hitech City,Hyderabad,Net Banking,Merchant_71,Electronics
+85fdb727325ba6c2d3d0550b42bcd2e5,b893e0e072c9a1c60f91e68119c94657,353.07,2023-06-15,Failed,HIT532,Hitech City,Hyderabad,UPI,Merchant_68,Clothing
+d4b47b9729a5f146837897523c7217c0,da64567ef2d20a7ca321e6f8a5eb4f6b,143.4,2023-12-30,Failed,HIT895,Hitech City,Hyderabad,UPI,Merchant_95,Electronics
+0887df7bf723917e339604c3ddc73a39,93583447047e6a0e0f260900c6597a5a,951.22,2023-09-19,Failed,HIT546,Hitech City,Hyderabad,Net Banking,Merchant_42,Groceries
+b52d65a740512349d20dde36189b68e5,8be4941c53a432c1e4f57bac67fc68bb,953.49,2023-12-26,Failed,HIT899,Hitech City,Hyderabad,Net Banking,Merchant_48,Clothing
+e1e5cdee5cddc4484f4122411a40b4f6,fdadebd02a8596b7900160d4607146b0,683.49,2023-11-16,Successful,HIT619,Hitech City,Hyderabad,Net Banking,Merchant_53,Clothing
+4a27db16bd3a68b54123ac14e2cabd6a,b1dae0a0978d14e0b40ee322ed36811b,132.17,2023-10-17,Successful,HIT420,Hitech City,Hyderabad,Debit,Merchant_36,Electronics
+7154e79ff9f9012008211a35a763873e,d674688689281922ba4d18cd795f5402,767.46,2023-08-23,Failed,HIT252,Hitech City,Hyderabad,UPI,Merchant_42,Health
+1b58d2072e011989b4beafa5f9b08bb8,289d1063ba08bfa9aab4c11d10fefae3,593.15,2023-12-31,Successful,HIT995,Hitech City,Hyderabad,Credit,Merchant_14,Clothing
+ea81dfc2de083d7911428ea6abd2a1f0,6223fec7643b1cf92c1a810a49c50e13,319.86,2023-06-08,Successful,HIT440,Hitech City,Hyderabad,UPI,Merchant_17,Electronics
+5dd25f0fd9e80eae20ddc15a1b9c94bc,b20035369bebd12148ceaf48b832fcca,982.52,2023-07-21,Successful,HIT346,Hitech City,Hyderabad,UPI,Merchant_11,Groceries
+4714ed46548b17e1e11e65574056f30c,acb0b7749cf7f6746a783d3961f165e1,172.9,2023-08-19,Failed,HIT173,Hitech City,Hyderabad,Credit,Merchant_85,Clothing
+7a62573b870304b7ee3ac15e14f7da3f,86c1d25d06745e4a37463a6e812b2cb1,180.21,2023-07-03,Failed,HIT271,Hitech City,Hyderabad,Credit,Merchant_57,Clothing
+c32aac20b6c6b3ce434eb31346169ace,a72fa7daf25708460bb59db13af98d8e,21.36,2023-06-24,Successful,HIT929,Hitech City,Hyderabad,Debit,Merchant_65,Electronics
+e3127057ff086bfba98b4cdabb831d71,fa13db9d1dfa2a8a14d8bd892fef68ca,832.58,2023-10-05,Failed,HIT799,Hitech City,Hyderabad,Credit,Merchant_64,Electronics
+df511b56378acfbd9e23a32df2a53cb7,ac2cab8d9e3aae81d151dc724807ed64,66.95,2023-12-07,Successful,HIT250,Hitech City,Hyderabad,Net Banking,Merchant_77,Health
+f547c857895a788c967e013f28c2b143,8611945c4f3fb98ccd54f4b8c62eedb1,426.26,2023-09-28,Successful,HIT742,Hitech City,Hyderabad,Net Banking,Merchant_25,Groceries
+08f4e4077c3546e369e1f5905573b6e1,b663a5b902bb9ccf6e6dad5065861cbc,987.93,2023-01-04,Failed,HIT168,Hitech City,Hyderabad,Debit,Merchant_92,Electronics
+bc40cd5c1059b94e1fd8a1adf5349921,d4e09c4fdbbd9027604cb8e741924b77,50.34,2023-12-21,Successful,HIT507,Hitech City,Hyderabad,Net Banking,Merchant_61,Health
+5c4cfb12fb3910858b9d44030d8649df,5a92634a2e3d90086260dc3bce9f72fd,357.58,2023-09-07,Successful,HIT488,Hitech City,Hyderabad,Net Banking,Merchant_29,Health
+21aa14b27447440d2b64cd5fdfc3ef13,59aa7d943d121956d2b71c1ce641b289,667.92,2023-04-01,Successful,HIT467,Hitech City,Hyderabad,UPI,Merchant_78,Groceries
+14d815d652078a663e4eec7f89c53dcf,2afc6f4e8dcb6745a750a29891c88e55,420.83,2023-06-28,Successful,HIT843,Hitech City,Hyderabad,UPI,Merchant_97,Clothing
+96a4d4599718fc70523c05fcad9b2100,b38ad76da149f868bcede8e44d8153ec,601.09,2023-10-11,Failed,HIT501,Hitech City,Hyderabad,Debit,Merchant_63,Clothing
+5f399315ca40c67fa8dab1ef53d9390b,d92638fea608a55541ec4ba3f20d1b71,621.22,2023-01-06,Failed,HIT938,Hitech City,Hyderabad,Credit,Merchant_29,Clothing
+f18eefb3115456d06f9c7dcb81e8f955,5f6016d7bf8e5f93f7086be7e03cd340,277.27,2023-02-17,Successful,HIT393,Hitech City,Hyderabad,Net Banking,Merchant_51,Clothing
+d799e05ff3f6a4779bd28185cd099e9a,63cc1282eaf56dc27b565ea55fe3ba7f,45.67,2023-10-29,Successful,HIT777,Hitech City,Hyderabad,Credit,Merchant_44,Electronics
+e3f6dc373a637a2954620dadb662f1c4,f972daf909a64c08953852cfe574ddb3,224.32,2023-03-15,Successful,HIT914,Hitech City,Hyderabad,Credit,Merchant_61,Groceries
+5e499e1087f8c98e56c3c7e4fd5276f9,529373a90abc9cc6b93108d2ace2a26e,655.55,2023-02-13,Successful,HIT147,Hitech City,Hyderabad,Net Banking,Merchant_94,Health
+f691af642f6d978ef557a663053d1042,84be5d055fa3a8ad2c81a259f719acc6,906.09,2023-07-31,Successful,HIT352,Hitech City,Hyderabad,UPI,Merchant_48,Electronics
+93796bcc19c50cf5993c0704e199dcb5,3b5db195a2e5b1e3e99093f88618b376,247.63,2023-08-05,Successful,HIT295,Hitech City,Hyderabad,Net Banking,Merchant_33,Clothing
+1f6e0107d645c0f7a693cbc4408c4853,d8ca755d0ed304ca4521be043f018539,927.53,2023-02-22,Failed,HIT340,Hitech City,Hyderabad,Credit,Merchant_8,Health
+a95b876b73f7c0bfc37cf92bccfa3f33,1be29e3d04bb88c7406473988dfb594f,535.28,2023-02-12,Successful,HIT429,Hitech City,Hyderabad,Net Banking,Merchant_70,Clothing
+16d95f040c999617c56811717c13ab92,0715d52f6a0069c267db4e1f50b910f0,253.88,2023-04-07,Failed,HIT809,Hitech City,Hyderabad,Net Banking,Merchant_4,Groceries
+575474d0d4c20f8528cd9403113703ad,d071ef787aff275ccfb20fbf32761638,758.06,2023-07-22,Successful,HIT613,Hitech City,Hyderabad,UPI,Merchant_61,Clothing
+d34e3ae8f74707901ed0d66f0a561af3,b0a25db19110a8daae58a19d2164e6f8,534.98,2023-01-04,Successful,HIT833,Hitech City,Hyderabad,Debit,Merchant_17,Health
+31ed5591a7a0d53c3f624ac51bedd5fe,44563b4522e0b4244b548c7ebcff9c70,630.3,2023-07-30,Successful,HIT485,Hitech City,Hyderabad,Credit,Merchant_76,Groceries
+f0843ca0ba245bb252f8fd608d929e8f,d05010e458e74f852567520373fe940c,232.6,2023-11-09,Successful,HIT408,Hitech City,Hyderabad,UPI,Merchant_85,Health
+30f3e6591a3cb8cc5d0b4b08f8caebf6,52390157df12b072fdd66dee39db66be,666.72,2023-02-25,Failed,HIT118,Hitech City,Hyderabad,UPI,Merchant_39,Clothing
+8448dfa8aaefb1deee140627d0dde62c,ed69c22c02315be8193120a3309021ff,155.28,2023-06-29,Failed,HIT368,Hitech City,Hyderabad,Net Banking,Merchant_58,Groceries
+4c481a88a472a82fe309d0c07d41dc4c,6576c3fa22259d5c27161be38cb6b9f7,478.46,2023-02-18,Failed,HIT385,Hitech City,Hyderabad,Credit,Merchant_56,Clothing
+2c28ac60119eddc36f3bc408a99381b3,ca09aec2f13caa63f0c3a6f910cba27e,479.65,2023-02-02,Failed,HIT141,Hitech City,Hyderabad,Credit,Merchant_90,Clothing
+b48363b96f13321b42781490afaae493,b2d75953735bc2e947184a19c22bcf89,961.65,2023-12-10,Successful,HIT300,Hitech City,Hyderabad,Credit,Merchant_71,Health
+8ec7dfe2d5eee8b9fe2f4911e8323a06,53173c527f0b4f5173bc0104680712dc,563.48,2023-10-15,Failed,HIT187,Hitech City,Hyderabad,Credit,Merchant_3,Health
+f1f5a42a428973323753779a1132cade,dd5a2b3eaf24ee472354abb34b07c092,137.07,2023-01-23,Failed,HIT991,Hitech City,Hyderabad,UPI,Merchant_98,Health
+77f69bf2adcd095a8b18a64bd4e76c04,762ad89f50dc1d41c3755bd68af5e5d8,392.11,2023-09-20,Failed,HIT182,Hitech City,Hyderabad,Credit,Merchant_18,Clothing
+52149d896d026d8cbfb67cc8a993a2e5,566a60b551cf8b90fc27b4f44ac71d6b,110.63,2023-05-25,Successful,HIT737,Hitech City,Hyderabad,Net Banking,Merchant_2,Clothing
+536661346f480b07d790eeb9f75a57c4,10d01b4adef86067a4e5f6db03280511,327.83,2023-08-29,Failed,HIT304,Hitech City,Hyderabad,UPI,Merchant_42,Clothing
+871a1353b1f62489639bd9356860c3e9,9d264f15259a0b50b190eb8353496ebe,31.0,2023-01-02,Failed,HIT531,Hitech City,Hyderabad,UPI,Merchant_19,Clothing
+95dde38e81c1b6ad45f550b936ded6be,8cfcde89ad2045faf839344c504a3277,866.11,2023-01-29,Failed,HIT289,Hitech City,Hyderabad,UPI,Merchant_24,Groceries
+171b5787bca6b3f06a156b3064ced477,c6544e4819403b7c773661468555e1fa,53.98,2023-06-24,Successful,HIT374,Hitech City,Hyderabad,Net Banking,Merchant_66,Electronics
+b3a113137bfa28ddf0d3b47de8384236,a7f96c740740d08d18377d600531ecde,534.59,2023-01-02,Successful,HIT944,Hitech City,Hyderabad,UPI,Merchant_36,Clothing
+f753992d021a7f347beee332365c3649,a6ff49d45b7d72fe1b5a9ddf5e946d84,969.15,2023-09-14,Successful,HIT843,Hitech City,Hyderabad,Credit,Merchant_79,Health
+dded009901803b3fd24a6127dd7db710,15fff38dcd851f75851a6e4a4b7ec0f0,800.54,2023-06-04,Failed,HIT290,Hitech City,Hyderabad,Debit,Merchant_18,Electronics
+caf6deffaf4f7b4f8f8b4bf5edd35d7b,5bd4858c1accb95bfc3f852f3860a93d,643.52,2023-04-18,Failed,HIT734,Hitech City,Hyderabad,UPI,Merchant_66,Clothing
+e560567eba528ae321ea45c62975a9be,425f5f39fb3b88e53a10850997594f86,447.15,2023-09-22,Failed,HIT210,Hitech City,Hyderabad,Net Banking,Merchant_71,Groceries
+003cae43c4036e2f31c0f2dc5380e61e,92a1c414ecd7f01d17f0a2c2ca256a64,824.86,2023-01-08,Failed,HIT102,Hitech City,Hyderabad,UPI,Merchant_63,Groceries
+c28fbd1029f2ce5deacfa6eb92176c9c,1dc5ae47fd7eff1a75bf3b93e80dcc13,566.22,2023-08-31,Successful,HIT263,Hitech City,Hyderabad,Debit,Merchant_92,Health
+e4387ac916bb3516a3a320797fdd1f4d,54353914d03d87390d0c3210ec3e9066,733.49,2023-07-01,Failed,HIT295,Hitech City,Hyderabad,Credit,Merchant_23,Health
+f2d677d6f094bb241d38d1b49d03f34e,cb998dea284f8d582e5a7860b5adeda4,266.78,2023-06-11,Failed,HIT688,Hitech City,Hyderabad,Net Banking,Merchant_89,Groceries
+1495a03d53d1c1e44936e90377acc496,f36e9bbbd24fe2fe283bdb68b1441964,846.97,2023-10-23,Failed,HIT610,Hitech City,Hyderabad,Debit,Merchant_68,Electronics
+cb06db7a3da08066a541066b3ea27e6e,54f4e87634a9f8a70ea1095e9086f55a,667.13,2023-09-30,Successful,HIT472,Hitech City,Hyderabad,UPI,Merchant_18,Clothing
+018177fca67eb61220718ee4c0cddc77,087ce02e924ce763cf2c0eedda2db15d,725.63,2023-10-05,Failed,HIT912,Hitech City,Hyderabad,Credit,Merchant_76,Electronics
+d3247440d8b45a2c9030d30fef28efab,51b72cbe5fccb446efe8bd76e4afdd20,387.85,2023-05-02,Failed,HIT810,Hitech City,Hyderabad,UPI,Merchant_90,Groceries
+ebcac5741d3548637a67bb195e3c76ed,aaa685b0bec13331b2854d21c44650af,582.95,2023-05-09,Successful,HIT483,Hitech City,Hyderabad,Net Banking,Merchant_21,Electronics
+2eff66d9a1064932e5cb6d623c66e4f9,9f64abfdd66faa2a5da8e4901900edce,910.21,2023-09-26,Successful,HIT789,Hitech City,Hyderabad,Credit,Merchant_50,Health
+c47e097a2dbf4037270ffd11667f87d4,bb9a8b3f709c3c84eac6ed8433ca1af2,58.61,2023-01-08,Successful,HIT910,Hitech City,Hyderabad,UPI,Merchant_22,Health
+42f7bb41a3746abd83b615b3472a271e,1b9fe43beb2caae6505e0a03eae593fc,46.31,2023-07-18,Failed,HIT914,Hitech City,Hyderabad,Net Banking,Merchant_78,Electronics
+38de0b7a16ea1d184098a95a5d919ea4,702c8dca79078e8f4806e24b66365084,914.83,2023-03-02,Failed,HIT225,Hitech City,Hyderabad,Debit,Merchant_100,Clothing
+cd16853b6b760f794ebf8987a3abe4d9,b229234d7eff0e01363366a67712b20c,883.45,2023-12-17,Failed,HIT519,Hitech City,Hyderabad,UPI,Merchant_65,Health
+edfd562085f895be8dd9e2a203700a81,95fe5ab6001c1c13baeff3486511344c,961.17,2023-10-09,Failed,HIT111,Hitech City,Hyderabad,Net Banking,Merchant_93,Health
+11e5a1437460fffe487cab4454f34332,4776bbbe0d48a8a5b207fb6f863e45c6,230.8,2023-03-13,Failed,HIT524,Hitech City,Hyderabad,UPI,Merchant_100,Electronics
+d5d890a144db6b925e1fb6785cfbb2df,cdc4eca3d9320dbfff9bfef1a9fad490,497.07,2023-09-03,Failed,HIT181,Hitech City,Hyderabad,Credit,Merchant_4,Clothing
+fca1275a77e6312024b0cee86f148e3e,96cbef7af0edb46b10da0051befd1c9d,519.23,2023-06-24,Successful,HIT799,Hitech City,Hyderabad,Net Banking,Merchant_46,Clothing
+7d89031f946b39217a341244bfa24838,062d9ba9a2a4035385e4c48dcf4e2de9,920.59,2023-03-10,Successful,HIT220,Hitech City,Hyderabad,UPI,Merchant_71,Clothing
+47469daab34bdbbc7e6b9cdb28b5bf55,c72eb68094c21f4b04ffee955fb66b2e,49.84,2023-02-15,Successful,HIT987,Hitech City,Hyderabad,Net Banking,Merchant_43,Clothing
+182b4f51ddba00625a37ad3945c7c919,013a8750ee498a6e36af36ddf418d373,424.13,2023-10-09,Failed,HIT702,Hitech City,Hyderabad,Debit,Merchant_67,Groceries
+525b59ee8fa93d433f5553bab22f0bb6,ba37c52c1119d46fa1366b1a5ff0db4d,126.12,2023-01-24,Successful,HIT313,Hitech City,Hyderabad,Credit,Merchant_50,Electronics
+686ca2faece20ad0ab2f5697e0862eae,f4369ef9aa1ab1ea5286acb4bd92784f,822.69,2023-09-12,Successful,HIT778,Hitech City,Hyderabad,UPI,Merchant_49,Clothing
+7993b5023b92364a008b68e113e0e91f,7a067cc032b67b4e44788a6d326cfe58,677.74,2023-12-10,Failed,HIT793,Hitech City,Hyderabad,Credit,Merchant_8,Groceries
+a8d8761137a4fe0ab792afa6d239ca38,ac40c1515394268e970a3b512fae8114,642.79,2023-05-24,Successful,HIT298,Hitech City,Hyderabad,UPI,Merchant_6,Electronics
+3d271435adb8f6c84ae11638b835a758,c49a3d4d62511265f2f290bce33accde,261.22,2023-07-14,Successful,HIT553,Hitech City,Hyderabad,Net Banking,Merchant_98,Groceries
+d60377bd04007587a8b939785c61356a,56665d6fc4870d61d6df4a84f93dfa13,458.6,2023-05-14,Successful,HIT504,Hitech City,Hyderabad,UPI,Merchant_80,Health
+aeb29da3971bcf903c6ca9c78b9534ee,4a7261a77c158c470c991a03b40b99d5,411.92,2023-04-10,Failed,HIT477,Hitech City,Hyderabad,Credit,Merchant_7,Groceries
+12eae603d487ff7e0b513cd6e0079379,172ab689c901372837fc4268ae190f35,429.96,2023-03-19,Failed,HIT551,Hitech City,Hyderabad,Net Banking,Merchant_71,Health
+2732de2f0ab5bb48bf7f4421a63df29f,e9790f3c2dd935f628ab6987cbe95579,971.59,2023-09-11,Successful,HIT998,Hitech City,Hyderabad,Debit,Merchant_32,Groceries
+2006c419cb2d8ac5898e42a679c25df5,c93b181e34f900725c6b93e334ee33eb,738.43,2023-02-11,Failed,HIT976,Hitech City,Hyderabad,Net Banking,Merchant_58,Electronics
+585fbc23a495f20bf2f31d8e775655a2,ab1497bbae0af8e33d1d23a1202c636a,619.12,2023-07-12,Successful,HIT462,Hitech City,Hyderabad,Net Banking,Merchant_38,Health
+d1620c70ae7299e71f63ac686f10bbfd,dca98f085720545a0ed1551ebe27ce8c,109.35,2023-04-03,Successful,HIT448,Hitech City,Hyderabad,Net Banking,Merchant_56,Health
+c9b475ea1ad11e65fbb1f1402a4e0046,94f259f241ad1e6318573e08b6eeea2d,211.69,2023-11-11,Successful,HIT400,Hitech City,Hyderabad,Debit,Merchant_71,Groceries
+da80cbc6218da5c517de3b8d52d2c303,fa65c19c18841cfd4ed3d5807b59a0d3,905.92,2023-09-03,Failed,HIT995,Hitech City,Hyderabad,Credit,Merchant_4,Electronics
+94f6aaa06a2bee28d2faa3efae3a826f,c0db4139a3546ef442ada00b93bd0cf4,467.96,2023-05-15,Successful,HIT575,Hitech City,Hyderabad,Credit,Merchant_12,Health
+a418043d1c336f259a3f1d4adfb4150b,8d4792fd647e8bf790997d1357879c90,832.65,2023-08-21,Failed,HIT147,Hitech City,Hyderabad,UPI,Merchant_52,Health
+b3cf196796fb690a8ecd20e014cb3a62,afcf86ac0af8b6d1c08d1d9be94c99c0,145.92,2023-03-15,Failed,HIT912,Hitech City,Hyderabad,UPI,Merchant_79,Electronics
+2f9f4ab259a28da53d4e02b070f47efa,43bdc9e8b952ce3a4fbe4d34e4d52f78,718.15,2023-04-08,Failed,HIT829,Hitech City,Hyderabad,UPI,Merchant_18,Clothing
+d790fa2be2ba73c53972692209b2e1d5,656fb47bf74e436605b1114ca00c6270,679.96,2023-02-16,Failed,HIT185,Hitech City,Hyderabad,Debit,Merchant_51,Groceries
+e31f401e1563f3917e1e8f22937b8346,8c63c9ca21b8d46237c3639ddeac161d,196.2,2023-11-07,Failed,HIT193,Hitech City,Hyderabad,Net Banking,Merchant_36,Groceries
+d103139ff9a5957067418463a0d9235f,5a26cf19576b3c0628e0972909aeeccd,491.96,2023-01-01,Successful,HIT104,Hitech City,Hyderabad,Credit,Merchant_82,Electronics
+9a22f1f81dd815a808e57ae42ca608da,46f79086d591d9477dfe37411d5ed2e6,782.6,2023-04-05,Successful,HIT809,Hitech City,Hyderabad,Debit,Merchant_20,Clothing
+866574a406663d40a4b7600f8c27c7e6,5a972c0dd58d3b62cd557c390e6a3dbb,685.67,2023-09-25,Failed,HIT769,Hitech City,Hyderabad,Credit,Merchant_51,Clothing
+3f85eae96654b15957d2e4efd2c61838,7f68d3da163af282fcba088e18ad6101,865.69,2023-05-21,Successful,HIT393,Hitech City,Hyderabad,Debit,Merchant_81,Electronics
+045e5b6baea3baa161dd4eb5534548e6,2a9507d97d4acfa308e61cafab483bb7,961.0,2023-02-15,Failed,HIT829,Hitech City,Hyderabad,Credit,Merchant_45,Groceries
+18783b314ca0bb2da8bf28401a781b61,82d00ff818bad8f5b1588cf20e3e463a,135.68,2023-08-05,Failed,HIT909,Hitech City,Hyderabad,Net Banking,Merchant_6,Clothing
+62406a995e6eeff8b0bf14340144cd93,d088e90899da53e839f62d0c7eed753a,341.29,2023-11-05,Successful,HIT629,Hitech City,Hyderabad,Net Banking,Merchant_58,Groceries
+8f3fe652a1679d2968b5fff367c4723a,fa8c35e45a12207a5e0d9b48f869f8dd,780.99,2023-10-04,Successful,HIT290,Hitech City,Hyderabad,Debit,Merchant_98,Groceries
+b8337be8a8c6b009e808012f5ebbeb27,fc39166ea7bb8141e1d4287a4eef8bed,612.92,2023-03-01,Failed,HIT752,Hitech City,Hyderabad,Debit,Merchant_25,Groceries
+426d8bf27f4d6bd0e5e19c3aec3a86aa,03a2bbf609c7a2702dcc5cbcaf2bc9e7,91.07,2023-09-20,Failed,HIT821,Hitech City,Hyderabad,UPI,Merchant_40,Clothing
+76f718545d085061a994bc1baf4fd46c,0e914b89e0d727f4c0b1398426a1315c,404.92,2023-04-29,Failed,HIT517,Hitech City,Hyderabad,Credit,Merchant_18,Clothing
+745cde4d845b1892d3c14ce54c210df5,439889028bcfb6e798d04fffaacae819,819.66,2023-04-23,Successful,HIT463,Hitech City,Hyderabad,Debit,Merchant_50,Electronics
+a5750bcd181196402738b6591cb7c0cb,aa5bb70eb9453a6f5cf833c03a373d5a,742.9,2023-06-23,Failed,HIT675,Hitech City,Hyderabad,Net Banking,Merchant_30,Electronics
+6fe8c1ce4a9975489e318a59a2b82d5f,be51fea5f5bcbea12ff0e4a59e6a2f37,767.48,2023-10-07,Failed,HIT686,Hitech City,Hyderabad,Net Banking,Merchant_37,Groceries
+e219a460668136f6fb7fd5fe3dfcc420,de737bfc410eaec213996ddbc3e288bb,319.08,2023-06-19,Successful,HIT436,Hitech City,Hyderabad,Net Banking,Merchant_24,Groceries
+e9854408e39149ef1998d4f58e17f222,808da99ca2ba6ee7ca1c3aaaf451aecb,436.21,2023-01-23,Failed,HIT341,Hitech City,Hyderabad,UPI,Merchant_92,Electronics
+7dc733b53100a7e4b5fbae863b8c2b34,0d43c5272e5e4a7655ef9807108743b9,794.98,2023-08-19,Successful,HIT351,Hitech City,Hyderabad,Credit,Merchant_8,Groceries
+bab7e79592bc5ce802d38b929191426c,a67141b4c272ead70f44236ee5f96ec6,711.68,2023-08-20,Failed,HIT974,Hitech City,Hyderabad,UPI,Merchant_14,Clothing
+6a46bfff355e681ac1d71e7f32e4378c,2e6e47fb2a2bbd518baaccc3c404709a,214.68,2023-04-28,Failed,HIT190,Hitech City,Hyderabad,UPI,Merchant_37,Electronics
+153e9102dbb738ee0c5aca8932a54411,98684aabcf7885ef6945dc3d635b50de,14.34,2023-03-29,Successful,HIT431,Hitech City,Hyderabad,UPI,Merchant_77,Groceries
+bdf80398e2eb059f051ce336306f7a0f,bbd4c3106513b99601e337bc6b658eac,929.66,2023-08-24,Failed,HIT546,Hitech City,Hyderabad,Debit,Merchant_38,Groceries
+3876d963f133f91088254c41d4312efc,88c7e28ea17ea9e976927d392069a7c0,176.17,2023-01-27,Successful,HIT945,Hitech City,Hyderabad,Credit,Merchant_46,Clothing
+3ad3c32ee6f7889744af679ab7653e57,9ca9673c2981fcae380eae6df1050071,227.42,2023-07-08,Failed,HIT490,Hitech City,Hyderabad,Credit,Merchant_78,Clothing
+d0bac02aa8d542e2c4d1acf24a58b27d,36c59791b539c50145b1ac1b237614cd,878.37,2023-06-02,Failed,HIT806,Hitech City,Hyderabad,Debit,Merchant_67,Clothing
+6d8691c9052b7c663ab0114190bd0221,0d17680e311a2ec7647c350cbc8f79d5,944.15,2023-09-20,Failed,HIT390,Hitech City,Hyderabad,Credit,Merchant_6,Electronics
+a756827e77754bfb1ff76e7cf35da3bc,27c2ca734d3e6f6348a20a20c6270852,851.65,2023-02-14,Successful,HIT375,Hitech City,Hyderabad,UPI,Merchant_81,Clothing
+6ebb070a54614b3443e0b9c4bd328b9c,41bb7e0326dfb144ea59b00db6751ee6,384.17,2023-06-02,Successful,HIT223,Hitech City,Hyderabad,Debit,Merchant_3,Health
+938828b30b8f909b47948d02149c57ce,c57c4a95f8d54f0889dfe566fe47d797,805.58,2023-10-14,Successful,HIT209,Hitech City,Hyderabad,Credit,Merchant_67,Electronics
+f59b84406687053cfc5016e3b3799787,af38b750b2523464ac58814a4706a1c1,439.8,2023-01-23,Successful,HIT905,Hitech City,Hyderabad,Net Banking,Merchant_20,Electronics
+d4c52a6efb0b510310ba4ed33c6a4a14,45c91d0f0b596747917418cb0fb955c6,704.95,2023-01-26,Successful,HIT641,Hitech City,Hyderabad,UPI,Merchant_28,Groceries
+9218c129f357e758ec3b57b3da9b33ad,e613600a3287af23e7b5222326cfcf39,516.47,2023-04-01,Successful,HIT680,Hitech City,Hyderabad,Debit,Merchant_5,Groceries
+9e6feebe24b26d51dbf7bb444e8e3741,ee47ba0fa69dc6725a0770c8b97d6cc1,282.37,2023-07-14,Successful,HIT507,Hitech City,Hyderabad,Debit,Merchant_55,Health
+1eaad1ae8c40a1664651fb4ad1b62cc6,7625c4be54b2556779df29144ab0968e,233.07,2023-03-10,Successful,HIT310,Hitech City,Hyderabad,Credit,Merchant_98,Health
+e88dac5db11b45a14cbe4203f7297989,e8478d782b347164539cb7783c818d4e,858.56,2023-02-22,Failed,HIT405,Hitech City,Hyderabad,Net Banking,Merchant_19,Groceries
+818217ccab5be04a1a9d1d35384a2cd0,9c3a933fda5e67f9aa5861a9e4a7408d,453.48,2023-08-03,Successful,HIT299,Hitech City,Hyderabad,Credit,Merchant_34,Groceries
+fab0282ad8c50fd2201db44fbaaaf0c3,a9ff7e26f1b72c979fb2d303af8fef35,199.07,2023-07-02,Failed,HIT157,Hitech City,Hyderabad,UPI,Merchant_91,Electronics
+350d4662c24e83dcb7261be7a3028270,2636656b4d5d3836cb005fbb7bd7e393,156.22,2023-07-02,Failed,HIT403,Hitech City,Hyderabad,Debit,Merchant_32,Groceries
+e3849cdac1ff714fb772d0e89e11c5c9,43590bad1a1c38c8ca7d6942c682213d,698.79,2023-11-24,Successful,HIT794,Hitech City,Hyderabad,Net Banking,Merchant_82,Clothing
+09349cf98a4590dc50279b16de4c59e7,1e0c592740a1d09fa289f3cd4ec5a544,967.56,2023-09-07,Successful,HIT612,Hitech City,Hyderabad,Debit,Merchant_91,Groceries
+ffd6ff82e35b1910878b5b1cf293da43,2483a3cf7ccb66e8da92f11891245a85,177.55,2023-02-27,Failed,HIT974,Hitech City,Hyderabad,UPI,Merchant_39,Groceries
+3eb1553c87e082a4b8c015986a52681d,716b8f1e7501ad6204412e5c564a4c91,876.39,2023-07-28,Failed,HIT813,Hitech City,Hyderabad,Credit,Merchant_79,Health
+385d4e06c21ad3921e3a1aae23bbd31f,0a181661e11d59bd9b8c51155ccf0a97,537.72,2023-06-13,Failed,HIT835,Hitech City,Hyderabad,Credit,Merchant_14,Health
+b26072059f8afeaf279f31d7d1c2868b,3c38e2dc5149e3fa72b5112165c9bac2,519.33,2023-03-21,Failed,HIT718,Hitech City,Hyderabad,Net Banking,Merchant_15,Clothing
+192171f5a98bc22062d4a6f077435b27,db6622fff961eaa349d023fd02a252af,656.17,2023-10-25,Failed,HIT459,Hitech City,Hyderabad,Net Banking,Merchant_26,Groceries
+0e7b2d40756ce16777a8ab9779294042,5da81ea2b0672fc6e05b72f40cb7cd90,120.94,2023-07-19,Failed,HIT446,Hitech City,Hyderabad,Debit,Merchant_20,Groceries
+1aca07a1a019525d77d85f02064d6428,52f3591422fa9e2c1958211a8b791591,611.54,2023-09-23,Failed,HIT422,Hitech City,Hyderabad,UPI,Merchant_31,Clothing
+973698e276af82ec2ae45bf66480cdfb,ff38fd59031bd1eadc1bbfc799daf6d6,424.71,2023-02-15,Successful,HIT911,Hitech City,Hyderabad,UPI,Merchant_83,Health
+3532a935ed4e48f23c5eddc7afe14ac3,499f47a9e4bfdb06613ed6d7c0ce5024,143.61,2023-06-12,Successful,HIT287,Hitech City,Hyderabad,Net Banking,Merchant_56,Groceries
+109224da8eea54673683e224d8031bd3,3d57760b0ad0d976f1b48d5d59dcc47a,28.38,2023-05-20,Failed,HIT505,Hitech City,Hyderabad,Credit,Merchant_14,Groceries
+ccab2f451d3acec4c99c121d4c4c1a71,62ce2d519b3f7da44329a86b342dcfc3,855.91,2023-11-20,Successful,HIT455,Hitech City,Hyderabad,Credit,Merchant_6,Clothing
+e1ffc5ea6f4c4652804e7c6087890997,a4b71288d2ec5f293e7ea8de6eb36290,284.13,2023-02-08,Failed,HIT540,Hitech City,Hyderabad,Debit,Merchant_74,Groceries
+a9a106996d1d19a9501c467830f85de9,dae019b1a9b8634e6861816ced7f23a0,465.19,2023-02-11,Successful,HIT760,Hitech City,Hyderabad,Credit,Merchant_57,Groceries
+67abad6078b448f594842e365f66f43a,5363f2e42386e37f526b178eb4febe44,714.28,2023-12-22,Successful,HIT481,Hitech City,Hyderabad,UPI,Merchant_47,Groceries
+368c6513d9d22868f0bb86f493da6542,39807d42873131f97546f0be7024eb9b,255.3,2023-05-29,Successful,HIT894,Hitech City,Hyderabad,Debit,Merchant_78,Groceries
+3889209077e172dc9404dd7341beec45,2242bfea4facc84bc177e047ca6a0fbb,381.75,2023-09-03,Successful,HIT342,Hitech City,Hyderabad,Net Banking,Merchant_70,Clothing
+de8087d1788ff6ac8683ae4389cc4714,185fd7e35cc68b0a1d5d876c22140758,289.6,2023-01-25,Successful,HIT131,Hitech City,Hyderabad,Net Banking,Merchant_39,Health
+2fa443d4a01f9bea6bf6bfd9496d3917,b5a56be12295d5175a24b2826c0e5193,975.99,2023-05-27,Successful,HIT874,Hitech City,Hyderabad,Credit,Merchant_87,Electronics
+f98fcbe4177f1e52a3da277dfcd8f93e,86954e74080a5f3ac23509ca9a3a458a,560.66,2023-07-31,Successful,HIT888,Hitech City,Hyderabad,Debit,Merchant_82,Clothing
+05ddf1e3cbdf9137a58095757bacf659,6e687639d36fe9061abb119513fc1d64,696.6,2023-05-17,Successful,HIT840,Hitech City,Hyderabad,Net Banking,Merchant_21,Electronics
+e20b5ed6270e325b2f5b7d5856d89d50,ffac157aa22bf07164290f2039269ba7,986.48,2023-11-01,Failed,HIT350,Hitech City,Hyderabad,Net Banking,Merchant_16,Health
+c324075d214cc9e649feb65cfdb3f1cf,3c88114d91d0d00f658346704b2b9a46,510.46,2023-07-04,Successful,HIT531,Hitech City,Hyderabad,Credit,Merchant_90,Clothing
+b982a49cd620c0789cd1ae93370f4cdc,7e8ed0a3509739f691a79cf33a7b7e99,256.39,2023-07-02,Failed,HIT791,Hitech City,Hyderabad,UPI,Merchant_93,Clothing
+c6e92f4bd2cfea9af47b24a01865a23e,5ddc00420a9eba334580dd93c92c00ee,966.63,2023-01-31,Successful,HIT179,Hitech City,Hyderabad,Net Banking,Merchant_63,Groceries
+015c02ab044b5973d9dde7c374c954e2,015c083f7b994191a738a59ecbcdb9b0,824.96,2023-01-30,Successful,HIT590,Hitech City,Hyderabad,Credit,Merchant_98,Electronics
+c72df4e06386781397047a026774e7d2,fd6e9747aad00af798b0e9f97adbf3a6,266.65,2023-09-28,Failed,HIT159,Hitech City,Hyderabad,Debit,Merchant_16,Electronics
+39d473eae88198c932e9430dd17d9b32,086d864f304a957e3cda1ad95a13579e,312.61,2023-02-06,Failed,HIT553,Hitech City,Hyderabad,UPI,Merchant_16,Health
+f94249da6bdeb534cf4e8c893b39f018,23ed018981caba8c0e6072bbc77069f7,163.16,2023-10-16,Failed,HIT492,Hitech City,Hyderabad,Debit,Merchant_55,Health
+1dff1a0898fe28cd393a5b811884a691,9d69c3afbb6aeedb399941abcf8c84fd,848.3,2023-09-16,Failed,HIT932,Hitech City,Hyderabad,Credit,Merchant_7,Electronics
+4bb512de35b75786bd0d0309fa9921da,cce596bb0b909b8a51b34844706c75f7,788.02,2023-12-23,Successful,HIT465,Hitech City,Hyderabad,Debit,Merchant_78,Electronics
+f4543d686bb8efa1fa90ca863a85ae53,0876eadd6cfb063445999466f413bec8,135.7,2023-02-28,Successful,HIT704,Hitech City,Hyderabad,UPI,Merchant_5,Electronics
+07bf305c2b92317683ae5aa804e3a2fc,b603d2321ba1754ac4275418e3bad5a2,224.02,2023-10-15,Successful,HIT524,Hitech City,Hyderabad,Net Banking,Merchant_70,Health
+c5c17ad39cd9fda7411d8694ce1f20d2,fa0f55453057844617fa79d02523d3ea,323.34,2023-08-18,Successful,HIT461,Hitech City,Hyderabad,Debit,Merchant_82,Clothing
+ce49373eebb97c3d064b8d3d0779e259,028a992afafebffbd8fea50500fbbfee,263.95,2023-04-08,Failed,HIT370,Hitech City,Hyderabad,UPI,Merchant_96,Health
+8c71c1faad86305a45357238a43d67b2,e39d7748f320e417bea012909ac1c643,438.84,2023-08-07,Successful,HIT170,Hitech City,Hyderabad,Debit,Merchant_41,Health
+c75d787d6f4267205f6a23502e85bb58,eb3cf2bee6ee3f5a8593f4b0da90ed53,343.79,2023-09-28,Successful,HIT212,Hitech City,Hyderabad,Net Banking,Merchant_24,Clothing
+8df5a50f3d85316c7bcfc0fd29ec7023,fac347f39d44402dc71c846c6c57dc47,404.61,2023-10-28,Failed,HIT175,Hitech City,Hyderabad,Credit,Merchant_11,Health
+c763b0242f819bfa4fa486f95363a53b,acc872b08fc9b9418fb9ff91431e830c,310.99,2023-06-23,Successful,HIT367,Hitech City,Hyderabad,Debit,Merchant_41,Clothing
+f53bdc44b11e246c306d060a14191eaa,cc087ec2783c3143563b72900c7a0970,138.34,2023-06-09,Successful,HIT994,Hitech City,Hyderabad,Debit,Merchant_43,Groceries
+95a30fb59ef8604ec5fb356de3e538fe,d9bb9b75fb6f89f1e41bd3640a64cf70,280.37,2023-04-21,Failed,HIT324,Hitech City,Hyderabad,Debit,Merchant_52,Clothing
+adc2af3f83885c753c7301f03cee489d,1cddb6526dae39b2db5a03b8aeb0d9d1,380.6,2023-07-21,Successful,HIT872,Hitech City,Hyderabad,Net Banking,Merchant_11,Clothing
+5beb3dd09f4d38671766e2ab0b8361d7,88677aed1c5cd78f26db2e25b18820b9,278.82,2023-10-16,Failed,HIT559,Hitech City,Hyderabad,Net Banking,Merchant_53,Electronics
+bb90165c22af066ba60c8dde8dbfb584,1b8d36c514e60ead0afe122f12e6cb0e,953.2,2023-07-02,Failed,HIT739,Hitech City,Hyderabad,Debit,Merchant_70,Clothing
+062b973e051520c65c2cf9de13a8d06f,5d747039f964182e167aac96b67e8cc7,253.42,2023-06-27,Successful,HIT138,Hitech City,Hyderabad,Net Banking,Merchant_34,Clothing
+61c8bdefb1f4dd57f176d9aa236b9227,422f5542f77bef1a43e9e68b161908a9,540.06,2023-03-27,Successful,HIT620,Hitech City,Hyderabad,Net Banking,Merchant_36,Clothing
+1c10433d068f352adfd148bafc8561e0,7897ae846dd7e690d455d06ed17480eb,656.8,2023-11-25,Successful,HIT957,Hitech City,Hyderabad,Credit,Merchant_1,Groceries
+bf96b2c91c2664b528a86ad02a00ed36,21e27219239fd936b959399f35470726,946.37,2023-07-13,Successful,HIT856,Hitech City,Hyderabad,Debit,Merchant_91,Electronics
+97008b4d40ee88fd79dcf4575f428215,702ce60e38dcd0095e97fe1ed5078b1d,479.65,2023-07-22,Successful,HIT365,Hitech City,Hyderabad,Net Banking,Merchant_2,Clothing
+026afb3ffaaae1b92a48847e55b37f4f,76d810e1f98cd83666ead086e2576fa8,975.6,2023-04-26,Failed,HIT352,Hitech City,Hyderabad,Credit,Merchant_85,Clothing
+6e65c1b18904de93446a119ddf4d7f6f,63ce09ff0a31ac8e899ffd33a61e58c7,260.71,2023-07-10,Failed,HIT607,Hitech City,Hyderabad,UPI,Merchant_29,Groceries
+bf1d86c9860caece0f88bba49b7eaa6b,4c5db077c341b1cb18fb87b4bb0bb324,480.55,2023-10-26,Successful,HIT499,Hitech City,Hyderabad,Net Banking,Merchant_26,Electronics
+456b3547d995a1a0b6410bba761e5bc8,e1deca4660cc293a8287a6c805d61bbd,269.81,2023-06-06,Failed,HIT951,Hitech City,Hyderabad,Net Banking,Merchant_10,Clothing
+8d82af4cdfec95f5e5bc6943de020bd3,5b66ac501a1c3604d0c75b8124f51237,648.85,2023-09-20,Failed,HIT397,Hitech City,Hyderabad,Net Banking,Merchant_1,Electronics
+eb599b3a8f94e26befa47105e4b8c2d9,64bab62d39e4e4d12b8bd81dbf155832,498.87,2023-12-26,Failed,HIT464,Hitech City,Hyderabad,Credit,Merchant_23,Groceries
+d86c30b1cfacccb8fb795cdf6d04b02a,fa1100b73fbcfba796b3595a5be0b027,50.31,2023-05-27,Failed,HIT530,Hitech City,Hyderabad,Credit,Merchant_93,Electronics
+1beaf06f46078681898d62e1321e6ab6,dfd83e3c9724cc77bd83b97e409e6ac8,515.59,2023-03-08,Successful,HIT833,Hitech City,Hyderabad,UPI,Merchant_70,Health
+de057c5d4d0eae11cf3713f69a2940cf,12011fffde5d2fe86474feb5ec40842c,476.19,2023-01-01,Successful,HIT191,Hitech City,Hyderabad,Credit,Merchant_82,Electronics
+ab49bde1e4a5c84fb00d6bfb8d221b5c,4af4234da69ddc46a92b69a624ee0ad0,180.17,2023-04-10,Successful,HIT136,Hitech City,Hyderabad,Debit,Merchant_17,Clothing
+e1aad9561f5dc1709a453351ea193430,503b99c271ab7b2688d0ae5c4519787f,976.45,2023-08-23,Failed,HIT722,Hitech City,Hyderabad,Credit,Merchant_41,Health
+64baff79e9cbce5d1c411ef0adb5b8c4,87da3d5e297296521544f95f1d679f41,623.79,2023-12-26,Successful,HIT937,Hitech City,Hyderabad,Credit,Merchant_70,Groceries
+a92568dd7d8b78325da14a31a92a0aac,ea9806ad7514b2eb91717da5eeaafeda,735.81,2023-06-30,Failed,HIT252,Hitech City,Hyderabad,UPI,Merchant_62,Clothing
+89dd5b3dfbd6667b7a95b95020f346d9,c32899a36fa6c92f9c06ba3674873044,669.87,2023-01-29,Successful,HIT609,Hitech City,Hyderabad,Net Banking,Merchant_22,Electronics
+7135617db1e466749decd67dda028c33,a8277835735fea7799e09097097c7313,560.43,2023-01-25,Successful,HIT763,Hitech City,Hyderabad,Net Banking,Merchant_44,Clothing
+84b85247b924419ebb05ef7065366bb4,0268910c9a06aa4a4da43b473590aae6,797.68,2023-07-27,Successful,HIT882,Hitech City,Hyderabad,Net Banking,Merchant_38,Groceries
+2585d720e6a1213271a6a9f89ac67188,e412f5a7cfb95098759b062bae7be046,636.96,2023-01-21,Failed,HIT227,Hitech City,Hyderabad,Net Banking,Merchant_61,Electronics
+0d14ae7b071036944bfd4f121415d20d,430bd58d7052c5069c60a78087ddb08f,93.36,2023-11-12,Failed,HIT929,Hitech City,Hyderabad,UPI,Merchant_55,Groceries
+93ee6173fbf01f243cf11fd07152db37,662493ddf88c4d7746d00ea29e58d82f,271.49,2023-02-27,Successful,HIT722,Hitech City,Hyderabad,UPI,Merchant_3,Clothing
+0826da7af7ecbaaaa05e62173e4583b5,e75871f563d581ee6aafdb0ef7d3f67c,594.06,2023-01-21,Successful,HIT781,Hitech City,Hyderabad,Credit,Merchant_97,Clothing
+0731827acfa35c0789d337b37aa82df0,dfba42408e7bd89d29eebddfdb6e0d3b,248.42,2023-02-15,Failed,HIT331,Hitech City,Hyderabad,Debit,Merchant_100,Groceries
+074b021239b3d97409b731d523187dec,6df25c46af72e9a7339ff87d4f9552bd,896.22,2023-02-07,Failed,HIT554,Hitech City,Hyderabad,Credit,Merchant_1,Clothing
+499bcc778aef1d37df803c538825f94f,c45d365865efad65f8787ad2bd55773c,289.98,2023-02-07,Successful,HIT761,Hitech City,Hyderabad,Net Banking,Merchant_56,Electronics
+130fa440efbcc82055f640882209029e,691e03dcf13cb14936166cb2ea0d5fe3,619.08,2023-03-07,Failed,HIT312,Hitech City,Hyderabad,Debit,Merchant_43,Electronics
+2f5a95e474ee6662ea15488ae2768866,b6bda14f5a0c4a785aa5618c256b1135,746.84,2023-06-12,Failed,HIT639,Hitech City,Hyderabad,Credit,Merchant_74,Health
+07235ac40fe3770293341e123b153156,f2342a07e6e5ad330be0a7544f9d8f89,407.83,2023-04-29,Failed,HIT760,Hitech City,Hyderabad,Net Banking,Merchant_93,Health
+c3016e22fb187923e65c0010b14a3df5,b66523efb156cf0f112b878f539d8ef6,553.67,2023-11-28,Failed,HIT317,Hitech City,Hyderabad,UPI,Merchant_2,Health
+ff3c5ebb00684f88c2ff8bfaefe95ac2,9415d35fd15601c490c17def5b9348d7,391.47,2023-10-20,Successful,HIT323,Hitech City,Hyderabad,UPI,Merchant_29,Electronics
+c7bd8ebb48bf0d6f026df27c8fcc17a0,7e5e516c9a863190b2db58335edfc670,890.12,2023-08-17,Successful,HIT119,Hitech City,Hyderabad,Debit,Merchant_98,Electronics
+058fbcf44f97e19a9ed449d2592086a6,4ead8d495d631caf126876320f3cc381,93.71,2023-01-04,Successful,HIT984,Hitech City,Hyderabad,Debit,Merchant_58,Health
+aac7e09bde956eeeadc68d177aeb111c,92072e2bc16dc1dfa849a1579f1e811d,545.84,2023-10-13,Failed,HIT292,Hitech City,Hyderabad,Debit,Merchant_39,Electronics
+103df2bb5b5c77bd57f47a1f72736a66,d56eb5bbcbc209fc4ad7b27cfe47e6f1,533.37,2023-10-17,Failed,HIT313,Hitech City,Hyderabad,UPI,Merchant_25,Health
+6e2fd1f9a15eabf81502795a9aa8aa30,05df397b2803e058ab9f801469e78706,926.04,2023-10-29,Successful,HIT988,Hitech City,Hyderabad,Net Banking,Merchant_28,Clothing
+a75e9c8c6057d6af68e473075aa4cda1,78a70d54992a3f4d3db489626fc2037e,860.04,2023-01-20,Failed,HIT743,Hitech City,Hyderabad,UPI,Merchant_68,Health
+b13dccd90b64201f84b28352bb52a3fd,e0e2cca72dd0bc49f3601dad15b87fbd,144.59,2023-07-09,Failed,HIT344,Hitech City,Hyderabad,Debit,Merchant_31,Groceries
+c8b2d697838dc46f0fd5aa7f0c38b6dc,1baf8a3da7a9ac085606dc1822fdf9fb,695.37,2023-02-03,Successful,HIT454,Hitech City,Hyderabad,Net Banking,Merchant_76,Health
+ded5461042ea9c6bba531854695ad32c,e6f8bba9787d6a9c0cae2254eb4049e6,897.05,2023-04-15,Successful,HIT623,Hitech City,Hyderabad,Credit,Merchant_59,Clothing
+dba75119a017f9e7c98432ded4b04c02,7d25f9c10063f86fc4c668db2899eef7,333.72,2023-10-18,Failed,HIT854,Hitech City,Hyderabad,Credit,Merchant_7,Groceries
+2b225ad293d5aa6062f6c41380f0e65a,bccdb5f4237ecf7d7cb655fc56b37fd0,269.18,2023-06-10,Failed,HIT670,Hitech City,Hyderabad,UPI,Merchant_92,Health
+5178dd44092d7d70160adc749b5dfd33,6339df2577a74019dc5d5f9298bea07c,902.04,2023-05-09,Failed,HIT669,Hitech City,Hyderabad,UPI,Merchant_49,Groceries
+403d6ee63544a5eaca56ea5df7360a6a,c4161adc1dfcbdeed97200a6060f9464,79.54,2023-08-26,Successful,HIT573,Hitech City,Hyderabad,Credit,Merchant_15,Health
+5af910154f36a23a53b34686593dd514,5a2553188e60740ae474243dd2077f5f,999.12,2023-12-23,Successful,HIT760,Hitech City,Hyderabad,Credit,Merchant_78,Groceries
+150f61a694ae5bc529f3312bca2c8516,a7259cb119badde76a632ec2513c8ed2,718.18,2023-01-04,Successful,HIT594,Hitech City,Hyderabad,Credit,Merchant_47,Groceries
+f2db39945286e50cb5f44b1c06ebb7fc,c3a941b82cf174923ee5a7d823fe651d,912.0,2023-05-23,Successful,HIT420,Hitech City,Hyderabad,Credit,Merchant_12,Clothing
+f18b1a423f4b4463bc201633315aa68f,2b975a9ced225b8afa18f5f0b5d018d4,478.3,2023-08-17,Failed,HIT336,Hitech City,Hyderabad,Net Banking,Merchant_47,Health
+27416318f16a63ecb68e028700457011,969dbae2f8e0812bfbd67278c3a8933d,442.51,2023-02-01,Successful,HIT779,Hitech City,Hyderabad,UPI,Merchant_21,Groceries
+00fe47ed04ff686e4ad67d75924f48a7,f312018b25bc77cd1d72d27d864c300c,602.03,2023-12-27,Failed,HIT799,Hitech City,Hyderabad,Net Banking,Merchant_84,Electronics
+6e752f57a2fa00d2f6aa3f98102b4d88,dad58bef5da50dc03a7b028e5ae8928b,812.2,2023-11-12,Successful,HIT660,Hitech City,Hyderabad,Credit,Merchant_2,Electronics
+1f545e065ca11c1fe5cd234e19bd6c9a,7115c942c981e51331ce09901d6b62cb,524.73,2023-10-14,Successful,HIT351,Hitech City,Hyderabad,Debit,Merchant_4,Electronics
+159253c8a2fca20c1021e8a128828cd8,8392be24163e18562493472f4e88cfb9,410.35,2023-07-29,Successful,HIT273,Hitech City,Hyderabad,Credit,Merchant_37,Clothing
+2ce704d7e825b325fb53bb7f56ccc7cd,95c8946860927778bdba039a817091dd,498.91,2023-09-23,Successful,HIT905,Hitech City,Hyderabad,UPI,Merchant_8,Clothing
+70472ce709dc40d2cece3ce29a920ceb,dcbf4f3bc47f0cb403923bfb56c25bfc,984.57,2023-05-10,Successful,HIT718,Hitech City,Hyderabad,Debit,Merchant_95,Clothing
+41da23690bc074d0460ff92f2258e99a,8bd92bec3f08b2d3cc906828d2549f24,69.3,2023-05-26,Failed,HIT478,Hitech City,Hyderabad,Credit,Merchant_66,Groceries
+b541353d34350abe415f9551146735d1,e8f2c15b4e698f2cb911c02b8fc37a46,26.42,2023-03-23,Successful,HIT592,Hitech City,Hyderabad,Credit,Merchant_45,Health
+136d3bdcfdd68578d0c3915ca663ad3e,30fadf6a705c34618fad77b3e45a1cc6,669.1,2023-08-13,Failed,HIT238,Hitech City,Hyderabad,Debit,Merchant_72,Electronics
+bf6710759eb690dbd2e135314351ae5a,29511ea2581a0cc68d3a2b3a18bd54b6,496.71,2023-06-30,Failed,HIT653,Hitech City,Hyderabad,Credit,Merchant_10,Health
+3cf56e6e7c6d4cbdec6635695e0ad610,cd99f30463af1e3e8d404bbfeec6e7c3,493.82,2023-07-24,Failed,HIT696,Hitech City,Hyderabad,Net Banking,Merchant_55,Groceries
+87463ba05f4e0be9ab33713f18bf5a17,37dbc2384cdfe9818284fb233feb6320,159.45,2023-03-04,Successful,HIT606,Hitech City,Hyderabad,Debit,Merchant_59,Groceries
+1fc0b158b57944ee64d602b0b9cfbc14,0698be86cf96da4daf1c3900d2568480,833.31,2023-09-18,Successful,HIT299,Hitech City,Hyderabad,Credit,Merchant_35,Groceries
+dd1cb924a0c693615f9e2a58a9a2fefd,9b6876d86439055e620f238b5bc50497,343.47,2023-09-08,Successful,HIT379,Hitech City,Hyderabad,Debit,Merchant_38,Health
+90594dd0f35be65f1bdb8c76aa0ba7c7,5d783542f1fca287580810d1102342a3,17.61,2023-06-06,Successful,HIT833,Hitech City,Hyderabad,UPI,Merchant_82,Groceries
+84a9080e46d617865f0f36f2babbee69,38d89681a348ff242ac90307b67f7bd0,146.43,2023-08-01,Failed,HIT570,Hitech City,Hyderabad,Credit,Merchant_68,Health
+1184247c6b44d71de704559c7003d996,30fd109a3cf337860d43dfa91aaebcc3,478.43,2023-04-06,Successful,HIT307,Hitech City,Hyderabad,Credit,Merchant_9,Health
+2415d73755dac2682eb80e0fb37d34ed,309fac648df0e4455e7c8da086a5c79a,203.95,2023-08-22,Failed,HIT652,Hitech City,Hyderabad,Debit,Merchant_97,Clothing
+30d073340007f2808e27635c14da7450,a6dacfb0081480f210c11fd36163e719,293.11,2023-01-03,Failed,HIT415,Hitech City,Hyderabad,Credit,Merchant_62,Groceries
+b21385313f37674f1f6f08e352350b08,c24ff7b70841b65c98ea1232a5fa7b49,811.44,2023-10-07,Failed,HIT769,Hitech City,Hyderabad,Debit,Merchant_76,Groceries
+cee216d8e03970c919f190235140a24a,92247a56bbce8b8e45574ab75ef92a8f,116.07,2023-09-12,Successful,HIT196,Hitech City,Hyderabad,Net Banking,Merchant_32,Clothing
+3d57a8c58dfb54f6cbaa67edb10e0b6d,0162eff823535f2179ccdc289445f879,299.67,2023-06-28,Successful,HIT625,Hitech City,Hyderabad,Credit,Merchant_98,Electronics
+0d44f1727347613c28b6a43fb1560638,44fb29f1a9ae7912a62c22f7edc22053,916.41,2023-04-07,Successful,HIT174,Hitech City,Hyderabad,Debit,Merchant_9,Clothing
+257a9ef0177e21d5aa1ca4f912440a53,2520f41bff6b53119222835c6c249e29,720.46,2023-07-21,Successful,HIT988,Hitech City,Hyderabad,Net Banking,Merchant_5,Health
+bc9910e94550b9495163d0642fce9f11,7fc9cf3d82d0141833eecaccabbbf3cc,65.57,2023-10-17,Failed,HIT255,Hitech City,Hyderabad,Debit,Merchant_79,Electronics
+843fb99c6119846950dace8d2d83282e,70df5c6a39a29c580d454f2016d4649c,874.17,2023-02-01,Successful,HIT359,Hitech City,Hyderabad,Credit,Merchant_21,Groceries
+0e5728106c0c23be01b6dfae6e3cc9e6,728ccfc58e36152b04f19f113bfbfd43,179.17,2023-07-11,Successful,HIT393,Hitech City,Hyderabad,Debit,Merchant_93,Electronics
+f7b72d0aea870fe26881e31ab6187f8b,fc3fdf0390daf686d1a4a79eec32d7b5,884.49,2023-04-24,Successful,HIT914,Hitech City,Hyderabad,Credit,Merchant_5,Groceries
+6b69fba258e91e7c37a17628ef252a6d,7a4223375020b30cdc1438f30d6ec76e,118.43,2023-12-19,Failed,HIT990,Hitech City,Hyderabad,Debit,Merchant_41,Groceries
+061026a1d385b32ab0062e516a9c4ade,84041422ecc316990036eff5ca26ab80,42.11,2023-06-29,Failed,HIT263,Hitech City,Hyderabad,Credit,Merchant_34,Health
+18872f0bad7be71378f24167beffdede,48304f8ed8374391f38e352a4e67318c,402.53,2023-07-17,Failed,HIT704,Hitech City,Hyderabad,Debit,Merchant_16,Electronics
+eed7cc8a290d4274617342a55bedacab,573c3cb106c0dd65a17e00d8313a2f01,92.73,2023-11-29,Failed,HIT721,Hitech City,Hyderabad,Net Banking,Merchant_32,Electronics
+25cfe0b6e11264f5e6b1ed6143bf4c29,bee03a660ce6692158e516a53a730a4a,957.81,2023-06-15,Successful,HIT646,Hitech City,Hyderabad,Debit,Merchant_42,Groceries
+729d7c8a4c7c4b3bda95f62f78da27e4,a7a2ceeb4c78c864703463b6fd89eacb,369.12,2023-06-19,Failed,HIT750,Hitech City,Hyderabad,Debit,Merchant_59,Clothing
+bc6fb8dc51624eb8350b10618b3a68c8,8c5fc2c16daf6c91d2a0cdc0ba99d41f,527.62,2023-04-27,Failed,HIT494,Hitech City,Hyderabad,Credit,Merchant_71,Health
+0f70129060209a14135b6855f317f57c,b81bca2d352fecdecb273d292beb22aa,374.34,2023-10-02,Successful,HIT244,Hitech City,Hyderabad,Debit,Merchant_66,Clothing
+33d1c1942f175571357aaef27fcf3f37,8ca2215e5ea1ae473bda8a9d3f560b2e,578.45,2023-02-09,Failed,HIT798,Hitech City,Hyderabad,Debit,Merchant_11,Clothing
+5afac600b9a31e3de5283fa1e9ef1515,6c34f8e3948138a9ddbb493a37d41eda,588.87,2023-09-18,Successful,HIT650,Hitech City,Hyderabad,Credit,Merchant_72,Electronics
+f0710ad35adeae8d6eab881023be656b,f97e27b941147cb42b6d9ec2cd5f2fe4,422.36,2023-01-06,Failed,HIT305,Hitech City,Hyderabad,Net Banking,Merchant_74,Groceries
+a07f62702fac1a80a299b4832fa90ab5,2063e58ccedf32a09a27321458a8bc80,953.14,2023-02-15,Successful,HIT830,Hitech City,Hyderabad,Debit,Merchant_7,Health
+37e3abf0de5519a2dbe94cbc9091cac9,d56bc5f72f465383d1c464ef3b0f77d9,713.15,2023-03-29,Failed,HIT163,Hitech City,Hyderabad,Debit,Merchant_35,Clothing
+a58ac12d073cd92e3a7f238a441fc4dd,223236f04b1f698c0497b16472647228,937.0,2023-06-27,Failed,HIT903,Hitech City,Hyderabad,Credit,Merchant_72,Health
+cb1387e89896f3f5ee97c6f27f158d6f,bf9505abd5d4cea26b22f809d9855313,277.25,2023-04-25,Successful,HIT800,Hitech City,Hyderabad,Net Banking,Merchant_51,Groceries
+160da3f95eaff737efa77623ac495c65,623f2973881ae9a74fdb86067e782edd,526.42,2023-11-18,Successful,HIT319,Hitech City,Hyderabad,UPI,Merchant_100,Health
+95d60ab669af10925cb8415463d5cdcf,c1d701318e43c6b175a04fbdf8cb9fcd,327.26,2023-07-14,Failed,HIT475,Hitech City,Hyderabad,Debit,Merchant_47,Groceries
+8c58975808a7ac4a281dce350cc1fc70,38d9483a2313ab043fae1261ec164d3b,350.96,2023-12-20,Failed,HIT147,Hitech City,Hyderabad,Net Banking,Merchant_7,Electronics
+be2eec7feace3a50fa79c3dba5ded138,2441699fec099f339f77b6187a56fb3c,144.02,2023-04-14,Successful,HIT995,Hitech City,Hyderabad,Net Banking,Merchant_78,Clothing
+60151b53de784de0cfc0dd9cacbacf69,020af14d4b22192fb5155a9d23f97621,279.1,2023-08-21,Failed,HIT623,Hitech City,Hyderabad,UPI,Merchant_29,Electronics
+57f6debebd62d29aa8a237354038c74f,488f1009e818710ce6cb09e8e04d9391,696.97,2023-06-18,Failed,HIT221,Hitech City,Hyderabad,Credit,Merchant_94,Health
+10420ea264622c8ce305c204ab2b1dbd,10b9588e863c8ff207613934c044c129,557.59,2023-07-25,Successful,HIT555,Hitech City,Hyderabad,Net Banking,Merchant_56,Electronics
+818dfe98bbfede688fa85e73be2ed8e7,fe9affdd1338a808624f3e386e7ba1d2,641.37,2023-02-15,Failed,HIT476,Hitech City,Hyderabad,Debit,Merchant_56,Electronics
+331a9e231cc387b4b1650b1a6c17108d,14c627347344393f15f08d69685e61bd,570.95,2023-12-16,Successful,HIT182,Hitech City,Hyderabad,Credit,Merchant_52,Electronics
+d58e18e13758958079217bca42636287,79b56e27c17b934a59a7336de7983da4,336.38,2023-09-02,Failed,HIT419,Hitech City,Hyderabad,Credit,Merchant_5,Clothing
+971f03e2edc3ebe01a221980b59ebc77,8d16a3614f7ca83c71d771c7f4b784c2,731.92,2023-12-02,Failed,HIT452,Hitech City,Hyderabad,UPI,Merchant_16,Electronics
+351bb2069938e1a14123ef046e37ad9e,006e3ff68fde4faf27905cb4a7de7ca0,876.27,2023-10-28,Successful,HIT622,Hitech City,Hyderabad,Credit,Merchant_41,Groceries
+3c65548368d412b25b72b9c2a108f1ab,7fee1e758eab407bc4687c69f513ba0f,120.88,2023-09-05,Successful,HIT467,Hitech City,Hyderabad,Credit,Merchant_45,Health
+083a1697f59d153eff9b7455af8e88e6,af7f5ece6756589d5eab0bb2e8af3046,969.73,2023-09-17,Successful,HIT851,Hitech City,Hyderabad,Debit,Merchant_29,Electronics
+dd0d0ba9110a6336e4f988de6fdc18f2,4315faa7154aa91a9f00552e6a877b0a,688.61,2023-11-18,Successful,HIT214,Hitech City,Hyderabad,Debit,Merchant_9,Groceries
+c1edd97e6e1ee8082f0bb0c8c7aecee6,1b1ae8de768688b9f809a902970db24a,447.05,2023-02-23,Successful,HIT514,Hitech City,Hyderabad,Debit,Merchant_46,Clothing
+1439827f13dee4e7b864d1c430ea6abb,b7b6ee49c2655cad22ef11294a935214,433.03,2023-05-19,Failed,HIT729,Hitech City,Hyderabad,Net Banking,Merchant_66,Groceries
+08f3dee191864e5491e073e96de17a5d,4b63d77c8213b5105a93f4eb6f374072,124.24,2023-06-21,Failed,HIT624,Hitech City,Hyderabad,Credit,Merchant_13,Clothing
+1b4407506f83b4b79bb2f00fe48d1418,28fe5c975e4f47848dbc34032ca123ec,166.94,2023-05-05,Successful,HIT290,Hitech City,Hyderabad,Debit,Merchant_61,Groceries
+00e4b09859d5e754714a10061e06edcc,75bf0255cb46cadfa09195d9b0ada46b,546.08,2023-10-03,Successful,HIT940,Hitech City,Hyderabad,Credit,Merchant_90,Health
+27e6f6ba440ef9a1e8802de830cd51ab,637d94f0795dc5da4eb002a30d5c57cc,124.27,2023-06-21,Successful,HIT760,Hitech City,Hyderabad,Debit,Merchant_47,Clothing
+1e45540746c4458c6ba1d9d66a9bacd9,381039f0ee63de245581ef7d76fc3bd1,648.88,2023-05-06,Failed,HIT608,Hitech City,Hyderabad,Debit,Merchant_9,Health
+f5b26774542951c0b10bf705778749f2,f7e2d36b5e984ad7f3ab0fc3b65c5439,714.24,2023-10-14,Successful,HIT278,Hitech City,Hyderabad,UPI,Merchant_48,Electronics
+38362e0888b0f503d8b759e7670d0f0a,5505c8d10c08c064721aa1eeb22d1348,523.43,2023-05-18,Failed,HIT398,Hitech City,Hyderabad,Net Banking,Merchant_77,Clothing
+65385e485a01ac27d0ea16223dbcb9dc,efdebb748ff01b2de3da52697585d9b7,816.75,2023-02-15,Failed,HIT395,Hitech City,Hyderabad,Net Banking,Merchant_56,Electronics
+244544a9c16f197d063a52259adc1423,48c8294256c4770991311568c6018ad9,740.96,2023-03-14,Failed,HIT192,Hitech City,Hyderabad,Credit,Merchant_36,Health
+08cb41e06b9d33052b8d63d791562df4,e04e961563ee0a2a22afa7e26763c815,857.63,2023-11-25,Failed,HIT755,Hitech City,Hyderabad,Net Banking,Merchant_34,Electronics
+c47ae7a6d5f12c8b2a702503b063d48e,bdc1e9d9e3d97688844175790cdd9d67,481.55,2023-01-14,Failed,HIT112,Hitech City,Hyderabad,UPI,Merchant_11,Electronics
+047cd06c16502ef401bd43abde54f99a,33294a6d2d409d1c40677277729a0261,464.13,2023-09-15,Failed,HIT998,Hitech City,Hyderabad,Net Banking,Merchant_65,Electronics
+016f3d6f6d24f4f6ee3801a04d6b399f,3fb7c48c65ba12184abc58f48f1a577f,435.21,2023-08-29,Successful,HIT210,Hitech City,Hyderabad,Net Banking,Merchant_57,Health
+fec8c2ed73b1072b1b4b4e7a4fc11f50,20ccfb3d49f84f9869f519b78554ba70,912.22,2023-12-06,Successful,HIT512,Hitech City,Hyderabad,Credit,Merchant_6,Electronics
+49ee39c0e34ba826f092198632597621,c295b236b012712bb67b8394ad6912bc,379.71,2023-07-10,Successful,HIT882,Hitech City,Hyderabad,UPI,Merchant_40,Health
+1615f26a3f84bb8fc6c33c90cf7c7d88,b50052ee510454f1f7f310a53f65bb76,510.42,2023-02-28,Successful,HIT463,Hitech City,Hyderabad,Net Banking,Merchant_2,Clothing
+ea57ee8c543d6643635c92f1769d139b,b5a4df1d0f25a982e878d7f1de834350,562.14,2023-03-31,Successful,HIT763,Hitech City,Hyderabad,Debit,Merchant_100,Groceries
+6f3a226ca0f4284929fc2e556f231ec9,bbc5b7de09e011c4f8790563619a4d7d,634.87,2023-05-11,Successful,HIT703,Hitech City,Hyderabad,UPI,Merchant_59,Electronics
+f071348ceca6236a6a815d543e30017b,a63e3bbf0eb7e48bb1775edaaec1665d,718.54,2023-10-06,Successful,HIT479,Hitech City,Hyderabad,Credit,Merchant_23,Clothing
+e9edc10d9b925ae2f34a8784e9ef4857,2024ede36b91a2b9d7ba4df387c8486d,253.59,2023-11-19,Failed,HIT689,Hitech City,Hyderabad,Credit,Merchant_37,Electronics
+e50165ec98435a378a768703996b6234,778e2b94143351d2c648eb72a45f63a4,943.77,2023-08-20,Failed,HIT130,Hitech City,Hyderabad,UPI,Merchant_98,Health
+c82f3f5e2e861b09a033c52abb7eaa02,c5d2dec1d27347428fad7b9e269eb373,16.48,2023-12-08,Successful,HIT343,Hitech City,Hyderabad,Debit,Merchant_66,Clothing
+8f4624b60fb94de07207a28b3c32675e,ff197709ea883d9a09521db65031be18,733.8,2023-07-09,Successful,HIT562,Hitech City,Hyderabad,Net Banking,Merchant_5,Electronics
+cb1b2e5f1e2360c58a3925d8df99ec4e,06b78b01296e5fba0c8aefc2e71c35c2,528.73,2023-02-12,Failed,HIT613,Hitech City,Hyderabad,Net Banking,Merchant_69,Clothing
+aba6aaddfaa9fecc469f3e5370680bab,70e0d61a704dcb150d7884fe115a9081,760.6,2023-03-19,Successful,HIT342,Hitech City,Hyderabad,Debit,Merchant_76,Groceries
+d7966ad2535591338555d549c9f6690b,66011e79435a64bcac36f74534c727b2,702.09,2023-12-01,Successful,HIT508,Hitech City,Hyderabad,Credit,Merchant_14,Health
+3656c3d5990340e14c5fd40ed176cb36,8d71db8214c501d3a0b1fd1467f730ae,818.56,2023-11-15,Failed,HIT857,Hitech City,Hyderabad,Net Banking,Merchant_29,Electronics
+1567a21a3d7a7533d2e443d8e8bb375f,bdeceea1c3dcc58b656018f56d465a6f,46.51,2023-04-10,Successful,HIT321,Hitech City,Hyderabad,Net Banking,Merchant_70,Clothing
+46b1608ca4e7f17b02fc26657d3cac8a,cec1af5d7e0654bc9005a6cbb3dfdea4,436.68,2023-07-05,Failed,HIT989,Hitech City,Hyderabad,Debit,Merchant_99,Groceries
+7173b5a32a57ef93aec50711524b0728,fe5c41537034a0ee6757b3021dcc3653,150.45,2023-02-12,Failed,HIT309,Hitech City,Hyderabad,Debit,Merchant_45,Groceries
+ff6bd26245bc2413360656ff8045f10e,7e327056ceff75980aa4df9d16fb9e33,970.84,2023-08-30,Failed,HIT872,Hitech City,Hyderabad,Credit,Merchant_5,Health
+cb8627e1631c53641c8b45c950fe2e17,02fe7e79c29873eee698efdbb530f155,762.56,2023-09-29,Successful,HIT519,Hitech City,Hyderabad,Credit,Merchant_63,Electronics
+94899e9015c6a6aa7e13e93699499fc1,b598694a42a8d59269178ba850e98265,48.84,2023-08-07,Failed,HIT425,Hitech City,Hyderabad,Debit,Merchant_13,Clothing
+9b2653204ca0e15150192179c3135cac,2a9b75519a86d31436c1c3f1200ef4b7,800.26,2023-11-07,Successful,HIT840,Hitech City,Hyderabad,Credit,Merchant_64,Health
+be0919715ef6f9c16385ac5538558ed4,37beba4172595b59707e7edb16302198,926.29,2023-07-16,Successful,HIT179,Hitech City,Hyderabad,Net Banking,Merchant_75,Clothing
+8f2fc5546c8a87e263901d24c6521efc,389f74fd70e694cd06563161cc26be30,947.91,2023-03-13,Successful,HIT653,Hitech City,Hyderabad,Net Banking,Merchant_60,Health
+83955dbb25cb280c667be0a4a8279c5c,cd5485fe2d9dbb90f5f64b9433179cc0,929.14,2023-05-08,Failed,HIT637,Hitech City,Hyderabad,Credit,Merchant_21,Health
+d7de9bb14db4b4657908fbcff4dc0a08,b4575409079ec0e9471979f08dac213d,924.27,2023-11-01,Successful,HIT305,Hitech City,Hyderabad,Debit,Merchant_98,Electronics
+d323304e838e2941628a50aad9772e08,355f2c1d47f3c34d27bf06b5d148cc45,976.67,2023-03-31,Successful,HIT414,Hitech City,Hyderabad,Net Banking,Merchant_96,Groceries
+16ffe88d626899933c06e2ffb7ea7e4e,f9f43655f2322312760b1e08733122c9,796.87,2023-01-20,Successful,HIT561,Hitech City,Hyderabad,Debit,Merchant_56,Health
+c2fb208d1eb2ddb6814b3f3dcbfd8ed0,0c9ea80bd854af1a7e30a0598d8b217d,213.99,2023-05-27,Successful,HIT651,Hitech City,Hyderabad,Net Banking,Merchant_65,Clothing
+41e9fc7a7c0ca15c1fed3ca5931c52cf,f22543c19f02f1d791f194538053a5de,751.71,2023-06-04,Failed,HIT743,Hitech City,Hyderabad,Credit,Merchant_60,Electronics
+90aba1ac9b22468622eb642a101d095d,3ec513a77519047d8d9a886aade290db,724.54,2023-02-09,Successful,HIT517,Hitech City,Hyderabad,Net Banking,Merchant_96,Clothing
+5796bf44a06395cdf1cc41ba8eed75d2,d04dbe23706a576c15ffb1139863d9e7,880.27,2023-01-20,Failed,HIT988,Hitech City,Hyderabad,Debit,Merchant_54,Clothing
+42f17472779a58da2e96cdab4a784b8c,2b78b3c7cf9d67344fa2658aba6ecce6,79.45,2023-01-22,Successful,HIT902,Hitech City,Hyderabad,Credit,Merchant_49,Health
+6e941f37b793736475710d4bdc1e7a15,428876f9bb1d742eaf1ff5e1ef79a847,664.47,2023-05-04,Successful,HIT868,Hitech City,Hyderabad,Net Banking,Merchant_51,Groceries
+122a26cd70af5c940df98daf202dfc6b,44694f5d9b92a70e852ea210f5fe6639,901.97,2023-12-25,Failed,HIT501,Hitech City,Hyderabad,Credit,Merchant_61,Electronics
+06e4996614960f181a5c659a5a9db311,e8d042b48d28c55fdd17b331b7b7a66a,508.75,2023-12-18,Successful,HIT170,Hitech City,Hyderabad,Debit,Merchant_21,Clothing
+263d4f43afc5114c1cabdcaff5fcd347,2f60c1495ea5ebbdd4c20416216af3f7,796.7,2023-04-11,Failed,HIT503,Hitech City,Hyderabad,Credit,Merchant_7,Electronics
+4eaf0372a2993dba97430f50e10c241e,9d41d6cb1259cc172e4a4ef30695e9a7,316.39,2023-08-04,Failed,HIT519,Hitech City,Hyderabad,Credit,Merchant_72,Health
+8bfea6ef1a4c342732d935c1d497dfe5,8f80876ec3874f779a0d44c92199e1c1,469.74,2023-10-17,Successful,HIT218,Hitech City,Hyderabad,Debit,Merchant_14,Electronics
+0d30a16a818414fb28d25f04c48b52e9,2f8d051df9d27fd3a689cdd3dafd4772,258.89,2023-03-08,Successful,HIT820,Hitech City,Hyderabad,Debit,Merchant_57,Clothing
+8f4fb65939366461d4f8d7f3be593f12,85c96e9cbddc8136238cc72dd3d7a4eb,304.57,2023-06-23,Failed,HIT178,Hitech City,Hyderabad,Credit,Merchant_86,Electronics
+c6066ec079d632261168ad7702553c68,c05427cc4b045535484be54d1652cac8,844.44,2023-04-22,Successful,HIT145,Hitech City,Hyderabad,Net Banking,Merchant_20,Health
+f3e0350dc57c8691def3c13e8f397917,3a067f9bf288a355bd3ee17bd3a08584,797.77,2023-03-27,Successful,HIT293,Hitech City,Hyderabad,Net Banking,Merchant_88,Clothing
+d99f739e044f6108f12fd8f8af2f786b,43df8565677461cba95be0d4d03d3f48,708.78,2023-08-04,Failed,HIT756,Hitech City,Hyderabad,Debit,Merchant_21,Electronics
+d11d7396bbbb587ea1f35707de187370,d80f807eb3e305f7f229b99cce8340c1,120.43,2023-11-02,Failed,HIT999,Hitech City,Hyderabad,Debit,Merchant_49,Clothing
+81440eefc8b8f33487ddb06c6d8e4b7f,497001f4d46559d72f5e06c5f974f6bf,580.58,2023-10-03,Successful,HIT736,Hitech City,Hyderabad,Debit,Merchant_44,Health
+cc053616aff3187c973f49a7eff26a86,9c6776ffd267c6235d2aac5b22da24ba,66.02,2023-11-07,Successful,HIT568,Hitech City,Hyderabad,Debit,Merchant_77,Health
+6ca793dc552333095345a7a119ed14d9,ad5bb6a9fe4f304cc405069e3268033c,826.94,2023-05-18,Failed,HIT949,Hitech City,Hyderabad,UPI,Merchant_3,Groceries
+983d493386977224f26cca05610a704b,9a31be5e05db0be67444576726ff9faf,998.59,2023-04-09,Failed,HIT267,Hitech City,Hyderabad,Credit,Merchant_6,Electronics
+8892cec64fe3a9ca78937bf1ae4d1ae6,5cc59e2ea0b50695ced27fead7498f47,690.63,2023-10-20,Successful,HIT184,Hitech City,Hyderabad,UPI,Merchant_51,Health
+dc7c7d35b9cf3f0137e694e5d482feb6,0a159eee906c5802183ac791f5038d4e,369.74,2023-05-14,Failed,HIT139,Hitech City,Hyderabad,UPI,Merchant_82,Electronics

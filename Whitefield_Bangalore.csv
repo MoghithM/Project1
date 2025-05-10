@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+6121077286c98ea3b8b7f39f53504a35,3807586291d0aedda7c194c92c059820,560.84,2023-12-29,Successful,WHI402,Whitefield,Bangalore,Credit,Merchant_25,Health
+fbc7d806ef0074c5c27362b416e598cf,aec4e3173f803ffa1e63f57469aa74d4,351.18,2023-03-29,Failed,WHI127,Whitefield,Bangalore,Net Banking,Merchant_51,Clothing
+1bdb1fdfa7c98d6678cba674d611aedb,dea0ba321eea714bdc467f0bad560fe8,911.9,2023-09-29,Successful,WHI100,Whitefield,Bangalore,UPI,Merchant_34,Health
+ce637ac585c0ef4f4ff7c9f9f12350e8,ed4860f56c76996a025c8de5c0c0bf45,988.45,2023-02-12,Failed,WHI461,Whitefield,Bangalore,Credit,Merchant_12,Clothing
+59b310d801adf80b3406ecc1e02e163e,ab32dd11e31836320989df8f1b2bcdb7,861.71,2023-10-30,Failed,WHI811,Whitefield,Bangalore,UPI,Merchant_89,Electronics
+897535624939c2767a45a2646df2d8b4,69f2027434641796a1a7e0fc4f0b5338,563.95,2023-02-21,Successful,WHI624,Whitefield,Bangalore,Debit,Merchant_52,Groceries
+50a07d4c0799ec32e4981385dc4eec6c,a9a43aac36ea644b8d0a26bdc7744ec4,257.08,2023-09-15,Failed,WHI827,Whitefield,Bangalore,Credit,Merchant_4,Groceries
+0c1a245b02acd4a262fb1e0454f51283,9ba00eba329f01f73bdc1a1fa2b4bd1b,140.26,2023-06-04,Failed,WHI854,Whitefield,Bangalore,Credit,Merchant_3,Groceries
+ff140a00a293d83436c56a297ba9b213,a4d4770fde3b678081920429d1f0dd84,995.26,2023-10-14,Failed,WHI383,Whitefield,Bangalore,Debit,Merchant_44,Clothing
+1381f19238077ac6f66c977b9f596b4c,d48f9c592776dd3f97d3e50e6d9687c7,676.9,2023-06-30,Successful,WHI917,Whitefield,Bangalore,UPI,Merchant_68,Groceries
+b896c7cfec966467527c049b0b85fc00,4896a1d14466df66fd20585b3c90c589,546.16,2023-10-04,Failed,WHI903,Whitefield,Bangalore,UPI,Merchant_88,Electronics
+defb4f0195f314cb83246d1c3e422ca4,0863e2153eb9a335a492744dd2f40069,202.85,2023-07-29,Successful,WHI420,Whitefield,Bangalore,UPI,Merchant_5,Clothing
+7cacf6c619daec2ce9422b35237dd267,6439c58a5b10a5da5b154bf94a44ff3a,297.09,2023-12-24,Failed,WHI630,Whitefield,Bangalore,Debit,Merchant_18,Health
+bc70fbba025c84ebe5f58ad98d9c63b0,1e635eb895b38427ec261093d2df3659,393.56,2023-07-24,Successful,WHI663,Whitefield,Bangalore,Net Banking,Merchant_11,Groceries
+4d17fee16bb12bfbe49412afb1a82314,6763dafc25712a8cc44af7212977f077,602.97,2023-07-10,Successful,WHI203,Whitefield,Bangalore,Net Banking,Merchant_40,Health
+975d039f0482c547aebaadb9e92cc951,ab34aaa909296a91e42253ee1cd38e83,240.89,2023-09-09,Successful,WHI139,Whitefield,Bangalore,UPI,Merchant_38,Clothing
+e701403ac4a5919f17efa3966ab44f7e,bd4d46794ffa7edccb016ae1c90b66b7,813.56,2023-12-26,Failed,WHI984,Whitefield,Bangalore,Net Banking,Merchant_27,Groceries
+f477f33d458f964bae7e8d0110173ebb,42f6813507e46496f019e643644f6e55,572.1,2023-10-22,Failed,WHI337,Whitefield,Bangalore,Debit,Merchant_40,Electronics
+9e0557da27fba42f5604e1a29cba8298,8a1085f306ae9f4e7994c7012c9ebb01,758.28,2023-11-30,Failed,WHI921,Whitefield,Bangalore,UPI,Merchant_56,Groceries
+6fcbf440d12b3841e908f9c89c112136,6e744860397e55f1899a662bc970d5b4,320.29,2023-01-28,Failed,WHI682,Whitefield,Bangalore,UPI,Merchant_21,Groceries
+6fcbe0b14e2c95631365aa5d68245e6b,6b37ea7da89b7b0d3a6105607dc695a8,79.41,2023-01-27,Successful,WHI673,Whitefield,Bangalore,Debit,Merchant_29,Electronics
+2fe75c3d02f07d904328e56edec30367,4f2efcc545b737d1a8db6f1e7b1be3c7,591.63,2023-03-01,Successful,WHI446,Whitefield,Bangalore,Credit,Merchant_93,Health
+764b6f3af12ba7bfb6b21b1defdde081,a3617699521be9119485b8b221852662,968.81,2023-12-18,Successful,WHI687,Whitefield,Bangalore,Credit,Merchant_19,Health
+a21fdab64cb69e3678c02782614a60f6,edfcc66f7657c57b7d6c15e02d72e1a5,873.07,2023-01-15,Failed,WHI587,Whitefield,Bangalore,Debit,Merchant_3,Electronics
+f876e67d692e33253ec5c8e924e35057,0ebb386348da4ecb03a2b109946350da,745.69,2023-07-22,Successful,WHI726,Whitefield,Bangalore,Credit,Merchant_13,Clothing
+8fdbbf158ec3b40c94786b2537a1b9f0,0ca3a225e6ac10a6af8dc42959b62ad2,588.34,2023-05-09,Failed,WHI859,Whitefield,Bangalore,UPI,Merchant_40,Electronics
+521839b6b479445982610c92e9480ae1,de4b1fd6ad466d8721b23dfef853474b,684.07,2023-04-07,Failed,WHI825,Whitefield,Bangalore,Debit,Merchant_52,Health
+7c8de9356f7213c134ed7f55a2b2c188,943a730723541d6c75a36e388eb7cd80,250.01,2023-04-14,Successful,WHI348,Whitefield,Bangalore,Debit,Merchant_45,Electronics
+76e292542f3e5769fef5c1b333002212,a4c055dce2c7abb2f81690848085d62e,211.51,2023-03-27,Successful,WHI790,Whitefield,Bangalore,Credit,Merchant_41,Electronics
+fbcdf646b85a7e65b74e68f6d7298e3c,9aab2d0ce7de81ccad90e52735b7053b,794.01,2023-10-23,Successful,WHI113,Whitefield,Bangalore,Net Banking,Merchant_79,Health
+2a4bf16f41140a53b20f222d02bebdf6,13cbfd1c4b8d28c17732131aa990f926,636.49,2023-06-10,Successful,WHI761,Whitefield,Bangalore,UPI,Merchant_36,Electronics
+24f268b449091a91eed1e2050ff141ee,c86df053bb4b91c24d9672cce1864bd0,537.64,2023-12-02,Failed,WHI290,Whitefield,Bangalore,UPI,Merchant_3,Groceries
+e974a1f0535191becabafe576ed6d305,a892455c4122aa6d82e5796f5fc2eee9,283.29,2023-10-20,Successful,WHI374,Whitefield,Bangalore,Credit,Merchant_22,Clothing
+6c3a6b5ade9f62ce32f670ef4dfbcc5d,60d240315a6de30e0fab6a3cf6554761,49.87,2023-03-13,Successful,WHI343,Whitefield,Bangalore,Net Banking,Merchant_29,Electronics
+66d81933b007567d53c38d370d4b193e,fa9851a325358fbe2fcdca39d19728f8,183.71,2023-12-31,Failed,WHI267,Whitefield,Bangalore,Debit,Merchant_56,Groceries
+36a2cdff7fd1265bb5d76d49601d16c0,3e2d1cc039eb1a829679e3cb1ae47a22,352.01,2023-09-23,Successful,WHI511,Whitefield,Bangalore,Credit,Merchant_51,Clothing
+85a7a42531e15aa1816722ebd78166b3,5e1b27a311e7fb9a91cec384afa458f6,267.66,2023-04-09,Successful,WHI161,Whitefield,Bangalore,Credit,Merchant_17,Groceries
+1625cab40667fe4a22cede50acad2ce9,c848a6cd3f3be8eea5724a71c18ffe23,993.11,2023-02-09,Successful,WHI215,Whitefield,Bangalore,Credit,Merchant_84,Electronics
+1e77ae8a72715108689770a2867f38b8,db94bb43431422b6ebdf260e480582fe,471.11,2023-08-14,Successful,WHI882,Whitefield,Bangalore,Credit,Merchant_99,Health
+6f45bb73a08c77262bdcdbef60df8ddb,dceafd0248fec5a5093b5b6559dcca80,235.91,2023-06-22,Failed,WHI803,Whitefield,Bangalore,Credit,Merchant_51,Groceries
+9a42b5cd32bea231d3411e448338ffe7,6dea4f2a6420eb981dbe3b68c688d476,19.21,2023-02-03,Failed,WHI687,Whitefield,Bangalore,Credit,Merchant_43,Health
+91a3eb68ce59bebee13c75524fececa7,1a7f45c7eb96a4c1a4330aad3c61a501,276.8,2023-07-18,Successful,WHI182,Whitefield,Bangalore,Credit,Merchant_74,Health
+5d45e059cc6ae03338359bbef2f2d274,f6bcbe5d57aafefd66f749c607becebf,169.05,2023-03-02,Successful,WHI594,Whitefield,Bangalore,Net Banking,Merchant_15,Electronics
+2789b8ba1e838023480f9557d1cb23b9,330e410d76bad3d0b4b87d9ac6a8253e,653.38,2023-07-31,Successful,WHI611,Whitefield,Bangalore,Debit,Merchant_39,Clothing
+39931cd920c67fcda1467cdfd4292520,48b04c87a04945dd6f8125adbcd276af,456.45,2023-07-20,Successful,WHI543,Whitefield,Bangalore,Debit,Merchant_57,Health
+e6153c894a0605c477fcc3d0f4a5a0fd,ff44abd2c2f1fe575e3ef9c5f99a2ebc,72.83,2023-12-04,Failed,WHI446,Whitefield,Bangalore,Credit,Merchant_30,Health
+02ad4855db4b35f1efa66d46371ee464,09e8e4e72365f499361bf3292ea6a2b1,131.53,2023-06-26,Failed,WHI962,Whitefield,Bangalore,Net Banking,Merchant_41,Health
+b482dbedca6ab874ba88ff51342a5398,8dd5154dc2040e6ac349bb7d9c6a4acd,855.17,2023-08-07,Failed,WHI956,Whitefield,Bangalore,Net Banking,Merchant_6,Electronics
+90f0e644e3cafe359b9e563298619ccc,619deba7c47b6e82054f4befd7017eac,793.43,2023-08-09,Successful,WHI657,Whitefield,Bangalore,Debit,Merchant_14,Health
+74e1ab0b17b8cc2fd7579dd9051f3d90,fa9ea71f51c3b7ffef847d5989cef8a0,977.04,2023-06-07,Successful,WHI371,Whitefield,Bangalore,UPI,Merchant_17,Electronics
+ca3e630d1e8a734fcf5dc7d182595480,621c7db419acdd02d6d522d5bfc02bb2,455.56,2023-06-21,Failed,WHI714,Whitefield,Bangalore,Debit,Merchant_58,Clothing
+600b8104a1031536c5ae6f420715abb3,79e551db185c2dca5d4e0ea129163942,129.48,2023-03-06,Successful,WHI175,Whitefield,Bangalore,Net Banking,Merchant_40,Groceries
+3af02dd0c8966512db8599dc6e2e3347,07b64a3ae9b379591704692e2e569bd7,606.43,2023-12-21,Failed,WHI264,Whitefield,Bangalore,Net Banking,Merchant_32,Electronics
+6e62c6b09052873f32b8611e5d54d295,d5c0eb0538501aff70b9cbf4ffe185c5,674.07,2023-12-20,Successful,WHI524,Whitefield,Bangalore,Debit,Merchant_60,Electronics
+e8ba0b330099d78fdfcb8ae48cee031d,8bc2cab996fc642ed08e95095db4193b,855.76,2023-01-22,Successful,WHI722,Whitefield,Bangalore,Net Banking,Merchant_43,Groceries
+7cfa54bbfdad0cfa69e053abe76a6500,842c536450debbd1cee0b3159e0afa6e,182.31,2023-07-22,Successful,WHI323,Whitefield,Bangalore,UPI,Merchant_50,Clothing
+6bda073b60672de57f17a82308739da0,bbeef4be472728e62681d94161e76c80,712.16,2023-02-18,Successful,WHI717,Whitefield,Bangalore,UPI,Merchant_92,Groceries
+3a22030cce80b147e0a33ec2f7a52840,aaebe45b32dafe83613b9594079e4cf4,210.99,2023-07-31,Successful,WHI146,Whitefield,Bangalore,Debit,Merchant_92,Electronics
+8c3085da0db98d42fcdedf011cf3a251,43e7bc0dcf125c036ef2f6cb3bb5acd1,724.63,2023-06-14,Successful,WHI818,Whitefield,Bangalore,UPI,Merchant_39,Clothing
+af9b5c3594f3cfaf04379f5225eb6c00,35b2181dff1f49cf76f8b547c71d27e7,499.94,2023-09-28,Failed,WHI240,Whitefield,Bangalore,Debit,Merchant_92,Electronics
+d8a1686a2c957fe0c00b7f8ce552dc8f,2dafadd148c10aab6526aa9f144a5539,129.43,2023-10-06,Failed,WHI890,Whitefield,Bangalore,Credit,Merchant_82,Health
+30a47e4dc1e753ba14659fb3e38cc605,6380caa16f7a4f33f95096855e4bb45d,228.74,2023-10-05,Successful,WHI715,Whitefield,Bangalore,Net Banking,Merchant_17,Clothing
+a9c035dad2eacd2b277ebd505a378b24,66a121dd1ffc0434db65d3dfa85f2c12,553.5,2023-03-23,Failed,WHI437,Whitefield,Bangalore,Debit,Merchant_59,Clothing
+def9f1b74f4269d9b698b34b164b77e2,7bb62e7ae5e7ed44cff62e246356341b,365.88,2023-01-04,Failed,WHI336,Whitefield,Bangalore,Credit,Merchant_69,Health
+7477990a19212bf384e52b413bccc8c6,823f8ee8cb8a3311a000a60d3ec253de,566.06,2023-04-16,Failed,WHI787,Whitefield,Bangalore,Credit,Merchant_63,Groceries
+23635d777ff9dfd4b1ffb9d74125b090,1335337a3cdb3de3b81bf06362caf6e9,88.37,2023-01-01,Successful,WHI202,Whitefield,Bangalore,Debit,Merchant_99,Health
+267bbf0d204b1001773eed7fbceb146b,64ace4e6c0ef679497736a2c19078b8d,417.33,2023-06-06,Failed,WHI956,Whitefield,Bangalore,Debit,Merchant_27,Health
+3a8e13591670a1b7ac6b49b4eeac9345,c7c2a82e973da335ba5e7ccd9d93da57,241.83,2023-12-28,Successful,WHI665,Whitefield,Bangalore,Credit,Merchant_41,Health
+016bff5c470034924adfb048f8bbfc81,caf372e90e4969a3729fdf7ee4383322,54.17,2023-10-30,Successful,WHI969,Whitefield,Bangalore,UPI,Merchant_86,Health
+12adbc14d1b507bc5cad252d7b3d6046,1ba23ca55e2edb16a818d3fef04fe3a6,134.77,2023-09-06,Successful,WHI366,Whitefield,Bangalore,Credit,Merchant_71,Clothing
+cd9800b4c5074c39112cb37d1eb424b1,be5aa4bb62fd7a075f73ede0a3356cdd,655.72,2023-10-13,Successful,WHI508,Whitefield,Bangalore,UPI,Merchant_26,Clothing
+21bab48e15e39a1f1d47f16c5d951039,513d29a7bda63d84d8148cd113b807af,331.13,2023-03-07,Successful,WHI456,Whitefield,Bangalore,UPI,Merchant_91,Clothing
+222bdb0f79ec7811d17188099da3391c,bf98a75780a31919a80173358929c5dd,543.12,2023-10-15,Successful,WHI537,Whitefield,Bangalore,Net Banking,Merchant_65,Groceries
+a56599043a20647502222435ad32b861,d7fb4f4e92586e7ea6009d2bf7ee0393,433.35,2023-06-13,Successful,WHI205,Whitefield,Bangalore,Net Banking,Merchant_2,Health
+9c63a1f61067ba2a5790c9791fa24c74,43e6dda33b0f2a0805ea7c3e7239c980,476.4,2023-11-06,Failed,WHI232,Whitefield,Bangalore,Credit,Merchant_37,Clothing
+3c0b0a5e1ff5eeb5042dc6b99b481ded,129ecec583e0d9189a931f3c4f0a9b28,690.95,2023-07-11,Successful,WHI525,Whitefield,Bangalore,UPI,Merchant_79,Clothing
+d87db358c60b2b3f38a23169830a82ee,c4142dedd64c5c28e6adadcced0223f2,129.48,2023-07-03,Failed,WHI180,Whitefield,Bangalore,UPI,Merchant_43,Electronics
+0738982bd46dce04a880fdd5f9b095ed,03124cb761e08342ca2cab13cc62c5ef,404.93,2023-08-07,Failed,WHI175,Whitefield,Bangalore,Credit,Merchant_30,Electronics
+52f399739278068ef7801c135cc55e0c,9877f1dd524295543ca9e138efd61ca1,892.28,2023-05-24,Successful,WHI486,Whitefield,Bangalore,UPI,Merchant_78,Electronics
+b16b5cd3249bf8ef65fe0eee1f90e797,e61bce39500eaf0f8b4d5507154131c9,942.73,2023-09-04,Failed,WHI608,Whitefield,Bangalore,Credit,Merchant_12,Clothing
+ff58ea34af0cbd5fb807ae5c46c5981f,7d97c09dcbaf38103e318ca64c1e59ef,170.36,2023-10-04,Failed,WHI793,Whitefield,Bangalore,Debit,Merchant_46,Clothing
+0768cdbb956a8c6710ca0df9a12148cc,84b2d0debc3b44e32a89d46d0df35a42,66.0,2023-07-31,Failed,WHI750,Whitefield,Bangalore,Debit,Merchant_57,Health
+dce43f84e6a1847b44a295948234aa24,df7484dcbd8d651f46d4429705c9cc08,731.8,2023-10-09,Successful,WHI235,Whitefield,Bangalore,Debit,Merchant_73,Groceries
+47c92c33b0189e708bc3a632f1878995,4c0a2a6c943f2150d59360d8350ba420,993.55,2023-06-07,Failed,WHI774,Whitefield,Bangalore,Credit,Merchant_51,Health
+da49b6e047eb25bb5e1e60674367fe89,fbfc5ddb3e1eb701f919828220be8e19,592.95,2023-12-10,Successful,WHI858,Whitefield,Bangalore,Credit,Merchant_94,Clothing
+d9789b4a05f2ecb55dbb2d513e015574,c98d7e17478bffe859a7661f89a6bf70,631.33,2023-11-04,Failed,WHI158,Whitefield,Bangalore,UPI,Merchant_11,Groceries
+ddf0dfa88439388199f17de371775f34,efeb9ffcd9ed4039cf71c28d1c161903,77.27,2023-06-30,Successful,WHI935,Whitefield,Bangalore,UPI,Merchant_46,Health
+322df23bac1ddf9a11d86a1eff8a6b8f,ee93c8feb6dc6ae1818e49e88ad85950,50.54,2023-01-24,Successful,WHI186,Whitefield,Bangalore,Credit,Merchant_97,Groceries
+3797f5f5e4a6b7beb0bb44a764338b40,af4e8293217429c63e0c75d57b223575,998.91,2023-09-18,Failed,WHI680,Whitefield,Bangalore,UPI,Merchant_39,Clothing
+9b7cefbf2bb48aa83928492971ac26af,fe54a9d0c3db4174c5f1fbdb642748e4,336.99,2023-09-05,Successful,WHI273,Whitefield,Bangalore,Credit,Merchant_3,Clothing
+60cab2dd6079ccccaf57a223612e7636,3898260aa69ecf1339d73f145feabe69,775.66,2023-03-04,Failed,WHI568,Whitefield,Bangalore,Net Banking,Merchant_28,Health
+141a9196b11e4528651f3c29223aaae6,668e9b83a765ffcc3e1fa83810bd9bca,31.31,2023-12-01,Successful,WHI681,Whitefield,Bangalore,Debit,Merchant_70,Health
+3a7e5c163e9b1a71c4d17e4f13558e5b,e03a77f05d32156f27936c9f0563b9f8,176.03,2023-07-16,Failed,WHI234,Whitefield,Bangalore,Net Banking,Merchant_30,Health
+f1ca927bea85d5be610c8068b78ea316,caba8c528334be6839feaf4e232d2370,545.64,2023-08-22,Failed,WHI858,Whitefield,Bangalore,Credit,Merchant_29,Electronics
+b9579c9247963fe26c12deeb83942df8,c2c19355f9e9973a10e5f73e9e5db3af,903.23,2023-04-02,Successful,WHI798,Whitefield,Bangalore,Debit,Merchant_11,Health
+378fff77817676a82628afcfc43f5b16,884abf9d345675f06a906808d8650537,828.18,2023-10-19,Successful,WHI363,Whitefield,Bangalore,Debit,Merchant_82,Health
+9560e5667d94c5375885ab7fafdd7285,b102ec68848438f9c81cb981c7bbd2d7,98.56,2023-09-05,Successful,WHI909,Whitefield,Bangalore,Debit,Merchant_91,Electronics
+0b7d14aa39bac5839713d80a34907d9f,be8080a0148707a2063703c365622253,611.06,2023-10-01,Failed,WHI540,Whitefield,Bangalore,Credit,Merchant_16,Groceries
+61f7db60abb09fab8c815b089a8b1882,923ec4be04377497b2c6eb750e4db629,152.54,2023-09-09,Failed,WHI947,Whitefield,Bangalore,Debit,Merchant_5,Groceries
+4e1d04c6217fb130dd642e78a7be5a1a,a508bd4fdd70d05feabab1afc65d226b,585.36,2023-09-29,Successful,WHI383,Whitefield,Bangalore,UPI,Merchant_92,Health
+31f77cd01ae0377b617afab2c37cc43d,d760e092823fe84717e87d6f79d72389,412.33,2023-07-20,Failed,WHI816,Whitefield,Bangalore,Debit,Merchant_45,Clothing
+d533dac4da4f49774053777119fccbfd,4b89645b8d4cc40538cda518c2d49f6b,757.07,2023-04-01,Failed,WHI845,Whitefield,Bangalore,Debit,Merchant_9,Health
+e3ea92a747e6edb39d446f2647d53d88,402367848ebb7fbdaa454c0e43a08230,557.73,2023-01-26,Failed,WHI956,Whitefield,Bangalore,Credit,Merchant_6,Electronics
+70638c4442d27cab5a1202b5ddbb49e5,e58a75475082287b4bb4d756b5ad578b,292.75,2023-03-10,Successful,WHI576,Whitefield,Bangalore,Net Banking,Merchant_90,Electronics
+bed35893b885e7be539fc2f550efadd3,fd40158a0843d14f5b7877891d701827,444.96,2023-08-19,Successful,WHI768,Whitefield,Bangalore,Credit,Merchant_2,Electronics
+c33d1b511d75dbb76fd653058cd6d58f,c34c6d1899e6cef2a522f766a56f5ac3,407.27,2023-09-10,Failed,WHI979,Whitefield,Bangalore,Credit,Merchant_3,Clothing
+d19bfeb5754966262f297ae3f8cc04ec,d1fef432455da8aaad8359611e39959a,499.25,2023-08-23,Successful,WHI110,Whitefield,Bangalore,Debit,Merchant_90,Health
+d5c7fa16336fc5201dd83dbb3401951a,a36c4c70ebb1b0d6c1b9ba7d828957ab,978.1,2023-11-29,Successful,WHI148,Whitefield,Bangalore,UPI,Merchant_31,Clothing
+e4f4fb4d7ae6ff541340f35ecbde765a,c47d32f6522533e37933c588b60a9233,261.95,2023-06-12,Successful,WHI213,Whitefield,Bangalore,UPI,Merchant_14,Electronics
+5f864cd8b2164be29f8e67c8dc709094,310801748c5b3f6fc81e08de24f617b1,528.64,2023-11-13,Failed,WHI878,Whitefield,Bangalore,UPI,Merchant_59,Electronics
+2f10b36b3fc6cb3a787d2d16d84dc4de,cd3d26b7d256976190ef723d95f5e2d3,485.08,2023-09-02,Failed,WHI434,Whitefield,Bangalore,Credit,Merchant_28,Electronics
+69b010f8ce965fbd47aaeb926b3aea48,c7b7f7359ef47e498927de00c3185631,867.84,2023-01-01,Successful,WHI611,Whitefield,Bangalore,UPI,Merchant_23,Electronics
+ed753e8fe5ff4d6a705984c5be58ff75,5c64b788e8ed8ae57100eb0b1a0736ee,969.21,2023-02-15,Successful,WHI743,Whitefield,Bangalore,UPI,Merchant_94,Health
+34e3fa6631fdd9c5ae539d78ed6b8cb3,042e64c2fba242d6e5d5431505f4454d,697.73,2023-06-13,Failed,WHI302,Whitefield,Bangalore,Credit,Merchant_18,Health
+8c8096c34dac8e1d4eb966ab4a0325e6,9ec97d06add5dc7b0e867291c31c1c34,287.32,2023-06-05,Failed,WHI665,Whitefield,Bangalore,UPI,Merchant_30,Groceries
+86dd0afd3de73b770eaefee014db2b84,889c773eb96b59d2efb4461c6def7c8d,713.14,2023-06-17,Failed,WHI909,Whitefield,Bangalore,Net Banking,Merchant_93,Clothing
+39a6ba1debb5a2c89a2b4e86a82eb61f,7b1d024cf50103d0858150e2f4aa553c,46.35,2023-09-23,Successful,WHI840,Whitefield,Bangalore,UPI,Merchant_12,Electronics
+ab648b0ab22cd5b2d9c9b671f4880747,b7bc6e3ad421f5a44c9b9ba6df5476dc,991.18,2023-06-21,Failed,WHI939,Whitefield,Bangalore,UPI,Merchant_37,Groceries
+d21c3d75442d275b4124a7717ab02533,99eb2f70ebd7e8c5af53c5018f809d49,808.6,2023-02-13,Successful,WHI593,Whitefield,Bangalore,Net Banking,Merchant_14,Clothing
+bede14de3fd17aeab6271981a86ef99d,828b8ab376d1541073ec81a050169fcb,468.59,2023-07-13,Failed,WHI109,Whitefield,Bangalore,Net Banking,Merchant_50,Health
+44b5dd052787d9ce761f94b5b4b48183,69aa8f613f7e538c26cc96510ad2c406,207.7,2023-02-11,Failed,WHI986,Whitefield,Bangalore,Debit,Merchant_64,Groceries
+2a6a06029e5a51336b0da653ad354c5f,a80233ae341854f359ef06caae94e1dc,264.08,2023-03-21,Failed,WHI323,Whitefield,Bangalore,UPI,Merchant_41,Health
+aec77199a8645846abafb22b5dd6fde1,c35e2fc762ed59c0edf08c556eb0b344,310.85,2023-01-08,Successful,WHI483,Whitefield,Bangalore,UPI,Merchant_76,Electronics
+929b46dd5627caab939d09904ffbf1b7,1c4b072cc728ed2b57bcb8d9051b8e74,335.42,2023-11-04,Successful,WHI472,Whitefield,Bangalore,Credit,Merchant_57,Health
+4f752e43cc3afe56d7a27472a39c46d6,da125d828a9ba654daff7eb887018c17,750.15,2023-11-07,Failed,WHI364,Whitefield,Bangalore,Credit,Merchant_100,Groceries
+a0c2a9777e3d3c9da2e40d1941028812,487e6ec417a195aa6e6297f42ef1d611,954.29,2023-03-14,Failed,WHI644,Whitefield,Bangalore,UPI,Merchant_30,Health
+ce74021f22e07c8553f8bb8c106c8fa9,be0db2a4c58f5341dfbdbbbb379fbf4b,333.29,2023-03-23,Failed,WHI406,Whitefield,Bangalore,UPI,Merchant_57,Groceries
+f258805b510aa0766e98b422cd00154b,3302881b11b6f5dc303570966f30132d,722.65,2023-10-06,Successful,WHI481,Whitefield,Bangalore,Credit,Merchant_94,Clothing
+b2e067f859cc038591cf9436a413aabe,9bb22f5890008ee28df7fb78924d4159,465.28,2023-07-16,Failed,WHI719,Whitefield,Bangalore,UPI,Merchant_38,Health
+8efff3203081e292f0129d81927e3dd0,febea2c38bad0abc427ba3c008565754,589.04,2023-12-27,Failed,WHI117,Whitefield,Bangalore,Credit,Merchant_89,Health
+0ebf8004f5f7d59faa8daf059732bfb4,6907a9b0ac8f4b98866f0146066163e9,552.81,2023-09-21,Failed,WHI291,Whitefield,Bangalore,Debit,Merchant_52,Health
+b8d2299a2559fddfbcdfa7cec4aef23c,0bd9c113c835ff50644ed44847c7941f,814.41,2023-06-30,Successful,WHI491,Whitefield,Bangalore,Net Banking,Merchant_41,Clothing
+f37fa9adc570b513b5f4e8aeae380dc1,bf144f5708d737eedfbc5c6db8e52de9,357.91,2023-07-07,Failed,WHI109,Whitefield,Bangalore,Debit,Merchant_43,Electronics
+c6124325fe4516a77999e850b3651a53,7ec5be13353c289b2d1ee66201e1a850,718.94,2023-08-25,Successful,WHI529,Whitefield,Bangalore,UPI,Merchant_5,Clothing
+d140e6fd5da56187065dd7029d382b43,d33dc132d2f098d2b20abfa0a2c834e1,151.91,2023-11-09,Failed,WHI841,Whitefield,Bangalore,Net Banking,Merchant_4,Health
+632f791fbaefd81bdfac87dfbd7467da,c821ca102f3c7609bc8a17cf375575c5,905.46,2023-06-30,Successful,WHI124,Whitefield,Bangalore,UPI,Merchant_79,Electronics
+7f59d339ec67124b8e66431844d1ea50,5780a684ae47f2acf5bc0e8a1e9267db,896.39,2023-11-11,Failed,WHI303,Whitefield,Bangalore,Debit,Merchant_5,Health
+d3dff2049ff499b23609e8f16f8b9a2d,25273403b18d192e4f79c95de5abd644,959.89,2023-07-30,Successful,WHI162,Whitefield,Bangalore,Net Banking,Merchant_93,Groceries
+5393170731a404ef5a714f9a03c282d3,467ceb269673bb19b55520007ac47c17,934.95,2023-05-12,Failed,WHI114,Whitefield,Bangalore,Credit,Merchant_87,Clothing
+629778be1713b52a0f153502eb7c9848,41975b173b5db2ecc5ad358b5b82a938,999.01,2023-09-08,Failed,WHI673,Whitefield,Bangalore,Credit,Merchant_76,Electronics
+1d586041b6a41e4138b29d17e6109978,57b570438b319a48efabf4bf32e81525,637.72,2023-11-08,Failed,WHI988,Whitefield,Bangalore,Debit,Merchant_85,Groceries
+be42c358e8bfe62e3faf3c982c4a8995,f7cf77db4d9f78c23fb9740961cc07a6,678.86,2023-10-24,Successful,WHI380,Whitefield,Bangalore,Debit,Merchant_39,Electronics
+73d92a0b6f4f2b521bf0a80d5283c693,ad93ed10dc9243328c77e6afbbe24209,681.7,2023-05-21,Successful,WHI579,Whitefield,Bangalore,Net Banking,Merchant_4,Groceries
+367867a1ae0d180c6e9a3af87c8f5c7e,80a8a1a347709f661796085cff6b8926,49.07,2023-06-01,Failed,WHI414,Whitefield,Bangalore,Debit,Merchant_37,Electronics
+648352ed860dad1c60b526e637d3dc50,3a4614e9853cb8cf7c0014a8d889bf1a,210.06,2023-01-25,Successful,WHI953,Whitefield,Bangalore,UPI,Merchant_96,Clothing
+648a0f21e51a36107a4af951a5458a1b,4f434e8072b435a101e4a6fa4dcaf85b,505.54,2023-01-01,Failed,WHI309,Whitefield,Bangalore,Net Banking,Merchant_50,Clothing
+3258d313fcd87a932b0f05957d92f598,93108dbc53885398869cb1e7e2e05abd,938.12,2023-10-01,Successful,WHI842,Whitefield,Bangalore,UPI,Merchant_66,Health
+8838c754cc1a926cbda943e725e1046d,a597f0f9c6e89c01ecbd18236b588d93,532.99,2023-06-08,Successful,WHI400,Whitefield,Bangalore,UPI,Merchant_83,Clothing
+c065bad9bf0a51e45d06638eca059c45,4f25b90630494d70a4abeef71612c522,175.81,2023-09-27,Successful,WHI907,Whitefield,Bangalore,Net Banking,Merchant_30,Clothing
+b96b02cea39a5a0240497a8c42072d25,e4b64770c9fa69e577d04cece427c8f1,626.73,2023-12-11,Failed,WHI872,Whitefield,Bangalore,UPI,Merchant_57,Electronics
+5473efaef9cde1a38a03774450e9fffa,fb0e4011ef00d0ab0284d188bd210dfc,266.12,2023-11-07,Successful,WHI952,Whitefield,Bangalore,UPI,Merchant_47,Health
+fb6daca0ad92539315be8762bd6af33f,34e786ce522c756dcb4d94f99dc8f991,556.17,2023-08-04,Failed,WHI876,Whitefield,Bangalore,Debit,Merchant_17,Clothing
+d3202200f18592edae688a08ba03668b,ff7ca1d8767e6a599a630fa5eb46711b,692.95,2023-11-17,Successful,WHI302,Whitefield,Bangalore,UPI,Merchant_60,Groceries
+7bb662d61d3fd17073cda01ee8381e47,febcba2630da52b92a3563561defdf18,535.36,2023-05-11,Successful,WHI515,Whitefield,Bangalore,UPI,Merchant_14,Electronics
+b9ab73b408cd8592bc0465ce3609ba67,434373d320f1dce2fe5a9c85c1460291,310.46,2023-01-19,Successful,WHI578,Whitefield,Bangalore,Credit,Merchant_76,Electronics
+94821973927718cd5faf023cdf551092,d086e806651d0ff0a80e486243a1be95,701.7,2023-11-08,Failed,WHI205,Whitefield,Bangalore,UPI,Merchant_87,Electronics
+2e382256f645f7cbe11ad14006d83c69,9cb865f7df3ef1dc0c79ec03f05bab3e,696.67,2023-08-29,Successful,WHI559,Whitefield,Bangalore,Debit,Merchant_8,Electronics
+04b928006ece5251c9785ba93bb6f17c,f07206690c16ede890880e0b80726ee9,537.32,2023-12-15,Failed,WHI390,Whitefield,Bangalore,Credit,Merchant_86,Groceries
+e1f6532b060bf294269158e55e782666,9ea272a0ffa25f6169158402fa916797,129.36,2023-02-02,Successful,WHI680,Whitefield,Bangalore,Debit,Merchant_32,Clothing
+3728ad18c8bee47f34414073455d0820,f675bc353216a5f4cf567cfa4bb3d5a3,953.29,2023-04-30,Successful,WHI626,Whitefield,Bangalore,Net Banking,Merchant_81,Health
+fa9971d5e9e94c726c03e6171c384b6e,3b300823ec59a669a65980919eac5643,272.02,2023-07-26,Failed,WHI221,Whitefield,Bangalore,Credit,Merchant_55,Electronics
+4be32dd9b0172c1fd8fc9b2ba78e8d4f,ef7c1c44aa12e1f21ada9118298947c5,321.37,2023-03-11,Failed,WHI357,Whitefield,Bangalore,UPI,Merchant_62,Electronics
+bcbd2bcc7b6f5b124ba88505a479fbf2,c0b8d320e7b2d16a4a19d48b12c80c10,945.6,2023-05-08,Failed,WHI627,Whitefield,Bangalore,Debit,Merchant_58,Electronics
+999229c6d5f0352b2b4e237fdee9a03c,5e4f464c0f6432ce8b55d642f3ebd3e4,878.46,2023-11-23,Failed,WHI459,Whitefield,Bangalore,Net Banking,Merchant_74,Clothing
+6746b515de191f931a2f3ce7cab77e80,33d75e325126efe012587f640b96dc56,457.05,2023-05-31,Successful,WHI218,Whitefield,Bangalore,UPI,Merchant_37,Health
+7feddc3bc8813a39a5d857a3cf3a896b,cedb8761eca243f0dc6ac9790ef967a5,200.78,2023-04-28,Failed,WHI653,Whitefield,Bangalore,Credit,Merchant_57,Electronics
+6db068c88fceb33ff142a3dff1096fa2,69b761fbb37b10c95b85a96052ecd668,55.08,2023-02-12,Failed,WHI335,Whitefield,Bangalore,Credit,Merchant_34,Health
+3db8f6acc6f15ae8be3c75dfff3f12ed,12f40820ff64cc034a2c43c9aaf4274b,67.95,2023-12-22,Successful,WHI113,Whitefield,Bangalore,Net Banking,Merchant_12,Electronics
+f85fe4e284c66151ff15f82986d44d78,4ec9c629b3359d56c985fcc4bac1f9fe,101.01,2023-10-18,Successful,WHI962,Whitefield,Bangalore,Net Banking,Merchant_36,Health
+8df865345b82fc8cfdda577253e1a292,074bf98272bfd1a597e3500adcfb9315,26.7,2023-12-08,Successful,WHI728,Whitefield,Bangalore,Credit,Merchant_15,Electronics
+c41eaeadf961f6d533c01868fb34a07c,5a0d1be3d7c97c83099aaf1418607bb8,623.77,2023-08-02,Successful,WHI151,Whitefield,Bangalore,Credit,Merchant_85,Electronics
+4c4a4434719218b855bf5dbefe803982,f5a2192df95a3c168da75bd704e6a737,638.79,2023-12-28,Successful,WHI848,Whitefield,Bangalore,Credit,Merchant_92,Clothing
+edf74a96f2edace02c6a8ebd86600872,bdf031a58abe488b9b8a0291f1bd07c5,668.68,2023-07-09,Successful,WHI115,Whitefield,Bangalore,Credit,Merchant_31,Electronics
+0aee7a9a432a24e427f47b3d243f26eb,79ab1918739785cf61803f9d886b7db8,855.55,2023-08-23,Failed,WHI903,Whitefield,Bangalore,Debit,Merchant_57,Groceries
+22f49875ae0a45ae1edc4aa1bab80be4,1d5e25fa877eb2c8eb6b3af97cf6b0de,182.84,2023-10-15,Successful,WHI935,Whitefield,Bangalore,Debit,Merchant_15,Electronics
+78e155a6e8e626bba11aa1f76f17fecd,39a4cdfb61c0c3973413ee8c1e6fa539,482.54,2023-10-09,Successful,WHI563,Whitefield,Bangalore,UPI,Merchant_92,Groceries
+3bf8e57d870bbd9bfb8c346f08b13b24,65bfb66105f139600486bb7afcf32509,814.14,2023-05-22,Successful,WHI942,Whitefield,Bangalore,Debit,Merchant_28,Health
+5b3ee4b06bc0e8d6c9ffed420c006277,4a0901861962263cc9b12f5b1a4b9c05,705.27,2023-02-08,Failed,WHI908,Whitefield,Bangalore,UPI,Merchant_24,Clothing
+3741a5da2318d1686dd7cfbf32e73a4e,a0873394a3895e141d86a394f1275c22,451.28,2023-02-06,Successful,WHI804,Whitefield,Bangalore,Credit,Merchant_13,Electronics
+3272f168a130b9b8eb36f88c77cdf249,03d2a0391fb47ee5f44ae0b4756d459a,938.9,2023-02-11,Failed,WHI624,Whitefield,Bangalore,UPI,Merchant_59,Clothing
+c328164dce37224255db1394c3d14c86,60a99ea648e08a649418deb4afd84a0b,317.6,2023-09-30,Failed,WHI718,Whitefield,Bangalore,Credit,Merchant_37,Clothing
+33b5021f5cd1363db406a2d86a7634db,f4b4d7afccf33d1f48d991abd3f9cf5d,312.15,2023-11-27,Successful,WHI659,Whitefield,Bangalore,Debit,Merchant_56,Electronics
+7f56e1509228e512c0f54e928c4a99ff,fb0c7e43e61ae0ae4b33be06a9bb2d66,837.39,2023-02-16,Failed,WHI122,Whitefield,Bangalore,Debit,Merchant_97,Clothing
+1dc7c158bde4fda0bbef2b0c8369b412,3d1eb357af9e369c4e97b9ba43192f87,218.78,2023-12-31,Successful,WHI122,Whitefield,Bangalore,UPI,Merchant_35,Groceries
+fb58affeb2140d348181639a69116395,a1baae1152db977b955f1f2254256101,629.26,2023-01-05,Successful,WHI232,Whitefield,Bangalore,Credit,Merchant_5,Groceries
+b07945154f9338289d9abc3b08f1424a,c0a0706ef81ee08dc0fbe22013572317,777.45,2023-11-22,Failed,WHI962,Whitefield,Bangalore,Debit,Merchant_1,Health
+cbb970d39e928baf62ec5541c0b93ef0,bf29469348fdb2c2deabd29579462828,720.94,2023-08-31,Failed,WHI237,Whitefield,Bangalore,UPI,Merchant_8,Groceries
+2e0165774318b81e162f9b3bf25156f7,5e2ae53af5340a6ec29d4d2d1994e0cc,779.22,2023-07-21,Successful,WHI434,Whitefield,Bangalore,Net Banking,Merchant_64,Clothing
+fcea9cd606922ef576231630808bbbee,0ceb7407861b52e8594ec6a28b02620e,772.77,2023-05-25,Successful,WHI625,Whitefield,Bangalore,Credit,Merchant_61,Electronics
+d8d7d7cce1bd1a66b5f8d068db1922c9,445516052d74984e4f817e7f17448bc6,923.57,2023-11-03,Failed,WHI769,Whitefield,Bangalore,Net Banking,Merchant_50,Health
+0d9957ec987ad656e6fb5ac0b5c46249,c1cd85bef45a85b3b2d77edb059cb935,62.63,2023-02-25,Successful,WHI388,Whitefield,Bangalore,Net Banking,Merchant_61,Groceries
+92375104b3c3d56dfc8818251f21891b,962203079602aee39060ad73a865358e,120.32,2023-02-12,Failed,WHI186,Whitefield,Bangalore,Credit,Merchant_47,Health
+7dfef6edf8821eee14dd8d3c7ac8f0e8,680d100d47f23e9666e954a30dae299d,433.31,2023-09-01,Successful,WHI418,Whitefield,Bangalore,Debit,Merchant_89,Groceries
+08a71c64760b41e316833158f4eac1a1,15766f32b409414a04051bc4d25e5db7,655.31,2023-01-21,Successful,WHI424,Whitefield,Bangalore,Credit,Merchant_9,Health
+3bfd70667315f563decdff6d65181f7f,cad19cf96d1f85f402b1a8079774da7a,878.95,2023-04-22,Failed,WHI913,Whitefield,Bangalore,Debit,Merchant_10,Health
+0af930447e97e222431f20a21d093d8a,1f9a02ba35ffa6ce26eb0f75b3174166,792.86,2023-04-24,Failed,WHI345,Whitefield,Bangalore,Net Banking,Merchant_67,Groceries
+2d504eea93d2ba21d58e0741492d20a0,22d6f2193dc0c3cb152f3248e318ecfd,429.85,2023-11-26,Successful,WHI711,Whitefield,Bangalore,Net Banking,Merchant_71,Groceries
+bc284d0b1154987f36aa26bee8fd0ee5,324432452d4044d142c7a2fb1ab2aeb5,663.26,2023-03-01,Failed,WHI400,Whitefield,Bangalore,Net Banking,Merchant_90,Electronics
+44528a99010cbbe3acfeae3bf69c25ec,8df14ccd39cbcdd353524c8e3b28e581,709.81,2023-08-29,Failed,WHI700,Whitefield,Bangalore,Credit,Merchant_84,Health
+c6c4463f995a3f58234ea785519878df,ac541914e8354da3af39f22edf409700,731.76,2023-10-19,Successful,WHI920,Whitefield,Bangalore,Credit,Merchant_84,Groceries
+47841dc9e65572e5b202ffa0fbcd56e1,eb63b16f8d35d313254ce4c6211e3158,654.24,2023-12-08,Successful,WHI967,Whitefield,Bangalore,Debit,Merchant_56,Health
+a8f6bab83c750932a1ed31a8af9eae39,ea36d4f7f6423c6356f7fbd3343b5bcc,541.69,2023-05-09,Successful,WHI746,Whitefield,Bangalore,UPI,Merchant_58,Groceries
+c5a8afb096f789f66adf5d44e330bdf8,acf8b0c406473c0f95e551a9172ff507,133.0,2023-06-21,Successful,WHI294,Whitefield,Bangalore,Net Banking,Merchant_83,Groceries
+ba5840720f21dc2cabb7b6560f73185b,8034263f6488a312c2cc13af408320e0,603.75,2023-08-27,Failed,WHI991,Whitefield,Bangalore,Net Banking,Merchant_24,Electronics
+d7d496ac364bfd6e144d18c34f624388,bea05e4b2e90fdceef25e20d142139d4,248.91,2023-04-02,Successful,WHI771,Whitefield,Bangalore,Credit,Merchant_29,Clothing
+3d5fb0908ed32e54880b23389330e3e7,302d29c7d04461fb0afee22e2bd99672,439.04,2023-03-14,Failed,WHI611,Whitefield,Bangalore,Debit,Merchant_81,Clothing
+08861e646f6473a41e1f3fd242fb2a86,0bfdfc32e11949395940627832ea1830,35.35,2023-02-11,Failed,WHI247,Whitefield,Bangalore,Net Banking,Merchant_90,Clothing
+dbce09d53b4d2e7b2e9891f123123f3b,f4acef6c8746f098d263eeb80eeb117a,58.36,2023-06-21,Successful,WHI891,Whitefield,Bangalore,Net Banking,Merchant_95,Clothing
+c4df97bfa2d5a6dd682d664b057077f0,e4be3cb6290e54abc4d2e9beb8e76e8e,382.62,2023-09-26,Successful,WHI592,Whitefield,Bangalore,Credit,Merchant_29,Health
+bdf093723fbd3e3becae2d01677fb5e9,521bafb07d5c7f077004e8fc43b2206d,703.1,2023-10-31,Successful,WHI600,Whitefield,Bangalore,UPI,Merchant_58,Groceries
+03709071d033a18c43b3b24f943c93d3,b6e54cd6256c01dbe1dfe92fc14c2f4e,600.94,2023-07-13,Failed,WHI623,Whitefield,Bangalore,Debit,Merchant_85,Health
+cd95e05ce887c17972f1ab80e45b48fc,9da654ea496a05afc90dd4c469ccec80,855.89,2023-11-25,Failed,WHI850,Whitefield,Bangalore,Debit,Merchant_25,Groceries
+f6557593ae02503547e50a3b48191446,feff2171928db5ac99f0c531db986279,114.27,2023-12-16,Failed,WHI621,Whitefield,Bangalore,Debit,Merchant_44,Health
+a40892abb6ff0c1e2f23fab3c4fb9d39,b09311555b3378ed229b817a9338838d,212.13,2023-04-20,Successful,WHI241,Whitefield,Bangalore,Net Banking,Merchant_76,Groceries
+49476f74f22c413c6d95cbcca2b3c3d5,52fac239caea3adc07bc8f00ffa7d932,417.45,2023-09-11,Successful,WHI841,Whitefield,Bangalore,UPI,Merchant_30,Clothing
+38cfa37e0fb15ea1d6d338675d8ff9d0,286ed1129b71d35378ebf238ca8de261,991.58,2023-06-21,Successful,WHI916,Whitefield,Bangalore,UPI,Merchant_40,Clothing
+63a2e7c136f6902d78116ac694818e4b,27d35b94cf8dc6d6e6b72fbf1a814049,893.15,2023-04-22,Failed,WHI639,Whitefield,Bangalore,Debit,Merchant_52,Electronics
+30a9ed699f53977a6c689c295e0b93e6,91f0fd400c9a561fcb08010012953220,81.26,2023-04-28,Successful,WHI498,Whitefield,Bangalore,UPI,Merchant_70,Groceries
+3f6cfb8e15bac49a8c9d3817bf2df154,bc1512d44222a28add8e33f186aff048,108.88,2023-05-12,Failed,WHI415,Whitefield,Bangalore,Credit,Merchant_66,Groceries
+d74bcded0721a31d59e0ca553909215a,7c27acf1d77f545e78e93e594f27ff1a,52.66,2023-11-30,Failed,WHI987,Whitefield,Bangalore,UPI,Merchant_53,Clothing
+78c3a24a45b87f4d487d893c6fdb96c9,a8fb871a4eee33a670caec0b05100e8e,644.09,2023-10-18,Failed,WHI843,Whitefield,Bangalore,Net Banking,Merchant_75,Clothing
+b2f1f3498b2772eb61f2193356dad29f,a47d353eb2b9f6ff16914f97ab4a9d20,483.35,2023-08-14,Successful,WHI651,Whitefield,Bangalore,Credit,Merchant_26,Health
+2563de9f4ed54039013d9657eb14e6e8,3721ff76d629d13661d6c25a5942aebb,754.54,2023-04-22,Successful,WHI454,Whitefield,Bangalore,Net Banking,Merchant_18,Electronics
+15ecdde6b81940cf5e7e29789de8caed,393688f8ffba7a34d3180f0ac2eadde5,904.4,2023-06-29,Failed,WHI126,Whitefield,Bangalore,UPI,Merchant_78,Clothing
+b3d678a796642fe9672ca234db22dc11,2c725d2330b7270266bfbb27007afe51,853.66,2023-02-05,Successful,WHI272,Whitefield,Bangalore,Credit,Merchant_41,Clothing
+479d84da11abf9d900bd1082dcd13e19,5f21045b259d6eb7b93dbf9f6f079333,351.94,2023-11-27,Successful,WHI522,Whitefield,Bangalore,Credit,Merchant_15,Health
+4fa74711a51156616d851178201d96ef,4f6aefad58bbaac295399c887c0d3f7e,142.91,2023-03-13,Failed,WHI449,Whitefield,Bangalore,Debit,Merchant_96,Electronics
+ce64099ea88311e437753f431c65cc26,7c72e4e4d62f986dc68afa623d5dd1b4,84.73,2023-06-24,Failed,WHI186,Whitefield,Bangalore,UPI,Merchant_41,Groceries
+a878fc1379eda09a5f306899b8afc5ad,0984a228d925ddc3cebb7e648fb562c9,735.98,2023-07-02,Failed,WHI658,Whitefield,Bangalore,UPI,Merchant_49,Health
+9c4f8678a26f832080f5c74da503d556,e95a3374888534d86d58143005dd3fd9,87.9,2023-05-30,Failed,WHI943,Whitefield,Bangalore,UPI,Merchant_12,Health
+cea9fdbe2e7896a2c60b9adc42873bd0,2bb8cc386d29c3b83cd08b6eeb8cfd34,677.36,2023-09-03,Successful,WHI658,Whitefield,Bangalore,Debit,Merchant_100,Health
+8344e3dbe2d385b64dc64dbed917ebb9,d307726b31f95c930d256a198dbd6d53,950.97,2023-04-09,Failed,WHI853,Whitefield,Bangalore,Debit,Merchant_32,Electronics
+e7e1fb962b397426c01c84b1b140d9ef,b47d983d36e20d65c7fcca35cab4207a,843.43,2023-10-01,Successful,WHI875,Whitefield,Bangalore,Debit,Merchant_15,Groceries
+fcb33d7774265e7c593350c961aceb83,9c39366580ef7a9f826fbe95617ef387,873.66,2023-11-30,Successful,WHI570,Whitefield,Bangalore,Net Banking,Merchant_2,Clothing
+bc60c240f108f6a4e8028a830a3ac6f7,c05cf0a981fc679dd261df2c38e5e1d4,697.34,2023-02-28,Failed,WHI882,Whitefield,Bangalore,UPI,Merchant_35,Clothing
+04adcd2fe03eeb06eed57fdb0b4698a8,c70c6b6aa8dea39c0a0545c54b5909d6,604.97,2023-06-30,Failed,WHI284,Whitefield,Bangalore,Debit,Merchant_1,Groceries
+44ccc98f9d444e9db55cada5b2bbba16,24f4cd50a81264520f8b8b6ad3c2d1a3,227.52,2023-02-28,Successful,WHI780,Whitefield,Bangalore,Debit,Merchant_43,Clothing
+6ecd5ef2c6831a6f0ca4996850fc14a5,4cb09248b32b584f228bc02056523f92,76.53,2023-08-26,Failed,WHI358,Whitefield,Bangalore,Credit,Merchant_73,Electronics
+53880559723f416ac401164b8d479936,c79bfa4ca32a5661801a714c39301667,659.09,2023-02-26,Successful,WHI433,Whitefield,Bangalore,Debit,Merchant_34,Clothing
+cc3d8feb00cc371bd7d8e47f802d6210,454e9077deaded7ed5772700e736e25f,530.8,2023-04-29,Successful,WHI544,Whitefield,Bangalore,Debit,Merchant_68,Clothing
+7473820821e61d4e6d9fbd0bbd3f38bb,5fcb58692834b9daa4af22eb505c97a4,807.81,2023-10-31,Failed,WHI916,Whitefield,Bangalore,Net Banking,Merchant_53,Electronics
+50a95bbdcd160047b0ddba065c8d298f,8f557b4e2727e2dce9f5b6d0ab1a1e96,198.14,2023-05-27,Failed,WHI125,Whitefield,Bangalore,Net Banking,Merchant_53,Groceries
+c811f92146331c71ce9f12a7c2e3e02b,0584eea0f5ca4799f7c7ea5e6e9901a4,433.61,2023-07-13,Successful,WHI906,Whitefield,Bangalore,UPI,Merchant_82,Clothing
+4cccace78f721bd9c478515ab127bcd1,d2865124f0b7bfca68f758920875757f,481.36,2023-04-25,Failed,WHI974,Whitefield,Bangalore,Debit,Merchant_75,Health
+9817cdf52c8f93e008704f822dc6d5c1,949dd9fd59cf2a4202cacaac20747a13,478.17,2023-11-09,Successful,WHI784,Whitefield,Bangalore,Net Banking,Merchant_86,Clothing
+10a0e841b8222b0cd1776abc3b490512,035cab98b53e50bcdaee1fa358388aef,374.78,2023-12-24,Failed,WHI924,Whitefield,Bangalore,UPI,Merchant_65,Clothing
+15c428f4985a246d6358dfef6b04492a,015fc40b5b2d5034d71d3a92ccdf7697,387.3,2023-10-22,Successful,WHI201,Whitefield,Bangalore,Net Banking,Merchant_12,Groceries
+58c7b527a723746fd0573f06ff5c6b8e,b35a958c84344e980b0336b1581947d1,146.68,2023-04-06,Failed,WHI736,Whitefield,Bangalore,Credit,Merchant_1,Health
+7da3414f4b4061aa710fde851a162f15,d18aefa9b211d9b25a46db42d9307325,764.21,2023-12-15,Failed,WHI347,Whitefield,Bangalore,Credit,Merchant_87,Groceries
+057bb4acd8f735c356ea5d7ed5faae77,4a143b4f9209b09d4eb629c03bab5952,970.93,2023-02-15,Failed,WHI237,Whitefield,Bangalore,Credit,Merchant_56,Groceries
+5ea445bf56005b80eca1334bd7568374,81f8fa1560beb648c9c3a12d1ba57143,465.25,2023-12-26,Failed,WHI921,Whitefield,Bangalore,UPI,Merchant_44,Health
+68df46862e29f1228db1ac53ae117082,b4c5ad949be20009e46b2cea31e05479,29.82,2023-08-17,Failed,WHI406,Whitefield,Bangalore,Net Banking,Merchant_93,Groceries
+e8c6aa737abdfebc4047f65e1cfadbb7,b2bfa91117e94e1ecb6b8f45823f6194,855.27,2023-06-01,Successful,WHI330,Whitefield,Bangalore,Net Banking,Merchant_41,Health
+0d7232d16c77cf5b6ec11a9a4fcef7a8,881bd4f89af7ac0858d38ddae94c33d9,455.88,2023-12-10,Successful,WHI847,Whitefield,Bangalore,Credit,Merchant_29,Health
+725cc7fe41047050fd53d44ea3dfa3e8,43f154df1dea60622298b63f4c694e00,331.72,2023-07-08,Failed,WHI159,Whitefield,Bangalore,Credit,Merchant_42,Clothing
+0f6a497edde6ae978bef82e5094696cd,dbcea52d0024bf9034cfa506a03dbaaf,103.25,2023-03-05,Failed,WHI433,Whitefield,Bangalore,Net Banking,Merchant_16,Clothing
+c16bb2ae8f3ffbae07e622946cd5c39b,14fb0b56ce3171688c6b61795f66d0b5,252.15,2023-04-05,Successful,WHI484,Whitefield,Bangalore,Net Banking,Merchant_11,Electronics
+ba850a379ea69c217c0f1f84382dd391,492da3b61cd8cb50da3de9c8dbf46531,536.31,2023-07-05,Successful,WHI709,Whitefield,Bangalore,Net Banking,Merchant_26,Electronics
+9bf8a3e1c4707154d409d7d24fd71aed,f3b62e95bc9e4781ce1de1565e638293,118.15,2023-11-08,Failed,WHI487,Whitefield,Bangalore,UPI,Merchant_84,Groceries
+291f0770c98c9d69a33875579a664ffe,864c2132e30f8704f6fccdaac3710821,263.22,2023-12-08,Failed,WHI677,Whitefield,Bangalore,Debit,Merchant_95,Electronics
+7d8da2282c96c270089086b6d8d353f7,8e715e4fc517e12a932c25dac8513c2b,427.24,2023-07-27,Successful,WHI827,Whitefield,Bangalore,Debit,Merchant_37,Groceries
+76e6e9c0d4aa3c47dd6a0d6d4894321c,3f084ad88d1b72824c0b8c22a105bde2,39.74,2023-09-13,Successful,WHI861,Whitefield,Bangalore,Debit,Merchant_1,Health
+06a5ad33b3cec14707858352bb71482d,4ee08ca655811a3d2447682452e5dda7,388.96,2023-05-26,Successful,WHI116,Whitefield,Bangalore,Debit,Merchant_85,Health
+b2546e29dcee98b1c0a87abb0ffd6553,faf7c802f02da76aad8d3e7645f5b1fa,369.81,2023-01-09,Failed,WHI380,Whitefield,Bangalore,UPI,Merchant_60,Health
+872f1f3a7c8de108f87391d428c31cd7,a86aa485c014c3c8b4243d8831c2e19e,340.8,2023-10-28,Failed,WHI453,Whitefield,Bangalore,Credit,Merchant_76,Health
+793f3114bc85fb9a9e5e119c954fc06b,69b79aa010d218643aba91c9540f2f3c,124.26,2023-07-02,Failed,WHI212,Whitefield,Bangalore,UPI,Merchant_95,Electronics
+2fde81884123de9d23faae43bbecb022,fa3c9a552d4a6a45f5b64902540623a6,63.81,2023-01-05,Successful,WHI301,Whitefield,Bangalore,Debit,Merchant_13,Groceries
+ead4ad632d955ff18c80ff2d5f7a5146,d82f90ebd397ad5560065f4344e5fd9b,652.94,2023-04-01,Failed,WHI885,Whitefield,Bangalore,UPI,Merchant_58,Clothing
+681c23bb5ef5fc11ee21b1ef7cdb4fd7,1e65d4a2cacc74b40b7cc8b9e8229dc3,528.54,2023-04-23,Successful,WHI905,Whitefield,Bangalore,Net Banking,Merchant_35,Groceries
+814b4a2626dbcd3d78a1ad20c0cc650f,1e66f60a8a9e28bbe98bfef95f945500,831.54,2023-03-11,Successful,WHI968,Whitefield,Bangalore,Debit,Merchant_21,Electronics
+614774a06a4e616f3e69ec52298bca63,c2ec06ef93a9bb533ca7fa7d11f2e9a9,804.82,2023-10-08,Successful,WHI131,Whitefield,Bangalore,UPI,Merchant_86,Clothing
+5eb6a01c632dcc1e04e0f9c4f61373ac,cfb2f6668abf139332eeee61c090d825,765.38,2023-12-08,Successful,WHI861,Whitefield,Bangalore,Credit,Merchant_64,Health
+b2ca1896c694e5c833f8e4dc38f12e29,70de608c95cca35b49ebf9184d2e4e4c,33.07,2023-03-03,Successful,WHI370,Whitefield,Bangalore,UPI,Merchant_47,Health
+f26799b1cf74cb95fb23ebd58c1690e5,e55d196862170ef1c22c274947217fdd,972.11,2023-06-24,Successful,WHI667,Whitefield,Bangalore,Credit,Merchant_6,Groceries
+95a6f73addbe5975afede417efbca56e,5c45b5aee3e2f185e005aedcb2bcc579,142.84,2023-05-02,Failed,WHI295,Whitefield,Bangalore,UPI,Merchant_3,Electronics
+0512c75ea263a2a88b0a29f54918c343,066c9a8db2929180842ce7d41f1b99a2,752.58,2023-05-07,Failed,WHI324,Whitefield,Bangalore,Debit,Merchant_87,Clothing
+948f73f640e41960af2377da3f34b327,4c69ec9ee4eeaa44b574ca686b4691bd,314.57,2023-08-31,Successful,WHI432,Whitefield,Bangalore,UPI,Merchant_87,Groceries
+2794a78865be7b4cb9011ff3caf7e2f9,3ce10286ffcd1f21f37724d7bd52ed0d,631.34,2023-04-16,Successful,WHI604,Whitefield,Bangalore,Net Banking,Merchant_24,Groceries
+0f22a8b1be4fcfc601ea24275fc855d1,5da5665be84b65f7633b87c9e4c3d73c,105.98,2023-09-06,Failed,WHI868,Whitefield,Bangalore,Credit,Merchant_10,Clothing
+38fe67e41ff040d5d05a999e43d1ca3c,bbf885534618a3d4eeb05e02b2c7b251,645.95,2023-02-23,Failed,WHI280,Whitefield,Bangalore,Debit,Merchant_96,Electronics
+068c10309b9ba51943705ce24ac26bc6,e01cdb29ea2bec1d0477f63723dff071,352.2,2023-03-24,Failed,WHI465,Whitefield,Bangalore,Credit,Merchant_16,Clothing
+9b1c2268c91d25ef3e05a5c3772fe7a8,6a6baebb7db3a508e328e808f6c51823,386.68,2023-08-10,Failed,WHI169,Whitefield,Bangalore,Credit,Merchant_23,Electronics
+4d46adf0f0887579af5dd87a44b33ed0,18ef075dd0b4d3e2038e78de647e6e4d,219.31,2023-01-19,Failed,WHI679,Whitefield,Bangalore,Credit,Merchant_65,Health
+8510881a39d9f9f9d3080481d43f6ed8,64507211369843559c58502b9ca6aa91,218.17,2023-06-17,Failed,WHI664,Whitefield,Bangalore,Net Banking,Merchant_1,Clothing
+8a3f1052f4f9452883c8d7eb79733d3d,945c11d83f3c73732238cc7630582334,880.06,2023-08-14,Failed,WHI336,Whitefield,Bangalore,Net Banking,Merchant_55,Groceries
+b3ac19f3834a9067fd8ac417c2beee6b,ee3feac4f99ab51c613f574ebcbae68e,237.55,2023-11-09,Successful,WHI399,Whitefield,Bangalore,Net Banking,Merchant_12,Groceries
+977c5010c85c23a5841c843cd7df001b,001bc4d85b4fb1c93dd94fc65fe030ca,548.01,2023-01-15,Failed,WHI964,Whitefield,Bangalore,Net Banking,Merchant_60,Electronics
+6342f0657e4d8367d021c1ef40b2806d,efec256a1173f13c37a371938f7424a0,61.17,2023-05-08,Successful,WHI435,Whitefield,Bangalore,Debit,Merchant_78,Groceries
+a968ad2065b1cd7783f666d2f30f3fbd,1fabfbb9c864f0844266eb140652718c,684.56,2023-12-31,Failed,WHI611,Whitefield,Bangalore,UPI,Merchant_42,Groceries
+d391c2bf8e3aa7b08b3196e85c4e3647,e168e51ca8c4b8e507f7bead1c88dff0,648.79,2023-01-10,Successful,WHI651,Whitefield,Bangalore,UPI,Merchant_5,Groceries
+f2ae73c6cb042a54133319223601a1d1,25f72426a725124ea1d1627a623500dc,410.01,2023-03-02,Failed,WHI247,Whitefield,Bangalore,Credit,Merchant_78,Clothing
+c2e0ac2359fa1c90f03d2f7b12b967cb,e9688f5e8c79666bf88693b039ac1b5a,58.74,2023-04-26,Failed,WHI883,Whitefield,Bangalore,Net Banking,Merchant_84,Clothing
+404544ff29a75e2dc161e19761275aa2,c706a207b4a4118c9294d85af06909e9,989.69,2023-03-23,Failed,WHI262,Whitefield,Bangalore,Credit,Merchant_60,Electronics
+4e6710cb2844133fd704c95b4f022adb,67aca1ff29bc97c33275fa9ca0c59195,146.93,2023-05-21,Successful,WHI114,Whitefield,Bangalore,Debit,Merchant_11,Electronics
+d5577fea548a9270000b48810e0d20bd,13a51624f48d625e7c410b14e6aee4d8,481.29,2023-01-06,Successful,WHI314,Whitefield,Bangalore,Debit,Merchant_96,Clothing
+6148f548540e19bbc31a32051659a8a9,80f69c763edaca5283aba7c63507f276,134.98,2023-10-24,Successful,WHI294,Whitefield,Bangalore,Debit,Merchant_53,Electronics
+f0ef68e8b501ca450d2abb8eac9a2db0,3038dcae8f06c91bb0eca7a32ad8b226,655.87,2023-04-07,Successful,WHI147,Whitefield,Bangalore,UPI,Merchant_39,Health
+d00841393eee8acc44962a6fec14d130,d53a7abf34713c900caa0077d569bc76,144.97,2023-12-24,Successful,WHI633,Whitefield,Bangalore,Debit,Merchant_64,Groceries
+257c29f957b890e50b7974c15686625a,5ae4964bc05a986ca28f656f4c2ebed0,736.09,2023-10-16,Successful,WHI337,Whitefield,Bangalore,Debit,Merchant_75,Electronics
+f44622026636498cd513fcc5f250690f,62480e69d3a239a2bb446d8544bd8176,63.3,2023-05-29,Successful,WHI325,Whitefield,Bangalore,Debit,Merchant_75,Groceries
+c02432cd9833732a33210341efb1ac5a,21e3db27b0a4c60ed20106157fbf6e77,616.69,2023-06-05,Failed,WHI816,Whitefield,Bangalore,Net Banking,Merchant_68,Health
+e17e1277c9179947f7e0cb8f486413ed,cba22399c35fd47668eb6148fad59463,648.03,2023-07-15,Successful,WHI153,Whitefield,Bangalore,Net Banking,Merchant_20,Health
+afb2b52a41c57b309b3994f22f3c0314,9e9be4ed1f01fb1f4dde1fc911eeb893,239.9,2023-03-26,Failed,WHI768,Whitefield,Bangalore,Net Banking,Merchant_83,Groceries
+e3b8a7d9f68ecc85d92f6fb57ff93190,1ecd070fc820336531f1b628c6915c32,704.19,2023-09-24,Successful,WHI798,Whitefield,Bangalore,Debit,Merchant_85,Groceries
+232a2724b899619eb74792a9e6bd49d0,408fe7d7c3ca771c25c1108348c8ee6a,75.79,2023-04-21,Successful,WHI625,Whitefield,Bangalore,UPI,Merchant_47,Electronics
+ce5445c2f94d580dbded5409402d415e,8b5c281b4a308a8568659455e2398499,950.01,2023-01-11,Successful,WHI961,Whitefield,Bangalore,Debit,Merchant_99,Health
+c7a2e3de97f1b185fc4c01838b91648e,54e445fc86c731e19a7e8052f0f43006,852.2,2023-12-18,Successful,WHI860,Whitefield,Bangalore,Debit,Merchant_86,Health
+328e9c83ec5e5c6ff8f8e71072113d35,2344bbbe5dead90a8cf618dd2668213a,108.69,2023-06-09,Failed,WHI873,Whitefield,Bangalore,UPI,Merchant_39,Health
+d5f0ab2ea59502231579b1d3d0b80bd3,a4f3b4266a8d543d8f05df2bc600ac51,437.96,2023-11-14,Failed,WHI229,Whitefield,Bangalore,Net Banking,Merchant_55,Groceries
+f4465d3eebf85bcc8b68e11a239a4064,6138c4e26d5618a502e15c37c877924e,759.2,2023-07-20,Failed,WHI336,Whitefield,Bangalore,UPI,Merchant_4,Health
+76f1698ad6b35533c7e2b4309bf1aeaf,eee36e35210c6fbfd198e8370e7037d2,606.0,2023-11-07,Failed,WHI572,Whitefield,Bangalore,Net Banking,Merchant_96,Health
+c8b342e329082e82a275158ef6043300,aa24e9dd875a511f387e6119274f13bc,857.83,2023-01-09,Failed,WHI826,Whitefield,Bangalore,Credit,Merchant_60,Groceries
+19d7adcda4685f3cc986a0559bd28877,cb9600d45a1057b13d6714bfd77a23d2,740.75,2023-10-11,Successful,WHI793,Whitefield,Bangalore,Net Banking,Merchant_17,Groceries
+f7fbacdcb498f0a8c133ba5bf888dc33,1ebe214cc1dd5b67724314aefd819b5d,928.91,2023-05-05,Failed,WHI866,Whitefield,Bangalore,Debit,Merchant_76,Clothing
+8af314b5c092f5434c9fdcccb5686918,56472e1b0791107881e00133ab6c1c7e,995.19,2023-08-09,Successful,WHI802,Whitefield,Bangalore,Debit,Merchant_7,Health
+b209e1f0de0eab14258899ffcc657187,351038fcf63882983e3abf8a2d64d27d,734.16,2023-09-27,Successful,WHI267,Whitefield,Bangalore,Credit,Merchant_35,Health
+e97c9d142a68f250e07eb36ad040ff86,b12f81b11c7a08ee3af3051142a2dd6c,728.05,2023-08-28,Failed,WHI115,Whitefield,Bangalore,UPI,Merchant_89,Electronics
+4e60862cbc8dabd6c8cb7372cd96f197,91f5c2d2e490bfc4d34b5ef32df60235,715.45,2023-06-08,Successful,WHI750,Whitefield,Bangalore,Net Banking,Merchant_31,Groceries
+424473cc6be37b559ffc429cbdc8cac7,cb575393f0d370cd057170c4eed2d6dc,363.76,2023-04-18,Failed,WHI737,Whitefield,Bangalore,Credit,Merchant_85,Electronics
+9ff979e6243bdf9408b6b1c9ae88fd70,4612b77d05acb89f5153a5d25ad53868,175.43,2023-03-14,Failed,WHI347,Whitefield,Bangalore,Debit,Merchant_74,Health
+e841fdd0389df2a096002bf0fa21af42,be2eb872454bdc8fd2accc54efb12fd8,769.89,2023-01-04,Successful,WHI179,Whitefield,Bangalore,UPI,Merchant_97,Electronics
+9748489dbfa09fc723b8d61f22f9cb5d,2193c32b9245eb3128338921546759c3,112.31,2023-07-12,Successful,WHI668,Whitefield,Bangalore,Debit,Merchant_61,Clothing
+9322aff704c8f3cc4d357736ffb0da2e,77766164f53750b1b22f18f13dfa0959,558.07,2023-12-07,Successful,WHI137,Whitefield,Bangalore,Net Banking,Merchant_20,Health
+267b6f761347379070061adc25a86243,5e46f3ce9f602e845a4d8890a3727f4d,566.1,2023-09-23,Failed,WHI797,Whitefield,Bangalore,Net Banking,Merchant_99,Health
+237fe0af50ff62a7de53edfe3bfa3a16,23dae5263eea03baf99eec28320bde0d,363.31,2023-03-11,Failed,WHI524,Whitefield,Bangalore,UPI,Merchant_80,Electronics
+0ab313a720f5798f1c8819ca2fa44c4b,c8635ed17f88aae09967395e8712d8e5,418.98,2023-03-12,Successful,WHI592,Whitefield,Bangalore,Net Banking,Merchant_8,Electronics
+081f54662bbe036c12dcda2902a6c08c,cff1d1c27c268349d44aeba17ebba2e0,500.86,2023-01-17,Failed,WHI974,Whitefield,Bangalore,Debit,Merchant_4,Groceries
+dc9c413509d0ca1a2ed8c66c3e505c4e,4ac9c4dcf6eef6c9377b625eefeda6eb,902.41,2023-12-19,Successful,WHI620,Whitefield,Bangalore,Net Banking,Merchant_52,Groceries
+c58e9be87fb8a496f3b01635f12e3f23,afc5f57a98bb5037ff43eddb935d0e25,548.16,2023-03-26,Failed,WHI713,Whitefield,Bangalore,UPI,Merchant_92,Electronics
+dcb8278d1d58a163d2a3dfa3a43f481c,7c4ff5584259fd1db33ce01eed794b46,374.86,2023-01-03,Successful,WHI618,Whitefield,Bangalore,Credit,Merchant_46,Electronics
+af8b9536ac821a78e97021c006ac60b0,293359cef9439633e19fa312f82e46c9,797.9,2023-11-05,Failed,WHI371,Whitefield,Bangalore,Debit,Merchant_30,Clothing
+5d5a6541e9ca292dbc88a21549b2143a,9d6e98a6b45c83f0c991e765266fca41,324.85,2023-11-20,Successful,WHI236,Whitefield,Bangalore,UPI,Merchant_60,Health
+fd4ba8c7291f095cd2afe1c417e2ee06,5504edd99e9d9bb52a6d64e2e3dd9dca,25.31,2023-09-25,Successful,WHI597,Whitefield,Bangalore,Credit,Merchant_92,Groceries
+81fa3d52504196639519d1b209a7d00c,f3485cedb9ca32faeb36f8af281ca38b,766.89,2023-03-11,Successful,WHI325,Whitefield,Bangalore,UPI,Merchant_45,Health
+ade18b83225108c28b4bec2a3665854c,06b4269ca7b5cda5642c7935bf02d207,867.07,2023-01-26,Failed,WHI862,Whitefield,Bangalore,Net Banking,Merchant_11,Electronics
+733c2a4303f03159a039e5b24850539e,8b97456d67fa90ee3722cf2b26d3d456,89.22,2023-09-17,Failed,WHI944,Whitefield,Bangalore,Net Banking,Merchant_81,Electronics
+d00c9b3296c042478e44853828b1c57b,55d8968f6e076aa4848443ded895c4d1,356.66,2023-09-06,Failed,WHI859,Whitefield,Bangalore,Net Banking,Merchant_94,Clothing
+e225f53e4990562d3bc3af9dd984b9e5,343d7eb4d47f1ba495e1f0a7683c2be8,201.2,2023-07-27,Failed,WHI259,Whitefield,Bangalore,Debit,Merchant_46,Electronics
+0503a20b7a6272b00e4a173f7fd65faf,887edfd02c78c04ba44055baf5d049d4,896.32,2023-05-22,Failed,WHI118,Whitefield,Bangalore,UPI,Merchant_80,Electronics
+e0ee40073ef2040558f402ad81ce60fe,78ed63c9309010a8abf49d7a75e83c4f,314.05,2023-10-07,Failed,WHI411,Whitefield,Bangalore,Credit,Merchant_26,Clothing
+2a2ff13232fb097fbe5c99aa03837d8a,835494913fb3a880ed4ef395beb9206f,798.31,2023-09-11,Failed,WHI460,Whitefield,Bangalore,Credit,Merchant_21,Health
+6b3c615b0ebafda6fafe8da0d46ebb52,0a58571c46c6a4f8ed4e4ee81b162eda,517.95,2023-02-04,Successful,WHI468,Whitefield,Bangalore,UPI,Merchant_14,Electronics
+0b0b20e4025d850a01c92b534fe228c6,c81da12411a1b4d425cec4b7702fc91b,132.04,2023-11-02,Failed,WHI572,Whitefield,Bangalore,Net Banking,Merchant_88,Clothing
+1111d2b0a91dd795b5c0a96f6e88c0da,2b7172fa2cece2af92e893309e5cfe13,34.28,2023-01-26,Failed,WHI532,Whitefield,Bangalore,Debit,Merchant_84,Clothing
+da3efe77b48f315b8e3a3597ce4d7c3c,198f304ae075fc82a14c60dc4df208e5,193.67,2023-02-28,Failed,WHI240,Whitefield,Bangalore,Net Banking,Merchant_31,Clothing
+4ca7b270388830b093e6e3036ff8aa07,1a1b7a7e5c1ea6dc2d72151582465ceb,812.8,2023-07-03,Successful,WHI172,Whitefield,Bangalore,UPI,Merchant_89,Groceries
+cd4afb4c3203b648b1f163e5afa5cea1,48d871a2c60f4717b4aacfda14dce678,787.55,2023-07-24,Failed,WHI106,Whitefield,Bangalore,Net Banking,Merchant_33,Clothing
+3b69c5c730e936cf9b38075822514128,582b181b1f1a17dd1c14f746601a427f,824.7,2023-06-03,Failed,WHI852,Whitefield,Bangalore,UPI,Merchant_48,Health
+72a9b2092952ac10e82184bfb1506cf3,9d488bb5ec0e097745b03ea9a181ea17,807.43,2023-08-31,Failed,WHI274,Whitefield,Bangalore,Net Banking,Merchant_35,Health
+5b96467f73a877aa8bdce94dbf5b82e5,21579906e0830e1cd387b2f344c21ee9,619.49,2023-01-02,Failed,WHI106,Whitefield,Bangalore,UPI,Merchant_59,Clothing
+a10d271e58841e8c6a397a4c21c6e609,792ab9802100fe31fc3a37e6e9ce694b,141.68,2023-11-13,Successful,WHI478,Whitefield,Bangalore,Debit,Merchant_61,Clothing
+e69cc387ff53d40a12e9938521dde330,2c001b04c568cbe53646cf01fdd19535,536.58,2023-04-04,Successful,WHI379,Whitefield,Bangalore,Debit,Merchant_14,Groceries
+e4f65e118e3ac8f330dbacc7b95b72a0,8a10580a0cfffea089633d81f6ba6a51,890.26,2023-11-09,Failed,WHI731,Whitefield,Bangalore,Debit,Merchant_33,Electronics
+ae0ec35cda70bc6249e03d58331c4ec1,6d1f6a6528c2f5f0ec9d3730c463894d,709.5,2023-06-11,Failed,WHI463,Whitefield,Bangalore,Credit,Merchant_69,Clothing
+91f265f75b2298bd553bd0a118079726,84a9f91770dce8f9e60c2b1964668c86,861.07,2023-07-19,Successful,WHI327,Whitefield,Bangalore,Debit,Merchant_30,Clothing
+2785e213026abad761e4d7d959f63edb,1314afc2f1ba95dafe0d4e4bd489b326,333.26,2023-03-29,Successful,WHI544,Whitefield,Bangalore,UPI,Merchant_6,Clothing
+6618ebf12b0360805ee69be76bb8f2cf,0967a3291cfb79533963b392455d1692,405.98,2023-05-31,Failed,WHI678,Whitefield,Bangalore,Net Banking,Merchant_24,Electronics
+9a43551ad8cdb6cf16a5a306c4316c6a,0d25f3d4a38bf9e766afaa19a1d6d8bd,979.97,2023-09-13,Successful,WHI971,Whitefield,Bangalore,Debit,Merchant_64,Clothing
+a97b4a7d174795d2b7fc7f9734fd76e4,1d417e4ee850b336637c7774e1a46f2e,806.12,2023-06-13,Successful,WHI149,Whitefield,Bangalore,Credit,Merchant_38,Electronics
+e62506216c153c4c725fb5018b87eeaf,2cda0d07ff58ac0dc45b74a74b414ca9,166.67,2023-07-23,Successful,WHI736,Whitefield,Bangalore,Net Banking,Merchant_23,Groceries
+6adade297e50cc1ac6904123c5977c5b,79ae5c77de6f29459728f9562c081781,499.68,2023-04-06,Successful,WHI607,Whitefield,Bangalore,UPI,Merchant_16,Health
+7ed58fb647ede48375cf7709c5ea3646,1aab6104882e40c6f7ec5391af78798b,680.28,2023-07-20,Successful,WHI841,Whitefield,Bangalore,UPI,Merchant_42,Groceries
+206d06262b63a33e4dbf8f23c6bd4ac0,18587c0c211cd469c1f4929a4139cc2c,552.14,2023-11-19,Failed,WHI883,Whitefield,Bangalore,Debit,Merchant_6,Clothing
+4e76a2e32dcd24c71b9e99d6d424b177,270d2a7e98ad73ce652bc5a0fbb61db1,716.94,2023-02-20,Successful,WHI463,Whitefield,Bangalore,Debit,Merchant_99,Health
+4929e1c8841f591b32be6af06d761424,65effdd02f20f2857f3f9026f49e2144,81.75,2023-10-04,Successful,WHI657,Whitefield,Bangalore,UPI,Merchant_46,Clothing
+851d7072f25069dd109ab239ce3c08a9,578efa6235a5c88b20ea17c16d0f27fb,364.72,2023-06-18,Failed,WHI904,Whitefield,Bangalore,Net Banking,Merchant_93,Electronics
+c6c016185625fe2989f64573752cca41,fd97a35203141ca9a8e853acbb7b3b23,875.73,2023-06-12,Successful,WHI100,Whitefield,Bangalore,UPI,Merchant_41,Health
+ea035748e5d43cd4538cd3507de04415,fd747ed23c938df5cc1db39eaed35773,276.38,2023-01-12,Failed,WHI103,Whitefield,Bangalore,Net Banking,Merchant_87,Clothing
+188b087009259f1e45e47b4fa8c052e4,2906dac9ae55b3e591a9b9809713b103,404.63,2023-08-24,Failed,WHI871,Whitefield,Bangalore,Credit,Merchant_82,Clothing
+4005ccbac67aa8dc521b48fa54a29044,04ae47d9725086597c58d1357f6eb5d6,518.88,2023-08-29,Failed,WHI391,Whitefield,Bangalore,Debit,Merchant_86,Health
+74f0545543015fb162b62b04e1ccbc6e,cea1c6a02cc6bbd86994cbf6dc6d64b1,68.4,2023-12-22,Failed,WHI175,Whitefield,Bangalore,UPI,Merchant_26,Electronics
+75f73f2aa03916f0ad1c5e5ca47556e4,79a452377962a74a9d0279d6856123e3,847.8,2023-11-30,Successful,WHI840,Whitefield,Bangalore,UPI,Merchant_29,Clothing
+aad8078d5b72b61bdb90e90bc6f24e89,46c8f43f25d6e419e246673402461f76,545.39,2023-02-22,Successful,WHI854,Whitefield,Bangalore,Net Banking,Merchant_57,Groceries
+6adaec3574808086e022252cfd2f304f,3de3b1b8eefbbf87def5f1c394e026bd,223.52,2023-06-19,Successful,WHI248,Whitefield,Bangalore,UPI,Merchant_98,Groceries
+2457b5875211814b8d051f8ad8993fdd,d020ef709a7270b3d4bb18e0b4bbe411,300.97,2023-02-20,Failed,WHI575,Whitefield,Bangalore,Debit,Merchant_61,Health
+581f9a7f38240f159c5a90157105d376,4b5fa508db0ac03476a9c773a00e3e45,785.06,2023-05-07,Successful,WHI296,Whitefield,Bangalore,UPI,Merchant_14,Clothing
+f821eb6010086eb27e472fb7d63e06ff,2a0f33c444eddd2101a5ca8f33739b78,696.29,2023-04-15,Failed,WHI641,Whitefield,Bangalore,Credit,Merchant_32,Health
+3e253ea9151a7297e7d3a96d9cb55695,394af6a8ca0a29eaa227be0f5440fbe2,418.69,2023-05-27,Failed,WHI781,Whitefield,Bangalore,Credit,Merchant_70,Health
+01c361934e2778a9f1957b68eb94c6bd,bfa9b8ed0728a2e62a811286bcc595b8,807.43,2023-08-16,Failed,WHI918,Whitefield,Bangalore,Credit,Merchant_17,Groceries
+bc3bb1d3a673ae4426d51d58d8c97785,21909f4d8e9aeb93d74346f89589a5c0,685.06,2023-12-08,Failed,WHI554,Whitefield,Bangalore,UPI,Merchant_62,Electronics
+9b96bad1437afe001048163ed939496f,e9d1fff36a6d05aa43d81d401c287ee9,832.39,2023-10-21,Successful,WHI646,Whitefield,Bangalore,Debit,Merchant_40,Health
+65024d32be1d8a9edb72142183b622c0,e71297dac099ca123c96d4766a7e7fb4,109.71,2023-01-13,Successful,WHI627,Whitefield,Bangalore,Credit,Merchant_98,Health
+b06efdb06d03616bd2041df1cd51281e,ff01793d4305ba591ddfc5d2fbfc5754,756.57,2023-12-01,Failed,WHI912,Whitefield,Bangalore,Credit,Merchant_86,Clothing
+882906cd50ba10fd28954bad2f706b92,e2982455838dd521085a959e9bda7271,525.94,2023-05-08,Failed,WHI199,Whitefield,Bangalore,Net Banking,Merchant_37,Health
+e091a5f820ca2e2747d9c0de044d8581,24f1d640fbb030515e74a02c63c995ec,71.35,2023-06-27,Successful,WHI568,Whitefield,Bangalore,UPI,Merchant_23,Health
+4618d886a48a42cb44c68d208067b9ef,2d38c71c71fab0940218065adb277911,843.28,2023-01-11,Failed,WHI367,Whitefield,Bangalore,Credit,Merchant_75,Groceries
+999c567c65071c4b0d5df141937c3bd1,765adc81b7589de5cdb7aa496ef938c2,957.03,2023-09-03,Failed,WHI120,Whitefield,Bangalore,Credit,Merchant_13,Groceries
+aeaa1a69b584b3c1ea74b029d34724f4,b2876ffbf6f1c6432240b3e3bd0495de,750.01,2023-09-13,Successful,WHI302,Whitefield,Bangalore,Debit,Merchant_80,Health
+fc6afc9513fc590144fbb2e07d54ea3e,484b5a1a3308506979383225cb010cca,948.33,2023-09-02,Failed,WHI689,Whitefield,Bangalore,Net Banking,Merchant_27,Health
+29885e91164acd00602c8e25738f4517,17cfc16ad791a08c05d5a6df9ec229db,313.87,2023-11-18,Failed,WHI800,Whitefield,Bangalore,Net Banking,Merchant_2,Clothing
+b285f7b4e5d79afbab9d82c221221c16,30da9886e604e193a2012caa8c7eeac2,356.16,2023-03-25,Failed,WHI941,Whitefield,Bangalore,UPI,Merchant_54,Clothing
+2089769e76c8054fd644173cb7349b35,5acdab5e69a0ec2102b5c9c956c8cdd7,444.13,2023-12-25,Failed,WHI970,Whitefield,Bangalore,Credit,Merchant_9,Electronics
+c206c6a428a7ba8c12688bcc22eaf48e,61f4734c06854408045075cc0023268a,360.44,2023-02-18,Successful,WHI166,Whitefield,Bangalore,UPI,Merchant_50,Groceries
+50eb22164fb391c811d7c48d1e86cfb9,846694d596f662169f99ae0446d736a9,887.03,2023-08-25,Failed,WHI297,Whitefield,Bangalore,Debit,Merchant_50,Groceries
+dbcfc24df13bc35b5c8ae9c21d61b63c,9ebf11eb2c740ddb9d6be33d8bbe45bd,465.34,2023-06-02,Failed,WHI643,Whitefield,Bangalore,Debit,Merchant_44,Clothing
+1fd287e72db8f9e1c7e6c7610c26e28d,c078bd80a5ff404bfb86dbd16ac75ac1,484.93,2023-01-14,Failed,WHI466,Whitefield,Bangalore,Credit,Merchant_25,Groceries
+35aec218fa5d2ebf952a5514afce7f7e,a0db1ae00454ac5acc2cff35d1d0fc5a,675.87,2023-03-05,Successful,WHI804,Whitefield,Bangalore,Credit,Merchant_49,Groceries
+5351154647489a5f5640da029666128d,f15d22b164851249d7a540c69c75fa6e,34.26,2023-07-19,Failed,WHI588,Whitefield,Bangalore,Credit,Merchant_72,Health
+adb9e585b9393746b8d34833f3efe0db,5cc7b8da3ae59941c73dcb6e9ff7a9ba,68.91,2023-08-11,Failed,WHI403,Whitefield,Bangalore,Net Banking,Merchant_89,Clothing
+b1c2b915c06142399159a85baafc27c5,38d16e4d44a15ae17c91385039269f5e,243.51,2023-06-08,Failed,WHI268,Whitefield,Bangalore,Net Banking,Merchant_43,Electronics

@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+16cfdf753107d378585cb3743355b939,6ae1933d60e4e11a509aebea7219c556,337.68,2023-04-02,Failed,GAC949,Gachibowli,Hyderabad,Debit,Merchant_69,Health
+379b2aca70e3eddfe1b8e33c9732f7a9,0ec1d628f6b942c019ee01f5b2501a68,119.14,2023-07-16,Successful,GAC284,Gachibowli,Hyderabad,Debit,Merchant_42,Health
+98b8e894e03e8320c58646f92e05209b,df52a00342422457924e88211a48f910,493.22,2023-11-07,Successful,GAC913,Gachibowli,Hyderabad,Net Banking,Merchant_18,Groceries
+2588e780e861cc43292caa20798285f4,a4bffd5260ed395214b654b02aa78908,974.45,2023-10-19,Successful,GAC707,Gachibowli,Hyderabad,Net Banking,Merchant_90,Health
+a97e77081f0eee6896bc1b70971b57ef,4aa6ad740762a8a3f8a324d8a96eead7,206.22,2023-07-02,Successful,GAC518,Gachibowli,Hyderabad,UPI,Merchant_73,Clothing
+13904954d21e3e5ac063acafa6e076c7,84f18dd235b44f17493a5c660d62e343,374.15,2023-11-29,Failed,GAC722,Gachibowli,Hyderabad,Debit,Merchant_62,Groceries
+3ffb54afd57b662132ffee35ca948ca6,b6d367245e3bda603f3f8c0628e899ae,440.39,2023-05-03,Failed,GAC345,Gachibowli,Hyderabad,Debit,Merchant_61,Clothing
+fef427f8e2253f0e145e898729b272e5,c98874936bfcefc104a419b7135ebf1a,535.44,2023-02-09,Successful,GAC562,Gachibowli,Hyderabad,Net Banking,Merchant_50,Health
+c9bc3366bef5640a200cddf2fadf19d1,24ce138987a3e9d66e0a575fd15606e4,729.0,2023-01-05,Successful,GAC572,Gachibowli,Hyderabad,Debit,Merchant_71,Electronics
+e4cd5ce16679f5dcd2a0f1428622cfdb,09485303c40a5b498129e20b6666e10f,642.37,2023-10-19,Successful,GAC915,Gachibowli,Hyderabad,Debit,Merchant_43,Health
+0e51fa99eb6cdb15ace9c8f79160c54f,91c5a82b9a125a33bcd00eb171f99b3a,879.16,2023-12-02,Failed,GAC822,Gachibowli,Hyderabad,Net Banking,Merchant_93,Health
+cad5d2af7673151c76eb51c9b145c418,9844392a1d6afe701cc6d224006f5d35,46.87,2023-03-27,Failed,GAC457,Gachibowli,Hyderabad,Debit,Merchant_45,Groceries
+c645dbed8599926a26a73407ac9f0dda,63e917fee0a85d3ab2b81d9593781bf6,511.26,2023-06-20,Successful,GAC427,Gachibowli,Hyderabad,UPI,Merchant_78,Health
+c9996c9d1450c0b994d1ad98c567b8c8,14932414bd32a20deca8bc33c06e742a,351.64,2023-08-07,Successful,GAC984,Gachibowli,Hyderabad,Net Banking,Merchant_64,Electronics
+a73fe04e8a7aaf6c0dc2791c2082b30a,84c402663a87a02bc924b8782cdc9ab8,746.52,2023-11-05,Failed,GAC112,Gachibowli,Hyderabad,Credit,Merchant_52,Clothing
+10130c01046b4edb94f79fdebc8eebaa,e30c53d6b9fa3543732bc209bfee6620,440.76,2023-10-30,Successful,GAC156,Gachibowli,Hyderabad,UPI,Merchant_5,Groceries
+f7547bc3a6bb612d2ebc21bf0293b62d,7b10789e2368cc84547b42bbdcf5b597,706.69,2023-04-07,Successful,GAC470,Gachibowli,Hyderabad,Credit,Merchant_14,Clothing
+8ec262777067338f7a26f356cdc834d1,08e5afd5a0dab286bc513b26925c2bc8,584.13,2023-03-21,Successful,GAC525,Gachibowli,Hyderabad,Credit,Merchant_46,Groceries
+6c13eb3d83cb73ade223cb6de5c3c6c6,5ced515c3e9a311087af704a7e9da8c4,403.33,2023-06-09,Failed,GAC642,Gachibowli,Hyderabad,UPI,Merchant_36,Electronics
+374716364c60346afb59558ceb16dc7e,cbd11e30ddf563c2980939eb74eb9f48,146.91,2023-12-18,Failed,GAC141,Gachibowli,Hyderabad,Net Banking,Merchant_41,Electronics
+141006fbcf8550c8ff7dac807a26d561,9756da3229ba844a0088740f5313a1f7,990.97,2023-10-02,Successful,GAC437,Gachibowli,Hyderabad,Net Banking,Merchant_85,Electronics
+47a20aef564fd1ead27c1dbb1c41c4a7,a45b518349ca7392c318654f85353dcc,535.21,2023-11-09,Failed,GAC660,Gachibowli,Hyderabad,UPI,Merchant_12,Electronics
+808bbc985909deb2379f4526cc96bae1,1e1343a0e671b8c27cdb22029a5dd970,691.29,2023-03-24,Successful,GAC604,Gachibowli,Hyderabad,Credit,Merchant_30,Electronics
+f3b8fdf986d1b135228b602fc6f2235c,5b18c767fbad9a9b5a61c9bdea92cc6c,541.3,2023-04-29,Successful,GAC300,Gachibowli,Hyderabad,Net Banking,Merchant_86,Groceries
+4b2c2b225e4ec0d547f4db43cd39357e,4d8fb132384c50a8920d887472e6beea,940.73,2023-10-11,Successful,GAC320,Gachibowli,Hyderabad,Debit,Merchant_34,Groceries
+aa9c519b7abbf5e015d92de66333be49,15a4658e23bee6e45f04cf0c13723df1,851.84,2023-08-18,Failed,GAC268,Gachibowli,Hyderabad,UPI,Merchant_90,Groceries
+fe2a24d21814ef3ff12249d5773913ab,d49806807bd8f22b235a022cdb3dcfcc,116.2,2023-02-28,Failed,GAC209,Gachibowli,Hyderabad,UPI,Merchant_3,Electronics
+451d659be55c33c481ae7fa69147e641,8dfb3d68afb5696259937000bc891340,763.23,2023-03-04,Successful,GAC476,Gachibowli,Hyderabad,Credit,Merchant_57,Clothing
+74dad5e696d4b89135961e8da192a1f6,fc2733f8adf736da56a531caa4627adf,626.44,2023-12-04,Successful,GAC242,Gachibowli,Hyderabad,Net Banking,Merchant_3,Health
+e973c4ea7cd6d5f957f031beadb9dc03,773cf6e70a122f69bafb528b74ad37c5,957.53,2023-02-04,Successful,GAC763,Gachibowli,Hyderabad,Credit,Merchant_34,Electronics
+67664cd46cbcba3c063dadd0148f3c07,62fc8fa684e777f1c4a70c1b2273b659,54.11,2023-10-27,Failed,GAC719,Gachibowli,Hyderabad,Credit,Merchant_28,Health
+af5cb592d38ec2c39251fe57b7604069,88185079aff709aeef342fd030e77292,142.04,2023-03-28,Failed,GAC173,Gachibowli,Hyderabad,Debit,Merchant_31,Clothing
+2a58b5c978c6ad11c1cdc6a288df336a,865bdad4eebe1e3b073f1a796d2a941b,813.83,2023-01-19,Failed,GAC127,Gachibowli,Hyderabad,UPI,Merchant_22,Groceries
+1afe46fcb53a8f2e2e2b4e9904722ba5,688c30183faf9524a742538ebdf9d96b,320.19,2023-01-07,Successful,GAC841,Gachibowli,Hyderabad,Credit,Merchant_70,Health
+985969b64f95141e9083cae26a17d514,82e7302d83ace346079fdbdd6109a4a7,139.93,2023-03-05,Failed,GAC204,Gachibowli,Hyderabad,Debit,Merchant_15,Health
+87e5123a9d12f3666c633a746ebdf100,024f44ebe99f89181038a56d54664b0a,512.76,2023-11-13,Failed,GAC658,Gachibowli,Hyderabad,UPI,Merchant_9,Electronics
+7c258298303769672ada34eae0a928e1,451b442d41abbb39b3b30b2a527b8e8c,519.04,2023-10-07,Failed,GAC967,Gachibowli,Hyderabad,Net Banking,Merchant_89,Clothing
+1417f55a913bb10877f80fe9a0eb7b1c,a4ee9a7a92d0170637c2bfcce2338211,452.05,2023-06-18,Successful,GAC100,Gachibowli,Hyderabad,Debit,Merchant_55,Clothing
+7726c19340e3a5605a870b901c0dbb26,26d0153ec81285205beea5c8788e35fd,188.32,2023-04-09,Failed,GAC251,Gachibowli,Hyderabad,UPI,Merchant_28,Clothing
+fcb089a415d01551fa9590eb56a6c5b9,db395ab84d9ce7dc3424793898b7507d,304.63,2023-03-16,Successful,GAC420,Gachibowli,Hyderabad,Debit,Merchant_34,Groceries
+e6e23644a42ba70f0c3a13948ce2f17f,42d4bf87a1381e6d1c130541ffe158a9,844.35,2023-12-15,Failed,GAC433,Gachibowli,Hyderabad,Debit,Merchant_39,Groceries
+25253f1353abcc054a20b83049d1fd8a,fd14820743e19da9f1ce4f714a027dd7,707.74,2023-08-20,Successful,GAC246,Gachibowli,Hyderabad,Debit,Merchant_42,Electronics
+be63e5518d3adba8b1561a41d0b279a9,3977b4506226b99b1498f643f64ea9ac,321.76,2023-02-17,Successful,GAC686,Gachibowli,Hyderabad,Net Banking,Merchant_40,Electronics
+617af2808e306f25073562548a9ac807,f3fbf66a7847291f8f365fbff471649f,299.38,2023-03-05,Successful,GAC724,Gachibowli,Hyderabad,UPI,Merchant_80,Health
+baa90ed0421cff396e83a597f20d71a8,30cdb7a85ce87eabaf828f63a97f6084,654.5,2023-08-17,Failed,GAC220,Gachibowli,Hyderabad,Credit,Merchant_75,Health
+356cf74e1712ffb6104d1c8937c14506,db9ee11ebd3092ec892b652f46963632,506.45,2023-12-01,Failed,GAC457,Gachibowli,Hyderabad,Net Banking,Merchant_41,Clothing
+41a51260487b7534fcb0ff8205905929,e685f3a2ee4dea1ee49716e925997757,392.66,2023-07-03,Successful,GAC811,Gachibowli,Hyderabad,Credit,Merchant_59,Clothing
+a3bbebc156d740a1018030543973ab36,f4b89031f2132289a2a86ff213198537,807.78,2023-01-13,Successful,GAC386,Gachibowli,Hyderabad,Debit,Merchant_38,Electronics
+735fdf5d07f32c85559bd4972b766b67,ee416117ba55ba02a8a587758f9f3df9,860.45,2023-08-07,Successful,GAC533,Gachibowli,Hyderabad,UPI,Merchant_24,Electronics
+bc079f4910862dc8fd88ab22e98e4a0d,d598efaa1e0cb45ca013f491b261ca21,417.12,2023-11-18,Successful,GAC754,Gachibowli,Hyderabad,UPI,Merchant_12,Electronics
+e207fc72596cc733fcaf4499c0f9dcfe,2a33d85e43728b58a8277284e197baa4,427.42,2023-10-07,Successful,GAC701,Gachibowli,Hyderabad,Credit,Merchant_73,Health
+e3a075370822038550781ecffaecbc5f,362616785f2f122a8bf8ce3dea5e98b3,763.2,2023-02-05,Failed,GAC542,Gachibowli,Hyderabad,Debit,Merchant_19,Health
+1a00f35a581577c7cf7af544f15c345e,5b534f4a19fdb4a9688209ac69f3cfaa,655.41,2023-03-26,Successful,GAC979,Gachibowli,Hyderabad,Net Banking,Merchant_19,Clothing
+dbee0b2f2f42d15be22038225d20960c,a3634886950b701a6dd0a641946ef7c2,205.58,2023-01-20,Successful,GAC373,Gachibowli,Hyderabad,Net Banking,Merchant_86,Health
+543b53e6c856b3b105c13152888afb0b,d1bfd0c4f9dce3531bca98453cceebea,48.49,2023-05-13,Successful,GAC819,Gachibowli,Hyderabad,Net Banking,Merchant_33,Health
+94e1a580f8ceb50846d6b0cab6e1884f,0bc0ea7817bf6775438108cddcc8ad72,718.54,2023-01-13,Failed,GAC703,Gachibowli,Hyderabad,Debit,Merchant_52,Health
+ee1ae6e1904ae8320460370339dd235b,5bfc11bb3da742a95cd7476f75171ab0,647.35,2023-07-29,Failed,GAC360,Gachibowli,Hyderabad,UPI,Merchant_72,Groceries
+50778faba36304c4ae1224483c3975d6,8fa51bc07bb33d2c640c44a1ce00a6f4,245.39,2023-07-08,Successful,GAC120,Gachibowli,Hyderabad,Debit,Merchant_31,Health
+225d01d250f1608b91b9ff1661724e1e,a4a6ee589ea98eb91f6300d9fc525f65,548.63,2023-09-18,Failed,GAC456,Gachibowli,Hyderabad,Net Banking,Merchant_88,Groceries
+a48003f1438dec2f8a95dc60800e1fe5,f237ff67967fc7a13cf685cdea2f224e,91.23,2023-11-29,Successful,GAC186,Gachibowli,Hyderabad,Net Banking,Merchant_64,Clothing
+782285e543212171f6308f2c79c83f2c,8be035b8b3458776ce498b928a38017c,610.85,2023-10-23,Successful,GAC445,Gachibowli,Hyderabad,Net Banking,Merchant_54,Clothing
+009dc57de7dbf1fb1a6bc5c9ecf91a2d,3f4e7609f6fee27ced226c5e3e4fbea0,341.58,2023-07-11,Failed,GAC484,Gachibowli,Hyderabad,UPI,Merchant_20,Electronics
+c50da15fbd22331981ff6069f9410211,9173e45605e3c9864412868c3874788c,392.84,2023-12-20,Failed,GAC729,Gachibowli,Hyderabad,UPI,Merchant_14,Electronics
+8ba04d60a9c570e639d4eeef10f25781,34b258c0092128a5179eae818228ab3b,628.0,2023-09-23,Failed,GAC538,Gachibowli,Hyderabad,UPI,Merchant_43,Electronics
+f578cfca17d3062e43b53ed6dc9f3408,9fdae169f17df83a90e5bddbf568e113,544.67,2023-01-31,Successful,GAC913,Gachibowli,Hyderabad,Net Banking,Merchant_43,Health
+bdebf4a6c3887691ed32e59f4cb74098,151eac529e1cfd6a73cfc744c2619b26,360.56,2023-01-24,Failed,GAC249,Gachibowli,Hyderabad,UPI,Merchant_88,Electronics
+1498200b83c5dfe9f5dbe7addcbeaa42,a4204da9999e19a1f460a7e7209051c2,914.09,2023-03-14,Failed,GAC150,Gachibowli,Hyderabad,UPI,Merchant_8,Health
+0b29e37bee95dbc8dd3bc65f4dfcc458,058564971e1de5063b7cb7b9e8d404a7,418.97,2023-05-09,Failed,GAC633,Gachibowli,Hyderabad,Credit,Merchant_6,Electronics
+1acb55aeb045db6724f32ac2c98d7886,8a9166cb56333488f801bc2a5965afdf,572.85,2023-09-07,Failed,GAC979,Gachibowli,Hyderabad,UPI,Merchant_35,Groceries
+6ef048433160d64b2bd5c2ac2c4d0c07,c5b49c3dd739b84b58a99a449e08b050,670.97,2023-03-22,Successful,GAC879,Gachibowli,Hyderabad,Credit,Merchant_36,Groceries
+078b2f17f9dd600d10417d750fe555be,0e53eeb572606f101ef8d9096b7574be,107.11,2023-02-27,Successful,GAC642,Gachibowli,Hyderabad,Credit,Merchant_85,Groceries
+e3db855a11222996c4e735c1b688359f,6d8abdee89f9d453dd5aa3770bebe491,296.63,2023-06-19,Successful,GAC559,Gachibowli,Hyderabad,Net Banking,Merchant_83,Electronics
+65cd9c484d9de1fb18d23e9222be24a9,608eaf979ec2a5c6a2678f5fdd7aff0e,548.5,2023-05-17,Failed,GAC794,Gachibowli,Hyderabad,Net Banking,Merchant_9,Groceries
+a13217cd4fedf8ff322f8b3530c8c514,dd1261606732ad6a45da040a30f73ac3,383.64,2023-10-24,Failed,GAC571,Gachibowli,Hyderabad,Credit,Merchant_24,Health
+df0398e87cddac560e05d6cf91745df8,2a6b2cb421615abf9fcd6f35f93151cc,834.71,2023-05-06,Failed,GAC771,Gachibowli,Hyderabad,Net Banking,Merchant_58,Groceries
+3f7c79098e9e178764c1420f3423c5c8,a9cf5ff720165dbe040983fc38298526,685.42,2023-08-06,Failed,GAC667,Gachibowli,Hyderabad,Credit,Merchant_34,Health
+c17a54d2778441c2bba69c5abef106ae,31d42ce2a70a4ef6e08c7b68d1f97758,864.97,2023-06-10,Successful,GAC784,Gachibowli,Hyderabad,Debit,Merchant_36,Electronics
+e8b903e6b0fa214190d3c4960f9b355c,70b7b23f9c69ffb7775ce42d6e7cf1be,78.64,2023-11-23,Successful,GAC367,Gachibowli,Hyderabad,Net Banking,Merchant_43,Electronics
+96feab2bf4b0ab06b7a7bc7c1ad81e05,3f96a68f6a87f869e9002b0ad46acf32,64.6,2023-01-01,Successful,GAC591,Gachibowli,Hyderabad,Debit,Merchant_74,Electronics
+49c98d1a2f85c0705062494949376153,ad2e06e71325d9cfe5f5274636222eb7,940.23,2023-07-27,Failed,GAC198,Gachibowli,Hyderabad,Credit,Merchant_9,Electronics
+4fca6076107023069b2e9a4f2a565e3e,dee5f1ae2840f74409322cfdc8912616,304.97,2023-04-22,Failed,GAC792,Gachibowli,Hyderabad,Debit,Merchant_61,Electronics
+2698d6493da7f2f86d3ef8c513ac4409,4a0ea51f98bf558ddd55eee73d97064d,720.01,2023-02-11,Successful,GAC509,Gachibowli,Hyderabad,Debit,Merchant_8,Groceries
+9c2065a8cdadcf0806b4b30f870a75d2,0ba2caacb29e4cfbc632ae1e855ed769,594.89,2023-08-12,Successful,GAC364,Gachibowli,Hyderabad,Debit,Merchant_45,Health
+18d3e2e7348b6ed5672a69ed76bba9ec,0bdc99e4525a58b88807d983fb9e9570,486.23,2023-08-28,Failed,GAC268,Gachibowli,Hyderabad,Credit,Merchant_82,Clothing
+a28e7313e6c186ecb412b3159470b2a3,7fce34b35a8248f307a6800a988f0dab,496.22,2023-03-06,Failed,GAC892,Gachibowli,Hyderabad,Net Banking,Merchant_20,Electronics
+3fc1467ef10f665893ae818355297219,8d20715454dca8a207422010a8e844f6,557.52,2023-05-26,Successful,GAC662,Gachibowli,Hyderabad,UPI,Merchant_62,Electronics
+95ebccb87635a7724dfe14af1a4577e6,6618d5c7158e0e4953a9378e7795c93e,19.54,2023-01-26,Successful,GAC663,Gachibowli,Hyderabad,UPI,Merchant_40,Electronics
+fd02941151e2aff60fc11a4143d7835a,697b86ad869a7e3a7a3c9112f97fc14b,235.39,2023-01-13,Successful,GAC650,Gachibowli,Hyderabad,Net Banking,Merchant_45,Electronics
+85b535c27e7206401d90386a30953256,aeaec213cd8df35b51f7d09d69ad4b1e,350.58,2023-08-15,Failed,GAC970,Gachibowli,Hyderabad,Credit,Merchant_39,Clothing
+996c6a3a52f5159609e2f79802ba8803,a4043d2a6ecb9b2874448ce7b2015e75,257.79,2023-01-11,Failed,GAC748,Gachibowli,Hyderabad,Net Banking,Merchant_29,Health
+98fce2c496bf5fdde8e71e5321119af2,42177418e87bf598031d1874a9deaafb,710.22,2023-11-02,Successful,GAC816,Gachibowli,Hyderabad,Credit,Merchant_23,Clothing
+5674e69c48e9a9672bbc73ad0217411a,54884cbeb49a0b546d239cc56d902295,758.53,2023-01-30,Successful,GAC806,Gachibowli,Hyderabad,Credit,Merchant_22,Health
+44d60c3d0ecbdd2cb1727279d7c31866,f6208fe47c332567626be706afba71c9,730.0,2023-04-28,Failed,GAC188,Gachibowli,Hyderabad,Credit,Merchant_49,Groceries
+0aa0d9a9ca296cd69579d51a899ac1fd,70cfad7b87473ca659f995270dec7338,184.57,2023-11-18,Successful,GAC102,Gachibowli,Hyderabad,UPI,Merchant_95,Electronics
+6f190b202cd3ffced914c1d5d9374a37,cec0678f37229fa1aed1944cbac3b25a,393.19,2023-03-10,Successful,GAC784,Gachibowli,Hyderabad,Credit,Merchant_69,Electronics
+a3ec93d8d4a0188776969bb625bf516b,b37af845723acd8df0cd45008d0e24ea,164.75,2023-01-19,Successful,GAC844,Gachibowli,Hyderabad,UPI,Merchant_9,Groceries
+b6dbe01c1b1fa6075e8833f86797d1ac,e056d66d81b12a499d3f499fc33bafd6,180.96,2023-02-17,Failed,GAC310,Gachibowli,Hyderabad,Credit,Merchant_95,Groceries
+8e8bc6617560fdbb43495dde6dbde860,40e8d8134ff48e1a3ebf6c37f86c4047,872.83,2023-11-05,Failed,GAC372,Gachibowli,Hyderabad,Credit,Merchant_33,Groceries
+e4c302610af69e2a4e3a2b4cfaad4526,034eeb63dbac1f32a384da547d325ff6,852.19,2023-02-09,Successful,GAC324,Gachibowli,Hyderabad,Debit,Merchant_27,Electronics
+05f27f02c6bd579ca68e53ca27723c9e,a7a33e86b6094b085447785990a6de68,51.65,2023-07-09,Failed,GAC420,Gachibowli,Hyderabad,Credit,Merchant_100,Electronics
+56d0dbe5f474974e3bd9755f949cc100,cdef30dc41650200d960ad94596ea1b1,488.21,2023-02-11,Successful,GAC504,Gachibowli,Hyderabad,Debit,Merchant_82,Electronics
+8b719d7389b2f35d64f6a8778760b0d3,c4aac3e0db747632ed954db449bd5633,441.59,2023-11-06,Successful,GAC604,Gachibowli,Hyderabad,Net Banking,Merchant_66,Clothing
+76180f320ed8237a9c9c7345efce28bf,2a34c04dcc47c7d262d63d47b6fb5d4e,183.07,2023-06-27,Successful,GAC191,Gachibowli,Hyderabad,Net Banking,Merchant_79,Health
+ffcaa55913936445e0b36f1eef6be526,0a9cccc5cd786abc93c6fb8706a326df,200.3,2023-02-28,Failed,GAC672,Gachibowli,Hyderabad,Debit,Merchant_9,Clothing
+10428c3b2c96fdb7c901ab3a3878a3ca,f64c7d8f7274d77eaaf8521bc780b188,228.93,2023-03-23,Successful,GAC435,Gachibowli,Hyderabad,Debit,Merchant_89,Health
+0acce790f3a316f22adc7636c0c88dc7,2d52f49af9225e1d799147f01357ac10,370.45,2023-05-28,Successful,GAC841,Gachibowli,Hyderabad,Net Banking,Merchant_73,Electronics
+cd7a3c2cd764ebcac77c1252003383c3,9049cd719914c0008ee2c8212fccf37e,865.16,2023-12-02,Successful,GAC488,Gachibowli,Hyderabad,UPI,Merchant_37,Health
+a1da73e2271256f9feb7459afa121d5f,9c77d87b3342251e93aa7a76b5bc1475,731.71,2023-05-11,Failed,GAC492,Gachibowli,Hyderabad,Credit,Merchant_14,Health
+3c91045c83205b6afae58d41c60a59e8,e2f2a73e6bdb13683a14e15aa3a60ad8,937.48,2023-02-08,Successful,GAC101,Gachibowli,Hyderabad,Credit,Merchant_1,Health
+4d451736a53cbf6fa74caaf34888d582,9beb596a109c8d811a9cd61645b5bb77,198.58,2023-09-06,Failed,GAC904,Gachibowli,Hyderabad,Net Banking,Merchant_57,Groceries
+933f420c47ea327d069d608d211b6a00,a59d374e2a733218095cd3e7a6be79d9,994.56,2023-01-31,Successful,GAC185,Gachibowli,Hyderabad,Credit,Merchant_15,Clothing
+666c3ddc4b4746d5fbe9ddc4ee9486f4,9076a7c3cb8d209e04c5525555f5a084,496.98,2023-10-29,Successful,GAC238,Gachibowli,Hyderabad,Net Banking,Merchant_5,Health
+c8c6e179a64c1e3104549c55fd08b5ac,277a17e90391c2c03f9696d957ee2985,887.47,2023-10-18,Successful,GAC847,Gachibowli,Hyderabad,UPI,Merchant_84,Electronics
+4e5fd59f2fda7635ceba38768510c553,80a97cb329136750803d8e90abfcd779,439.68,2023-09-02,Failed,GAC868,Gachibowli,Hyderabad,Credit,Merchant_25,Groceries
+858cb41a16912b902ec9c8b5e7e3d4f4,dafd9c97d9c3903ea8e09b0f76152efc,864.62,2023-10-06,Successful,GAC547,Gachibowli,Hyderabad,UPI,Merchant_89,Health
+3315dc495074a684d2979e3f7ebf74bf,3584478f57689772c69dfe418359a769,265.66,2023-10-30,Failed,GAC879,Gachibowli,Hyderabad,Credit,Merchant_11,Health
+7ffceb9d29bc735ef2d2b48c218436a9,d5f3e4e42e032b5c01245479364bb3f4,843.23,2023-06-25,Successful,GAC576,Gachibowli,Hyderabad,Credit,Merchant_17,Electronics
+24820ce17db9354777f5ad691e44c02f,efc2d40d36fbd81fcef73ae556d8fbf7,855.41,2023-11-19,Failed,GAC248,Gachibowli,Hyderabad,Credit,Merchant_26,Health
+a9bed4dcf90601ec03e8a52bae54cdc7,7c1a2cc062f687b48d88cdafc7d97855,950.79,2023-07-31,Successful,GAC880,Gachibowli,Hyderabad,Credit,Merchant_97,Groceries
+914f978307550317d2cdaa5295205d75,38adafdefb328aa10a00f3adac97bc50,963.24,2023-02-08,Successful,GAC411,Gachibowli,Hyderabad,Debit,Merchant_57,Health
+80c0eda286dbd01f7208c18c3b50e661,f1ef0c132374c062b338ac7bff1da448,62.15,2023-01-14,Successful,GAC481,Gachibowli,Hyderabad,UPI,Merchant_46,Health
+496c7981870380d910f2e8a059f2e786,4ac71c932ce57436e69369f308459e3e,281.34,2023-05-01,Successful,GAC480,Gachibowli,Hyderabad,Net Banking,Merchant_13,Clothing
+782a100b422fd850a85a543bca74aeee,a389abe47da9919dbea1ce099e61ade1,337.79,2023-02-14,Successful,GAC271,Gachibowli,Hyderabad,Debit,Merchant_71,Groceries
+5d71eda199e146971ac9e9e600f35b6a,916caba66afd49e86fa33acd0dc50291,977.26,2023-05-03,Successful,GAC671,Gachibowli,Hyderabad,UPI,Merchant_30,Groceries
+8ac0994065d738106e9c37043b19abc8,7c9d7f004800c89eae66acb06a7500d0,614.08,2023-02-22,Successful,GAC935,Gachibowli,Hyderabad,UPI,Merchant_80,Clothing
+d89082cc9c88b6ba2cb38e9a734e8bb4,f796ea568fc29f50222d05ab88712c6e,440.42,2023-09-22,Failed,GAC428,Gachibowli,Hyderabad,Credit,Merchant_58,Clothing
+f6892a0de1fd9f820e7d42bd8118e5e2,e9c913d974d2043dd311df4b4e82d823,403.7,2023-03-11,Failed,GAC418,Gachibowli,Hyderabad,Net Banking,Merchant_40,Electronics
+07647d4f33dec355b78f3bacb18b0c88,76fba2553c357f89786df7c4f03dc189,175.58,2023-11-18,Successful,GAC581,Gachibowli,Hyderabad,Net Banking,Merchant_48,Groceries
+7e829ddeca0d5e38e1c2628e0596564d,8f8f8a50f6e789606a536c6ef9434bdf,457.54,2023-09-02,Failed,GAC560,Gachibowli,Hyderabad,Net Banking,Merchant_45,Clothing
+41f5d00c8969600824be11fb67e0f280,5e5e17e04d0477a73364fad8e4fc6e4c,639.9,2023-12-12,Failed,GAC853,Gachibowli,Hyderabad,Credit,Merchant_42,Groceries
+3619a48fc5e618bbbf8439811eaf6dbe,1a7719ec9ad639562714842bd57d39e8,20.92,2023-11-23,Successful,GAC126,Gachibowli,Hyderabad,Debit,Merchant_82,Health
+9d3d5436b2f27e6a1fce35ab582abd43,3875410bf10fddc11544682e824e0809,932.75,2023-11-07,Successful,GAC141,Gachibowli,Hyderabad,Net Banking,Merchant_80,Electronics
+c3eb6636fd5cedb6f385bf640cf0fff2,9f1e3a6dc6a483aecdf18030b48feb8e,471.83,2023-03-17,Successful,GAC302,Gachibowli,Hyderabad,Debit,Merchant_14,Groceries
+3b39348b222e2c1e04b278386558fbcf,c6708a08fca35cac3959cf190bd15de9,66.03,2023-04-28,Failed,GAC645,Gachibowli,Hyderabad,Debit,Merchant_96,Groceries
+f758f75fb917df1a75fc394fb84bd0f2,457fb836229ca4f25f4c5d361cf1d313,152.53,2023-06-23,Failed,GAC699,Gachibowli,Hyderabad,Debit,Merchant_24,Health
+31ec5e2acd871a9ff481157bf610b07e,e9d1c2efaf0c397bbb75cf37ec43b3b0,570.77,2023-05-10,Successful,GAC800,Gachibowli,Hyderabad,UPI,Merchant_88,Electronics
+76127fa9ec84e8a662c9ecc2cb317272,ef175ad15330efa5f4baad26f5b7c6b1,535.8,2023-09-12,Successful,GAC328,Gachibowli,Hyderabad,Credit,Merchant_4,Health
+6f87592fc965efaf4a1e3cac6c3396cd,bcf34f35fbac8820355041097a596731,633.04,2023-10-28,Successful,GAC999,Gachibowli,Hyderabad,Credit,Merchant_3,Electronics
+16002a76c690b2eff3fb46a6851baf8b,96436ed6f2525c5fd5ba6a4fc2ae8baf,556.22,2023-11-23,Failed,GAC512,Gachibowli,Hyderabad,Net Banking,Merchant_17,Health
+3c95c7360ad9b11c2717301ecfc9a8eb,36488310c57cd6b34c91d41d5bdd4ab9,413.05,2023-06-28,Successful,GAC123,Gachibowli,Hyderabad,Net Banking,Merchant_19,Health
+f949d5386f3e89d1b17f3eba48d6eb44,4ae5f608846a613c33775b5e91109607,35.16,2023-10-01,Successful,GAC387,Gachibowli,Hyderabad,Net Banking,Merchant_58,Electronics
+d83371c8c8a10a31300c0fe4ca9d4a77,07bcb0eb6ca3b6dc58702f1814613802,377.77,2023-11-22,Failed,GAC952,Gachibowli,Hyderabad,UPI,Merchant_54,Health
+0a37dfeb5201a324138c1f7c318faed2,52fe82dfc00c7ae723805eb33054e74a,245.3,2023-04-04,Failed,GAC575,Gachibowli,Hyderabad,Net Banking,Merchant_96,Electronics
+8d360bc8f99450d3b59ef75506878581,2647ecb8d37a33e8321c667ab0a061f9,542.13,2023-02-09,Successful,GAC741,Gachibowli,Hyderabad,Net Banking,Merchant_14,Electronics
+702b76a9ac948c46bfb31f5ce66787a6,10ef5462db3b335d16b2d6ce3cdc87c7,764.08,2023-08-30,Successful,GAC812,Gachibowli,Hyderabad,Debit,Merchant_48,Electronics
+f681feb7f467c505fe9c6580740cd4f3,517c21309d02cec3e80132dc6f8728ff,607.0,2023-05-25,Successful,GAC981,Gachibowli,Hyderabad,Debit,Merchant_48,Health
+176077690851c745923004fd86a173f5,5f46e335acce8e854f651dfafcf89e5c,943.21,2023-02-06,Successful,GAC177,Gachibowli,Hyderabad,Debit,Merchant_14,Electronics
+0664ad4d9870139c315ff9a5b022dc62,8bd8ccf63f10d0952c5f50b12dc80ede,769.06,2023-12-03,Successful,GAC830,Gachibowli,Hyderabad,Net Banking,Merchant_39,Electronics
+85bc572dcf2974341eab49db54c41017,8d5252649acd41b8b184671ba3a48cd5,618.95,2023-07-18,Successful,GAC757,Gachibowli,Hyderabad,Debit,Merchant_53,Health
+8c0d8307623fc12c2e398dc6e46652c3,a963cb003e03557bd258d343f59324ea,607.42,2023-01-18,Failed,GAC723,Gachibowli,Hyderabad,Net Banking,Merchant_4,Electronics
+641d6fd07bd300dfe21638051154ce6f,6c5e51869621e5eb16cbea5ca15b4760,804.87,2023-03-15,Failed,GAC364,Gachibowli,Hyderabad,Credit,Merchant_7,Groceries
+8290acd381d0420b06a49f6fce0730da,58742e720a829768e5f392e5ce0ed93c,957.07,2023-08-27,Successful,GAC716,Gachibowli,Hyderabad,Debit,Merchant_19,Health
+000319e481546e93aa80837d907db5c8,15f7d60ffad536e01bc7db1abd95159d,869.92,2023-08-14,Failed,GAC611,Gachibowli,Hyderabad,Debit,Merchant_21,Clothing
+8b000f5d7b4704ab8efd3413688440c3,845e4ea0d28f3780d57942d260582acf,969.27,2023-09-04,Successful,GAC236,Gachibowli,Hyderabad,UPI,Merchant_42,Health
+a530b2c0ab243d92ddc184dc43937343,e010e6a2bdee076f2ca893051ebce074,251.62,2023-07-02,Successful,GAC635,Gachibowli,Hyderabad,Credit,Merchant_3,Electronics
+6d5a84e1a38fec99e998bb05589d5d13,b9e4cde3daced300c12b1a30921030e3,241.92,2023-03-15,Successful,GAC161,Gachibowli,Hyderabad,Net Banking,Merchant_43,Clothing
+77426d5e32a0bf36dbd5c795597d13f4,6a80dc03698d006aec0bea94e628364d,490.21,2023-10-24,Successful,GAC930,Gachibowli,Hyderabad,UPI,Merchant_91,Groceries
+4194fa7dc64f13f68717caf89d254f8b,5b710297d36c3fa918941174eb5d9db3,905.62,2023-10-05,Successful,GAC220,Gachibowli,Hyderabad,UPI,Merchant_49,Clothing
+9ad2e6d3a87794b3191f21014618fbd4,a256448a61b8ff36a4be975e5f0aab60,821.06,2023-11-13,Successful,GAC113,Gachibowli,Hyderabad,Credit,Merchant_45,Groceries
+1cb6f9a7a0d53eb6d55b99c3cf8ba5af,c94467641ebf9760c589f6f8ec94c359,841.07,2023-12-24,Failed,GAC788,Gachibowli,Hyderabad,UPI,Merchant_98,Groceries
+cd94c8b984f33ca4b54a33fa6946f37f,136dd5c8212deed12f876f9d8be894ed,985.14,2023-05-14,Successful,GAC809,Gachibowli,Hyderabad,Credit,Merchant_25,Electronics
+3a26a3bb903e4e234c708a0b8ef5fd24,059a5f294a57644ef869d143d2fcb694,661.84,2023-09-26,Successful,GAC830,Gachibowli,Hyderabad,Debit,Merchant_83,Clothing
+6d070b0c9be8a74cd7b05a234a0bebd8,f1c2f7328576f03219652debeb562c76,869.55,2023-05-05,Failed,GAC284,Gachibowli,Hyderabad,UPI,Merchant_73,Clothing
+099ac1b28b1b1a40a0833b03675c1fd6,66af5974a3df661168785de48e40f498,66.93,2023-03-01,Successful,GAC915,Gachibowli,Hyderabad,Credit,Merchant_54,Groceries
+0e25d1360bba496605863cc970a5bf5b,41b83a6352fe554256f630d0717cfa60,395.11,2023-04-17,Successful,GAC388,Gachibowli,Hyderabad,Credit,Merchant_75,Electronics
+36995821af1a7955bf4a22859aaf893d,576f0dbdaa6bd1734649c9cfc263c6ea,900.75,2023-01-10,Failed,GAC236,Gachibowli,Hyderabad,Credit,Merchant_30,Health
+7d0e997506d0d0d541308b7ca9ab9153,389f0385519ca4dd3e742cd7976ac4db,564.88,2023-08-08,Failed,GAC942,Gachibowli,Hyderabad,Debit,Merchant_35,Groceries
+cd2da02389d7b9ae99989a2176fd5f6f,b472e9b538e94e3141d8b4c0207721ce,107.42,2023-06-02,Successful,GAC682,Gachibowli,Hyderabad,UPI,Merchant_5,Health
+24b5834763a733ae4350cb03346b04c5,98ae9a99b489c70b0433bcc406725c1a,276.6,2023-02-19,Successful,GAC958,Gachibowli,Hyderabad,Net Banking,Merchant_80,Electronics
+a13a7177da754f4fd24f51dc70d4fcf1,736440558463b1dd31547369f93eaa77,685.92,2023-04-30,Successful,GAC666,Gachibowli,Hyderabad,Debit,Merchant_70,Clothing
+60e7f3ce881d849c9082eebcec214cd0,d9eb02a8d6ae471f9aa64fedfa69f027,186.12,2023-04-15,Failed,GAC989,Gachibowli,Hyderabad,Net Banking,Merchant_72,Electronics
+dc6b6cf3abb02c8cc2e01275fa805fb2,a007ee4b2ffc9523827a769187e28f9d,624.6,2023-07-28,Successful,GAC822,Gachibowli,Hyderabad,Net Banking,Merchant_31,Health
+6a831c7850babe8beb1dd2cc2de2781e,43a3b1bac560415490ca1f59aa1015de,534.46,2023-05-15,Failed,GAC526,Gachibowli,Hyderabad,Credit,Merchant_27,Health
+7ec2481bff114dd6c3cd1ae197c6c08f,c12edf8d036eba43820dc3c1fa74dd0d,347.77,2023-12-06,Failed,GAC396,Gachibowli,Hyderabad,UPI,Merchant_10,Health
+5709edc6da466d09d64aeb19d6b2f9b2,a47659e694d32cb828faf869249ed1b8,503.4,2023-10-04,Failed,GAC392,Gachibowli,Hyderabad,Net Banking,Merchant_5,Electronics
+4c4724c8126fe4e63cd71084aeef36e4,c5a96314d26cffbb62b0d7bb5f3048de,660.56,2023-02-18,Successful,GAC405,Gachibowli,Hyderabad,Net Banking,Merchant_79,Electronics
+b60895670de2dc704a0ce8611dd54766,9fe2b2d5bb06a22de352e176d5b0e7fe,869.5,2023-03-22,Failed,GAC641,Gachibowli,Hyderabad,UPI,Merchant_13,Health
+377b149a1498cfe3599fb0a6b9381aea,fc02196bcd9bc92306bff8085872225f,854.21,2023-10-13,Successful,GAC528,Gachibowli,Hyderabad,Net Banking,Merchant_37,Clothing
+1715e24f7c31f82f46e457e222d0cdf6,394775545144a40d53bd2610b8107f45,578.65,2023-02-27,Successful,GAC399,Gachibowli,Hyderabad,UPI,Merchant_89,Groceries
+f108a3af69550c3d664b062b15112aca,0b301612eb0a49882dd9dc90a33109e4,97.56,2023-07-16,Successful,GAC808,Gachibowli,Hyderabad,Debit,Merchant_32,Health
+3754838520d81ce095cbf9e35775ee09,0c9abaf99c4ad384f6fe9750d7c69aa2,919.43,2023-12-02,Successful,GAC954,Gachibowli,Hyderabad,Net Banking,Merchant_53,Groceries
+14eb1404ec1dc60c8ed04dc18938595b,46c2fb2cdfb4d34951dd8f25478e7cb3,273.16,2023-02-10,Successful,GAC534,Gachibowli,Hyderabad,Debit,Merchant_26,Electronics
+3e013494ab67884089aab21f93e8568c,b9039c62caaa76b6bf903027f0ec900b,488.48,2023-07-06,Successful,GAC731,Gachibowli,Hyderabad,Credit,Merchant_12,Clothing
+d56803a70aad073dd82c18b13c166b60,4ca67a947c6f03a9509ab1808f68b7f8,875.32,2023-06-20,Failed,GAC512,Gachibowli,Hyderabad,UPI,Merchant_72,Clothing
+2395de83f2a55e25f064b9aa7c87bdb3,2c00b0f3fe2b4d009a8283c44dceaff0,156.1,2023-01-21,Failed,GAC185,Gachibowli,Hyderabad,Net Banking,Merchant_95,Electronics
+b5ebdc653b12a9af9fa37895b14d04b9,5e729ed5e6a50f105d4d37929341a0b9,782.45,2023-04-10,Successful,GAC309,Gachibowli,Hyderabad,UPI,Merchant_90,Groceries
+be2211cfa8424eef8e6890a815dc6ba3,63d1884b01b46514b6bc4d047f096ffe,238.11,2023-05-18,Successful,GAC744,Gachibowli,Hyderabad,Debit,Merchant_23,Health
+1209a2ff6b0a773ac1ad2934bf1128dd,20d27dee01b44ccbac108ffd052dbd38,749.64,2023-03-23,Failed,GAC642,Gachibowli,Hyderabad,UPI,Merchant_65,Clothing
+ea15432a3064b4fea1902dd2369588db,781ffc899bd289ff5f2ebd8b5b75f151,675.2,2023-11-18,Successful,GAC293,Gachibowli,Hyderabad,UPI,Merchant_100,Clothing
+ab66dc5d72045e081cf5275dc16e3fd2,da92d12778153c6a8592c46c95d51665,488.02,2023-09-05,Failed,GAC981,Gachibowli,Hyderabad,Debit,Merchant_19,Clothing
+7ed9bf4602b83175ee916819eaeddc0d,bf5ffd57f941d0089ffd2b3c1a6e1835,801.92,2023-01-26,Successful,GAC581,Gachibowli,Hyderabad,Net Banking,Merchant_34,Electronics
+bc16c816f603c7e023dcf713a4ec0202,2af9f0f47df7706fa33a3f314e78a3f4,567.32,2023-05-17,Successful,GAC937,Gachibowli,Hyderabad,UPI,Merchant_97,Clothing
+df559175cc4db9a05c0d4580ff8093a9,a6d324a918ee784b491ca39e243837bf,450.08,2023-06-15,Failed,GAC537,Gachibowli,Hyderabad,UPI,Merchant_62,Electronics
+2d0407cff4d39f91fad62ea21f892df1,af166295331c7fc21bb9bd1af5ec957b,461.51,2023-04-13,Successful,GAC182,Gachibowli,Hyderabad,Net Banking,Merchant_22,Health
+69231ee97450028cbf2d591fddaf66d8,4688d3d40934ceab44e6647414c969b0,992.63,2023-12-26,Failed,GAC779,Gachibowli,Hyderabad,Credit,Merchant_65,Health
+d3a62e168aae88c0517a79185d1951b2,2a5cc2947220cf34e6a2565dab4738b7,543.88,2023-04-18,Successful,GAC442,Gachibowli,Hyderabad,Debit,Merchant_29,Groceries
+0b98b43e1f8501b49db2a73a767d69ed,ffb232a22699cc337541687fa333e080,143.43,2023-09-03,Successful,GAC472,Gachibowli,Hyderabad,UPI,Merchant_59,Electronics
+571a9c47b45eecca093d5a15ceae5592,8d72d02d2113950c2bd0dd1cdff20480,889.09,2023-11-09,Failed,GAC711,Gachibowli,Hyderabad,Net Banking,Merchant_75,Clothing
+766a2b167266203fcba237fe8a38ba4f,daa695695b5aee5f17c5cc8f0f51b707,485.5,2023-06-10,Successful,GAC791,Gachibowli,Hyderabad,Credit,Merchant_6,Clothing
+4f89901ba725763aae9291be2bc01612,6068461d06ef4d21da723f5e4d327fff,512.93,2023-06-20,Successful,GAC684,Gachibowli,Hyderabad,Debit,Merchant_48,Electronics
+88f224b74fd08708ba21bd7b72a74874,c213a0b0e4b063ccf5152980a296a6eb,402.2,2023-09-21,Successful,GAC118,Gachibowli,Hyderabad,Credit,Merchant_30,Groceries
+dafe5083ce5e82c867576b63f28bd44e,b8140c92199a0fd9672c48bac4676da9,19.46,2023-09-06,Successful,GAC407,Gachibowli,Hyderabad,UPI,Merchant_49,Clothing
+a4a1c6250b44aee99c030c0936a85a61,efa16f2fcd576eeefbbec9561e4928e7,231.64,2023-11-16,Successful,GAC757,Gachibowli,Hyderabad,Net Banking,Merchant_37,Clothing
+cbebd3dafb35c1560a2c539b4a6ae7ac,516abc2c376ea7a562dc313c7e4fddcf,153.19,2023-07-27,Failed,GAC852,Gachibowli,Hyderabad,UPI,Merchant_81,Groceries
+719409f3f6e80efdcb45f426d869af5e,5a34480ff74cc5c467f7eaef96631fbb,697.32,2023-01-23,Failed,GAC339,Gachibowli,Hyderabad,Net Banking,Merchant_88,Electronics
+80225c5cab731d92d5b86c6a1b5b7a31,ead7018279bc2ddd95f7fe1d8c1f1685,423.82,2023-09-20,Failed,GAC741,Gachibowli,Hyderabad,Net Banking,Merchant_36,Electronics
+d18d95b06254ae3f5424d82483e0453c,e2c5713114dc77f7b7f8398a99ed1b9e,575.84,2023-08-08,Successful,GAC421,Gachibowli,Hyderabad,Credit,Merchant_30,Health
+d3a2b6f3b5afe24fb39870f7f52b3b69,6d562ee5db8f44e7c82e7942069df25d,183.51,2023-11-20,Failed,GAC871,Gachibowli,Hyderabad,Credit,Merchant_96,Clothing
+9654e764a870b4a3e31a63f246857cf4,1ac48c9be1669518924df992c23d3c94,860.17,2023-11-30,Successful,GAC436,Gachibowli,Hyderabad,Net Banking,Merchant_17,Electronics
+b7c3aedcee47e65079ea8367ab0bd944,39826fa5234b3b7b087bfae28dd5dbcf,871.17,2023-04-23,Failed,GAC926,Gachibowli,Hyderabad,UPI,Merchant_78,Clothing
+53a10b5723c3dcd47568cb4845622441,0cbe9fab830c0996f87685218ab4e6aa,406.73,2023-04-29,Successful,GAC883,Gachibowli,Hyderabad,Net Banking,Merchant_29,Clothing
+1875de9760350e6dc9bf7e337e79f9f6,fd28e5a0e268688a5a46508cc71f37ee,769.98,2023-02-07,Successful,GAC181,Gachibowli,Hyderabad,UPI,Merchant_23,Clothing
+10fcef60db50ddde31a8bf25d54d60fa,508ba5f56552fd7ad8e22038a57dd804,826.29,2023-09-02,Failed,GAC386,Gachibowli,Hyderabad,Net Banking,Merchant_89,Groceries
+de7d862b599a7b640812af6e0fc12499,14a28807f7bb7bf2ce9b74b7e7d5b9e9,984.28,2023-06-14,Failed,GAC351,Gachibowli,Hyderabad,Credit,Merchant_74,Clothing
+71dafb5277b3c4195274ea975562fbfa,d95effc2ba95763f36b9cbeab4647a91,225.25,2023-06-26,Failed,GAC774,Gachibowli,Hyderabad,Net Banking,Merchant_69,Electronics
+3d675c69e749c14a125ba00552c352e5,0339145fba422a00d539ca53d5d528ad,216.09,2023-12-29,Failed,GAC815,Gachibowli,Hyderabad,Debit,Merchant_47,Health
+18db1c5f45ecb5399770f08900b75130,a8945d78b0a8b2c1c740f5119b4876ce,862.51,2023-09-04,Successful,GAC125,Gachibowli,Hyderabad,Debit,Merchant_81,Health
+f3b473d63516ff8cd71519f89b66575e,e87cb711f89af1f018ae3b63cd35e6d5,744.5,2023-06-14,Successful,GAC187,Gachibowli,Hyderabad,Debit,Merchant_28,Electronics
+66ed8f86157cf18d05e6bbe3e7f15a2b,9327f5c13a1d34311e74ee98bf081e81,233.0,2023-10-12,Failed,GAC863,Gachibowli,Hyderabad,Debit,Merchant_74,Electronics
+2e96ed0662d3913b31b0ab357d8305a0,c9bc4edbb03c21b42b8ee34e3a4a42be,230.96,2023-12-22,Successful,GAC751,Gachibowli,Hyderabad,UPI,Merchant_14,Clothing
+1934f2624c933be9eaa2edba329ab49b,d7cca8bf60b8250749b2a1c94317e0d6,121.78,2023-05-26,Successful,GAC182,Gachibowli,Hyderabad,Debit,Merchant_65,Groceries
+380a6d4330d9edb1db61059710743eef,111a6413599d4badb6b4d1442958a1b2,701.02,2023-04-14,Failed,GAC420,Gachibowli,Hyderabad,Debit,Merchant_54,Clothing
+9f357aee1e58d5605fb30ba975d214a8,3a60dd9200bbc4aeb94d71edba8e5b87,804.73,2023-03-02,Failed,GAC354,Gachibowli,Hyderabad,Net Banking,Merchant_66,Health
+bcf4b6429d50cde1da6e4c3555189d97,93611af0f8a787b716fd1d2cbb89360c,95.98,2023-03-08,Failed,GAC101,Gachibowli,Hyderabad,Net Banking,Merchant_91,Groceries
+0687aa127ae4fa8d74c2aa2b2f018e6d,5b1d7253ac67579b274c6b6ba408cabe,202.82,2023-09-02,Failed,GAC508,Gachibowli,Hyderabad,Debit,Merchant_51,Clothing
+b0840fe79636fdefbd228f65881cc86d,f29d10525f6354d8f57057b38b795d6a,891.81,2023-10-02,Successful,GAC657,Gachibowli,Hyderabad,Net Banking,Merchant_2,Groceries
+6faa397afb7bbc1d976518afb7ba8430,8ad469490bed4203b2aeb9f8651cac8d,885.05,2023-01-13,Successful,GAC850,Gachibowli,Hyderabad,Net Banking,Merchant_2,Electronics
+e55d17846b55c95962e024bbe7503ae7,d9fd12e7ff388c3fa0ecd1bfb75c7bd5,398.52,2023-05-10,Successful,GAC461,Gachibowli,Hyderabad,Net Banking,Merchant_6,Electronics
+425e36e123641483d4b368458ed8b30f,da3f9290e09fe5cebfdd65183eb45d51,257.99,2023-11-27,Successful,GAC304,Gachibowli,Hyderabad,UPI,Merchant_21,Clothing
+274b28074c1391997939b759a38e7e29,2645b7adffe92ff7a43ed24ed2717dba,423.7,2023-07-10,Failed,GAC309,Gachibowli,Hyderabad,Net Banking,Merchant_66,Clothing
+5fbc8f42045e26f560982ee3318f1ad0,3f12274426d73aaeca5928a35ca143d0,340.65,2023-06-04,Successful,GAC207,Gachibowli,Hyderabad,UPI,Merchant_84,Electronics
+b2ce0f535a24f53d9b33a8726da40cd4,e3879a9ea6648a32341315b58696c5b4,961.73,2023-10-07,Successful,GAC258,Gachibowli,Hyderabad,UPI,Merchant_80,Clothing
+abcc928c626b25578668681c8dad02cb,0b09cc126813733bf26f3e26743153f5,501.76,2023-11-30,Successful,GAC256,Gachibowli,Hyderabad,UPI,Merchant_60,Groceries
+ed9e489f8c677ad37f49df720c0f1e40,b9e69c293773090904b194c1d57a2688,972.57,2023-05-22,Failed,GAC469,Gachibowli,Hyderabad,Debit,Merchant_65,Electronics
+e194153daa48a5ed7bd4099bef8fafce,7ac02f57245ef976f49c4f6d079e3e84,804.76,2023-06-27,Successful,GAC834,Gachibowli,Hyderabad,UPI,Merchant_77,Health
+cf2491adf5aed85545ba27c1fb5f5342,80be8c9c46f18ebcb2748efa31eeaa80,833.68,2023-01-09,Successful,GAC547,Gachibowli,Hyderabad,Net Banking,Merchant_72,Clothing
+5051e5871d66db3ba51ddea74d93f2be,e6d5452b0d37db728977bdf984be85db,248.59,2023-05-14,Successful,GAC418,Gachibowli,Hyderabad,UPI,Merchant_100,Electronics
+36f5a24a16606c3a36a996bc8bc91465,ad4720f1591e3b664eabb339ab18ce6f,713.86,2023-05-02,Successful,GAC181,Gachibowli,Hyderabad,Net Banking,Merchant_38,Electronics
+3bf626508b3e1532d1d8bd08d6ca5c8c,a91141a79fd6b91efc8cc26c2369d540,599.78,2023-04-06,Successful,GAC426,Gachibowli,Hyderabad,Debit,Merchant_68,Clothing
+a57b1b201fdcabb1b31d490ec62d5572,52cb178034fdf428a1fce857af74f995,223.42,2023-02-14,Failed,GAC746,Gachibowli,Hyderabad,Debit,Merchant_80,Groceries
+22b641477be7f9ed39ff293e4462e9b3,91be46cae0c6b4f9dd0a2f92c102f0e4,81.79,2023-04-30,Failed,GAC318,Gachibowli,Hyderabad,Debit,Merchant_29,Health
+22ec35557b2675f78ff2a577caaa4212,bbd9063fc73c04bf0f5d39a8044c9556,77.43,2023-08-10,Failed,GAC806,Gachibowli,Hyderabad,Debit,Merchant_42,Electronics
+40f14efbfb41dd79fb51adbdd5dbe276,6188626aeee0e6e3e783737789f4a575,332.84,2023-11-01,Successful,GAC622,Gachibowli,Hyderabad,Net Banking,Merchant_90,Health
+b8c66bc74fbfb7666f6575e5cd9b8288,0ddf30d1325aa3164ce22761032b42fc,432.23,2023-11-09,Successful,GAC928,Gachibowli,Hyderabad,Credit,Merchant_18,Health
+53f23d2fce95f06a09dc9e2dc7cbbe95,d27125a9f59c05ba8153a365d788481e,209.27,2023-03-27,Failed,GAC815,Gachibowli,Hyderabad,Net Banking,Merchant_88,Clothing
+90dfc9abd09d8546bf733632b24e424c,1893c4ac910a8a474d40fd1eb8a79db7,529.53,2023-03-19,Failed,GAC245,Gachibowli,Hyderabad,Net Banking,Merchant_61,Health
+1f886cad1b0406fb7b7fc40f6953ef6b,0ce56b32a102e8c557e3524b273894e5,983.49,2023-04-04,Failed,GAC424,Gachibowli,Hyderabad,UPI,Merchant_89,Electronics
+8ebb3f8981461fb9b4a76a94fdb4eedd,38e1da3678bc67334702db0170be3cb3,144.57,2023-06-05,Successful,GAC409,Gachibowli,Hyderabad,UPI,Merchant_72,Health
+d762fa6c3dfa184deeb54afe04749923,716ea47815c9c63f276517620f7c301f,624.43,2023-04-21,Failed,GAC113,Gachibowli,Hyderabad,UPI,Merchant_81,Groceries
+1dcf4f86531a3ddcfa5ca3cdd2f6a306,ab1c4fabdee2cda9b74a5a4a2bf5fbe0,547.69,2023-11-02,Failed,GAC748,Gachibowli,Hyderabad,UPI,Merchant_39,Health
+3a99420fda5f68c454536d9dc7d2b12e,256f2b5635b2ce8c61d3ad01621c90ab,400.87,2023-10-22,Failed,GAC503,Gachibowli,Hyderabad,UPI,Merchant_29,Electronics
+b080eddf55572984f20bd3b560b953c6,e0cc11df720739d9fd76a901322ca413,746.72,2023-05-25,Successful,GAC925,Gachibowli,Hyderabad,Debit,Merchant_80,Groceries
+0da5e58240de5ea9cd1a11b16919ec50,6216daa75049c3510b3c2a5c238ac70d,559.93,2023-09-28,Failed,GAC279,Gachibowli,Hyderabad,UPI,Merchant_15,Groceries
+8ccb4eace89490fbb273c5f18e00898c,1cd88dfa4a347d59dc23f9a2be4d6e2e,318.95,2023-11-16,Successful,GAC192,Gachibowli,Hyderabad,Debit,Merchant_81,Electronics
+c68a0280ad4e10247df9951d18c162c4,1edefe51acff320d54ddacf0cb3790e2,872.34,2023-11-05,Successful,GAC155,Gachibowli,Hyderabad,Credit,Merchant_9,Groceries
+8c8fb48efa42b1e8be20199d56b006b8,5b2fe15467e6c2d377fedb79331c1cf9,335.36,2023-09-28,Successful,GAC732,Gachibowli,Hyderabad,UPI,Merchant_48,Health
+1e3f96994ad8870cbfb82a790031488e,136718b06c81f6e18d6501662db1e486,34.54,2023-09-08,Successful,GAC292,Gachibowli,Hyderabad,UPI,Merchant_21,Electronics
+b04b59f227207612a8c6c64cd6475333,edf35d0691b5fa5b1254a31bc1ff0b7e,929.57,2023-06-08,Failed,GAC872,Gachibowli,Hyderabad,Net Banking,Merchant_39,Health
+cc3e3b7b5a6542793d0b8f7be6ee67e9,8affd86c68dc7a735a9b4f6ab88c4838,705.19,2023-09-07,Failed,GAC594,Gachibowli,Hyderabad,Net Banking,Merchant_34,Groceries
+9caa2bbc9aab519b112f0784c31b13bd,f871f0d1a0c6417aad54b28a360ad0e7,141.64,2023-08-08,Successful,GAC118,Gachibowli,Hyderabad,Debit,Merchant_28,Health
+61296a59e89a57ca892b3e728bd2da81,45cb0b5276ae4a7b226f42c5fd3a6022,216.89,2023-05-09,Successful,GAC537,Gachibowli,Hyderabad,UPI,Merchant_78,Clothing
+f2c2020e1a88c00c3183324fa8d56893,5d4619541abf7b4f2f599aa8c703f420,70.97,2023-01-23,Successful,GAC880,Gachibowli,Hyderabad,Net Banking,Merchant_5,Electronics
+ee92d6ddf6e28014b8193c3bd59c83bb,51e5f4018c3be89a8541443a828c2d16,971.79,2023-12-17,Failed,GAC415,Gachibowli,Hyderabad,Net Banking,Merchant_2,Health
+24682fc30bf81297fa5c0c0c403148fc,b9a1a195c9f9ef474101dca37e8f96f7,369.12,2023-06-19,Failed,GAC233,Gachibowli,Hyderabad,Net Banking,Merchant_88,Health
+c53dd9ef095c323303d44d1f68aa6ae9,6e7b9936773bf58c9ed81a06f8d5700a,716.19,2023-02-02,Failed,GAC101,Gachibowli,Hyderabad,UPI,Merchant_16,Clothing
+fe564e9beaaebb62dba68989001cbb43,a70b22b7e76ede9ff85e613dcff08ec0,70.6,2023-03-13,Failed,GAC471,Gachibowli,Hyderabad,Debit,Merchant_24,Groceries
+339e00cd6bc6a1848bcd43b0ac88cf8f,1adc6e6467172acc46efd87443d1ce59,47.79,2023-07-06,Failed,GAC856,Gachibowli,Hyderabad,Net Banking,Merchant_62,Clothing
+e86f0f93a4441f9339b4017ee331b6a7,1b7fdb515a8ab610a46ca25ba8e34dac,961.04,2023-08-31,Failed,GAC511,Gachibowli,Hyderabad,Debit,Merchant_27,Clothing
+78ceda154b4422f1ca71ad7053491617,3a310b8660cdac02d32268ceec9a1c3c,172.72,2023-12-13,Successful,GAC932,Gachibowli,Hyderabad,Credit,Merchant_68,Groceries
+e39fcd080658a5cfea6d12cbedbd65ad,e293981358502e9b06ff73f7293072aa,141.3,2023-03-18,Successful,GAC143,Gachibowli,Hyderabad,Credit,Merchant_27,Groceries
+a91867685c894e1a1f1b6f9401d7c51e,d5437d5ad47f66b7276b03e5476ec6b3,837.31,2023-06-02,Successful,GAC800,Gachibowli,Hyderabad,Debit,Merchant_79,Groceries
+75c384dec872a985b010abfa88eb62f0,a2e7848ddb3295d5061f06edb701f2e9,725.01,2023-12-24,Failed,GAC945,Gachibowli,Hyderabad,Credit,Merchant_2,Electronics
+820bdba1a6cf0c07a183f7404385783b,5078fd58deceff8749663ad3aad39cf7,164.18,2023-10-29,Failed,GAC672,Gachibowli,Hyderabad,Debit,Merchant_14,Clothing
+78b45fa7d50d6bd3aa6b81c45d4acee6,8b9bcddf4b79ed61152ce8bba025b58d,980.35,2023-12-18,Failed,GAC554,Gachibowli,Hyderabad,Net Banking,Merchant_71,Electronics
+5788245d988ee9f8f2148b16e216e0b2,b5a8fcf27749eb0da8a82598a8194df3,753.65,2023-09-08,Failed,GAC803,Gachibowli,Hyderabad,Debit,Merchant_48,Health
+1b015a6108c061ec9f7cb18a600a38e1,140562a6aa5f37995e5135eb045cbcee,788.6,2023-08-26,Successful,GAC241,Gachibowli,Hyderabad,UPI,Merchant_49,Groceries
+877dded547cbca7222fd8713ec632171,46b9f52ba703bd8c0d941c0b660cd673,941.57,2023-08-04,Failed,GAC424,Gachibowli,Hyderabad,Debit,Merchant_61,Health
+bd63bc7556270ec00dd80025d929ca8e,2eb8ee70ea1afb8b008e907a5d191ed7,354.16,2023-12-14,Failed,GAC689,Gachibowli,Hyderabad,Net Banking,Merchant_58,Health
+06a2fd86d8b1ce278076a91d66508a71,2c7e5c16bb0ddaa2ac2bf8982ac50755,854.94,2023-02-21,Successful,GAC316,Gachibowli,Hyderabad,UPI,Merchant_73,Groceries
+9f669944d0eb198df5fba6e09834c850,8bfbbca5abcf420d8bcc5ec81a3bbf37,558.3,2023-11-05,Successful,GAC333,Gachibowli,Hyderabad,Credit,Merchant_87,Electronics
+a7bd8861a8a9287bb9cb8d4f14b0e340,3aaab25b1825f9373d2ebbf9f3af7c7e,60.05,2023-11-10,Failed,GAC106,Gachibowli,Hyderabad,Debit,Merchant_21,Groceries
+4219b45b98f84005d9b5b4ec93550f2e,1f585bd5b66d3aa1c59d5fbf25288e45,594.28,2023-12-28,Failed,GAC581,Gachibowli,Hyderabad,Debit,Merchant_42,Clothing
+56465c95ff56cc126ff742c83fa1fddb,d2d67fcf9851300e27c93979a4a637bb,971.29,2023-01-20,Failed,GAC193,Gachibowli,Hyderabad,Credit,Merchant_60,Clothing
+c99c27e7c35fb4b4b0895ac0c5c12ad6,31dc2340df69ef4ea3917a159bbde6ce,671.14,2023-10-16,Failed,GAC910,Gachibowli,Hyderabad,Credit,Merchant_49,Electronics
+7efb03f6d15d0b3c1a9fd72d00f9c49c,f24c83139aab32dc84e55536fe5592c3,98.62,2023-05-28,Successful,GAC463,Gachibowli,Hyderabad,Debit,Merchant_52,Clothing
+4a6b42335b5af54ab4243a66208939b1,b6b36d4e618ee2d34c573b868640d3b0,277.74,2023-03-27,Failed,GAC608,Gachibowli,Hyderabad,UPI,Merchant_52,Clothing
+d45c3ad0e166e14f7d986ccf51088c19,b43d721f8f6f9fa3658eb09e1db1b40e,535.8,2023-08-31,Successful,GAC668,Gachibowli,Hyderabad,Credit,Merchant_72,Health
+05bddad704fba501683ab0778f8bfc5a,4957c53ba94219262e6f6a309c1dc011,58.1,2023-04-12,Failed,GAC856,Gachibowli,Hyderabad,UPI,Merchant_2,Electronics
+33ce6ef1fb0ca5161360f0501692d800,89077aff485bcfc4fca5376fb7e3773e,580.29,2023-09-30,Successful,GAC928,Gachibowli,Hyderabad,Net Banking,Merchant_82,Electronics
+33b203074b217da1c850abdd1af0326c,0fecb0a64a15e3c143974505c7a5486b,89.41,2023-06-10,Successful,GAC304,Gachibowli,Hyderabad,Credit,Merchant_15,Groceries
+be793df5f36bb090cc19212076287ab0,7781044704cb32f9e674dec87f63600c,59.78,2023-11-16,Failed,GAC788,Gachibowli,Hyderabad,UPI,Merchant_36,Clothing
+8620524b251f731313cda2e690523ce9,d3a3f2e523d1870b7f9d1bd96e564c51,272.0,2023-06-16,Successful,GAC666,Gachibowli,Hyderabad,Debit,Merchant_2,Electronics
+65364d96fc369e75646c8cb8616ba073,591083ab87d1a7412bd073f84d28c059,974.58,2023-09-26,Failed,GAC807,Gachibowli,Hyderabad,UPI,Merchant_13,Clothing
+96db498b579909c60451955325a25f8f,e78f3c37a55e433c0b1a4f1f487b35a3,705.18,2023-01-05,Successful,GAC304,Gachibowli,Hyderabad,UPI,Merchant_7,Clothing
+516fcd796d8849062603389ef5a2aa44,5f4857392cee8df63050c7f3c3c5d966,237.06,2023-09-23,Successful,GAC819,Gachibowli,Hyderabad,Debit,Merchant_72,Health
+5015766e593f66c85bae9953925e9fe9,ee82294a75d39e5e7c649c6aab308379,647.9,2023-02-13,Failed,GAC163,Gachibowli,Hyderabad,Debit,Merchant_31,Electronics
+b09c8cacfe5356fa07ebf9b74fb11614,e88e302e1f2c08e2aa3e077f39dc51bc,574.87,2023-05-16,Successful,GAC915,Gachibowli,Hyderabad,Credit,Merchant_48,Electronics
+d785c695e77f8d39fa048a4e065e7533,0802152273e74fac5b4f3df000ab47c6,685.28,2023-08-06,Failed,GAC145,Gachibowli,Hyderabad,Credit,Merchant_80,Electronics
+edfe3f9cb4a21af48e0ab2c59ad433ac,9f7b66a37dd3f24e8c3eca10971d5413,850.11,2023-09-21,Successful,GAC768,Gachibowli,Hyderabad,UPI,Merchant_92,Clothing
+615814c29bbb4578ca103cb3ef23bb3f,ce9ea1e51ba06c43120c2bb0f5a165b1,41.07,2023-04-19,Successful,GAC272,Gachibowli,Hyderabad,UPI,Merchant_49,Groceries
+768668e3eec3fe9a46ded8e2f1fc5ae9,3a66de491c74470d444c95038a3f664e,134.91,2023-05-02,Failed,GAC573,Gachibowli,Hyderabad,Credit,Merchant_14,Groceries
+6b7babe1192ee659aaf56d7920b0da4f,a0c82cb4ee991af0f049d36aab6e0178,508.64,2023-09-12,Successful,GAC524,Gachibowli,Hyderabad,Debit,Merchant_78,Groceries
+c66a38674e10cdfbef5fb97e7e6bd891,4c49b8c1374b5196087ce96d53a18cfc,205.14,2023-05-25,Successful,GAC129,Gachibowli,Hyderabad,Net Banking,Merchant_31,Health
+6d54d79e2aed4130cd1627b1bf22baee,f3b3305b0f0e7939bbcfd2af889da8f0,865.34,2023-02-14,Successful,GAC506,Gachibowli,Hyderabad,Credit,Merchant_21,Clothing
+948c2fc680703b669933d9c320ced70a,2a52315d94d5731514bea1b45cc005f8,959.45,2023-11-16,Successful,GAC876,Gachibowli,Hyderabad,Debit,Merchant_2,Electronics
+480c0a6bd4ef04323fefdedead916141,b6337a1ff194ee27074084c2ef5443d1,364.98,2023-06-17,Successful,GAC527,Gachibowli,Hyderabad,Credit,Merchant_7,Clothing
+d82a6ec019430efafba245f634686482,8dd1a2e339549b8f07b89dc66d0bf01f,863.8,2023-04-17,Successful,GAC389,Gachibowli,Hyderabad,UPI,Merchant_33,Electronics
+9ce5ee45292dfc96a12e18c8415af908,7610c7b82aa1b6c33c8c2f224fc37326,771.34,2023-09-09,Successful,GAC557,Gachibowli,Hyderabad,Credit,Merchant_60,Health
+a42a2fc498a45848b60f131be787a97c,a353b1285cdb61ce76232df6d41fcb74,181.98,2023-10-30,Successful,GAC617,Gachibowli,Hyderabad,Debit,Merchant_82,Health
+3d9d27b3f2136d547a6af2224a11366e,9f17d74d5d28df122f22be1d318c1bb8,499.41,2023-12-12,Successful,GAC862,Gachibowli,Hyderabad,Debit,Merchant_90,Health
+068f3a96fb6000a9a777d9b5ef942a55,b5f392d260160a4d75eb9f57411e72a5,305.03,2023-11-13,Failed,GAC681,Gachibowli,Hyderabad,Net Banking,Merchant_34,Groceries
+d1fd98e1135117dae6f4f000852f4ee2,4567d2f8032695e9c8a19b64150fb461,748.31,2023-08-15,Successful,GAC294,Gachibowli,Hyderabad,Net Banking,Merchant_70,Clothing
+6c240de003097b18dd68267232c71ff5,8cf8b5e7e8406d74028a965de1a18f86,423.67,2023-04-18,Successful,GAC869,Gachibowli,Hyderabad,Credit,Merchant_33,Electronics
+58878855d7ae1e3c8efb235376f774ad,a007a10fadba61e736d7d37d53ec018c,625.81,2023-09-07,Successful,GAC288,Gachibowli,Hyderabad,Credit,Merchant_84,Clothing
+c9d2d5bc87afc5b568dbb243861bf6e3,232df8d1366a723b7f020e4ca044b7b2,499.03,2023-06-29,Failed,GAC301,Gachibowli,Hyderabad,Debit,Merchant_100,Electronics
+70b17538c7a0725f0ee899d17bc362bd,38490a67fe2971301bc675021ec0b2ef,528.75,2023-12-22,Failed,GAC300,Gachibowli,Hyderabad,Debit,Merchant_60,Health
+1fefe621d6121e16c644d410e56960e9,ac6e7e66baf5181b21174e819e1653fb,161.2,2023-04-30,Failed,GAC779,Gachibowli,Hyderabad,UPI,Merchant_34,Groceries
+2aff6319e448f698fe2db1f1d84a5174,4099c7f288c41070bb66d0026b1c38a3,988.5,2023-04-27,Successful,GAC828,Gachibowli,Hyderabad,Credit,Merchant_100,Clothing
+7e68981dead2a5bc691b94b15c982758,c5a604a7add8125155827d106076485b,352.58,2023-04-19,Successful,GAC581,Gachibowli,Hyderabad,Credit,Merchant_44,Groceries
+f67d0e2eebbf0e6c3940e006341af75c,fdfb77f1bb57b1cbeb7b06e25ed44b36,100.86,2023-01-25,Successful,GAC206,Gachibowli,Hyderabad,Net Banking,Merchant_11,Clothing
+6b1b1cdf48bb2c62a7b47f164e10c0a4,418bdd594cda52e0889363c6daf91352,486.99,2023-12-17,Successful,GAC972,Gachibowli,Hyderabad,Credit,Merchant_19,Electronics
+bc1672f057e3c385662027714224ed18,20ed1f2c0dfec4502bf24dfc7aa55ddb,123.81,2023-06-29,Successful,GAC157,Gachibowli,Hyderabad,UPI,Merchant_30,Clothing
+3a2cd17006511ce4bce5dfbdd24c96c9,9082eb543d687b1a78f99a9967370d42,483.27,2023-03-16,Failed,GAC521,Gachibowli,Hyderabad,Debit,Merchant_51,Clothing
+27e7c6e51762897b2f18dd5dc455047e,237dce5f53aa0da1571f4791d5f929f7,263.27,2023-06-16,Successful,GAC727,Gachibowli,Hyderabad,Credit,Merchant_4,Clothing
+5398b5ffb31bed7d70ed3519d4cdf70d,be1e93fe87fe032a0753f93556058d4d,335.94,2023-06-14,Successful,GAC380,Gachibowli,Hyderabad,Credit,Merchant_38,Clothing
+09e11218bb9e0fcfd1dcd921ea0235fe,049e818a161ece5cf8e435c848dc6e4c,924.41,2023-07-08,Successful,GAC961,Gachibowli,Hyderabad,Net Banking,Merchant_85,Health
+25b92fe44c3d711010cf714b77e44971,f6f39e93fdd9512251917d55de2b3072,523.92,2023-01-03,Successful,GAC335,Gachibowli,Hyderabad,Debit,Merchant_52,Electronics
+4f1002ce12d0ea9df4a7fe1ae0354ed1,14429a49df982b4b981e5c5320de03a4,450.22,2023-03-13,Failed,GAC864,Gachibowli,Hyderabad,Net Banking,Merchant_65,Electronics
+f6ae7fab0f346e873b654aa0b04bead8,08e3c793601e8a288291943896e6f12b,494.55,2023-04-05,Successful,GAC432,Gachibowli,Hyderabad,Credit,Merchant_87,Electronics
+e6fed26a0d54c4a4e8e179dacb8d7bb6,2360d7adda64007e2615241bfc646d72,82.03,2023-11-27,Failed,GAC603,Gachibowli,Hyderabad,Net Banking,Merchant_38,Electronics
+240b2fed83b9f5b2b85b032db2286ea7,d8ab942b001f37520fc60b9956f75e8b,822.44,2023-11-06,Successful,GAC155,Gachibowli,Hyderabad,UPI,Merchant_44,Clothing
+75e26a2848774c6fa9538c9239593394,0c4a685e23003c03d7c9a6cfe3f15430,980.32,2023-06-26,Failed,GAC955,Gachibowli,Hyderabad,Credit,Merchant_30,Electronics
+c854d1920b202fde4d844c6adf697886,6f6883c9a35d4466a0f1548fef8d13ec,926.09,2023-12-29,Failed,GAC133,Gachibowli,Hyderabad,UPI,Merchant_7,Health
+184157d6cf992d81372fee3c97134b54,faeb9ad5f3624ce643a0265dcb050b75,276.98,2023-09-09,Successful,GAC637,Gachibowli,Hyderabad,Net Banking,Merchant_26,Electronics
+1f2ecd644db6ead896995747529cbd3f,1e032a149a76df4c0c12f0d4c4df4ebb,53.62,2023-06-14,Successful,GAC665,Gachibowli,Hyderabad,Net Banking,Merchant_21,Electronics
+594dea0483fcbcef09ddc598d20b9f25,c0f38a079b054b369178c6e8241f6cbf,525.3,2023-10-04,Failed,GAC984,Gachibowli,Hyderabad,Credit,Merchant_65,Electronics
+d972a7308e4b360122ccc37f9ddacc1e,82290ab7b1bddf1e0c632eb0a93ea90c,574.43,2023-06-07,Failed,GAC506,Gachibowli,Hyderabad,Net Banking,Merchant_49,Electronics
+efe040e0aff174d5909c04a3fe2ae7b6,c2ccccbd51bc493f7d6673ddedf99741,498.03,2023-03-17,Failed,GAC552,Gachibowli,Hyderabad,Net Banking,Merchant_54,Groceries
+cb1e447ad0de949cfd6b22e373321c15,3563826f93b266750543e7dc3f34c905,137.26,2023-10-20,Successful,GAC457,Gachibowli,Hyderabad,UPI,Merchant_84,Groceries
+1b5dca0c878898fe75ca95730aa7e71d,03e2a7e19f1eaef83d04c434799cc8f1,979.07,2023-12-27,Successful,GAC657,Gachibowli,Hyderabad,UPI,Merchant_45,Health
+7b55ff8961738842acc4488d88fce31d,ea82bcb6756cae86644b5abfa78a4424,699.6,2023-08-24,Failed,GAC495,Gachibowli,Hyderabad,UPI,Merchant_93,Health
+3b4efd1c8d6645d489ee80720d95f406,550202c164d38f55f3971e960ab7837c,14.36,2023-06-13,Successful,GAC762,Gachibowli,Hyderabad,Credit,Merchant_87,Health
+38c5b31f14ace6715e8d3d59d7a90642,a4340e6d9204760928ea58876ff9a6f2,600.91,2023-11-28,Failed,GAC430,Gachibowli,Hyderabad,Net Banking,Merchant_27,Electronics
+0a68a038d318f3ad7b3eb9839905006d,df38e019ad6d34e39425b321cabd6a1d,471.08,2023-02-27,Successful,GAC311,Gachibowli,Hyderabad,UPI,Merchant_44,Electronics
+df3d19bbf2b02636b07521f0f6e5ea48,7c8460bebcccb56a039b7feab0fe55c8,436.34,2023-03-05,Failed,GAC511,Gachibowli,Hyderabad,UPI,Merchant_45,Groceries
+c3937715e0218a974072c36ff2696560,3a9672bc3626cb71aa3e27c05124c380,844.74,2023-08-09,Failed,GAC481,Gachibowli,Hyderabad,Net Banking,Merchant_92,Groceries
+09e68870b368ef660fad2036f85e3557,d78d67cf860b3763cc287c39e7d51877,107.92,2023-06-10,Failed,GAC245,Gachibowli,Hyderabad,Credit,Merchant_17,Groceries
+ad5d39a4ecc9fe05902bc1822fd9a29a,93b04654474fec88c6c4dfe90f5be8c1,149.93,2023-01-07,Successful,GAC464,Gachibowli,Hyderabad,Credit,Merchant_29,Electronics
+69e009051116c95a1fcf9d52271f82d7,8c90a3a8d5a4c58659c99274722ddd8d,118.24,2023-05-16,Successful,GAC432,Gachibowli,Hyderabad,Net Banking,Merchant_23,Health
+d89748d0e6cbab2f169e85f18e43ff3e,6a7980e782e5534d98ee7eaf6a13102b,747.81,2023-09-03,Successful,GAC819,Gachibowli,Hyderabad,Debit,Merchant_22,Clothing
+18c5bb30d10ae443befcb2b5e25982c4,fd9dd30cae8a8d0a1de8c1187c6ed24b,101.91,2023-02-24,Failed,GAC682,Gachibowli,Hyderabad,Debit,Merchant_84,Health
+c2c26207e3fc579334a9ab8bddf44b9d,fdb547dde2f0bda8e6016855b1dbe243,269.32,2023-07-09,Failed,GAC477,Gachibowli,Hyderabad,Credit,Merchant_55,Clothing
+c1482cd96d27b16d4692c8c9268ae689,0d2c3636155f02b387d497741696769f,975.85,2023-01-24,Failed,GAC183,Gachibowli,Hyderabad,UPI,Merchant_65,Clothing
+016bed4b57b0b79f34fb47bae9c9964e,ca5328e41725d79720d1fb8b2af88790,59.43,2023-04-18,Successful,GAC627,Gachibowli,Hyderabad,UPI,Merchant_46,Clothing
+53ba3e4492432f84a02b522f55fd505b,21cfc0f5c9bd1925833c37835749677a,238.84,2023-08-22,Failed,GAC949,Gachibowli,Hyderabad,Debit,Merchant_45,Electronics
+d5a021d75fafde446f25a05b7bd1a175,89ab1887774ae1063d08e7368aa8f0b3,694.89,2023-08-31,Failed,GAC159,Gachibowli,Hyderabad,UPI,Merchant_93,Health
+c128031328f65179d4064522acc21527,2d80f86e86f3256113364562ee84eaad,591.5,2023-05-01,Failed,GAC820,Gachibowli,Hyderabad,Debit,Merchant_37,Clothing
+eb9f691528cefdcc5058b8c5cdd6f9e4,d261e23bff80dc3376206e9400801a6d,69.95,2023-03-30,Successful,GAC355,Gachibowli,Hyderabad,Credit,Merchant_29,Clothing
+0ae2633e53575bfa6c470a70f21ccda1,9b52071c270532220c046e08d3ac0956,113.66,2023-02-28,Successful,GAC924,Gachibowli,Hyderabad,UPI,Merchant_22,Clothing
+dc57fa7b9ef36abaf7c36c607bf3bdbb,a12b31f7cabc73d0e032a1518efda373,413.44,2023-04-12,Failed,GAC610,Gachibowli,Hyderabad,UPI,Merchant_16,Electronics
+de5ce776494501b0451186c23ff412e7,17b04b2ba2a5249190f1ab8244aac1af,937.92,2023-12-10,Successful,GAC538,Gachibowli,Hyderabad,Debit,Merchant_48,Clothing
+6559abe5f126dddc07344b4bbb1868a2,43f8a3ac0828d47ac15851209169207c,282.65,2023-06-05,Failed,GAC672,Gachibowli,Hyderabad,Credit,Merchant_53,Clothing
+59f2faf13efdc28a87b47062101f5fbf,b87dd712eb770e382992be064f45f607,863.51,2023-04-12,Successful,GAC373,Gachibowli,Hyderabad,Net Banking,Merchant_8,Health
+6d0133de32952c604a5a8fea34ab3ec3,5d79e9da26f603e38b5341f1bf892302,729.42,2023-08-19,Failed,GAC391,Gachibowli,Hyderabad,UPI,Merchant_48,Health
+d9f7d458a0b8826f841fbde54eb820c9,d1e686ac6489ab4ca1dec23ca6bbc204,578.16,2023-06-24,Failed,GAC228,Gachibowli,Hyderabad,Debit,Merchant_10,Electronics
+11357ec0413b779a271668128689ab90,f655b4d7092e657a6163094395b4b9cd,618.36,2023-08-29,Failed,GAC617,Gachibowli,Hyderabad,Credit,Merchant_90,Groceries
+852db57e304ac3f1e91942fef95f9013,ef6ea2a44817502732de1025f5e4b1be,817.69,2023-04-06,Failed,GAC868,Gachibowli,Hyderabad,Net Banking,Merchant_43,Electronics
+72d3f5d5300ca2bbe5d3aa7d49615292,ec6486577b3a13e87e42ce0ef8346d75,404.89,2023-10-21,Failed,GAC697,Gachibowli,Hyderabad,Debit,Merchant_72,Clothing
+429e7dd5a5ead6d60420d6f02bdd6271,409481901cad911b0b2a17dd1267e49a,717.7,2023-07-20,Successful,GAC538,Gachibowli,Hyderabad,Credit,Merchant_15,Health
+a5383e1beb9b0c04b7f158f1dbeb31a5,b649ab8c38a064a48723056837bc9f56,605.98,2023-04-27,Successful,GAC485,Gachibowli,Hyderabad,Credit,Merchant_97,Groceries
+3d6b15ef302f19e41bfe6255fc879514,41befff5488b979c213f11cd2d464739,862.98,2023-04-02,Failed,GAC691,Gachibowli,Hyderabad,Debit,Merchant_57,Clothing
+25ceaad9aba3aa87ff6601cf0c60d0c2,484ec0003a94199c7d7d88951d986dea,228.13,2023-10-17,Successful,GAC156,Gachibowli,Hyderabad,Net Banking,Merchant_17,Electronics
+a4dffca0e1e57d38719789a2749be208,5d2c181b9b14ae50c14e883e32e2ba36,828.05,2023-07-05,Successful,GAC789,Gachibowli,Hyderabad,Debit,Merchant_34,Groceries
+d2b17f5e5fb4b7e422ed7b4dec49412f,e6360b24e391385d79e4c5f6c6009df4,525.99,2023-09-20,Successful,GAC234,Gachibowli,Hyderabad,Debit,Merchant_13,Health
+de39b6fbc567f4c2a304add484e9566a,0ad594a5c3abb776a7a5cd1d55a86ce5,156.47,2023-05-21,Failed,GAC173,Gachibowli,Hyderabad,Credit,Merchant_6,Clothing
+695b3b9f3e4d8e8947f457af39f1c90c,4eb1a1983e764fd24b550b12f86ad3d1,891.98,2023-01-01,Failed,GAC259,Gachibowli,Hyderabad,Debit,Merchant_11,Groceries
+0b0a17f67636f08f7084548510aeb99f,2b441df083d2de1be85051f1ffdf791b,553.91,2023-09-26,Successful,GAC647,Gachibowli,Hyderabad,UPI,Merchant_23,Health
+dd38336c8d74840112cf83f5f29a1a67,5121b6f9ee22bc7260fd8102a451fc7b,988.74,2023-04-25,Failed,GAC582,Gachibowli,Hyderabad,UPI,Merchant_94,Health
+124fdb99d2f4c5d95535dbaa605b0b0b,e88f5f5346aa4e62f93df674626949bd,595.68,2023-12-13,Successful,GAC854,Gachibowli,Hyderabad,UPI,Merchant_36,Health
+d1b1079e4b3de2eae201b87d3dac6123,1534d472731623412de642893be8e094,824.96,2023-05-05,Failed,GAC567,Gachibowli,Hyderabad,Net Banking,Merchant_27,Clothing
+56cd74004c6c964f3bf0b3f1d8bc5386,f7d59069ed86c6ccf10fae74d53edaeb,178.44,2023-05-10,Successful,GAC255,Gachibowli,Hyderabad,Net Banking,Merchant_71,Health
+4a9abb4b68665e24c8d08a80128e510a,bbc52d8408f2cb2611b82f5d401624bd,710.17,2023-05-22,Successful,GAC917,Gachibowli,Hyderabad,Debit,Merchant_13,Electronics
+07cbefc2a7e38b4c9d606ecdc85c0860,a41a7401118f4b755b8f8eb30f160464,25.41,2023-09-08,Failed,GAC499,Gachibowli,Hyderabad,Credit,Merchant_58,Clothing
+aa8aeeb1963ff36c96e0239ae0bebd4d,5944d67ca4f3ef18b7e9c215442e9070,148.1,2023-07-19,Successful,GAC572,Gachibowli,Hyderabad,Net Banking,Merchant_90,Health
+2474ddc73b59e21b1a613f03ebe65ce2,5a3880ae1efde1cfb3d4dff5f4358800,587.51,2023-03-21,Failed,GAC392,Gachibowli,Hyderabad,Debit,Merchant_99,Health
+e2be7636f21b75b249751c4a1ac97843,7bb69f47cf2f8fcd4352e29afc10af29,182.88,2023-07-11,Failed,GAC829,Gachibowli,Hyderabad,Debit,Merchant_20,Health
+40dfeb3330cc779276b234d1b5c67f82,24311b615c2370fb064d6816475e32d0,621.7,2023-05-13,Failed,GAC129,Gachibowli,Hyderabad,UPI,Merchant_29,Clothing
+20a37c29fab35a8fe17233b7dc3ff9b5,699366c4c2d80b89259ed8a4d44d7fc2,915.07,2023-10-08,Successful,GAC310,Gachibowli,Hyderabad,UPI,Merchant_72,Clothing
+ea5597faaa4c784b57120cebff2474a6,ac7e584bdbc756dcba504eed7bf2edc8,326.15,2023-05-20,Failed,GAC856,Gachibowli,Hyderabad,Credit,Merchant_30,Health
+733607da51560f09d1ed66411a592400,b6b801b702cf1b97e503a02a9e96482d,888.7,2023-02-25,Failed,GAC360,Gachibowli,Hyderabad,Credit,Merchant_86,Electronics
+ae44e5a60601c9178f5b516073e2f553,8a1e794d6086281642183859d66061cf,856.72,2023-04-03,Failed,GAC865,Gachibowli,Hyderabad,Net Banking,Merchant_20,Health
+67393c3b4201865962ad6dba963a0d9a,ff947b95ef30145ef8f93b406aafbea4,472.04,2023-02-23,Successful,GAC934,Gachibowli,Hyderabad,Net Banking,Merchant_89,Clothing
+ad9d8b133cc9f7133f09af5864eaab23,2ccde463ea849e7bf7db394f90a4866b,943.84,2023-10-06,Failed,GAC568,Gachibowli,Hyderabad,UPI,Merchant_16,Electronics
+c838877d2656039fdabc3a4f11e787d8,32edc397c9d1a3fee236b5b09a5efb48,322.03,2023-09-20,Successful,GAC766,Gachibowli,Hyderabad,Debit,Merchant_47,Clothing
+cb0f3bc75cd587256533438b0bff4f96,a888cf04f408ef3d84506f2d0ec7c1ae,537.92,2023-11-25,Successful,GAC107,Gachibowli,Hyderabad,Debit,Merchant_61,Clothing
+758a2eadd4df1cc675f0e575392a4f65,2354247a024d5cde403c528c94bb1d78,220.8,2023-04-20,Successful,GAC616,Gachibowli,Hyderabad,Credit,Merchant_64,Clothing
+f551c85c7e5a2729facaaf2ab90b251c,8ad24fc8c260036de95e3f83e77e62a4,874.19,2023-04-30,Successful,GAC175,Gachibowli,Hyderabad,UPI,Merchant_94,Clothing
+797c5bd1db341f583d2ef0f21bae7b51,f8203c514839fc6618df28cef4263205,540.88,2023-08-04,Failed,GAC739,Gachibowli,Hyderabad,Credit,Merchant_91,Groceries
+f758c76eb52ebb550f727ac543d7a2b1,86360cf176c80e3578c98d14efefcf5a,861.73,2023-09-15,Successful,GAC533,Gachibowli,Hyderabad,Debit,Merchant_85,Clothing
+d6721b0b30e97c9b937acf1234ff8476,cb78d452c5144eb3721b888fbce695f3,34.84,2023-08-28,Successful,GAC203,Gachibowli,Hyderabad,Credit,Merchant_20,Clothing

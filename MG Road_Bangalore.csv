@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+be76762f60e77abac577283ba964fe56,a3203750760b909743355d6ec111cad4,334.65,2023-10-20,Failed,MG 978,MG Road,Bangalore,Net Banking,Merchant_11,Health
+979c771473780c7ace51659420c21e3c,aabbd69ca96f9b145c39bd458933649c,491.02,2023-12-28,Failed,MG 598,MG Road,Bangalore,Credit,Merchant_23,Clothing
+b62165bcaaa57cb8ff13977895b90538,5cc163b9b1532a2e2a8cefdc223abeb3,419.7,2023-01-02,Successful,MG 123,MG Road,Bangalore,Debit,Merchant_54,Clothing
+de42060287bde87da3b66383d21cee5f,03aaca09037e047f7088c422220e0903,253.28,2023-08-19,Successful,MG 196,MG Road,Bangalore,Credit,Merchant_25,Electronics
+8b6c9e827b68726447866097ae6f3a08,4e1e0313fd49632f284c9e0e68f70f73,689.22,2023-12-14,Successful,MG 157,MG Road,Bangalore,Credit,Merchant_73,Clothing
+f47665a202d076ad5211a3131f034983,3d2ee2a88f2ded6e6650859771c8a7f2,804.24,2023-10-11,Successful,MG 467,MG Road,Bangalore,Debit,Merchant_68,Clothing
+3bf272ac836a56d858513400c06c9e95,699cbaa44a0dae74f4cf5238a804464e,452.2,2023-03-01,Failed,MG 766,MG Road,Bangalore,Net Banking,Merchant_42,Health
+d055674103b8445077763fb5ff77915f,211c50850ba13da180d526895c8dc95f,909.97,2023-03-18,Successful,MG 500,MG Road,Bangalore,UPI,Merchant_40,Electronics
+315ebc631dadc241d433c3a8558d2432,2f846c79c43492ae66a1ee26f0afbc2e,496.83,2023-02-14,Successful,MG 563,MG Road,Bangalore,Debit,Merchant_48,Electronics
+c65940e5bdca51c94967c736a0475855,78683ad1b19f0369633060e77a888772,713.48,2023-07-25,Failed,MG 443,MG Road,Bangalore,UPI,Merchant_20,Health
+5d689d7b40ae673ca74f5d2add9059ad,7c90f6e41d1c34a829cf01ef6cf4f493,621.56,2023-08-05,Successful,MG 833,MG Road,Bangalore,Net Banking,Merchant_80,Groceries
+7b68442dd0051d4df78a99e434fb1dea,c443fd01b8fbc024da1cfabffd793ba1,378.73,2023-01-21,Successful,MG 345,MG Road,Bangalore,Net Banking,Merchant_84,Clothing
+2f93cd7f2391403485144c7d5a3e2154,2a1b75b51e36e59554b4e91004c28ae7,756.16,2023-03-04,Failed,MG 212,MG Road,Bangalore,Credit,Merchant_12,Health
+232a130699195717b57e55485d0e6861,7f7debc02182bc18e9422104319b6297,278.78,2023-10-18,Successful,MG 633,MG Road,Bangalore,Net Banking,Merchant_46,Clothing
+0dc4d945b61d8c4e682d437dbdcc1156,48b33c1184f22bf362c3252a6aaf51e8,477.56,2023-12-27,Failed,MG 702,MG Road,Bangalore,Debit,Merchant_48,Clothing
+3c6c17b247df86b8f10f6338a2ac4631,975a293b1e4f78bbbf62beee8cbf1782,896.23,2023-08-22,Successful,MG 626,MG Road,Bangalore,UPI,Merchant_72,Health
+80fc21ba58f9323e80e1edeef79937e1,cd85f2ed43d9524bced7e734fe2a3ef0,550.18,2023-05-20,Successful,MG 708,MG Road,Bangalore,Credit,Merchant_28,Groceries
+ba985d5e0089c7790e04dc99d02d5252,6042e6fc500f2450bda6a332f0a19b79,372.59,2023-03-07,Failed,MG 704,MG Road,Bangalore,UPI,Merchant_27,Electronics
+eeafcdb2d5a0700876392e2da5f8fac5,45746527be2efff10fb59a29b9036728,778.82,2023-10-09,Failed,MG 606,MG Road,Bangalore,Net Banking,Merchant_79,Clothing
+764ab5d099d308c22a2b1ae50fda1d25,c282abc5c575f557a29eed1b75c8a354,231.58,2023-10-05,Successful,MG 738,MG Road,Bangalore,Credit,Merchant_78,Groceries
+eb613cf71fad574d2a62cdacb1d1005e,910b93d91ce2aef5fcc477418904c262,926.02,2023-03-07,Failed,MG 538,MG Road,Bangalore,UPI,Merchant_32,Clothing
+65cd6da8e94fdc6d317d846cc83b028c,b82496faad7c131e913c86f280980e78,543.07,2023-05-22,Successful,MG 377,MG Road,Bangalore,Net Banking,Merchant_48,Groceries
+6cfc62071502c0f06e1c784ec6455feb,15e8a26e8ee2dc19deee7853f376762f,911.41,2023-10-26,Successful,MG 321,MG Road,Bangalore,Credit,Merchant_35,Groceries
+8cc67d9a03d28f6b796f202162244fc4,e1c6f88573ec5f76265871aa696ef558,987.75,2023-01-10,Failed,MG 429,MG Road,Bangalore,Debit,Merchant_51,Health
+89782138f3328e348982bde4ee01de9d,9604cac863f79d54f0ff8103eac9acc8,713.82,2023-01-25,Successful,MG 877,MG Road,Bangalore,Credit,Merchant_23,Groceries
+a6510064ae97be04bdd4dd7c340c209b,cd0c40a3fc1d784b3463b0aa01ec688a,134.42,2023-06-06,Failed,MG 315,MG Road,Bangalore,Net Banking,Merchant_15,Groceries
+518f8becc751fbef3b549da59d7d8861,a5dc9ee4892c6f4a46689d9356edff9e,322.85,2023-09-01,Failed,MG 899,MG Road,Bangalore,UPI,Merchant_28,Health
+a548665cefcf1a061f4371baebd58657,d6bd7323fb4b144078801b11931e6277,410.63,2023-02-16,Successful,MG 181,MG Road,Bangalore,Credit,Merchant_97,Groceries
+8bd0b186aff6c94ac75816912e828add,fd5ca1451d7ff54a829c81fbc314234b,599.85,2023-07-23,Failed,MG 418,MG Road,Bangalore,Debit,Merchant_35,Electronics
+094d10e000018167ef617da1ffeefed2,5d5da66287b38d055b18b49d9b8cb717,343.86,2023-06-10,Failed,MG 764,MG Road,Bangalore,Debit,Merchant_54,Electronics
+de207dc994d28009991d8cabd0a4c14e,c3f03ee87d5033483080c0bef770a44b,746.41,2023-09-04,Successful,MG 294,MG Road,Bangalore,Credit,Merchant_47,Groceries
+0c19f3dce8f7cbdc2b175ddc0f57830d,c9ee1cde5d05d886ff0b1d19f1179c11,490.9,2023-09-21,Successful,MG 133,MG Road,Bangalore,Credit,Merchant_3,Clothing
+62d68008977260217b32e00ef2d7d58b,b622c56f36383ea4cb945dad9b98b204,259.07,2023-10-31,Failed,MG 154,MG Road,Bangalore,Debit,Merchant_99,Clothing
+7b8e35db44d4870722332a3296855b97,d70c1456dc7e8c62d00ce45d17c7c302,244.17,2023-09-16,Successful,MG 708,MG Road,Bangalore,Debit,Merchant_38,Groceries
+9d533d2d2d2c82d8b0e0b52e49391667,3be27be8da16875c6efba34e16070823,952.34,2023-01-23,Failed,MG 197,MG Road,Bangalore,Credit,Merchant_81,Clothing
+d4d45b941e0228f2e65e79f769b18cce,e173879ca36be963afabb55cbf869e61,446.89,2023-03-11,Successful,MG 763,MG Road,Bangalore,Credit,Merchant_74,Groceries
+267c7bb7ab4ff46e736e5ca0e1ca51f0,64ace821a008793db97fbc05e5e4dcd2,879.29,2023-11-20,Failed,MG 132,MG Road,Bangalore,Net Banking,Merchant_67,Clothing
+2b0bdda201169b889afd88454a1d3643,5db62344bcc635010134a8636d3fe42f,850.47,2023-02-05,Successful,MG 113,MG Road,Bangalore,Credit,Merchant_38,Groceries
+01d6b4e41bd95c310547fbdad3e5920c,d334bfcc39bf8da2b1baec63ce08ae54,689.43,2023-10-06,Failed,MG 892,MG Road,Bangalore,Debit,Merchant_45,Electronics
+521214ab61d76f215890e53faf63859b,466027369324ca2fe3a7e62291791281,768.9,2023-08-08,Successful,MG 525,MG Road,Bangalore,Credit,Merchant_69,Clothing
+648c42d310f8e5eec9d3f349ed84f45d,363e99d10916dc34b3ae2419e7671167,899.21,2023-06-15,Failed,MG 178,MG Road,Bangalore,UPI,Merchant_23,Groceries
+4e57f69e32962f028460b5f773f5eb65,16953f33e90fc43d25924b13d134cf06,580.54,2023-12-31,Failed,MG 439,MG Road,Bangalore,Credit,Merchant_33,Groceries
+44452377db4c0778215576b9263d7f98,54c6bb91cbe4e919cf6474db0eefc914,823.92,2023-09-10,Successful,MG 258,MG Road,Bangalore,Net Banking,Merchant_4,Clothing
+e6e3f2cf5dd9564d9dd7122823ed588a,5ada02386630c318e6c4bfad80c6fdff,60.79,2023-02-21,Failed,MG 175,MG Road,Bangalore,Credit,Merchant_64,Health
+d111c05fca5b66a4160506ad3022a13e,8127d9e0a2243c8ea7f4f181c95792dd,331.29,2023-08-18,Successful,MG 449,MG Road,Bangalore,Debit,Merchant_66,Electronics
+4168c1c4865f413aa7d8afa49806c03b,74b5ccc43f3d01ed2c4b826de8beaf0c,449.27,2023-05-08,Failed,MG 512,MG Road,Bangalore,Credit,Merchant_26,Clothing
+ce7166bc16291ba2999c0d6082cba168,a3b32779dda994624b3172696940cb8b,163.04,2023-03-15,Failed,MG 119,MG Road,Bangalore,Net Banking,Merchant_75,Electronics
+2a2486f78f7cb228e94ed335ceb3d728,338e74ced57f9511ab2dc0cd90b4afad,445.64,2023-11-15,Failed,MG 674,MG Road,Bangalore,Net Banking,Merchant_12,Electronics
+065850ea2f41ff97aa1ad6ff83c103ab,81e9b807ffe1534b0f12b84b1c5b557e,692.75,2023-02-12,Successful,MG 117,MG Road,Bangalore,UPI,Merchant_68,Clothing
+89794b82d5e6e80f0886f6a02b459f83,b81fe65d7abad44da614532c94a6a2d7,112.4,2023-03-25,Successful,MG 958,MG Road,Bangalore,Net Banking,Merchant_25,Groceries
+0c1d1595151b65de7384348c4ac77c7c,3dc1bfa68a724e58b7a518eb7b5edafe,458.45,2023-05-18,Failed,MG 337,MG Road,Bangalore,Debit,Merchant_59,Electronics
+0a46d531311d47e45f9577fe6a0aa4a7,16734839e6e033be20e5fde0152646dd,396.06,2023-07-29,Failed,MG 720,MG Road,Bangalore,UPI,Merchant_46,Clothing
+310312902814905a87187580f111a132,5c8324dea05bb4df7cbef12b40f88ee3,270.38,2023-05-04,Successful,MG 730,MG Road,Bangalore,Debit,Merchant_7,Electronics
+d8cf60069da1475145878a23e64eeb65,21f5df2fc573ac02d54f5d96547c23c1,627.11,2023-12-29,Successful,MG 626,MG Road,Bangalore,Credit,Merchant_7,Health
+8e427c38c86280622f7d9247f5d3615a,eea38406ae163a777095cf9a93f91c6e,266.76,2023-09-21,Failed,MG 106,MG Road,Bangalore,Debit,Merchant_26,Groceries
+1a38a838bae9724401016857cd39887d,28b2e7492def3bb4b45f0e7bd9cfe25d,302.85,2023-01-21,Failed,MG 856,MG Road,Bangalore,Debit,Merchant_47,Groceries
+c37086d73ff172e4d4e0acfc07ef9ddd,5ee356bacf4fa08ea010edaa0a0d5d8a,792.21,2023-12-13,Successful,MG 115,MG Road,Bangalore,Net Banking,Merchant_84,Groceries
+8e9e37aa5019bcdfbaabb07a8a4a8215,c883e15d7e8a384dfa888893efad9110,493.38,2023-06-16,Successful,MG 158,MG Road,Bangalore,Debit,Merchant_82,Clothing
+3b591d0fc2803e1da5ac0ceaa53c9647,3adf64d756d1d98b2cad3413811bf4b0,237.01,2023-11-18,Failed,MG 200,MG Road,Bangalore,UPI,Merchant_79,Electronics
+b4784093863cabea2c5c9d6a486bbe93,7be758aeb66909f6ebfebfe8c9f4acce,172.61,2023-12-23,Successful,MG 147,MG Road,Bangalore,Credit,Merchant_60,Electronics
+d5a90b861fd80dac32e36b7187ab15f0,1b7587c168da6fee7cebd801a9fc52ca,105.15,2023-06-18,Successful,MG 438,MG Road,Bangalore,Credit,Merchant_35,Electronics
+d0af1bf460f5d23bf058f3c2e2a07c34,5a43fcad0e67eea945d40ab917a1b2d7,485.5,2023-06-21,Successful,MG 154,MG Road,Bangalore,Credit,Merchant_36,Electronics
+3d35f5757eb7877e40029d9e601b5ced,7bee107b53017d443482bb195c246c05,572.81,2023-05-21,Failed,MG 377,MG Road,Bangalore,UPI,Merchant_83,Groceries
+cc0d50251cb9d6f9b701568c97c5c6d8,199391f0c44da38db16973675cf63467,370.32,2023-03-29,Failed,MG 222,MG Road,Bangalore,Net Banking,Merchant_39,Health
+be0290607aaa9fc3f260fc30f90dac89,7e02383bbf3375a2a9ca131af3f2f8d2,514.27,2023-05-28,Failed,MG 576,MG Road,Bangalore,Debit,Merchant_1,Groceries
+d6f8c600d50213c61104e87578963b2e,61d23188d394e549f39af2a394e13449,637.28,2023-06-26,Failed,MG 718,MG Road,Bangalore,Debit,Merchant_62,Groceries
+6a4a8a6a28d35f0d2dd92f30ad3d1326,6ace9b2099d5ff8eb392540922566691,396.27,2023-03-26,Failed,MG 502,MG Road,Bangalore,Debit,Merchant_7,Clothing
+d582b793822b8d9a91836d5bae272f28,5ecd775408917d6e3d109b68b62968ac,732.29,2023-01-21,Successful,MG 177,MG Road,Bangalore,Net Banking,Merchant_27,Clothing
+f9edfea97dc56c7b86a2098eb74394dc,a52515ee015aff2650dca7c45cceb1c1,994.53,2023-09-14,Successful,MG 104,MG Road,Bangalore,Debit,Merchant_57,Clothing
+a3eeead08850b15dfe421911a2633300,9b9be193be86a3fdf116ef1aa310d78f,140.33,2023-08-26,Successful,MG 993,MG Road,Bangalore,Debit,Merchant_81,Clothing
+62a2eda640f4d0c77c4b919e1aa245db,2589334df20a3263ecd31f104965f327,321.98,2023-06-24,Successful,MG 314,MG Road,Bangalore,UPI,Merchant_18,Clothing
+6fbedfdc140e8483bbe3b7c2230376b0,dbe981afa3735dc446a12c541f937b5f,459.77,2023-08-08,Successful,MG 477,MG Road,Bangalore,UPI,Merchant_60,Groceries
+1a018cc8579b8a5f097be293b861e3fb,54bcb5e7fb74d8a1600f332d63214436,608.77,2023-01-26,Failed,MG 790,MG Road,Bangalore,UPI,Merchant_85,Health
+a0aa004bfa7ce5175015dc854d7858c3,bfcb520fc275288cf79bb3e6bc7ed558,832.0,2023-09-07,Failed,MG 512,MG Road,Bangalore,Debit,Merchant_83,Electronics
+43b0fd3a05a60b2a94a09b840a6e0ee2,5980cf8513deaf58914a0e8e35e48154,74.68,2023-04-07,Successful,MG 526,MG Road,Bangalore,Net Banking,Merchant_59,Groceries
+7aa436b409114cededada5c5d86761af,b0ec850f88de577ff1fc8cceb5049d70,524.44,2023-10-05,Failed,MG 134,MG Road,Bangalore,UPI,Merchant_49,Health
+77a829ee597e00913354db5f6ac6882e,e1b26bb5ad7eb69d55eb19d1163b1153,292.05,2023-08-17,Successful,MG 717,MG Road,Bangalore,Debit,Merchant_44,Clothing
+6f3f6e816c72fd43580947ab50222a2a,d47b5f39179ef46fc0b939d1a864eff6,614.62,2023-06-28,Failed,MG 578,MG Road,Bangalore,UPI,Merchant_63,Health
+3d62b3165cec48ad1abe92ffb006759d,11bfeea0b387d10b086a739b4ef03ff8,145.18,2023-01-06,Failed,MG 973,MG Road,Bangalore,Net Banking,Merchant_91,Electronics
+08d991ae13fbc7a580942f4ec543fdbe,ec6f9a1bdbda74e77453e5948ab74823,921.8,2023-08-08,Successful,MG 909,MG Road,Bangalore,UPI,Merchant_46,Groceries
+f493497fe403b73f78a6d23e8fd785e7,46b5016cf5131567be296c69ac8d9b09,324.25,2023-05-10,Successful,MG 424,MG Road,Bangalore,Net Banking,Merchant_99,Clothing
+5af8e0b88d7e041fe3ef1b7d3b710dac,55867ef9ed222b3a100824ffea129913,112.3,2023-08-01,Failed,MG 654,MG Road,Bangalore,UPI,Merchant_91,Health
+ed1007075daffcb47c57f10402945413,a8a3341e7223b18cec0e1928c463bca5,948.21,2023-11-13,Failed,MG 180,MG Road,Bangalore,Debit,Merchant_10,Health
+611acfd18029c3432ef4b5f14264a8dc,531b581d0ffa3c12922ba14cf357993c,324.02,2023-09-18,Successful,MG 989,MG Road,Bangalore,Debit,Merchant_91,Health
+af38c01fefb554fed0705223c032d275,d8d9162f5c1182da60495c9ec72d48df,842.27,2023-07-11,Successful,MG 576,MG Road,Bangalore,Net Banking,Merchant_91,Electronics
+e98327264569adf37e610d93550fbd16,68afd2b5ca61270d2c5ca5c1b2e6c6a0,801.43,2023-12-30,Failed,MG 300,MG Road,Bangalore,Net Banking,Merchant_25,Electronics
+5cb9fa3831b53dfa8a6a5e124f1f64d8,9f8738488aa62c3d8bde0cbd39d7cea6,790.95,2023-02-12,Failed,MG 385,MG Road,Bangalore,Debit,Merchant_3,Groceries
+47803cef2eafa7407ae4aa7cb2cb55a2,7482d837bcada831710d52805c40ab6f,123.67,2023-01-30,Failed,MG 405,MG Road,Bangalore,Net Banking,Merchant_10,Health
+93e4d1b0142a274f5b31514e157c572f,3f8ae5f632511996768be575049e4a3e,847.9,2023-08-12,Successful,MG 152,MG Road,Bangalore,UPI,Merchant_90,Groceries
+02d318eebd499880f28f42abb21216e5,cf4986ea518789043ac31ef74c4036b7,321.91,2023-12-18,Failed,MG 725,MG Road,Bangalore,Net Banking,Merchant_38,Groceries
+22e10a295b51f693c68bea65883be4d5,6854951e1b95048814846e9ec3f514ed,222.89,2023-04-29,Successful,MG 787,MG Road,Bangalore,Debit,Merchant_72,Electronics
+874567485439050d790715cf54bd6f60,19ac2bfb88af49b8e71b225ef1be5424,375.08,2023-06-14,Successful,MG 267,MG Road,Bangalore,Debit,Merchant_58,Electronics
+9f33fa0416a6eaccd25bac1042a68cce,5c031cb0d97da15df020059916a4fea6,656.91,2023-01-20,Successful,MG 273,MG Road,Bangalore,UPI,Merchant_33,Groceries
+6bbfd0ab4d64d396a53b78c09f6a7837,e988d605f605e6d62c08beacbeecf075,524.91,2023-02-16,Failed,MG 370,MG Road,Bangalore,UPI,Merchant_31,Clothing
+507bc966047148ac4f463b59001001e9,a3b03545bfd12058443231e7e3bfd3db,465.4,2023-09-03,Failed,MG 395,MG Road,Bangalore,Net Banking,Merchant_86,Clothing
+3007237caedf13988867df831230bea4,1c9c2ae182da4d5f1a42ddfeec18b034,550.42,2023-06-04,Successful,MG 686,MG Road,Bangalore,Net Banking,Merchant_1,Groceries
+de37a3255f3d4adf215e01fd998fc04b,ce26e24e4b6bf40b1d96d2112287974e,235.78,2023-01-29,Successful,MG 407,MG Road,Bangalore,Credit,Merchant_88,Clothing
+be81cc6a1d04f751d333e57f46059610,3a5c6e7c43c81d31c32db6a361a11eb3,867.52,2023-04-12,Successful,MG 504,MG Road,Bangalore,Debit,Merchant_4,Electronics
+cfbb60a60b9e75c1e521a93b76f66da4,1a75ff6948bd63dbf48b02e7a77987c0,617.63,2023-03-14,Successful,MG 977,MG Road,Bangalore,Net Banking,Merchant_32,Electronics
+6ca31bcf847f15a411095e83b859d0fe,07cb2093e67f0b0e1a6e27694d8ebc43,108.45,2023-04-18,Failed,MG 761,MG Road,Bangalore,Debit,Merchant_50,Groceries
+0becdabf343fb0631f71f6e540256aee,5e528386aa9abeaf929350c65311772c,332.5,2023-01-18,Failed,MG 337,MG Road,Bangalore,Credit,Merchant_1,Electronics
+760e511e51b65230209d78b6cd8db937,a7e4e9155e3ae21afbb2958f3275c64e,438.27,2023-11-14,Successful,MG 700,MG Road,Bangalore,UPI,Merchant_4,Health
+2edc8c0227a289e671893b5938c7bc69,a33810d24b20deb325cb7ce6040d219f,118.77,2023-11-13,Successful,MG 361,MG Road,Bangalore,Debit,Merchant_81,Groceries
+f5908bcba6550babb8f9c2bbfee1a288,56328be06cde7bdbe59f21e375fe3cc7,235.37,2023-07-22,Successful,MG 958,MG Road,Bangalore,UPI,Merchant_53,Clothing
+9d99c0ccd50dccd8d7585d39ba49d3fd,176de022f6bd5a4efec9c93338f7c759,615.74,2023-01-27,Successful,MG 662,MG Road,Bangalore,Debit,Merchant_12,Groceries
+8f214c9db70ac1523835e409c6804879,ca165fd7e786de596fb79c6de2c97692,506.44,2023-12-18,Failed,MG 686,MG Road,Bangalore,Credit,Merchant_94,Groceries
+a08530c887d2f47ebe99fa7a3c99e84a,9b7b5835185b40eeaebda8b239fd28e8,355.05,2023-05-14,Failed,MG 728,MG Road,Bangalore,Credit,Merchant_3,Electronics
+d32fe691f2e579b7fdda365a28f43e66,7680b8f7091aea5f822d29b4eadd4a86,753.24,2023-06-16,Successful,MG 910,MG Road,Bangalore,UPI,Merchant_81,Groceries
+e9329f0224599df1108c83aba832d4e9,0d8df1eb6734a36d7cba33f51fc3d096,595.56,2023-12-08,Successful,MG 412,MG Road,Bangalore,Credit,Merchant_48,Groceries
+e257c5c9d88879c0c8f4e186ec75a575,b7297a3afa775ff146e168fbe74061af,157.78,2023-09-16,Successful,MG 593,MG Road,Bangalore,Net Banking,Merchant_55,Clothing
+4f566f21335c3de8ffcec3ee27e706da,82b38d84ac472dd988f210e22d5959a2,903.61,2023-09-22,Failed,MG 684,MG Road,Bangalore,UPI,Merchant_80,Groceries
+4c985ca4e30787d9dfda2f6467564e83,c59ca657a389fc8a66d066c02b34156e,227.04,2023-12-17,Successful,MG 326,MG Road,Bangalore,UPI,Merchant_68,Electronics
+cdf7e779b5fa0a5d99c8924c9c83b2ce,3c512ed961d4b9075bebe913437d1d26,375.26,2023-01-09,Successful,MG 610,MG Road,Bangalore,Net Banking,Merchant_38,Health
+b3f6f5ef56bc23f30de7d883194a5319,26283affebd134d3f7fdbc7ab3369945,42.78,2023-07-06,Failed,MG 701,MG Road,Bangalore,Debit,Merchant_95,Groceries
+a3afb3694a4825c11ccdc7106843decf,e9edd52e90b772b6b78e73461c945f45,57.58,2023-11-06,Failed,MG 201,MG Road,Bangalore,Debit,Merchant_46,Health
+125c0c41d18a123c197c248257e2992a,2ed594ab925be697c3f870b965811e7b,272.14,2023-05-15,Failed,MG 369,MG Road,Bangalore,Net Banking,Merchant_87,Groceries
+cfce3bfa856f160cb33da9c12f2e49ea,66e7fb2e0960e883820d765bdeb63478,87.76,2023-05-18,Failed,MG 408,MG Road,Bangalore,Debit,Merchant_49,Clothing
+3635e7d00fa72f05efe1e5e937ed3470,10a4fea848b20e97b6dfaf90647a07c8,710.23,2023-09-02,Failed,MG 473,MG Road,Bangalore,Net Banking,Merchant_81,Electronics
+891767e25e6b8c7a420c821dbb273f67,6ed6267e3aa30eb638735b239e290baf,593.5,2023-03-15,Successful,MG 253,MG Road,Bangalore,Net Banking,Merchant_71,Health
+673a18325e82780af6900165d8e82275,f087540506a5afa5d5e25dd178c14c11,546.8,2023-04-05,Successful,MG 640,MG Road,Bangalore,Debit,Merchant_50,Groceries
+aec271c6b019f7826acc34b90a1ea8d3,8969dd1ffdb376437409dd160273989d,504.3,2023-08-02,Failed,MG 722,MG Road,Bangalore,UPI,Merchant_41,Clothing
+c5fd355e20d827774e13d08b1fd470cd,2c11951298968ecca4ee88abe82719d0,160.69,2023-05-15,Successful,MG 645,MG Road,Bangalore,Debit,Merchant_64,Electronics
+0157bb6af9cd0538532b5d38591d8ad0,14c05ea12962f2bb5465e72e161b11c9,463.77,2023-05-17,Failed,MG 785,MG Road,Bangalore,Credit,Merchant_92,Health
+145a14f0c306fdcc2078186f94b6ec94,f02a58354d674051989519df0eeb6fd1,973.71,2023-01-22,Successful,MG 133,MG Road,Bangalore,Credit,Merchant_80,Health
+eced8937439cf2d5e3ba4aa350cf4a5e,65b132c5ec9619963e6197123cf05329,842.0,2023-02-19,Successful,MG 609,MG Road,Bangalore,Net Banking,Merchant_37,Clothing
+f72c9b2f772294a8de0f1288310f06ff,70247c40673283c2c162378a08487911,346.83,2023-01-24,Failed,MG 120,MG Road,Bangalore,UPI,Merchant_29,Health
+6cbc827d77ef9966737b9fe1abf96031,b678619c3bf02534831c141a14f2e876,694.39,2023-12-05,Successful,MG 963,MG Road,Bangalore,Credit,Merchant_3,Health
+b4ee8501378678234ddf99519f9e4f63,0417e4bba44d04c234a7a8e60382985b,636.6,2023-08-19,Failed,MG 187,MG Road,Bangalore,Credit,Merchant_80,Health
+ef36352e21d10faef54575377eb0dd33,bab70d90edee4169c86fa162fcd52b20,150.73,2023-05-22,Failed,MG 410,MG Road,Bangalore,UPI,Merchant_3,Electronics
+86074eb98aed27a8fa8d68856c369631,56341a507b124cf9ca501ee0f4afb5eb,441.82,2023-07-28,Failed,MG 343,MG Road,Bangalore,Net Banking,Merchant_70,Health
+80d1f0eb54c650042fc5574a8f6c625b,5900f01c24c14bc0b2076bac5ee1acad,879.71,2023-12-22,Failed,MG 361,MG Road,Bangalore,Debit,Merchant_38,Health
+8adaca663e362cb0f3cb06b4b80081b4,90b706480a55ee6cb1c67d9c1c74d737,573.67,2023-08-02,Successful,MG 177,MG Road,Bangalore,UPI,Merchant_99,Groceries
+1e6f8a6dd68f1575595a7c9e2b927651,a81257ca925f431f1b77502fd53f627f,302.12,2023-07-13,Successful,MG 751,MG Road,Bangalore,UPI,Merchant_55,Clothing
+924e42bd4b09715d1b168483c0f423b6,4437b1ff91f62c8ec6ec093758de3927,435.74,2023-01-13,Successful,MG 246,MG Road,Bangalore,Debit,Merchant_58,Electronics
+6e376b09dff47adc941897e1442f30ae,b7c86a9913b816c70471c60c29068987,671.56,2023-02-03,Failed,MG 167,MG Road,Bangalore,UPI,Merchant_15,Electronics
+f3f4fb507b4ea20a11d28b005c7c7b8b,2578bd8583d36e73cef834b66d3c6dbc,714.45,2023-09-22,Failed,MG 869,MG Road,Bangalore,UPI,Merchant_35,Electronics
+4c8dc98a1b392eca0cd26b8d9620aae5,5fa0d88edd80b41c21439ea82b910c6f,545.88,2023-01-19,Successful,MG 410,MG Road,Bangalore,Net Banking,Merchant_35,Health
+9c81d747a0e467c0f3f13a0f3be22fce,30d682bd0fa85889a05cfd365418ee0b,739.24,2023-04-13,Successful,MG 256,MG Road,Bangalore,Net Banking,Merchant_55,Health
+07a50bd1f6b779f972cded98b4a655b7,745bb5a05e7bd4dacacf034e053c4132,836.32,2023-04-21,Failed,MG 935,MG Road,Bangalore,Credit,Merchant_4,Health
+2d0e7784a6467e2781a25b6108a48410,691958a538ea7306197b8a17ad389be8,521.68,2023-02-01,Failed,MG 548,MG Road,Bangalore,Credit,Merchant_8,Electronics
+96025fd60a6cac3c5628370e2af103ff,741f6875dfe34131cb1b2ca6451ede2d,356.78,2023-08-28,Failed,MG 227,MG Road,Bangalore,Net Banking,Merchant_68,Electronics
+f5af4a6986ef76e4513e1fbb346c3e1b,1fa218e4f9accb94ecfccd7bd920ff4f,419.57,2023-02-05,Successful,MG 644,MG Road,Bangalore,Credit,Merchant_76,Health
+e25d733744b0517b7fbcd5e723948761,f5fee707248a7275ef87bf212d18919b,32.5,2023-11-18,Successful,MG 400,MG Road,Bangalore,Debit,Merchant_33,Groceries
+19008dae522b2d678d3635166ef8519c,bd2cd1ccd88beb27effb4ec08f8357d4,967.53,2023-02-06,Failed,MG 704,MG Road,Bangalore,UPI,Merchant_5,Electronics
+c9abdb4577747f068b327298de79f0f8,1d33a89d8624744ffaa12ee7e6f75d0f,92.07,2023-08-02,Failed,MG 373,MG Road,Bangalore,Net Banking,Merchant_8,Clothing
+afd176460884eae18ebf6640d5c1c28e,8e607fe3a354c9bbc5576856e69d1173,843.26,2023-09-13,Successful,MG 854,MG Road,Bangalore,Net Banking,Merchant_92,Clothing
+bed0fe329fb48a534943c464abe0afdd,a2400ae7f75764de4ef0fe1411799f19,841.2,2023-10-15,Successful,MG 850,MG Road,Bangalore,UPI,Merchant_8,Groceries
+3cb4de618ffe4c789563c9dabdb4524d,334cd555860b7102b9ed84d0ad2a2d56,340.68,2023-02-10,Failed,MG 586,MG Road,Bangalore,Net Banking,Merchant_89,Clothing
+7001fa3826f36cd80f7856e255d11362,d96a15633c39fe9c2c2a3873be43f274,754.45,2023-07-24,Successful,MG 546,MG Road,Bangalore,Credit,Merchant_46,Health
+9d119365061d57ea882b29821d5534a2,ec8a33c29cf280ca4cbdf6d8d45b680a,439.77,2023-06-07,Failed,MG 872,MG Road,Bangalore,Net Banking,Merchant_83,Health
+99631e14a61c5f8e9d23407d6cb52c14,d406e748a5f22e8cef4a27e1eeebc6ad,667.92,2023-09-17,Successful,MG 550,MG Road,Bangalore,Credit,Merchant_87,Electronics
+95ee9962fc1c2369b476ed066a6db9f8,7ef20d0a002fac8659e778e7b9b1562b,709.44,2023-04-10,Failed,MG 906,MG Road,Bangalore,UPI,Merchant_97,Groceries
+79f88579fdfea27d5d7714d4ad105a0a,3c2c70251d303383e03565a5622b2344,927.75,2023-06-03,Successful,MG 523,MG Road,Bangalore,UPI,Merchant_57,Health
+8286427463368911832c8e576d5464e8,0a1d77bdb8f5df9ce156a262c661494a,668.72,2023-08-09,Successful,MG 276,MG Road,Bangalore,Net Banking,Merchant_46,Groceries
+ac49be7f631f99612234898853ff5954,2aea2684fda08e76fad2088002aed0f1,864.95,2023-08-01,Failed,MG 455,MG Road,Bangalore,Debit,Merchant_97,Electronics
+f73bac860091055bbf66a28eb633d6e2,755ed7714621bf4f5e51ab049a48e41c,322.06,2023-09-27,Failed,MG 919,MG Road,Bangalore,UPI,Merchant_99,Clothing
+66b93a27959c24b129a07132b326bdc2,01103a3015aaad85204f31a5900f6ff7,228.03,2023-10-28,Failed,MG 609,MG Road,Bangalore,Debit,Merchant_63,Electronics
+115aa83057217b45559b4e8cb08b5790,3665b619656776b4d7486fb7a9020a38,840.33,2023-04-28,Successful,MG 273,MG Road,Bangalore,UPI,Merchant_8,Groceries
+ce69847b7651f20cf76c3887ce2f88a6,1ebd7d3a2ca762267e7b1cea46642a03,998.53,2023-12-15,Successful,MG 905,MG Road,Bangalore,Credit,Merchant_16,Health
+729ccf2a5136165dc9827af5bb643fcd,35ba37738e50708f6a6bd55731995cfc,542.4,2023-08-24,Failed,MG 678,MG Road,Bangalore,Debit,Merchant_25,Electronics
+56d57274a04976378437e33b5e480e25,fbfd64a5d65a372f1f52e2c011e9182b,380.84,2023-02-19,Failed,MG 136,MG Road,Bangalore,Credit,Merchant_92,Groceries
+51bb163ed1ce0705edf3e81ea6146ec9,10e7c3949d59ffaa44b93555a7d5a02b,294.15,2023-04-05,Failed,MG 541,MG Road,Bangalore,Debit,Merchant_75,Health
+040c087f2f860fed9eb4b5cda709f153,937611390e0aa03865ed6f5a74e146a7,305.93,2023-12-02,Successful,MG 752,MG Road,Bangalore,Credit,Merchant_12,Groceries
+fbaee03f38548d505dfcbb5bd83df937,b4ffcde3caaeb6f6a0442184cf78ba73,151.63,2023-07-13,Failed,MG 884,MG Road,Bangalore,Debit,Merchant_54,Health
+5c177b2f4c1d63303a05e248b0f66134,03b00b95b0fd37757d5377b03825ebd8,529.42,2023-07-18,Successful,MG 667,MG Road,Bangalore,Credit,Merchant_51,Electronics
+930fd21f99debec0152a919bcc21c0d3,b13c89e0af0ea66423fe7e85b5a11bdc,619.42,2023-11-07,Successful,MG 428,MG Road,Bangalore,UPI,Merchant_96,Electronics
+74869a0bf11a99683c06bbf23ef279fb,ba2b9c0441fd84b7864baae751e6162d,850.36,2023-08-19,Successful,MG 270,MG Road,Bangalore,UPI,Merchant_70,Health
+9a038c4dd15237ba9667217c8b00ddee,505fc26578e181af2c97028290d90b31,436.75,2023-07-09,Successful,MG 920,MG Road,Bangalore,Credit,Merchant_37,Clothing
+9e2e66c761869bd07ecbc185bb95bebf,6e685a1197bfc67a37828971482d4d27,848.78,2023-03-17,Successful,MG 987,MG Road,Bangalore,Net Banking,Merchant_2,Electronics
+d57b3fb86e9fbbb0eca6bacf0203c078,c8450c569729b850e1d3e4303c4bbad9,803.86,2023-11-08,Failed,MG 808,MG Road,Bangalore,Net Banking,Merchant_28,Clothing
+d06612f64d24becf61aa762d3acb65e0,d49699486f562b614e806383a8f7a17d,296.09,2023-06-10,Successful,MG 371,MG Road,Bangalore,UPI,Merchant_86,Groceries
+02f94a453bbebe7b46a0e2b69e925a39,8d5ef56bd6f83f86a0eb5f28cf7895e7,394.45,2023-03-08,Failed,MG 653,MG Road,Bangalore,Credit,Merchant_54,Health
+4e42e7ac1c221b9e0763ca2a357dad33,0baba66bf2dfeca58b8e461f7a082759,707.45,2023-05-07,Failed,MG 984,MG Road,Bangalore,Net Banking,Merchant_63,Clothing
+6aa4154df30bc86f16e4692d7056affb,1df9fc128eb22d21cda23177edca6cb9,261.18,2023-04-27,Successful,MG 297,MG Road,Bangalore,Debit,Merchant_71,Clothing
+11deb1a6610cedbe040811c54e662a53,57ff0b302a632bd4eb65520dd1fe3f4f,628.14,2023-02-02,Successful,MG 588,MG Road,Bangalore,Net Banking,Merchant_12,Health
+14db0c6e37126598aea44ba62fa29418,c70059d713305dd33219516a0e0dc0b2,281.64,2023-07-30,Failed,MG 568,MG Road,Bangalore,Net Banking,Merchant_28,Groceries
+1ccc659b8944d254816d17b9b1dbd7bc,6655e53907851fddc84a146e84b10792,327.27,2023-06-01,Failed,MG 330,MG Road,Bangalore,Net Banking,Merchant_39,Groceries
+a5baec2694cc3474a5db08e3b6d81da1,78e4226e08ec8a9e078db2623b0d3a4b,45.6,2023-05-07,Successful,MG 769,MG Road,Bangalore,UPI,Merchant_32,Groceries
+68329d6f49be9874d160ecd5be0b78f3,337985ed9f420ae32dfd3ecdcbe3b26d,384.93,2023-04-06,Successful,MG 551,MG Road,Bangalore,Net Banking,Merchant_98,Electronics
+33662f5dda9bb97d670f0de2a5a6a1a8,0bd8036aa81bffc5ce6a0fff74b90016,362.81,2023-11-15,Successful,MG 823,MG Road,Bangalore,Debit,Merchant_19,Electronics
+57d90526e4b4e11554d7c445d65515fa,340205bf88a4409a91caec66b4df53ee,483.35,2023-01-18,Failed,MG 944,MG Road,Bangalore,Credit,Merchant_26,Health
+2b02bfc4f63bdcda61b29e719d53f30c,510e8f09a4cba7bf104145b54efe62c0,469.08,2023-01-07,Failed,MG 343,MG Road,Bangalore,Net Banking,Merchant_31,Groceries
+2ae6438425fffed6e400c0008472ae88,31f152681bbc39baf60091a0d299ef2b,928.86,2023-09-22,Successful,MG 886,MG Road,Bangalore,Net Banking,Merchant_31,Electronics
+f6cda645919e19d676eb246a2af92797,93380b16e8b600b91b3dbbd82003bb97,114.5,2023-10-08,Successful,MG 933,MG Road,Bangalore,Credit,Merchant_96,Clothing
+3bc7dc66c58432485b7e7f4b0f35b914,bbb55b6ec131142a1b5f774ad455b987,325.04,2023-09-22,Successful,MG 584,MG Road,Bangalore,Debit,Merchant_72,Health
+36920c4f036c338b03e45b4006aef143,3b35f90cb8c73cf645a8c1c5a272fa49,505.79,2023-12-06,Successful,MG 531,MG Road,Bangalore,Net Banking,Merchant_64,Electronics
+d551273684337964dddce9039e089526,43980bbae70295c609d7def55d35afba,548.34,2023-10-16,Failed,MG 541,MG Road,Bangalore,Debit,Merchant_78,Electronics
+8707b79060f2b162fc46d97c710c28ae,761455fec94a352d9eff910ccd54efa7,395.12,2023-01-06,Successful,MG 743,MG Road,Bangalore,UPI,Merchant_15,Groceries
+ce6b2c65ee4dd1aa5e3a2264fb7d640d,795b949ebe9e7d956d9fbf2280253177,502.79,2023-11-19,Successful,MG 276,MG Road,Bangalore,Debit,Merchant_90,Groceries
+b425ef534e479303d1410cd1ac151fb0,15b4dfadeabb65158f36673b42d035af,126.96,2023-04-06,Successful,MG 421,MG Road,Bangalore,Debit,Merchant_6,Health
+0cc5ddfca24188a7f6724a3ec86269f1,eece4c0827f6d8e3ddea1027b525f44d,726.44,2023-11-13,Successful,MG 578,MG Road,Bangalore,Net Banking,Merchant_90,Groceries
+645d0ac8cb21b3a81759768658cbd5d7,dbb1e07a509f3c0759ebfd99442a435d,491.9,2023-01-23,Failed,MG 695,MG Road,Bangalore,UPI,Merchant_81,Health
+1c948efb90087623fbcf0fa4e2c61d9c,e8ef7e402c0e800e7f7a73561269870b,459.54,2023-10-21,Failed,MG 419,MG Road,Bangalore,UPI,Merchant_53,Groceries
+87d5515bb924f790e6da33029c5ce56d,ab348fec3590b94d7fb758fb5bf8e155,260.27,2023-12-11,Successful,MG 842,MG Road,Bangalore,Credit,Merchant_70,Electronics
+dffb2634e9d067b51c3638a5fe4ec62a,3fa393ba592f240b4e7fa427128f0b47,88.31,2023-07-20,Successful,MG 721,MG Road,Bangalore,Credit,Merchant_75,Groceries
+6b00fdd3f6da10404a589f08ad70e052,a17ac0fce476ce358aee5571441e04d9,237.22,2023-08-30,Failed,MG 471,MG Road,Bangalore,Net Banking,Merchant_54,Groceries
+24fa86560a8a198099b325bf00416162,737f4abefb01399cd134f17056487efe,911.71,2023-11-26,Successful,MG 320,MG Road,Bangalore,Credit,Merchant_84,Electronics
+9d728ab8c934a753dae57f75a6f85502,21a8ac8e85c4ab8ae17f7563a2dbf064,766.78,2023-12-03,Successful,MG 825,MG Road,Bangalore,Net Banking,Merchant_100,Clothing
+a4400671f6f6484e0a770e01a53b05fb,4aad6b9833c5c0d5c71a65bb463e47bc,935.65,2023-07-26,Failed,MG 981,MG Road,Bangalore,Credit,Merchant_82,Groceries
+91bf15db1248ccb058bc8b84a20031ac,50eeb2b06e809bb2f5b81bb0a00d0d1c,686.94,2023-12-05,Failed,MG 960,MG Road,Bangalore,Debit,Merchant_80,Clothing
+741559775cfe3efd79cc4825ed433dd1,08f21e92739323624fa3c9b6dc28a7db,418.1,2023-12-28,Failed,MG 643,MG Road,Bangalore,Debit,Merchant_33,Health
+fbe76eafe3826a1840718f0664cb8023,482f14c20b0fcd2120aba987443f55ab,223.49,2023-01-09,Successful,MG 976,MG Road,Bangalore,Credit,Merchant_87,Electronics
+4a0c3ce410af841cacdebb3b04fd81f8,5ac2a2ec9fc17c416ffa94b704a08ee1,248.65,2023-05-06,Successful,MG 244,MG Road,Bangalore,Credit,Merchant_64,Clothing
+88a0173e05326556adb2c681bf8e4b28,e4b430c17b108471ebb8d00c9199f90d,23.5,2023-10-02,Failed,MG 568,MG Road,Bangalore,Net Banking,Merchant_15,Clothing
+9f2ef13e3f9eab01f63eaad5b2ef416d,2d652e19a1c6c9d893c17f05ce85a20a,739.14,2023-01-02,Failed,MG 407,MG Road,Bangalore,Debit,Merchant_81,Groceries
+e67491b2712079c3e025dc96ac522b85,d58d690a21efa896923209e5e7f47a74,781.5,2023-04-20,Failed,MG 829,MG Road,Bangalore,UPI,Merchant_62,Clothing
+32b8ef08a46790ddbb5056a9a6af2298,ccb913dfdf68a8ca036221337e913832,798.81,2023-01-13,Failed,MG 537,MG Road,Bangalore,UPI,Merchant_58,Clothing
+4bfd008f749204cf94730900329d95f8,25341be5980d741ba7cf58d094040b66,589.64,2023-04-21,Successful,MG 895,MG Road,Bangalore,Net Banking,Merchant_82,Electronics
+619d6ee0d0029efcff1b046b36a8d2da,1b9e8394b044f00c8b23f334fbd68dbc,716.02,2023-06-08,Failed,MG 864,MG Road,Bangalore,Debit,Merchant_53,Health
+0fe2cbc81ce25edfc90f8d8c2a3f4f0d,42bb26fdae1cba4b370c70155314fabc,302.77,2023-09-18,Successful,MG 160,MG Road,Bangalore,Credit,Merchant_28,Clothing
+b1db78b31b8cb3dfd595075fcfb5399c,13ae91f1f31d18b7ba77c426bce425f3,786.68,2023-03-17,Successful,MG 326,MG Road,Bangalore,Debit,Merchant_60,Groceries
+2b717da77ba094317a4a9526e9da8d7c,db536a8cbe2615d6fee1acde081a01f3,900.44,2023-05-10,Failed,MG 581,MG Road,Bangalore,Debit,Merchant_2,Health
+d352512a39818247b832e2747ca93b2f,c191d99744a3e73e899727a4c0d42eff,371.64,2023-05-26,Successful,MG 487,MG Road,Bangalore,Credit,Merchant_6,Health
+9adf40ec5202f879024fcec5ee4ec159,5abf8c3c8b7a0caa903b2a8113d817bf,901.51,2023-06-09,Successful,MG 346,MG Road,Bangalore,Debit,Merchant_51,Groceries
+7f0759c509ede9e6599d115b71be4923,b17bf1db247101ad6613d6dfa92d37ac,863.42,2023-02-07,Successful,MG 912,MG Road,Bangalore,Credit,Merchant_67,Groceries
+44953de764aa0fa76e90f9775d714924,dd74f5382b5557afdb0e280c27086008,398.89,2023-02-21,Successful,MG 978,MG Road,Bangalore,UPI,Merchant_5,Health
+6984b5df32529cf24dbc57c7b6f68d0d,008d65c42d39c01ae03b7d25b716d958,781.99,2023-01-10,Failed,MG 890,MG Road,Bangalore,Credit,Merchant_1,Groceries
+9b640bcf4bff1cd6070a2e3782e82e2a,b5a8c41d5f24a8776a2f0ec37fa487b0,868.96,2023-04-13,Successful,MG 588,MG Road,Bangalore,Credit,Merchant_17,Groceries
+dd4a23df1c2fa98fdee548f4eaf9e9ea,455498bb699e56b8ab8bc9e24693a1d3,658.39,2023-01-30,Failed,MG 300,MG Road,Bangalore,Credit,Merchant_54,Groceries
+43d057856294adb498b0e1aff571ef9a,97ca3c941555cfd394fa5bea72ccb7f8,403.76,2023-02-20,Failed,MG 249,MG Road,Bangalore,Credit,Merchant_65,Clothing
+f8cff4a7f4eba2443d9887511ef35cb6,a0bacf936243c65160721bb797313742,556.97,2023-04-30,Successful,MG 636,MG Road,Bangalore,UPI,Merchant_46,Clothing
+42c01104b1ff5e45516ec481129cafe6,8cb136c6cf34dff78cbb7caf2ab458f9,709.92,2023-03-04,Failed,MG 640,MG Road,Bangalore,Credit,Merchant_4,Groceries
+12f49e0c442cff39b909af60eced84ec,3f63ada3d95108720ae4068ae4146814,91.05,2023-05-29,Successful,MG 353,MG Road,Bangalore,Debit,Merchant_81,Clothing
+b26381148e275e4e56ebde6bd19b5ca7,bb4e9a55137c9ec27c865b896ef623b3,658.29,2023-02-07,Successful,MG 884,MG Road,Bangalore,Net Banking,Merchant_10,Clothing
+9b51041b3f7c7674509f6eb580a5a97f,68084ca63a8c0d844816454ec519bd9b,682.8,2023-03-29,Failed,MG 795,MG Road,Bangalore,Net Banking,Merchant_33,Clothing
+ac94a7cbbfc959593c3c238f8a54f472,8c6fbd4090e64fcf5d542679e1af2b70,401.4,2023-09-05,Failed,MG 790,MG Road,Bangalore,Net Banking,Merchant_98,Electronics
+5956da0baaacb2eb4c0008966de49db4,c077e07cb8a68341a3b3a5aad8287beb,571.8,2023-09-06,Successful,MG 393,MG Road,Bangalore,Debit,Merchant_81,Groceries
+cef55fec122359fa12e1e27987f81ba4,ee0d2b4b405fd293d49890c7a89ab497,922.01,2023-12-08,Successful,MG 124,MG Road,Bangalore,Debit,Merchant_46,Electronics
+00cffc4ebf930229c681a80deb997dfc,a6d5bb27eb899a75a34dab3e80c3d741,581.77,2023-02-15,Failed,MG 145,MG Road,Bangalore,Net Banking,Merchant_48,Health
+04a27e12c283e48abd58115234aa72a3,c93a6b5d8cb3543f3ce7781756882838,87.14,2023-05-07,Failed,MG 963,MG Road,Bangalore,Debit,Merchant_8,Groceries
+2dac0813e8fa739eea225fd5ab666c87,686d7893528b1d0c5f7b8dc24cc2c80a,90.37,2023-06-26,Failed,MG 325,MG Road,Bangalore,Net Banking,Merchant_80,Clothing
+48bebba04425db8231982ac5027531f1,214612fce4c9b0aabd26ccb35bf9d477,961.32,2023-07-13,Successful,MG 813,MG Road,Bangalore,Debit,Merchant_99,Clothing
+53511ec1b56575e257ea457ee75cae6a,68016d5b85a886b7fba3d7d37128db8e,793.85,2023-06-02,Failed,MG 628,MG Road,Bangalore,Net Banking,Merchant_68,Health
+e4370ee756bc20db3b7a1842813667ff,2382956b7f15b169b674bb4eb2971f79,703.53,2023-09-07,Successful,MG 498,MG Road,Bangalore,Credit,Merchant_83,Clothing
+4f40e5bca26207fa0e8f49564f8f8ee5,610ded57592df0733aa2f439ebb4f80e,954.26,2023-01-31,Failed,MG 419,MG Road,Bangalore,Net Banking,Merchant_47,Health
+961a9cfb3275b21ae7c46056a08d8048,2e59b68a617fa1af1a21d03e37e3742a,749.84,2023-07-24,Failed,MG 186,MG Road,Bangalore,Credit,Merchant_33,Health
+627c18d316246a88b085fac44841820e,f9da6b8b6dc11801facbfc65b95c0f5d,694.73,2023-07-11,Successful,MG 756,MG Road,Bangalore,Net Banking,Merchant_5,Health
+42f6915b43c0415c3dd83c90244816c8,ceec1564b91427ccb3681f659d98b382,218.31,2023-09-06,Failed,MG 258,MG Road,Bangalore,Net Banking,Merchant_37,Clothing
+390b24c94af2b2d7f48473b93cda56a8,0ab1a6f1435bf8f7cd19ab389eaff78d,507.66,2023-10-12,Failed,MG 137,MG Road,Bangalore,Credit,Merchant_32,Clothing
+9d844c42c55007676facbb17e654f8e1,228a2a8e04cc9f9976d055e4909a5003,680.48,2023-07-29,Failed,MG 876,MG Road,Bangalore,Net Banking,Merchant_38,Health
+4cfb2a6d1b5e876dc7a310ca254827a1,9bfcb632a884f7181e5153252afcc381,37.91,2023-06-29,Successful,MG 118,MG Road,Bangalore,Net Banking,Merchant_80,Clothing
+d86239af5c2384de300622cb35111481,ab7e989d277dad178994adba7f7b17cc,845.14,2023-10-19,Successful,MG 439,MG Road,Bangalore,Credit,Merchant_10,Health
+bac3d7a8babcefcc155c4c4ef777fba9,704b0504d96e56fdcdb757239c528cff,165.91,2023-12-03,Successful,MG 675,MG Road,Bangalore,Credit,Merchant_72,Clothing
+c76133d0db7913769491071ee75d73db,30dc37c0154437bac4fcfa047e97bc87,386.89,2023-03-16,Successful,MG 423,MG Road,Bangalore,Debit,Merchant_90,Health
+6886796843183375221c3b1dad2e34a9,fa4afae36f0b08c3809db3344c51e60b,408.38,2023-01-26,Failed,MG 994,MG Road,Bangalore,Net Banking,Merchant_23,Groceries
+c137b77b48ae08eb60a7f2ae4c64350d,7b9a54d5f7137e7fc738910cfadb0eef,834.04,2023-02-17,Successful,MG 154,MG Road,Bangalore,Debit,Merchant_96,Clothing
+5be203787fc6ef800f5274bfc4e8d042,d4a3ccdc9dea4d7b91c51727d8e9c782,202.6,2023-02-09,Failed,MG 420,MG Road,Bangalore,Debit,Merchant_47,Electronics
+aa36d6557871e8853321f0f1f0e6247c,d043a19a00f84490117a0d2aaab291ca,589.94,2023-11-06,Successful,MG 547,MG Road,Bangalore,Net Banking,Merchant_4,Groceries
+e81c4ec0ef57f6c6bd913cfc531e5d4d,a053f9d1844e022ef78984ac7eaca1bd,967.52,2023-07-31,Failed,MG 452,MG Road,Bangalore,Credit,Merchant_10,Clothing
+914330676d5ce278fe434547635d075e,682e0d411e475923681847cfe0e673cc,375.24,2023-06-28,Failed,MG 361,MG Road,Bangalore,Credit,Merchant_59,Health
+c3a36487d56634ea780ca13e05b3bc98,cbeced61baef1d48cec27fd841dd0606,938.25,2023-10-31,Failed,MG 872,MG Road,Bangalore,Net Banking,Merchant_19,Health
+96d5fd22ea313d958ee2cbc09c17a97c,e33e53fdc4ef4a5e3ba0a03209e38cfd,154.38,2023-08-02,Failed,MG 444,MG Road,Bangalore,Debit,Merchant_89,Health
+6a2cc148cb10e988f2720696bb94ab1d,e6a781eca99931976e2f9a2a268f221c,653.46,2023-06-24,Failed,MG 490,MG Road,Bangalore,UPI,Merchant_21,Health
+98442e4252415c28bd3fc0d342ef610c,4a36e8bea74398b784c5b24dd105aa62,346.97,2023-09-02,Failed,MG 980,MG Road,Bangalore,Credit,Merchant_4,Health
+95a731f7ad4b2f0299dfa661bd15d0d9,eba5fa1c1b07df913a26e438e42f164c,921.69,2023-03-21,Successful,MG 657,MG Road,Bangalore,Debit,Merchant_25,Health
+66eb75c3522146d7c8091190f7a93fa3,1841dbbe623a2295e65053de723d625c,597.42,2023-12-18,Successful,MG 802,MG Road,Bangalore,Net Banking,Merchant_48,Groceries
+b89f0d3499408ba4054ee039f6f4e4d0,9a60aad2b8cbf953a8bbd6e9b4721b63,108.77,2023-12-28,Failed,MG 754,MG Road,Bangalore,Debit,Merchant_56,Groceries
+7a36f8e42698c0da8a62d6e7b0dfcee4,0731f2fea63d159723639ae82fdfd411,198.09,2023-10-13,Failed,MG 386,MG Road,Bangalore,Debit,Merchant_93,Health
+fe1d453f162dc16598c6f865943bcf64,8445b309eb7a3f2fbfc3b0e6dc73ee21,324.49,2023-03-15,Successful,MG 995,MG Road,Bangalore,Credit,Merchant_53,Electronics
+070961ed421c08e9cd6e25b6b5a6c6c8,6ec5eb34287033c2b30fdb0bfda01b89,421.62,2023-01-17,Failed,MG 745,MG Road,Bangalore,UPI,Merchant_8,Groceries
+4c9685147ddc9a12b050e37974d34d5e,4389bb7f050a5706c62050550e7e45bb,109.87,2023-12-03,Failed,MG 651,MG Road,Bangalore,Net Banking,Merchant_74,Groceries
+ef3301611a29e66b8acc971b89d2558a,39150d50e56d50613e305c1a5aa04634,943.91,2023-01-16,Failed,MG 647,MG Road,Bangalore,Net Banking,Merchant_90,Clothing
+2154298f3ba8d2f1d06a17e09e901aea,0a7ca45030d412c82e2559e0a02af5a1,369.76,2023-12-30,Successful,MG 842,MG Road,Bangalore,Debit,Merchant_5,Electronics
+442aecafe539dca065986448ae3825f3,40cf7b0a942bc7ab1d0cdf0a5bed9a23,256.47,2023-01-17,Failed,MG 592,MG Road,Bangalore,Credit,Merchant_18,Health
+9d29082264d711c9dc1781c97a91944c,10c84274345ffe4f01710a178613e024,817.02,2023-07-25,Successful,MG 136,MG Road,Bangalore,UPI,Merchant_17,Clothing
+238bdca08c63aaca6b41d325233490de,7ce32699af29fbda4ecda000eff5f67c,738.29,2023-10-21,Successful,MG 643,MG Road,Bangalore,Debit,Merchant_74,Health
+fda731be2f7e448e8a24adfce7a91954,4bb6134cacad042e68d57fc2de7ef3f2,377.47,2023-03-16,Failed,MG 918,MG Road,Bangalore,Credit,Merchant_35,Health
+c9cc9c26cbcd0476ffbaa27fe4c40582,d3bc76cafe85a5a7fec807d0e22180ae,271.66,2023-12-16,Failed,MG 766,MG Road,Bangalore,Debit,Merchant_75,Electronics
+63c7892cf6380fbfe4dbdb0660a079d9,e551a108cf963abdeac66606afa8619b,926.7,2023-07-13,Failed,MG 738,MG Road,Bangalore,Credit,Merchant_69,Health
+7efafaa49956cff8b872c545588c5941,3f0ea7ad45815b9d469d1da928ebc4d7,942.35,2023-09-15,Successful,MG 641,MG Road,Bangalore,Debit,Merchant_19,Health
+465800a3d3fa90c4a3bef2bce18f7ac0,a68eca7d0daf0663c46096bf8486a53a,794.07,2023-08-12,Failed,MG 285,MG Road,Bangalore,Credit,Merchant_46,Clothing
+a11398845cd8750cda05a69f7edb4222,bc9e4e5c78d3cf90e684bfc3298acb4b,473.55,2023-07-31,Successful,MG 496,MG Road,Bangalore,Debit,Merchant_28,Groceries
+c9d7cb2b0cdc97161e80e3e0f96bba3b,d75bc21185e759084b0ebcf09a73e093,705.16,2023-05-01,Failed,MG 179,MG Road,Bangalore,UPI,Merchant_14,Electronics
+01ee796354461ba39da03943443bcffe,5743846c9695fe0034df8f3bf1dbb22a,976.18,2023-09-04,Successful,MG 632,MG Road,Bangalore,UPI,Merchant_27,Electronics
+9446e5bceb7a92499ec196f6d2987e2a,1f808d2704f5da31daa3cb5e060170a9,906.14,2023-11-28,Successful,MG 560,MG Road,Bangalore,Debit,Merchant_46,Electronics
+662c54c0a01c1afc0e3c80627379c646,aa2dedcad225205c0276aec5b901c230,504.8,2023-10-13,Successful,MG 150,MG Road,Bangalore,Net Banking,Merchant_11,Groceries
+02733db69a72df5aca915fe2902d0049,7127558386e8d8bedd5f4e2c70f07e40,651.46,2023-03-22,Failed,MG 288,MG Road,Bangalore,UPI,Merchant_65,Electronics
+6f5f12d89f21f4f9202552df75361681,48d76f12c7a1e21133e6edaa961e07d6,327.01,2023-08-28,Failed,MG 308,MG Road,Bangalore,UPI,Merchant_74,Groceries
+d83f8c50df93216aec3bd5514d32330f,d14e83a8986e389a62a0e06082d28123,57.78,2023-08-12,Failed,MG 501,MG Road,Bangalore,Debit,Merchant_22,Groceries
+cdbbff7f398c0cb26da5cbca35dd425c,5eb2f174d8ec349201bac4461e86df8c,592.81,2023-05-07,Successful,MG 299,MG Road,Bangalore,UPI,Merchant_35,Groceries
+1be6aa1cf6402242cf3860caeda1db1e,be1568fd87811aba12e8c987a01912f1,284.51,2023-09-20,Failed,MG 947,MG Road,Bangalore,Debit,Merchant_76,Groceries
+c2f0803365f383dd3dfb8db5ad9af997,63bd6b0a3dbc67bce0f6ad510c172256,44.66,2023-11-17,Failed,MG 710,MG Road,Bangalore,Debit,Merchant_71,Electronics
+6b4dc2a0c34d0ebc053efff023753e14,78b14c536484982f5d09b9c66eece4fd,930.17,2023-06-01,Successful,MG 836,MG Road,Bangalore,UPI,Merchant_68,Groceries
+5f47a4baaba55fae51dc8c69b111437e,64019378e75930d8e91e755eb301d65d,401.52,2023-11-28,Successful,MG 839,MG Road,Bangalore,Credit,Merchant_96,Health
+db80b62e626bbbb5036f1759f61302f5,a65ae085f7611327c98545b2d3888239,962.2,2023-10-01,Failed,MG 282,MG Road,Bangalore,Net Banking,Merchant_62,Groceries
+a1911797345183bb49b00db8de93a4ef,9a8e14ed786aeef41e0f8f285a852d52,253.64,2023-05-12,Successful,MG 400,MG Road,Bangalore,Debit,Merchant_26,Health
+f8eaf2f025d46fa040498ae445f92d42,9ec4de899a6ea877ea66a65985fff012,291.68,2023-05-31,Failed,MG 941,MG Road,Bangalore,Net Banking,Merchant_90,Health
+aeaabb9bf2eb84f31c4bf0e124fddbd6,7409fdfdf7dfeff4b0eb1f47a11d42ec,180.93,2023-07-07,Successful,MG 427,MG Road,Bangalore,Net Banking,Merchant_30,Electronics
+d878c30fb0af34051e2ea5edfaa6f164,83cf5b9151dab30977afb66d4f43d028,182.12,2023-07-02,Failed,MG 245,MG Road,Bangalore,UPI,Merchant_51,Electronics
+3abad3b2643302d66590f92d61e1894c,ed5c77e9bf23fd6af6c07494f634c1fb,781.13,2023-11-14,Successful,MG 281,MG Road,Bangalore,Debit,Merchant_24,Groceries
+c3dc04bd6d4b2abdd530772485cd2b30,09ee5ce855dbb0087dbc84ab6963c3cb,55.19,2023-12-19,Failed,MG 130,MG Road,Bangalore,Net Banking,Merchant_68,Groceries
+a142c33991cb342095de49a14511cb4b,63eed81f62c98f13b8c0b974dc4e494c,266.0,2023-12-26,Failed,MG 670,MG Road,Bangalore,Debit,Merchant_18,Health
+cee34e0f81fe38b7607ebf67e6e29ed7,ed98f6646788c93349c1e85d29598116,530.58,2023-03-19,Successful,MG 363,MG Road,Bangalore,Net Banking,Merchant_83,Groceries
+4954c9d150261f84d87dd34405c32f18,8bbe3ccf0871fb026fc91875964ba1f9,718.69,2023-09-23,Successful,MG 926,MG Road,Bangalore,Net Banking,Merchant_27,Electronics
+81959a1cb53fd47adab99bc7aa98eabb,4b8f815338f26fd6857d2ad0e2d27055,298.33,2023-12-01,Failed,MG 266,MG Road,Bangalore,UPI,Merchant_82,Clothing
+2ce705d666a954263ef339785bba09ee,e29422ca1fcac40ab99925a576f14683,13.89,2023-01-09,Failed,MG 621,MG Road,Bangalore,Credit,Merchant_82,Groceries
+879a775d86901ca93883f98a5f5fc0ac,73713c8436e8f0f33848c7015329cfa8,395.11,2023-12-12,Failed,MG 765,MG Road,Bangalore,Credit,Merchant_56,Health
+7d5e96b022412b45776fc1326bdbec06,f73ae4fe5bb99bd3d9de03c92bc6021a,235.35,2023-10-07,Failed,MG 404,MG Road,Bangalore,Net Banking,Merchant_7,Electronics
+4d11117e4ca3e6e80bb0c7258eb1e95c,64d083da5c3cd1ccfc4b6e2a0e4732dc,299.0,2023-07-08,Successful,MG 976,MG Road,Bangalore,Debit,Merchant_81,Health
+36477165c5cfc7b89964571dc55a101b,380928ff97d2f399043cf2c7b7db50eb,792.09,2023-09-23,Successful,MG 949,MG Road,Bangalore,UPI,Merchant_32,Clothing
+4b8554312f214c762412d3add43a269f,74cb69951a2153de4ec085bb1045b2d1,896.0,2023-03-03,Successful,MG 113,MG Road,Bangalore,Debit,Merchant_56,Electronics
+b66082c5fe843c715b864adc4045d1a3,414799a3cd77bc581ab09712cc61f826,628.28,2023-07-15,Failed,MG 650,MG Road,Bangalore,Net Banking,Merchant_88,Health
+cf89763f2e6fb38274ea813fe65b3172,f37ae3aecf576eaded2752dea3528c51,985.01,2023-11-27,Successful,MG 177,MG Road,Bangalore,UPI,Merchant_49,Clothing
+04c7570665b8dae25fbdd3b2e9d91349,1abc8d5d44474e6aa3df3141563c73d4,695.57,2023-10-30,Failed,MG 957,MG Road,Bangalore,Net Banking,Merchant_83,Clothing
+7988b86a038dcef6951ef7c2e8d042eb,1e6ceb803c1017124e2b7d6dea48299f,333.23,2023-10-23,Successful,MG 496,MG Road,Bangalore,Debit,Merchant_33,Clothing
+2777f45948f3581ed8099d960e8f2f75,084095f81b45d722d42fa7d314d5189a,826.21,2023-12-08,Failed,MG 505,MG Road,Bangalore,Debit,Merchant_45,Clothing
+4d6c857dffc40aaa12c2f4f65d65e947,29adb44a19966d5f74fd98cc923aacf7,589.28,2023-03-21,Successful,MG 801,MG Road,Bangalore,Net Banking,Merchant_43,Health
+61b23ed3add030ca93ed0652ac748347,f2d2029ebd2e5d8c08488a51baf5257e,149.95,2023-07-05,Failed,MG 285,MG Road,Bangalore,Credit,Merchant_24,Clothing
+78051b0091699abc5e31ef264f9e047a,9b0c36120e24df1ceefa531109617df4,803.91,2023-07-12,Successful,MG 450,MG Road,Bangalore,Net Banking,Merchant_60,Electronics
+6dc6c7e77b90413c9eb05c421eec714e,ed21f48892d8a3da65abec3633aa0911,900.76,2023-01-24,Successful,MG 628,MG Road,Bangalore,Net Banking,Merchant_79,Groceries
+b150ae84e85815ddcd226d3eeea2f67d,a8f2076b10a1c3363877d4c5ecc20d68,649.24,2023-02-01,Failed,MG 712,MG Road,Bangalore,UPI,Merchant_28,Health
+8ccf85908c556017d384424ba81c8909,4d6869131269eb85d6aebac2b7a7f748,629.13,2023-02-18,Successful,MG 949,MG Road,Bangalore,Debit,Merchant_6,Electronics
+66a778c9d6b49fc9b90dba3000173bb8,1a3e5ac4e7222caa842274c6d7be01af,411.97,2023-03-19,Failed,MG 601,MG Road,Bangalore,Net Banking,Merchant_92,Health
+7600e9399c0bb3ae371f15c6326c4e29,d65fb7c72a59f79cc171a48d03e02694,269.69,2023-01-11,Failed,MG 470,MG Road,Bangalore,UPI,Merchant_15,Health
+4775f67459051ce40082615e8c753307,2113a7020eb620eaf5f7275599320d27,855.6,2023-11-26,Failed,MG 903,MG Road,Bangalore,Net Banking,Merchant_88,Electronics
+7f561f83eff2cd84c8e24c888be4eba8,71e0eaa116e88d38c69f1c860e455371,204.8,2023-06-06,Failed,MG 270,MG Road,Bangalore,Net Banking,Merchant_96,Groceries
+8c7d651d25a6eda1b3e17639e61c9f5d,3b88bd04aaad46ade883c3107c69c499,58.37,2023-07-08,Failed,MG 184,MG Road,Bangalore,Debit,Merchant_28,Groceries
+f14f9a1803d7b70583ab00441ee98101,715be52b1e3d73c253f9f8e7c0af2663,387.08,2023-10-20,Successful,MG 821,MG Road,Bangalore,Credit,Merchant_7,Health
+89c3f35a91d0213dd9d5acee3adc80b0,79f19c04b5758d0d670b4e75d97d291c,90.27,2023-04-22,Successful,MG 950,MG Road,Bangalore,UPI,Merchant_88,Groceries
+5318cfcedcc1ce3da55953292a82a1e6,1b7c810fad61e1c03e083314ab5d8af3,919.28,2023-04-26,Successful,MG 652,MG Road,Bangalore,UPI,Merchant_30,Electronics
+03f943f191da14eb1bed4588c9c103c0,9e111bf6d99658d8a414f0156fc2090d,545.51,2023-06-04,Successful,MG 464,MG Road,Bangalore,Debit,Merchant_87,Clothing
+8306b2985d107b4122d4f86a05bd9c31,ffc2400d6319b6aa6c6cb03627f97bc6,828.32,2023-03-22,Failed,MG 664,MG Road,Bangalore,UPI,Merchant_35,Groceries
+d92b8497c5394a196603c8ff6b5a3ff3,ae62617766fb43565365aacc5706845e,960.28,2023-08-12,Successful,MG 985,MG Road,Bangalore,Debit,Merchant_72,Groceries
+16d780d56715f7fbe39fda06ffa8a9d2,a3f2d9d84ce520437dd4d9b9d0fadc86,278.05,2023-08-18,Successful,MG 558,MG Road,Bangalore,Credit,Merchant_92,Electronics
+8f75388b593b2d8ec8741ec74ba95a9c,1223666fa131910e142e11144fbf9fe3,15.21,2023-05-16,Successful,MG 224,MG Road,Bangalore,Net Banking,Merchant_34,Health
+2fdfc3e1d9ac43dd8ec814fe45ecf89b,ace3cc45b5b5032b2beaff31dd79c1fb,942.87,2023-12-15,Successful,MG 402,MG Road,Bangalore,Debit,Merchant_89,Health
+e0498b0b5ff698cf1a069502cde4a7d4,ffacc2d10ab98660a4e38860cc23e5f1,602.58,2023-09-27,Successful,MG 446,MG Road,Bangalore,Credit,Merchant_65,Clothing
+9c09b4f932736a2bc7401e37d969b12e,639342bba5fdba6bf5be99b83814ffd3,124.72,2023-03-24,Failed,MG 860,MG Road,Bangalore,Credit,Merchant_69,Clothing
+d0bb32d7d6733439a53058e18fded101,73b5c54be310e73b9d38114da967c634,678.52,2023-06-10,Failed,MG 516,MG Road,Bangalore,Net Banking,Merchant_30,Clothing
+dad14f62a37749a86728c268e27c35f7,027fa638bf956a98f54397949939e27e,145.61,2023-04-19,Successful,MG 849,MG Road,Bangalore,UPI,Merchant_13,Health
+c892a85df927080381df0cd54ced1ce8,df9d1e7cc564dabde0bad0f6e26f1d3c,629.85,2023-05-09,Failed,MG 763,MG Road,Bangalore,UPI,Merchant_99,Electronics
+2491bf6abc5a0323063e7b1f3d5cef6a,94cd20ec207cd04f5ce098776b2a8c9a,18.37,2023-03-03,Successful,MG 768,MG Road,Bangalore,Debit,Merchant_85,Electronics
+97cce350afa726398f173c225317312a,944fc360fc9c62ee2b73e34dfc365d2d,388.67,2023-12-10,Failed,MG 118,MG Road,Bangalore,UPI,Merchant_40,Clothing
+aabd72ee1fe1c10435dec4c6c9ad2c98,85552d2916aeaf89536fa1fd887b4942,215.69,2023-09-12,Failed,MG 637,MG Road,Bangalore,Net Banking,Merchant_72,Health
+aa86eaa4f686da65186c63eed9a02965,c2ac5fa60f628c6eafeb8a1e325ea896,142.48,2023-03-09,Successful,MG 532,MG Road,Bangalore,Debit,Merchant_14,Health
+b4770fdfb69d943825be5d3e0c566b0f,d2363149680eddf074f87ba59c5a14ac,197.59,2023-12-18,Successful,MG 124,MG Road,Bangalore,UPI,Merchant_75,Clothing
+053a0aa8c5139f97f963388093ce81a9,5ba4589c323363d6aac678728ea72ebf,676.15,2023-09-10,Failed,MG 832,MG Road,Bangalore,Net Banking,Merchant_35,Groceries
+17e8b2d331f961abeff09df880ae727b,801ff407db70c9b7f5b27cf989508393,159.43,2023-12-08,Successful,MG 555,MG Road,Bangalore,Net Banking,Merchant_7,Electronics
+e34defa93f67fceee1a013978126e62a,e623f2ab8589117a1e1b7b0b3e4989bf,993.69,2023-10-21,Failed,MG 597,MG Road,Bangalore,Credit,Merchant_70,Groceries
+d06c92aa98383ea405e7e996fffdc8ea,cf134e64317af26dbfa8108a73726ef9,761.89,2023-09-08,Failed,MG 902,MG Road,Bangalore,Credit,Merchant_79,Electronics
+430cadfe3dd411da95dc0d292c1fe5f2,0dfd09fb8f34126695b50626bf6691d2,870.2,2023-10-25,Failed,MG 200,MG Road,Bangalore,Debit,Merchant_75,Health
+587a98cd9f4486728945d8a35aa94e47,8a467322bf0fa9c7c758d6465e2af26f,159.29,2023-02-28,Failed,MG 825,MG Road,Bangalore,Debit,Merchant_50,Groceries
+0151fc978d8ef37c6e74e33eef65c8d1,82154ee8d52e9d078214a69dfb729cab,69.96,2023-08-28,Failed,MG 939,MG Road,Bangalore,Debit,Merchant_41,Groceries
+b8dba2bdd01006908a390a82ef5bded1,21a70c999fc49684e6e898838dd0952f,269.39,2023-10-22,Failed,MG 609,MG Road,Bangalore,Debit,Merchant_29,Clothing
+fdf6325a6179af47a5c6deb50a4cfd2a,0069d8591ed322a842136247232d20e4,748.01,2023-07-08,Failed,MG 396,MG Road,Bangalore,UPI,Merchant_32,Electronics
+38a9fbdc2831d37110b2e9b22146552f,fd900dc685c8f56bd4e2e944c7bba992,593.74,2023-10-16,Failed,MG 202,MG Road,Bangalore,UPI,Merchant_9,Electronics
+c4e90af8eadb4b14778c897576d3245c,6109fda6ea2a36d0ec070856c3b5d40f,659.77,2023-08-08,Failed,MG 274,MG Road,Bangalore,Credit,Merchant_95,Groceries
+ac890a1517b102e3d5c4d2b0ca165fcc,defb3b34d702058f4dfe5706b917aecf,924.99,2023-08-24,Failed,MG 684,MG Road,Bangalore,Net Banking,Merchant_52,Health
+fb2d9a65e7c8cab26e6a0283f882138c,dfcb0b0353bc010eb1b9e450e50e9738,34.09,2023-02-08,Failed,MG 179,MG Road,Bangalore,UPI,Merchant_1,Clothing
+ed5375f2fc782b8db95c56588f0d31b0,5d2d0e72f37b3af1a463cd51ec62219f,464.91,2023-05-18,Failed,MG 638,MG Road,Bangalore,Debit,Merchant_11,Electronics
+1d5b0faa9da754f6bc048a2fbb0cf2a6,1948a8dc3a4dc3169ff37ba4d1783ec0,524.93,2023-07-15,Successful,MG 539,MG Road,Bangalore,UPI,Merchant_11,Electronics
+2d69a0a52be6ecdddf346c1f5c42ff2c,b93f006b559748742d6ec088dbc3f584,35.71,2023-05-08,Successful,MG 842,MG Road,Bangalore,UPI,Merchant_90,Groceries
+e2bf697e1855125b30606d52123cdae1,cdb6e291dc27227e1de6451e1172492e,800.6,2023-08-30,Successful,MG 276,MG Road,Bangalore,Debit,Merchant_88,Groceries
+e4c37611b1488998bb20aa8604f44d25,40465439f0fbd7b0f98b68a5bb6898d5,188.75,2023-03-12,Failed,MG 428,MG Road,Bangalore,UPI,Merchant_9,Health
+d8a1d0eb7cd154e90d0b04c2601052b6,411ea947bf3d5d8fc0d24e1e7d84d89b,119.14,2023-08-26,Failed,MG 651,MG Road,Bangalore,UPI,Merchant_41,Health
+5ca532d6f9e353628611cb1081020f8f,ca736246d64048ebf173c5b1f268aad6,50.13,2023-07-04,Successful,MG 291,MG Road,Bangalore,Credit,Merchant_45,Groceries
+a6d06461f38e47dd1083c0c3d4d94298,49d1643b50017dcdd4cf70619f9e2abd,974.44,2023-05-16,Successful,MG 721,MG Road,Bangalore,Debit,Merchant_52,Clothing
+2f318bdf80d7ab8fc5e735641f2c0810,d25c72eb9fee66e8290f8874f8957f4d,929.24,2023-03-21,Successful,MG 621,MG Road,Bangalore,Net Banking,Merchant_70,Health
+185fbb2778ad527cea3f7d535f255d34,75ad9f6666c8a1fa3764c043b2fffd4b,196.59,2023-09-07,Successful,MG 807,MG Road,Bangalore,Net Banking,Merchant_60,Electronics
+42a36517937ec7a5c4a8c1b5f4593fd1,3e18318447694e0712c7ca003c55e245,46.04,2023-08-04,Successful,MG 185,MG Road,Bangalore,Debit,Merchant_51,Clothing
+24486b75318181ce0ce2685fa120cc2b,e3997da14c8c6443c15af67b62659d98,437.39,2023-07-20,Failed,MG 901,MG Road,Bangalore,Net Banking,Merchant_90,Electronics
+1281e5a560f545b85977fc422ce13746,189f98421ca8e63035c452108deea67d,620.43,2023-05-15,Failed,MG 974,MG Road,Bangalore,Debit,Merchant_4,Groceries
+4b438cf9b85516f8d1f8194b9a78e43c,153c576a476bb63161ed190e7c4cd9f4,52.92,2023-09-28,Successful,MG 547,MG Road,Bangalore,UPI,Merchant_97,Groceries
+48f8f699b1c8dcb577dcd9c2748559d9,6fe4661fc212db45458f1328482665a3,497.96,2023-02-13,Successful,MG 292,MG Road,Bangalore,Debit,Merchant_98,Groceries
+85e066adb4bda7e043cfe6a13ef27d0b,a3b40695b108578a9eaa60ca834de1d3,243.55,2023-05-25,Failed,MG 356,MG Road,Bangalore,Net Banking,Merchant_32,Clothing
+26915f9bf4352b751a79b8a51be5ebde,c0bd913fcb1ba9eb6cb78465de204d02,318.13,2023-06-26,Failed,MG 258,MG Road,Bangalore,Debit,Merchant_58,Health
+3a5c51007fd008b9c5d362406c25485b,20c03b6d581c9ab12ab25dde1ee113d9,972.09,2023-10-26,Successful,MG 521,MG Road,Bangalore,Debit,Merchant_50,Electronics
+3073eb1dd7a264bac3ecde24f271ec8d,be8dc1f44e0fa86c0b8cdef25d396100,773.86,2023-06-21,Failed,MG 766,MG Road,Bangalore,UPI,Merchant_26,Clothing
+a82900d51055d2a81fbe8d9daa532794,31de3d84c707b4785c05be915f134e02,796.78,2023-01-07,Successful,MG 565,MG Road,Bangalore,UPI,Merchant_46,Groceries
+dd8a1576c43651e5c123201281dea8b8,ab85006dcae900c0e7280a0f61a84179,423.4,2023-05-30,Successful,MG 901,MG Road,Bangalore,Debit,Merchant_55,Clothing
+d6977d04acc5ac444affe96ae80fded1,ea3441122b459ab677bde48d1dcb9f3d,156.17,2023-09-21,Failed,MG 479,MG Road,Bangalore,Debit,Merchant_6,Groceries
+8dda11372c5af019b225d4b5ec5441bb,54a00426bebfd09abcf3bc6b972bb8cf,637.62,2023-09-25,Failed,MG 699,MG Road,Bangalore,UPI,Merchant_81,Groceries
+543fef3154c14a7a8e25a2a74fee2cd2,31755b6dbf8a0e6e899cbc028e7d5cd6,994.29,2023-03-23,Successful,MG 977,MG Road,Bangalore,UPI,Merchant_21,Groceries
+934806b4a7a772589c8e66bc0a031608,dcd228593603393bf65cc5a7c2cd40c8,653.55,2023-01-18,Successful,MG 908,MG Road,Bangalore,Net Banking,Merchant_73,Clothing
+aaaff4bfd5948678d5788e913b8449a1,eba07a84dad7b4ca13cd32d80475484c,835.4,2023-08-01,Failed,MG 513,MG Road,Bangalore,Net Banking,Merchant_18,Clothing
+f779488abecfb5386d21f2b253c72879,1a2c7b6e3c7d4accbb9050dd87c8aa91,182.95,2023-01-26,Failed,MG 304,MG Road,Bangalore,UPI,Merchant_88,Groceries
+5f85ba1746320eb8ed9fc106ccafb42d,d64b349bad4d20de01be51e153a60f03,569.32,2023-09-19,Failed,MG 935,MG Road,Bangalore,Net Banking,Merchant_41,Health
+7e3e08cffb32af38e1a67cd2d719e4a4,da9c4fb169f0c62e78541c743dda48de,404.96,2023-10-12,Successful,MG 883,MG Road,Bangalore,Credit,Merchant_13,Health
+86322e3386b65def131d6722ca43d587,52c18346bc4a7257e0ec95110e8768ea,721.44,2023-01-26,Successful,MG 307,MG Road,Bangalore,Credit,Merchant_78,Electronics
+d34d683a2c9b48b10d049b7251721380,7ddf127a361a23f1adf893cf661834d3,597.1,2023-08-29,Failed,MG 967,MG Road,Bangalore,UPI,Merchant_86,Electronics
+a0203bcfbd6bebc7048b84126a757d35,86b155ba064f4b10a030eb12f8e3aa00,678.21,2023-02-10,Failed,MG 370,MG Road,Bangalore,UPI,Merchant_16,Electronics
+b0beffc9c8c79f428da0069a56fafa05,15ccf088365b42a76bcbed7987cbded7,176.47,2023-08-25,Failed,MG 706,MG Road,Bangalore,UPI,Merchant_2,Health
+1b82fd193be05248957e3c3904d36d5b,5740622b9615a1fcbd47f1d4a111c90c,62.35,2023-04-03,Failed,MG 843,MG Road,Bangalore,Credit,Merchant_99,Health
+cfb4f48d6e8a7ab793f7fc1b41a98064,b1e8022672f23f343e91118e576f30ba,533.67,2023-09-06,Successful,MG 874,MG Road,Bangalore,Credit,Merchant_96,Health
+658125e3972eeef00d803edde0362b82,7f5595f23727b825155fe758213980e0,825.62,2023-07-24,Failed,MG 271,MG Road,Bangalore,Net Banking,Merchant_40,Groceries
+348b43fd7f527a074bd89ec3d63f61d4,69e8de2e74f42df8ee5db9dc022d5e88,252.58,2023-07-05,Failed,MG 487,MG Road,Bangalore,Credit,Merchant_22,Clothing
+a2aae4e331984d73147a7ab572ebf658,a7b4bfe5f689b918a0f81be015931628,307.13,2023-02-15,Failed,MG 720,MG Road,Bangalore,Credit,Merchant_31,Health
+8667cc05296f94221f83a70847ddbaf5,4c73db0fd884285c40bbd21749921e98,219.21,2023-01-13,Successful,MG 858,MG Road,Bangalore,UPI,Merchant_7,Electronics
+e099dc98988a76173f4e73ccc6595f00,eb556ac7c3a48536f6911c5fc4b1ea1b,175.79,2023-06-22,Failed,MG 921,MG Road,Bangalore,Net Banking,Merchant_8,Health
+3e0da649678b552ce0f7d4c2ac0fd7b3,02103a7a557f80f340e8b60b74b3b335,246.16,2023-07-18,Failed,MG 163,MG Road,Bangalore,Net Banking,Merchant_92,Groceries
+be1c7b9f61163019da93b703e003e8a7,a11fb5bb5e6ee633c54f851e1c4e5d4e,362.24,2023-06-08,Successful,MG 864,MG Road,Bangalore,UPI,Merchant_61,Groceries
+5d01ea89a93731a22a754faec0c36e5c,7d763492c950309bc7232d9e06171b4e,907.81,2023-05-14,Successful,MG 608,MG Road,Bangalore,UPI,Merchant_33,Groceries
+3a4e1828e5758053f7d07804c516cad7,96ee9ce1a2fe6ac7b9c2356a4599da66,823.76,2023-02-16,Failed,MG 600,MG Road,Bangalore,Debit,Merchant_51,Electronics
+679382b181086b99abec50981407a487,3be12bb0db6fdcd67750fb2790842af1,124.49,2023-06-03,Failed,MG 670,MG Road,Bangalore,UPI,Merchant_6,Clothing
+ac1b29a63b500c2e1dadc8fb0d8ed8be,fc599cb532dc070a5fe62970e73b2b46,759.02,2023-11-24,Failed,MG 777,MG Road,Bangalore,Net Banking,Merchant_61,Groceries
+63a733cde12bb79dd987f25a7f9cf64e,1126987711bfc05573d4518a843feeaf,410.84,2023-09-21,Successful,MG 439,MG Road,Bangalore,UPI,Merchant_13,Clothing
+ec09c43527c199957003930d4dae50b9,e2bd9a5c1531f86179a10235f2e7ea50,523.79,2023-01-16,Successful,MG 328,MG Road,Bangalore,UPI,Merchant_73,Health
+2bc11709373f45fc65f441a2f924d50a,426fc0177e26886a45a9ee291c49d667,121.64,2023-11-16,Successful,MG 339,MG Road,Bangalore,Debit,Merchant_14,Electronics
+aa5c5af3aadae220053a12ffda81790b,37fb756292b69593514b7050f25a4759,285.77,2023-06-23,Failed,MG 157,MG Road,Bangalore,UPI,Merchant_50,Health
+cffebed0b34ab0f06abfbb5b0d45f1cc,d188bf21b173bee26ebf305e5bc3a800,925.56,2023-05-25,Failed,MG 407,MG Road,Bangalore,Credit,Merchant_28,Electronics

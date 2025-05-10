@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+140f3f78c00bca8b42e9b945efab0ed9,6714b04de8c4121d3e4e0628422ae6ee,562.0,2023-11-26,Failed,AME976,Ameerpet,Hyderabad,UPI,Merchant_99,Clothing
+0a710a17942fef39bdffb2319c22dcf8,7f65e50ff265a0600111e14dc34c88ce,714.89,2023-03-07,Successful,AME315,Ameerpet,Hyderabad,UPI,Merchant_16,Clothing
+e2fcd57b4d164f0017116bc4700c19a7,c1bf731bb241c219b30371e37ddb91d0,891.65,2023-09-22,Failed,AME447,Ameerpet,Hyderabad,Debit,Merchant_25,Groceries
+4c78bf7b72cfc84daf5110d0f5e8a646,90946b1c73701ad2db393968f22e4d48,843.97,2023-09-07,Successful,AME106,Ameerpet,Hyderabad,Debit,Merchant_93,Electronics
+6b39db31d0f1d711401d93a1b5e7c51e,c046f2c16221a7d94d108f240e944b46,596.91,2023-11-29,Failed,AME923,Ameerpet,Hyderabad,Credit,Merchant_72,Health
+9cc3ca01d1cfdaceb3521e9d7cefe670,eb044805f9a3c4b61b8eca9a7d9fcdd0,510.11,2023-08-19,Successful,AME814,Ameerpet,Hyderabad,Credit,Merchant_47,Groceries
+3c2ff08c4c935778b5e84669fbe5c9f3,0775e2eb41e6d8398d1200bcf57eec92,457.58,2023-03-13,Failed,AME535,Ameerpet,Hyderabad,UPI,Merchant_15,Health
+92ad13d130632e4835737c62e7f06dd1,fe93b214f3bb6e2e0d0c3e87eb7df21a,970.95,2023-12-19,Failed,AME533,Ameerpet,Hyderabad,Debit,Merchant_73,Clothing
+4174e3eca57e09180d4dbd28ebdbb735,ae863fd1bd63c954b80020860c9eb702,714.58,2023-10-21,Successful,AME359,Ameerpet,Hyderabad,Debit,Merchant_94,Health
+a6c9d061e3fccba7d92734f77f40c14b,e7953edec07748e0b470b77fd5bc7c9f,476.76,2023-12-12,Failed,AME461,Ameerpet,Hyderabad,Credit,Merchant_98,Electronics
+48cac4fb027852c4d6e2e4f0f8a6c3c9,a435e0a5deaf2d80952df8b9e037a717,48.69,2023-01-12,Successful,AME694,Ameerpet,Hyderabad,Debit,Merchant_10,Clothing
+f10f1ee37093bd47ef112454d63c8968,91ec7c96799101f1d4b34a87080a2eb4,89.1,2023-01-04,Failed,AME396,Ameerpet,Hyderabad,Credit,Merchant_71,Clothing
+00100ffbb085ec6d84a7a762a52a06b8,a2790eaf158e72c4bcfb35107ab1d97b,79.95,2023-10-20,Successful,AME718,Ameerpet,Hyderabad,Net Banking,Merchant_74,Groceries
+67cebd4b8b3a34b8fbc51a4afb0c6df6,3b383cab90dd24c21051f0f3fd28e530,68.77,2023-11-02,Failed,AME259,Ameerpet,Hyderabad,Credit,Merchant_70,Groceries
+19c4671d7b7ac110c485b00c3f2049ad,4bcdc209b5c56f9873570bc922911746,689.31,2023-09-16,Successful,AME287,Ameerpet,Hyderabad,Debit,Merchant_8,Electronics
+a16a29b9a27f973fa23d11ba84db66d1,83b61cd2fd9d2b227ee489631e3fab69,880.06,2023-08-05,Failed,AME449,Ameerpet,Hyderabad,Debit,Merchant_8,Clothing
+b61758271aa7f9ac35dde8a24a62d7e4,ad233e64c6674a7c9a3d4a378cec3867,962.51,2023-09-04,Successful,AME391,Ameerpet,Hyderabad,UPI,Merchant_17,Clothing
+d1e84fcc8cd6d5e4bf875bfed3ba35bf,f52db2c118993d9046b5b3de811e919a,359.84,2023-07-13,Failed,AME685,Ameerpet,Hyderabad,Debit,Merchant_31,Electronics
+ac9d9bbd612b9853c79a907f353040d2,e60494de6f51fe553859bbf01f5f1dd6,963.52,2023-10-12,Failed,AME887,Ameerpet,Hyderabad,UPI,Merchant_28,Health
+19f68bfeb043abc18988aa99d24ddc15,a500c7a67c8baf65c381a12470f6976a,548.11,2023-04-29,Successful,AME180,Ameerpet,Hyderabad,Credit,Merchant_3,Groceries
+acdb5053284308fdac89dd752ea71f51,3abea02a8a2ec1d994b221f1fe9ac84a,610.8,2023-11-25,Successful,AME258,Ameerpet,Hyderabad,UPI,Merchant_9,Electronics
+ba84fea606ae13d0c8d8d8383010b1ca,5c59e7042d6fafe194cf4b1967e26011,786.08,2023-12-30,Failed,AME578,Ameerpet,Hyderabad,UPI,Merchant_67,Groceries
+8501daf2c9e976f0d5732b784d6d867d,a4a16ade0baa56eee0fe85f6a6a44e49,573.45,2023-04-02,Successful,AME641,Ameerpet,Hyderabad,Debit,Merchant_44,Clothing
+89e4b98cc5247926faeb1ed0fef4c81b,b08068ac18ce47544987bdc4cdccfed5,449.08,2023-06-04,Failed,AME130,Ameerpet,Hyderabad,UPI,Merchant_45,Electronics
+8da6076eb78661d562e4ece3e59b1cb3,3311f18ae83fae0fcaaae81c844c5f41,477.31,2023-06-18,Successful,AME406,Ameerpet,Hyderabad,UPI,Merchant_100,Clothing
+2380b998144f759d25f9e1875d5df2bb,68cb5e2a99d1275864091a72077ba2e0,526.28,2023-01-02,Failed,AME716,Ameerpet,Hyderabad,Net Banking,Merchant_76,Health
+529780ed269beb4468875c076f0fd8d1,66fed0aa8d3fd2eca2490b048903c515,272.78,2023-07-25,Failed,AME410,Ameerpet,Hyderabad,Credit,Merchant_54,Health
+fb85f0fe007ac4ee2bdca00a6d9917ba,c87a85946ff4a2fd67e6625fc63b0a93,187.94,2023-04-16,Failed,AME629,Ameerpet,Hyderabad,Net Banking,Merchant_68,Electronics
+dbd161a86467e384779ab271364a7adb,641c4e84d7ac617dae58f90fadfbb75f,834.54,2023-04-01,Successful,AME101,Ameerpet,Hyderabad,Net Banking,Merchant_34,Health
+23262946fa67998d7caedd6e4b09506e,61710c67dbbd8f26e1e9e1de271fa57e,323.81,2023-08-10,Failed,AME750,Ameerpet,Hyderabad,UPI,Merchant_88,Health
+a3cd7302bb54384cf99aa0ae92909fde,af5fa8361cde865f8517c2ac7d067968,952.83,2023-10-06,Failed,AME927,Ameerpet,Hyderabad,Debit,Merchant_78,Clothing
+ac16f99b318222e5edda49162ba6322d,f4193e7b3d95b952d06561a4a3d79836,835.97,2023-02-24,Successful,AME108,Ameerpet,Hyderabad,Credit,Merchant_92,Electronics
+46b8111eea7407b126379872872fd9f9,8e0669f8295bba6110c31dda94928511,544.75,2023-04-11,Failed,AME946,Ameerpet,Hyderabad,Credit,Merchant_44,Health
+99992c52bc85042b3b00c690e2a09589,9a1d6bfcf0875152e4101ca7c57f8a32,13.92,2023-12-12,Failed,AME212,Ameerpet,Hyderabad,Debit,Merchant_70,Health
+d14fbcb415aa1b68c80f6b840a88e424,b95a422ab74ad25f2cf8e250fb6ef26d,737.01,2023-12-13,Failed,AME918,Ameerpet,Hyderabad,Credit,Merchant_20,Health
+682fe344faab01816f5e8705d71c2de9,05d04b5293426694aca4ba6be59a2097,235.8,2023-01-22,Successful,AME360,Ameerpet,Hyderabad,UPI,Merchant_39,Health
+3dbbe456f0bbbd9895762dcb0dbafe95,99cd780a147682063243a152ec05c92a,485.78,2023-05-10,Failed,AME106,Ameerpet,Hyderabad,Debit,Merchant_48,Health
+a31c90828dd602e4add288ca13f987d3,93e7c2e70265a9b75db43e49083866d1,263.98,2023-12-20,Successful,AME453,Ameerpet,Hyderabad,Net Banking,Merchant_89,Groceries
+17a27729326a9403750b7e091bda9906,030766b9b5e19454f1637e97917b1d52,465.96,2023-04-10,Successful,AME447,Ameerpet,Hyderabad,Debit,Merchant_25,Health
+fb81b6b00a79ddb03322cb01ffdd3fe4,2f911856ea486bfa530c1a985ebcae67,675.18,2023-11-27,Successful,AME428,Ameerpet,Hyderabad,Net Banking,Merchant_88,Groceries
+7a67ad921163dfeb3a61c982cd304d25,c8530da9aa92c19691efe82f0302b23e,649.1,2023-04-05,Failed,AME771,Ameerpet,Hyderabad,Credit,Merchant_5,Health
+55b2a87bb939c985e7a99a45ead2a850,bf0409669f3942830948e0be499819bf,621.46,2023-01-18,Failed,AME534,Ameerpet,Hyderabad,Debit,Merchant_44,Electronics
+b9a2f4650506885c123764d1f9c93736,959423e6d66134e3ba7b13d424affd4a,349.54,2023-04-26,Successful,AME810,Ameerpet,Hyderabad,Credit,Merchant_28,Groceries
+9a1f98d095b551b2f83d5a6a33826311,72bb16b017be81af535e08f448c34040,396.84,2023-11-21,Successful,AME239,Ameerpet,Hyderabad,Net Banking,Merchant_70,Groceries
+1283179cc8f831285b529d7d3d9dbe72,04b4a4420bdf74b0d6a56073576cfb0a,376.11,2023-03-01,Failed,AME493,Ameerpet,Hyderabad,Debit,Merchant_61,Clothing
+365afb5fe4a131cb67147817f3abf9fc,7a6f27e10497d80df0d2fd114ec66c59,293.15,2023-01-09,Successful,AME882,Ameerpet,Hyderabad,Debit,Merchant_4,Groceries
+ff744f64842354ea319d51678d05d342,fb5b80975ceac0516abe2423f2e3955c,579.94,2023-01-10,Failed,AME873,Ameerpet,Hyderabad,Debit,Merchant_23,Electronics
+71cbaefbb074e3ece193c4e6a2a31286,2dd2a005658bae2139b8c5962bc8853b,182.9,2023-04-29,Failed,AME450,Ameerpet,Hyderabad,UPI,Merchant_87,Groceries
+16ed9072d07f6b34d85b81495c61952a,ad378515d2760103b3efc02b9f021754,724.77,2023-11-09,Failed,AME620,Ameerpet,Hyderabad,Credit,Merchant_22,Clothing
+4b2f9d2809c8acf114672cc49e28e628,97fe1eff203275ddd43a894479ceaedf,841.24,2023-09-28,Successful,AME948,Ameerpet,Hyderabad,Net Banking,Merchant_59,Clothing
+4a2fe9160be338ef9eec059066ca6395,4016b8694522a170ddcd6fa9a9ce1eb9,749.79,2023-12-05,Failed,AME809,Ameerpet,Hyderabad,Debit,Merchant_79,Groceries
+44a778293f4c19109032f117d340417e,2cff7bb710f9a0bf9e814c75fdcd6b78,423.16,2023-05-29,Failed,AME648,Ameerpet,Hyderabad,Net Banking,Merchant_45,Groceries
+2be6563a13a18dc0077894645cea27a2,2bb372d7b904dfe287d1483a9aa1fe5c,574.96,2023-03-08,Successful,AME571,Ameerpet,Hyderabad,Debit,Merchant_72,Health
+7267aef33a5c9acf28911d6b3b9f4329,783f946356f4496c34de2961b274d3fb,93.61,2023-06-12,Failed,AME976,Ameerpet,Hyderabad,Credit,Merchant_53,Health
+d8811ac415875c379bd7160ba1a6558b,72848165182d53587e53a5513c6240ff,36.24,2023-05-14,Failed,AME684,Ameerpet,Hyderabad,UPI,Merchant_33,Clothing
+76d6a9841dcf8b0258c7798e1dc48404,fcb649347552bbf0f441af958c4031cb,196.64,2023-03-19,Successful,AME890,Ameerpet,Hyderabad,Net Banking,Merchant_3,Electronics
+85fbb066c92d9680dd93fc04f24b404b,6ab23973e105b5b738d6a728fdedb961,388.39,2023-03-27,Successful,AME353,Ameerpet,Hyderabad,Debit,Merchant_56,Electronics
+f3acb4f05713be3073a076c70d67ba8f,8d61d32256ce238900989645cbf4c83f,861.65,2023-09-27,Successful,AME391,Ameerpet,Hyderabad,Net Banking,Merchant_20,Groceries
+3711aeaeb8335107eccbc07cce29720d,b270f455c82a707534f8e887ed89fb8c,91.04,2023-08-17,Failed,AME425,Ameerpet,Hyderabad,Net Banking,Merchant_67,Electronics
+980741bd8a3cef3ca3c468af8c399c4f,920792991da7c38fc4ad495a1f8ea53d,599.47,2023-11-01,Failed,AME848,Ameerpet,Hyderabad,Net Banking,Merchant_76,Groceries
+ce23a03f35929121fbf073caa66bc49b,2f34e5fbdea1f82ccef190ec8af8ebc0,409.09,2023-03-25,Failed,AME531,Ameerpet,Hyderabad,Debit,Merchant_78,Clothing
+0294067e6ba3d0720eb805f8c7015da4,b33d4a7a134ce2dcf8b9d2deb6595bab,390.34,2023-06-08,Failed,AME478,Ameerpet,Hyderabad,Credit,Merchant_46,Health
+078b150121adce84dc090f38de4fadda,d84427d3f54dc452cbc0e3fc2731772b,678.71,2023-05-23,Successful,AME206,Ameerpet,Hyderabad,UPI,Merchant_45,Clothing
+e994ac4094d0eeeaf3ac378788518565,a0408b39a49be900ec7d5cd09a7c62fe,813.3,2023-06-01,Successful,AME255,Ameerpet,Hyderabad,Net Banking,Merchant_78,Groceries
+4b301a38e9d0a74af518da248956f10b,72ce5011237a3035cf7f7a1984de1986,548.03,2023-07-13,Successful,AME271,Ameerpet,Hyderabad,Net Banking,Merchant_63,Groceries
+78c766f2d0f60db3dac3fdf7f508493d,7205e98ea65ab73caf445b1a62d29e12,223.38,2023-12-04,Successful,AME537,Ameerpet,Hyderabad,Debit,Merchant_59,Clothing
+86fcd5a43b836f2ed923e87436c65294,60ba4bda915091692c5e904d61f9d732,459.53,2023-01-21,Successful,AME480,Ameerpet,Hyderabad,Debit,Merchant_56,Electronics
+4888031d15b25df2d7c74cd3e2914625,602a7a4c68bacff6994c9426f2bcce4e,564.99,2023-01-17,Successful,AME656,Ameerpet,Hyderabad,Net Banking,Merchant_33,Health
+0adea968015fad0a5e8f20aaf161962a,4968120c83af3c5e4a3addb2dfede406,628.76,2023-03-15,Failed,AME188,Ameerpet,Hyderabad,UPI,Merchant_8,Electronics
+20293ff94680b4fe24a5a8047f84c521,d1ade2d067914c3a63dc073afcddb40e,177.05,2023-10-25,Failed,AME331,Ameerpet,Hyderabad,Debit,Merchant_67,Groceries
+b6c059b16202e8ebf8ebfcfe3143eb2c,089457c2c822b41aff73063d24c9a5fa,309.43,2023-10-15,Successful,AME345,Ameerpet,Hyderabad,Credit,Merchant_7,Health
+23b09b30f63f6e9956b86dfc407dccca,ced60f67832614fa5065df167b575f8c,826.54,2023-12-25,Successful,AME660,Ameerpet,Hyderabad,Debit,Merchant_27,Health
+2a65ada16378a353f5f0efabf3ba67af,c73c9cec91fddc89319ace9b42ac65ce,728.82,2023-06-10,Failed,AME186,Ameerpet,Hyderabad,UPI,Merchant_33,Groceries
+c5b6c1661a7cabc1e8d7e86621f1af52,1919a013931a5e0c88f5e7230f0ddb50,906.86,2023-08-29,Successful,AME300,Ameerpet,Hyderabad,Credit,Merchant_44,Electronics
+5f249f6fedacd7e4688f6382011c73f1,5bb380dbc93c3cd987dd12dd63304fbe,656.94,2023-04-29,Successful,AME987,Ameerpet,Hyderabad,Credit,Merchant_2,Groceries
+59fe2766fbcaeccd92ea1ca4538c3581,41373abd5da6b293af2d5308c5e051ab,331.87,2023-04-23,Successful,AME337,Ameerpet,Hyderabad,Debit,Merchant_85,Clothing
+c267c1cb387ba30dba365ee3efab1df8,a977c11b748056a418b3f4aea8b74645,404.04,2023-09-14,Successful,AME696,Ameerpet,Hyderabad,Debit,Merchant_36,Clothing
+b421b00be73efd8c6cd3b6cc88ad9e72,682bd9fbcbf212f3b93fe89ebe822ab4,78.97,2023-11-19,Successful,AME479,Ameerpet,Hyderabad,Credit,Merchant_33,Clothing
+ff890a30c0104206a46827e241b40e7c,a019d5981896eea5a5e84903d22cbb5a,412.09,2023-08-08,Failed,AME506,Ameerpet,Hyderabad,UPI,Merchant_49,Clothing
+af1b563047d1c17782280d75f5c273b1,5af620a8e8a4ff6aa8aeffef93c83935,653.35,2023-11-13,Failed,AME783,Ameerpet,Hyderabad,Credit,Merchant_70,Groceries
+8d220c7c1d684dcb3e7a51782880822c,b0ef45ca6c0a218d7cad3e8dda3e5fb6,892.8,2023-07-22,Successful,AME262,Ameerpet,Hyderabad,UPI,Merchant_76,Clothing
+541b4111bc227ba714cdf40a0ca9c9fb,71eac859f182d5b10d990f69b3c4fc5b,222.7,2023-11-15,Successful,AME992,Ameerpet,Hyderabad,Net Banking,Merchant_49,Electronics
+8e4bd8b7325c917a2f1d1c8143503284,e27ee3f7f5003518d92ff1c4a69d7ac2,876.04,2023-11-07,Failed,AME166,Ameerpet,Hyderabad,Net Banking,Merchant_47,Health
+e1eaa332fe27a99bb19f5c869e6a4ef5,1f5695f7a861487b863c6549e5579a9e,381.71,2023-09-08,Failed,AME156,Ameerpet,Hyderabad,UPI,Merchant_4,Health
+3cc3ce5337dedb414d8e07f7c15b4995,6d32dbb294f478fafa32f38d66a4e0ca,748.31,2023-08-20,Successful,AME761,Ameerpet,Hyderabad,Net Banking,Merchant_70,Electronics
+8535996b475cf467008a69676be1e67a,8ff7d4d99a267ee6d480ee5584235a92,516.03,2023-07-16,Failed,AME143,Ameerpet,Hyderabad,UPI,Merchant_15,Health
+3c496bae72d50a223e3e6be5c9c8bece,f58b26d016902ce9b18ae9f09c233e52,334.56,2023-08-22,Successful,AME968,Ameerpet,Hyderabad,Debit,Merchant_82,Clothing
+c25943f15d142f3ebd6824f54865f981,8a71a3a6c3db49dd00afc6f3519152c2,859.94,2023-03-25,Successful,AME581,Ameerpet,Hyderabad,Credit,Merchant_92,Groceries
+2252da07d8ebe970e259bd46938de23e,625b5da41bfc985160cde1bdba69cae0,351.37,2023-09-05,Successful,AME783,Ameerpet,Hyderabad,Net Banking,Merchant_49,Clothing
+159feb7646b843ca747ddf9d077e53c3,0b3a326a9311f4c0a5b66e371db49472,789.26,2023-08-30,Failed,AME905,Ameerpet,Hyderabad,UPI,Merchant_47,Groceries
+b6540dd9ecbd6559e02eae080917910f,9901c09d5f459b7d0d9874ef0fe8b893,515.41,2023-06-07,Successful,AME950,Ameerpet,Hyderabad,Net Banking,Merchant_7,Health
+34d625481381f10ccc270b94a9750ec6,c4dd63bd9342231d7484535b9b0a06eb,258.25,2023-04-28,Failed,AME774,Ameerpet,Hyderabad,UPI,Merchant_22,Health
+255c674273ac37f76823080a2a1f7f4e,28e7c305f47dfc7ad7f3054a50905421,624.1,2023-11-26,Failed,AME625,Ameerpet,Hyderabad,Credit,Merchant_52,Groceries
+77746259f0fa9bdb5a58a9922c156d37,d62433669d5b1cf539768b5af76899cb,966.13,2023-02-10,Failed,AME190,Ameerpet,Hyderabad,Debit,Merchant_60,Groceries
+d54b6f89d234a4eaa5e294e82abb7be3,46d75d859d451768855c838cc36341f7,946.76,2023-06-01,Successful,AME703,Ameerpet,Hyderabad,UPI,Merchant_74,Health
+8f44a8755d7c661b03ab4cace27ce9f9,ae60e9cbf2c4fd8120f2e9adff2e481c,806.17,2023-12-05,Failed,AME727,Ameerpet,Hyderabad,UPI,Merchant_21,Clothing
+fcc17ae3d724b06ca45d3cf5a0748aec,54b3c4194b1710bbdd17cf8943a54026,180.47,2023-02-19,Successful,AME249,Ameerpet,Hyderabad,Credit,Merchant_96,Health
+ce0f7d2c39601a0d9b8c0f8d6139387f,f03dfd105277fe547fcb648e90ddadc2,963.06,2023-05-28,Successful,AME935,Ameerpet,Hyderabad,UPI,Merchant_65,Health
+772ed9c8784aebe579b6af044c1c254a,067389953b53bbe15b18d2727d2d0e55,581.78,2023-01-16,Successful,AME344,Ameerpet,Hyderabad,Net Banking,Merchant_12,Groceries
+421832b060b8e7d5af845bb584df8a0b,59c57f5995f4ee4348d0fafa35d1e18b,362.69,2023-03-13,Failed,AME856,Ameerpet,Hyderabad,Credit,Merchant_28,Groceries
+55c5291678ef339a19b2d61d75445890,1120aeae4e7e64902aa14f919fcb5d4d,356.28,2023-06-11,Successful,AME488,Ameerpet,Hyderabad,Debit,Merchant_30,Groceries
+6f2643bdf090492eaca9f8fa3dd894a4,03fb7a73e558aca83d76bdfe22255b44,897.07,2023-07-20,Failed,AME635,Ameerpet,Hyderabad,UPI,Merchant_97,Electronics
+e6099e47d7e75e5d68904aabefd7e86f,616adb6ea76ec2e064805eb91ca08afd,42.96,2023-09-28,Successful,AME472,Ameerpet,Hyderabad,Net Banking,Merchant_69,Health
+54e3f80036a23ae8af10cc14c788c2e4,5b2d55281360c84a27ba2daa9ccf0099,374.83,2023-10-26,Successful,AME120,Ameerpet,Hyderabad,Credit,Merchant_93,Electronics
+29f88f3afedd4bdf6e84df02789a93ad,518b98f874be7ed4df1c471fe6b0a066,446.36,2023-12-30,Successful,AME768,Ameerpet,Hyderabad,Debit,Merchant_42,Health
+e85109e85309b1aaba2708b4dd2575ba,d91129161c926fe957ceff144dfe30d7,828.17,2023-05-25,Successful,AME119,Ameerpet,Hyderabad,Net Banking,Merchant_12,Health
+a32bc6bd0f066c0d33598a17797a18b4,1188e5252afa52a309075b20e00144a5,376.92,2023-01-09,Successful,AME302,Ameerpet,Hyderabad,UPI,Merchant_100,Groceries
+888e70c5cebf91d591c29149d2b5ee8d,0913e2ef29f2471758ae91cb132033f6,453.01,2023-04-17,Successful,AME101,Ameerpet,Hyderabad,Debit,Merchant_58,Clothing
+bfc8919d2f5f21fa302bbb52ef384c67,38da211dbfe055012c34d1da2096baca,263.59,2023-08-02,Failed,AME701,Ameerpet,Hyderabad,Credit,Merchant_85,Clothing
+b4075a1db5d6b610477604be7ace3963,b54b66f25090e87380b8c388dc7028a2,534.02,2023-06-10,Successful,AME915,Ameerpet,Hyderabad,UPI,Merchant_21,Clothing
+75d6660a7dd0b4f1db840e364f3fe637,dfcad37b2cb9f2fe46091ea40acef39d,627.07,2023-04-11,Failed,AME936,Ameerpet,Hyderabad,UPI,Merchant_31,Clothing
+106eb8290b959a6f08532294b12f9b82,fe95c3b32602ad1874e67d19b5760f94,914.97,2023-11-19,Failed,AME980,Ameerpet,Hyderabad,Debit,Merchant_97,Electronics
+15b65329ed5bce5b851e9839db695e24,49b40fc2376cac3bdaaf9c0e1d9bacf4,736.96,2023-10-15,Successful,AME934,Ameerpet,Hyderabad,UPI,Merchant_42,Electronics
+15650f747f2771edcba321039d966996,a583178a2fe207e09c7534ec15b9de73,63.78,2023-01-25,Failed,AME446,Ameerpet,Hyderabad,Credit,Merchant_78,Health
+46c82e73df1581fb2549dbf6ac41c062,d05d548c13d73e932946f79328630bd9,902.23,2023-12-27,Successful,AME999,Ameerpet,Hyderabad,Debit,Merchant_92,Electronics
+c853b706015f215c25658000c824ea09,2e8b69871f45d0103ce31ea5552b0932,83.59,2023-02-06,Successful,AME210,Ameerpet,Hyderabad,Net Banking,Merchant_70,Clothing
+808d6e876965a24b6e3d8cb2f01d6b79,3b75b8a5b26fd0975038ac0cbed92f65,11.14,2023-04-21,Successful,AME105,Ameerpet,Hyderabad,Credit,Merchant_50,Electronics
+aa1511911e28a1905b5817d436d31f3e,05fff0637809d444fe9a74f3b3e87f88,708.06,2023-05-29,Failed,AME397,Ameerpet,Hyderabad,Debit,Merchant_60,Electronics
+ce0d7c843da861e8f1eab549e8f1ff48,ad33d91327ebaf690221a8cdeedaf815,335.11,2023-01-27,Successful,AME108,Ameerpet,Hyderabad,Net Banking,Merchant_41,Health
+f864f22055e226507c834b810a8a74fb,6db6f926cbafca5a3c7b84ed955f7b0c,900.41,2023-03-22,Successful,AME734,Ameerpet,Hyderabad,Debit,Merchant_86,Clothing
+84ce680d60eb2f2df1b222917b1683cf,23c481672f3b86ed5cd4e66cb7dfa253,741.3,2023-05-08,Failed,AME434,Ameerpet,Hyderabad,Net Banking,Merchant_22,Electronics
+e4b36c4dfcf297dae8663bc90cccdfe3,4939fce042f8a423095dd14237d845c1,730.14,2023-02-08,Failed,AME144,Ameerpet,Hyderabad,Debit,Merchant_65,Health
+ac94c2173051264c02411607ca5bf093,242a55ec5c71e7b85d0f56f9bff88fe4,604.38,2023-05-01,Failed,AME939,Ameerpet,Hyderabad,Net Banking,Merchant_10,Clothing
+699719ce2430b9b272b23401a972d286,406ecdaf4d96f4c5b87655231e626ea3,156.49,2023-01-19,Failed,AME337,Ameerpet,Hyderabad,Credit,Merchant_77,Groceries
+4cc266da4f98c9c1989015436822d3b7,c51b14b381a27d778100bd2363cd4470,346.66,2023-05-13,Successful,AME931,Ameerpet,Hyderabad,Debit,Merchant_5,Groceries
+4c7d7218434756f303147824adfac73b,ae830ee681b55861358445cebe8e254a,931.08,2023-07-05,Failed,AME270,Ameerpet,Hyderabad,Net Banking,Merchant_19,Health
+9c8a1de896cf5fd1aed6eb0889624db1,cde154dd892cc88a78a0d23f806e1ff8,620.06,2023-05-01,Successful,AME345,Ameerpet,Hyderabad,UPI,Merchant_49,Groceries
+bfced57fb001a09cc769ffc25ec961aa,b29aea5318be8e36aea2a7b80f68d0ab,334.59,2023-05-30,Successful,AME488,Ameerpet,Hyderabad,Credit,Merchant_90,Electronics
+0e38825d06495b6f3a39382f70d69d55,117cef3fe6dc4552413760c22b3e39ab,484.43,2023-12-19,Successful,AME714,Ameerpet,Hyderabad,Credit,Merchant_73,Electronics
+12412f7e28a6924424b94671d976d993,12b4e0a74de033c92a4c64d5134165c9,718.71,2023-11-29,Failed,AME502,Ameerpet,Hyderabad,Net Banking,Merchant_10,Electronics
+00dd03a1187b828a7bede6f675b673f1,0c28fe2234b4a9729591fb01f7173e95,407.84,2023-08-21,Failed,AME440,Ameerpet,Hyderabad,Net Banking,Merchant_58,Clothing
+4df4c99c8638b4421421b71342c5da75,a4c7aa65ef31050a4d117276425cb7f4,132.76,2023-09-05,Successful,AME766,Ameerpet,Hyderabad,Credit,Merchant_8,Groceries
+5aeb4d8c635b23e1ce379fe4496fac98,0bb5cdba2f2aa6247b0b4a435d59dd50,377.92,2023-10-26,Successful,AME254,Ameerpet,Hyderabad,Debit,Merchant_42,Health
+66a3ec980bb3c993c10b347c1c87e40b,e83ac6fc123ad8a506cf168aa9d81831,947.74,2023-11-09,Successful,AME975,Ameerpet,Hyderabad,Credit,Merchant_15,Groceries
+ad27287348041049229fb6d23bb5d2e7,4df63507baf0d725c21d5ba2cf81dc09,514.85,2023-05-22,Successful,AME736,Ameerpet,Hyderabad,Credit,Merchant_43,Health
+310e76712869fc59a62fe5b8865bf6a1,b6479b08232bda9ade7aa60409517a7b,549.2,2023-12-20,Successful,AME225,Ameerpet,Hyderabad,Net Banking,Merchant_74,Electronics
+0b0ccf05f42215d05992137a5701749a,0b8338d93e862846f5ec725857f6bb65,353.83,2023-09-14,Successful,AME298,Ameerpet,Hyderabad,Credit,Merchant_6,Electronics
+3899d736236bb851d8bd39ab7e561e80,f25095fdbcc7cb7b4d996793630996f7,978.88,2023-09-08,Successful,AME359,Ameerpet,Hyderabad,Debit,Merchant_28,Groceries
+ab24a12bd30f9c6ecbba69b003159f66,ba7cdd65fd0f00bb9770ec9fd09c7a90,43.58,2023-05-04,Failed,AME736,Ameerpet,Hyderabad,Debit,Merchant_47,Health
+bb9959b59fff8fb56b39575650207e27,b60c514ae597617357eefaf67d25fa79,546.37,2023-02-21,Failed,AME586,Ameerpet,Hyderabad,UPI,Merchant_66,Groceries
+88c67563807b324f5ef8aceb2f8cbb3f,b516bec084f647f63235b78f353a8664,416.78,2023-09-05,Failed,AME964,Ameerpet,Hyderabad,Net Banking,Merchant_36,Health
+158feafcbe133112a4ffa6585cca0db7,7c5a286b234ad6ef62735223f28148bd,441.08,2023-05-25,Successful,AME787,Ameerpet,Hyderabad,Debit,Merchant_72,Electronics
+b935fe673aeccfd9b96ec64ed9cade22,4b15c4e13e6a371dbe23d7cb7aab7b0b,288.69,2023-02-19,Successful,AME921,Ameerpet,Hyderabad,UPI,Merchant_24,Health
+95f11f8541c7ab9e911e5be95f2d0e3d,4afeaa60af5733f0e5ccf5e5875cbdfe,676.33,2023-01-04,Successful,AME242,Ameerpet,Hyderabad,Debit,Merchant_70,Health
+55c75d9b20509839d942b934b49985b7,6539294c60d40988f269ad245b811a6f,818.51,2023-01-31,Successful,AME351,Ameerpet,Hyderabad,Net Banking,Merchant_14,Electronics
+148a0c4de186c71166afc95044d379b8,4520a0eb6ca83bf271904b4ce0f41d7e,928.29,2023-02-05,Failed,AME230,Ameerpet,Hyderabad,UPI,Merchant_30,Clothing
+b06feb3643c504228e3eb60ef89c9f4a,cd8ace186238fb2fab7af4a7fd8a59c6,734.01,2023-08-09,Successful,AME628,Ameerpet,Hyderabad,UPI,Merchant_11,Health
+257cfd98ad6fd77d2efb545db3d1d529,2bb6b6b4e4c8b51a89079461e2c086e8,726.71,2023-12-10,Successful,AME576,Ameerpet,Hyderabad,Debit,Merchant_61,Electronics
+0c7fdcbb1eb45e300e5ead130b3f23f1,ddcef07df35a0dcfe783a6d8cc7fb5d1,16.63,2023-04-28,Successful,AME141,Ameerpet,Hyderabad,Debit,Merchant_12,Groceries
+5c54bf6ced6910533053ca1003ae6309,4e6d07836c39070f95157a4361cd900d,746.91,2023-05-12,Failed,AME382,Ameerpet,Hyderabad,Net Banking,Merchant_95,Electronics
+ceeefe96926da1a712ec09dd7bb901a0,9ca4c6e7e3bcbc2017c13e71bc7cf74f,241.92,2023-12-29,Failed,AME772,Ameerpet,Hyderabad,UPI,Merchant_74,Clothing
+77c34b245ce04260c8546b038b2c574d,b99a58783de43b2949c4e3059613ee5a,940.91,2023-02-08,Successful,AME429,Ameerpet,Hyderabad,Credit,Merchant_20,Health
+97f47df75fe9c323296a8f3271e44e24,6d89e273ada0dd21a0fc0c63850db2e4,109.88,2023-09-06,Failed,AME817,Ameerpet,Hyderabad,Net Banking,Merchant_52,Electronics
+dc3c2e3afc387b6e41458aacb7d7e2a2,6137da83b15efdd9bcb51a04aed1beca,469.84,2023-02-13,Failed,AME844,Ameerpet,Hyderabad,Net Banking,Merchant_51,Groceries
+d4526d66fbca1c59befdad5b662512e0,2364845d52495a7f1e99ef9ce55707af,144.77,2023-03-17,Failed,AME677,Ameerpet,Hyderabad,Debit,Merchant_61,Electronics
+7de20cc881dde2a595a05de7bdf986b0,69e30babeb59d1a76ff7a8e18981fb69,622.08,2023-04-14,Successful,AME326,Ameerpet,Hyderabad,UPI,Merchant_42,Health
+0612ecc4afe7d5b72606f5d67bd9f4d4,e3e58b64ab0437ef229880feddf4b882,93.61,2023-07-27,Failed,AME191,Ameerpet,Hyderabad,Net Banking,Merchant_14,Health
+01b3f97d8b21acec684fb3dd18677486,d392e490bdf64457f6a0ff342be713d9,637.4,2023-01-15,Failed,AME669,Ameerpet,Hyderabad,UPI,Merchant_58,Health
+6db13a29573b182ad3df1dd89d861712,1eb0782a835c3356dee58a5be3d03c24,257.79,2023-09-25,Successful,AME147,Ameerpet,Hyderabad,Credit,Merchant_71,Groceries
+8ec16bee99dda8bf4d13d761d9061472,4d950d53aac569c4495e3033325013ab,621.25,2023-05-09,Successful,AME704,Ameerpet,Hyderabad,UPI,Merchant_26,Electronics
+0cac0a1bd8ae57d1b68f1985a99f854a,58394c960f37f233e197d9701d275313,517.3,2023-04-24,Failed,AME273,Ameerpet,Hyderabad,UPI,Merchant_66,Clothing
+23c45d264848d1410a57a776c07340cd,73536013d4992728d7b07bba8f840d4a,270.26,2023-12-21,Successful,AME357,Ameerpet,Hyderabad,Debit,Merchant_1,Clothing
+7a143cad9fb84e41b3d4fa78febaf0e1,45e472b1994d2b264bda9c07e73dd3aa,809.7,2023-01-27,Successful,AME659,Ameerpet,Hyderabad,UPI,Merchant_19,Groceries
+de785af09a311421a4d6c16c7382eae7,4252fb3b285ebe6b3ab0e8982704066c,313.77,2023-06-30,Failed,AME940,Ameerpet,Hyderabad,Debit,Merchant_47,Health
+eedd801fc93d41165e7376c9a8e11cd8,2e15939efe2cc5406420bc52c7324e80,147.77,2023-01-25,Successful,AME850,Ameerpet,Hyderabad,Credit,Merchant_8,Electronics
+d2ad6a11f7f62c40cafa0b9b74f36722,a49b5a195dbbced64821b0843b62411d,852.14,2023-02-11,Successful,AME301,Ameerpet,Hyderabad,Debit,Merchant_32,Health
+607332bb2f3a2d79be0102a2dcd77e95,9ecc1668f34b6f6716271022ca61966a,381.77,2023-06-16,Failed,AME372,Ameerpet,Hyderabad,UPI,Merchant_17,Electronics
+738d4d279a84c1281ae11159ccc49e6b,feeccaca16d3b185a235b3daf003940d,586.29,2023-04-15,Failed,AME383,Ameerpet,Hyderabad,Net Banking,Merchant_13,Clothing
+9baf92a6ab853a5ee315835001371d56,5ba430da5c0ddc2831561804b2e2866d,890.21,2023-10-30,Successful,AME978,Ameerpet,Hyderabad,Credit,Merchant_88,Groceries
+c4a99cba00261e013d1c66a0457410f5,69d156d98998bcd3444db47f534cb375,308.8,2023-05-15,Successful,AME346,Ameerpet,Hyderabad,Debit,Merchant_22,Electronics
+cf4e76fd6a6f722b951dbf03b0f29c86,cbf8dc9b275ac0b62c768fd88a7b8dde,686.85,2023-09-07,Successful,AME418,Ameerpet,Hyderabad,Debit,Merchant_62,Clothing
+482510fe2368422f5959c2a612d8b059,25fb70325d5f03bd937a7690ab38a322,407.16,2023-08-02,Failed,AME399,Ameerpet,Hyderabad,Debit,Merchant_11,Health
+0ad4f85f5f2f3cad3c4915ad7501cfcf,4208af541843b7a05ac45d40a1c48865,400.32,2023-07-22,Successful,AME567,Ameerpet,Hyderabad,Debit,Merchant_5,Health
+5599ff909c1314d0417839db26fd6890,1284162a5dc6a052bf53b7ce0e579da3,854.73,2023-05-20,Successful,AME158,Ameerpet,Hyderabad,Credit,Merchant_32,Groceries
+70042c2cc376af56d47c17aa9aeb0e5d,54b621a6cf014991d8bb2032320f520c,196.45,2023-06-23,Successful,AME371,Ameerpet,Hyderabad,Credit,Merchant_36,Groceries
+031d382eaae30ac6b6003ee430b4c8cd,98948ffd257a4cc478fa6bc741a57254,854.43,2023-08-04,Failed,AME732,Ameerpet,Hyderabad,Credit,Merchant_61,Electronics
+d73a38d569ecd8c20a6e6efa6b96797a,01dd78e0454432f57a2a685d5fb031ba,563.07,2023-05-21,Failed,AME639,Ameerpet,Hyderabad,Credit,Merchant_32,Electronics
+93b5ac87735a537b943d54dcaa08d2b0,1e6719af247b1113912cdcab93a4dcd0,401.62,2023-01-31,Failed,AME296,Ameerpet,Hyderabad,UPI,Merchant_32,Clothing
+bcc8d98f601df88d71d8755dda6cd42c,6f2527e623f1554e49da508af71a3c47,246.07,2023-09-22,Successful,AME785,Ameerpet,Hyderabad,UPI,Merchant_1,Clothing
+98e2e79766abe9bd1347561fb98bc7cc,0844dedea21a5ae154715fb809130c55,424.48,2023-12-08,Failed,AME904,Ameerpet,Hyderabad,Net Banking,Merchant_75,Clothing
+27d5313c5c71b1c430f7de8b67419f3e,c000eacdbf3d96338864c2742529d059,287.84,2023-07-26,Successful,AME241,Ameerpet,Hyderabad,UPI,Merchant_9,Electronics
+7ff8cff9da27b21cda1ae7991a189b7c,277cfc457de9d56c41234d45e87384a3,449.54,2023-10-22,Successful,AME519,Ameerpet,Hyderabad,Net Banking,Merchant_92,Groceries
+dd58d84df1dd335e69aadbf020dc383a,dac29c3e37f45be15cfbb67570b90c57,162.4,2023-04-02,Failed,AME302,Ameerpet,Hyderabad,Debit,Merchant_53,Groceries
+d99f714c88393e1e22409cfd89317758,7ccd3b0041fd8fcb24dc5a58e0b2d567,758.99,2023-12-30,Failed,AME593,Ameerpet,Hyderabad,UPI,Merchant_16,Clothing
+7cd84f440fb67ed1c1cc5a36012efd31,8071195d3006f44fc2bdd8d2356d6a79,615.01,2023-11-01,Failed,AME213,Ameerpet,Hyderabad,Debit,Merchant_27,Electronics
+4bcd63c15f1a88dd863abb0aa0ace025,d74fb20ea02fc499f57186dad2021b2a,220.27,2023-11-06,Successful,AME809,Ameerpet,Hyderabad,UPI,Merchant_47,Electronics
+5cd734188dd10e0e224476abe7d91e3a,98492ce001c1592b56deb27dadd83764,881.9,2023-06-17,Successful,AME705,Ameerpet,Hyderabad,Net Banking,Merchant_56,Groceries
+49cedce65b42d4e4a6a4c465a0e44a08,35af9099030cd775170d0ce4902f5200,415.66,2023-09-30,Successful,AME701,Ameerpet,Hyderabad,Debit,Merchant_51,Electronics
+2d12e244cbf73f3adcb8e876a5b48f80,c3b3c7576bc336e4f190b62a23e7c81a,201.8,2023-08-07,Failed,AME547,Ameerpet,Hyderabad,Credit,Merchant_79,Groceries
+2761fc555a2ade46efb71a3a2788ccbf,1dbe377913f99f331390dd0517ed2d28,226.52,2023-09-02,Failed,AME259,Ameerpet,Hyderabad,Credit,Merchant_57,Clothing
+7779cd1cd994eed5d2304dfca48e01c1,71f30447dfce930b087ea726b702bef4,108.75,2023-12-16,Failed,AME753,Ameerpet,Hyderabad,UPI,Merchant_26,Electronics
+6f4a410fbe7e855d7440ed061fbbde62,cf9e3f9318e2c56cb057dda99669eefe,41.48,2023-07-03,Successful,AME723,Ameerpet,Hyderabad,Debit,Merchant_38,Groceries
+36e85c9e3f5c489007f8e944a9a288fd,8b331d4d9a2af6f974f3380a4410f9db,894.52,2023-07-05,Failed,AME894,Ameerpet,Hyderabad,Credit,Merchant_79,Electronics
+8611ec34810b59aece54cb0802275c21,9d2fbdccf3c5d5be064feb11c3fadc8a,941.3,2023-12-21,Successful,AME768,Ameerpet,Hyderabad,Credit,Merchant_62,Groceries
+2f26ffc12f9ce8806b35e7bba1156c90,fd8149389297e7adbf75c9e13316d2d7,364.59,2023-06-03,Successful,AME806,Ameerpet,Hyderabad,UPI,Merchant_64,Groceries
+964ce1ab5455c9cf1811889821264301,253f09f0cce0421aafa8dd213bac32f1,414.18,2023-04-11,Successful,AME181,Ameerpet,Hyderabad,Net Banking,Merchant_86,Health
+f7f981bc4ae0264f98330d7cf70ca847,e9a1a267d661e0020e29f00201dd665d,260.61,2023-07-24,Failed,AME603,Ameerpet,Hyderabad,UPI,Merchant_70,Health
+1b408709faf9076ee78fd39829a25ea1,b38a505a04f2ae0d55319d57864b118e,477.74,2023-01-24,Failed,AME897,Ameerpet,Hyderabad,Debit,Merchant_6,Groceries
+3b801cf4138854b8a59340d54cac2ee2,5b3f04961f296abf7f3f0a06ec2f67b0,707.64,2023-10-10,Failed,AME839,Ameerpet,Hyderabad,Debit,Merchant_74,Electronics
+e513fcb4c3ce5a86c36d79c5db809fb6,96b74157e3ba8a4e3fd32855ffed6f91,194.33,2023-03-02,Successful,AME302,Ameerpet,Hyderabad,UPI,Merchant_81,Electronics
+4a3388c2bd5dafb584bc58063290357d,66d1777fc02716a12b6e8d6911c2924e,599.28,2023-05-25,Failed,AME185,Ameerpet,Hyderabad,Net Banking,Merchant_63,Health
+86bea2fd36dd50b8319b57286bb6ac67,fd2dc0efd34d0ead80ebf0824c5a1841,377.58,2023-05-13,Successful,AME598,Ameerpet,Hyderabad,Net Banking,Merchant_87,Electronics
+c4c6fb470b36a2563f9f15337baeaeec,d301701b3a615d7bb741bb3234c13349,636.04,2023-07-18,Successful,AME721,Ameerpet,Hyderabad,Debit,Merchant_30,Clothing
+8fd063c3d61e6f865b2015f83207e01e,48d117d002fd2d1c454037075571f189,798.26,2023-05-30,Failed,AME915,Ameerpet,Hyderabad,Debit,Merchant_89,Health
+19c9f42ac4d9c64120de3ba00c946c72,c13b3be5c0e7c836a3d41321a3441a1c,238.21,2023-03-08,Failed,AME433,Ameerpet,Hyderabad,Net Banking,Merchant_63,Electronics
+34671137ea08f7fa5f0f83727a7caf2f,df6c65684be81553165e4d9f794cc828,697.21,2023-11-29,Successful,AME364,Ameerpet,Hyderabad,UPI,Merchant_59,Groceries
+1c49566487e885c850606eed5a33c8ff,cabc0cf4386525ebf885ac90c11f3701,737.16,2023-06-24,Successful,AME917,Ameerpet,Hyderabad,UPI,Merchant_94,Clothing
+dce016e96f4b92033d9cc9d2c78e0424,cc2c98d8e076d4f89f224a107020531e,589.2,2023-08-31,Failed,AME484,Ameerpet,Hyderabad,UPI,Merchant_78,Groceries
+247a05451064007f1fec49ba60ec2bef,f400a5a33bf4c189de74626900205301,48.44,2023-11-24,Successful,AME190,Ameerpet,Hyderabad,Net Banking,Merchant_11,Electronics
+09c93d292f43d6f747824791070557ab,ff01e5e7df7653f5af118e4637a6ca79,332.18,2023-05-04,Failed,AME174,Ameerpet,Hyderabad,Debit,Merchant_77,Clothing
+c77a753d169079297abb64d40eade54d,d67bbf962cb638690207c3d384e7a50b,113.97,2023-10-16,Successful,AME710,Ameerpet,Hyderabad,Credit,Merchant_38,Health
+0a633e7d5cda4ef784103e7be3102074,d62426d6ba941e955b777b778657d3b9,984.61,2023-05-16,Failed,AME134,Ameerpet,Hyderabad,Debit,Merchant_61,Health
+72fe202e6dcc5ff18e3e90d01ed2e6dc,10975eaefc817705b320d20b9eba38a9,668.21,2023-09-03,Failed,AME684,Ameerpet,Hyderabad,Debit,Merchant_24,Electronics
+1f85b09cd6a42f3e4a0ac77f31b65ddf,7cde594d543ba0092f960d8641ed16d3,426.42,2023-01-20,Failed,AME681,Ameerpet,Hyderabad,Net Banking,Merchant_46,Health
+8e5e95a2328487c484c6e336917c61dc,8aa7e7966e2207fcb4b5175b8953855d,56.14,2023-06-27,Failed,AME602,Ameerpet,Hyderabad,UPI,Merchant_80,Health
+f6ebb66d2be3105923c6e496671f85f2,71225ddc999e8bcfdf7aa82262e1b4dd,979.78,2023-01-11,Successful,AME469,Ameerpet,Hyderabad,Net Banking,Merchant_53,Electronics
+a0a4edd2e3bc050b514d00aeb302dffd,8ca9510cf9133a2063892195df2e09e4,646.32,2023-09-21,Failed,AME221,Ameerpet,Hyderabad,Credit,Merchant_37,Clothing
+f1b110aac7b5a42ed165150dfa385dc3,efe7c7238205cd584cfdd5d890d35f72,654.37,2023-02-27,Failed,AME676,Ameerpet,Hyderabad,Debit,Merchant_14,Health
+0d4eb0952e9c0afcc9ef045a91f2a707,21f4f42a8bc4f196a1f7f9c6be769850,164.54,2023-10-16,Failed,AME623,Ameerpet,Hyderabad,Net Banking,Merchant_61,Groceries
+08162a469282bcaecc2db51b3809384f,940a715aea8d543c8b02fd4fc9dcbfb5,781.73,2023-06-15,Successful,AME467,Ameerpet,Hyderabad,Credit,Merchant_9,Health
+0b438f5491c17b9bfe8b9ef4f774e1a0,9f357c9d0469cbfe24ee012e763fa0cf,349.32,2023-10-18,Failed,AME187,Ameerpet,Hyderabad,Net Banking,Merchant_94,Groceries
+e9e0c5fc405eb39fdc52b4d2730172e6,9a21c887464900a3b40af9659592c3cd,71.36,2023-12-13,Successful,AME225,Ameerpet,Hyderabad,Credit,Merchant_47,Health
+d2f646a26733756096101b9a67caa3b4,ad232f79ee764db4cb6c4abf6b492c27,826.36,2023-05-17,Successful,AME575,Ameerpet,Hyderabad,UPI,Merchant_16,Groceries
+95038b79f99028ebe668b9d715d5a431,68309d8897498f5ef8384427c3b0e959,235.85,2023-03-28,Successful,AME615,Ameerpet,Hyderabad,Net Banking,Merchant_43,Clothing
+ecc75d1e213754f2f2de2998576abafd,1cd739981c9549defa18770aa882b148,79.17,2023-09-01,Successful,AME298,Ameerpet,Hyderabad,UPI,Merchant_80,Electronics
+d535dab23a72c7ddbb84afab27bddc22,2e70e7889f187953d3967c04fe3d1b22,207.79,2023-03-09,Failed,AME676,Ameerpet,Hyderabad,Debit,Merchant_55,Health
+537bfff37aac01d412dda5e9d6783d7d,fc4f62bb8ac9303083546c21ee6d7a28,568.38,2023-04-02,Failed,AME784,Ameerpet,Hyderabad,Debit,Merchant_40,Groceries
+42c997efe3514b5aaee95676511a511e,24c91daf7c0e3c291b36ce7d5923e6f5,55.47,2023-02-20,Failed,AME858,Ameerpet,Hyderabad,Debit,Merchant_35,Groceries
+ee65be810fbb10a8cc55f7b8913d5b77,ad5e9a5073f77b9a2c81e6af783bb7b1,661.42,2023-10-29,Failed,AME824,Ameerpet,Hyderabad,UPI,Merchant_77,Health
+876edbe3f7192a62b98c956a8ab4d52b,c0e725ee08cf16faa1c6919e60eba818,569.54,2023-02-20,Failed,AME393,Ameerpet,Hyderabad,Debit,Merchant_83,Clothing
+5982314da5f03692a4cae07064b7df5a,29b6fd5112d295981ead42a7039bae6c,486.39,2023-06-22,Successful,AME852,Ameerpet,Hyderabad,Net Banking,Merchant_66,Health
+fa44f6e0d935cad7f3be4fa46222a75c,c3bdf147db465400619482696ef4f285,244.82,2023-05-27,Successful,AME579,Ameerpet,Hyderabad,UPI,Merchant_61,Clothing
+8b08bb1ccd7298d6f82dfd9b06ee577c,48486f1d1846ae06b575c4114c36ea58,860.18,2023-05-26,Failed,AME600,Ameerpet,Hyderabad,UPI,Merchant_76,Groceries
+c644add6d624c3b95a0e851ed4232471,8aeae81c32083939dcd753d625be7555,497.03,2023-08-08,Successful,AME239,Ameerpet,Hyderabad,Credit,Merchant_98,Electronics
+f82701a8bc2be8786cb65fe8a9423e76,04bd06bfa6f541d8a68fc0297b07f0ec,924.47,2023-05-16,Successful,AME931,Ameerpet,Hyderabad,UPI,Merchant_88,Groceries
+a3923087a1dc314ddcd7b5d390562a18,00e8547d7331ca83571a3baedeb7e5a3,298.42,2023-12-29,Successful,AME305,Ameerpet,Hyderabad,UPI,Merchant_2,Electronics
+2fa97de25f2ad6833356115ac29ec9fc,631f1772338ffbe142a33c45233f3782,803.19,2023-02-19,Successful,AME376,Ameerpet,Hyderabad,UPI,Merchant_15,Groceries
+4fd2584b40a494f4c99b561fcf8a893d,05b7bbac800f560410ec7322c14e91b1,178.69,2023-10-19,Failed,AME317,Ameerpet,Hyderabad,Debit,Merchant_97,Electronics
+bdcd87415ae7ac178fe38b9740bd6856,a987b2b7af5f03a335a6c7788e5b5da4,167.11,2023-07-18,Failed,AME256,Ameerpet,Hyderabad,UPI,Merchant_62,Groceries
+8e8978c44fd634f1b1dfc4797d8e1bce,0b967d5fee46cf796504db0a16b49db8,38.21,2023-06-04,Failed,AME433,Ameerpet,Hyderabad,Net Banking,Merchant_10,Electronics
+b7d3f9f379939a1709731e84e0eb1ff4,519fff987bcaaa24c7e6f2a38a406e27,811.09,2023-01-25,Successful,AME125,Ameerpet,Hyderabad,Net Banking,Merchant_66,Health
+9ac612b781bcb511e70e0c5812416ebc,02e12a6fd7fc2dcaf7cc75ef4b59e7d4,260.31,2023-11-13,Successful,AME233,Ameerpet,Hyderabad,Credit,Merchant_23,Health
+ff1835146b569558a65c427de4983d05,0f6d6b45d2e2ce98a490ffd4f3cf81d7,817.55,2023-12-08,Failed,AME686,Ameerpet,Hyderabad,Credit,Merchant_7,Health
+2ab571a7e42d3c63527fafa14c1f73b3,f76bb3bb4ed6f8d88dfba5f73815b468,14.3,2023-01-19,Failed,AME871,Ameerpet,Hyderabad,UPI,Merchant_70,Health
+fa364b0be6ba8f56166a81bf2c070319,0b12f4310e8c681dfe4ad7f557e7408c,954.45,2023-05-15,Successful,AME375,Ameerpet,Hyderabad,Debit,Merchant_4,Groceries
+a4918da6974fc15fa8e45ac1601f49d5,75929d8698c21d4330f8138ffaeac6b3,887.26,2023-04-23,Failed,AME668,Ameerpet,Hyderabad,UPI,Merchant_3,Clothing
+ffc3151857f3bb4b05036d92e2bb92a6,7abfc3ee2df4660b7fe4af5806fdc3a6,112.25,2023-08-07,Failed,AME313,Ameerpet,Hyderabad,Debit,Merchant_52,Clothing
+99288a2cdeaf4651838b92118fe4e444,16636ad3b589895ecdce0c0b92934c49,339.75,2023-05-13,Failed,AME874,Ameerpet,Hyderabad,Debit,Merchant_27,Clothing
+9691d4aa438b7c1f257e5affd0bd532c,b09a5f7cfef0a2f6f4fbe869674a2568,62.53,2023-06-12,Successful,AME293,Ameerpet,Hyderabad,Credit,Merchant_35,Clothing
+addebf14ad38d35b773b4f1b6bffa986,f48c4495a6544277abe83b0dea97dee1,503.7,2023-08-07,Failed,AME168,Ameerpet,Hyderabad,Credit,Merchant_52,Groceries
+01c5a1dba8160061abc00323e8db47fc,7d44e0abb5ee7a698d75726b6308d80b,481.48,2023-06-30,Failed,AME205,Ameerpet,Hyderabad,Net Banking,Merchant_68,Clothing
+66e5d86f5a2f6c03368446f2e675762b,fc3d931aaf5d8c827b93c73e887f8080,90.4,2023-06-20,Failed,AME902,Ameerpet,Hyderabad,Net Banking,Merchant_38,Clothing
+9cacffaca0ef2885a5b09fdad4108401,b1e7e4712a74d22941437f81b8781e71,846.2,2023-02-10,Failed,AME519,Ameerpet,Hyderabad,Net Banking,Merchant_63,Groceries
+bf8fc5f258af269a83b4302174fc9ffd,7141e7db18c00cd030426178c7a5cce1,871.83,2023-03-28,Failed,AME343,Ameerpet,Hyderabad,Net Banking,Merchant_55,Electronics
+00f4748543dde4048b251f58a348a0af,b4b50c8834f714357fdf4b6821a57be6,616.79,2023-07-12,Successful,AME695,Ameerpet,Hyderabad,Net Banking,Merchant_63,Groceries
+dffe84469824e4f301352dfdbb9a5ff5,8b77cd57738c8744b1581846f5ee7201,911.41,2023-02-13,Failed,AME558,Ameerpet,Hyderabad,Net Banking,Merchant_63,Health
+49b35a656c2c3ceb9ca3b31fb4fbaed3,3716cac69fe2cfdc4107535aea778f2f,773.83,2023-11-21,Successful,AME547,Ameerpet,Hyderabad,Net Banking,Merchant_10,Clothing
+76a3ac669353f7c36863e3d35eae6ce7,afe84b5cde64ccae993c3d0ca36906b5,483.83,2023-06-17,Failed,AME869,Ameerpet,Hyderabad,Debit,Merchant_98,Clothing
+e9c7122c2d25ed0282addd95f16bfbe5,812e4511d8cc39d6f31e3189e761c16a,587.07,2023-09-23,Successful,AME266,Ameerpet,Hyderabad,Net Banking,Merchant_2,Health
+a56425b92c8caca953e88786025915d8,2024ea6250014b227862c33bb052cdb1,195.08,2023-10-05,Successful,AME406,Ameerpet,Hyderabad,Debit,Merchant_20,Clothing
+55cc581eda5b4bbf0639f26deb64fc03,7dd5c9554025267698737adf2069aa27,431.51,2023-10-30,Successful,AME923,Ameerpet,Hyderabad,Credit,Merchant_28,Groceries
+14f6790c7aa8da862a5e84fb985beef9,2c8cf22d61aa8f189d62bfe63094a4d4,526.5,2023-06-09,Failed,AME256,Ameerpet,Hyderabad,UPI,Merchant_44,Clothing
+f41e3329d1befcaaad979bafb5084d7e,b2e713097f752524811a17273f495c53,373.12,2023-07-06,Successful,AME116,Ameerpet,Hyderabad,Credit,Merchant_53,Health
+7f217557a681fa72f62dfb7f5132bb8e,8816f0d8d21c27ceda47f1352ad406de,243.01,2023-02-09,Failed,AME711,Ameerpet,Hyderabad,Credit,Merchant_5,Groceries
+ffcf9513e74c71db5e3ce0d8d4615dc8,b118cd687863083bcb97c539d1578097,816.55,2023-08-02,Failed,AME767,Ameerpet,Hyderabad,UPI,Merchant_93,Clothing
+b74746fe64a7729d5811ce2881d8a631,8a81171d208cb2cc24b940462246cd4a,523.39,2023-04-25,Failed,AME336,Ameerpet,Hyderabad,Net Banking,Merchant_43,Electronics
+ccf3236e4de3526f463e3823e73ac604,193d5e49c202bf963d1043a799a4c559,563.03,2023-03-24,Failed,AME869,Ameerpet,Hyderabad,UPI,Merchant_13,Health
+ddb582f6ff44bffb178b4d6337045b89,35ea11a3954d0a9399f04e04bd1a1112,529.91,2023-10-03,Successful,AME344,Ameerpet,Hyderabad,Credit,Merchant_20,Health
+7d514380df09ca78b2c525ad8d20f624,ece3ad93d03f30cca96f84d37015e883,978.35,2023-11-18,Failed,AME617,Ameerpet,Hyderabad,UPI,Merchant_22,Groceries
+e5080166b7aeb4bd4c855eb4554444e2,9527dda95575964af4c3ab2c286b879f,983.65,2023-08-21,Successful,AME956,Ameerpet,Hyderabad,Net Banking,Merchant_87,Electronics
+df05150159daf7a793e020246d21c13b,689c7cb1d84ed4b7dfe8fb6464686529,490.28,2023-06-09,Failed,AME774,Ameerpet,Hyderabad,Net Banking,Merchant_39,Health
+165132950377295b27d93dc33bc92a1b,b3d9b6d44a2bdd41d3d82840e47c943d,122.12,2023-02-28,Successful,AME247,Ameerpet,Hyderabad,Debit,Merchant_24,Electronics
+11a9c7a8320760bd0a93bc050ce2d770,90e2ef7228fae0e6ff9ed1ea5094390d,559.66,2023-12-17,Successful,AME817,Ameerpet,Hyderabad,UPI,Merchant_69,Clothing
+6618ac45ca72b771c6631688bc0cc424,b72f7ad6ce5d5c510fbeac672bc12cf9,653.51,2023-05-13,Successful,AME111,Ameerpet,Hyderabad,Net Banking,Merchant_69,Electronics
+78a81188a8e27d7afcf5ccd53d1fa3bc,2be95da19a96679e06dd6a63f7f68343,568.92,2023-03-22,Failed,AME485,Ameerpet,Hyderabad,Credit,Merchant_31,Health
+b98ea3f47c0b4cb8eb66a04d3c18c855,0cde0e1dc219ababfcb8c4c8f371a347,95.98,2023-10-17,Successful,AME966,Ameerpet,Hyderabad,Credit,Merchant_64,Electronics
+1e5568fadfb3066b05a0a07953dc07ed,b6881203da7337129a0db5543443b11f,115.62,2023-01-25,Failed,AME761,Ameerpet,Hyderabad,UPI,Merchant_55,Clothing
+3b00d19bb48393d1c9074962790f691b,223cb8b4f77ba12ce4ffb77b4429a41f,51.95,2023-11-25,Successful,AME309,Ameerpet,Hyderabad,Debit,Merchant_96,Health
+389fcf11ebc31de28de41a0fafb7d592,2f1804c81ce31e849b17601d57d88a31,657.97,2023-04-23,Successful,AME313,Ameerpet,Hyderabad,Debit,Merchant_84,Electronics
+046a04da9d13c06510595850718335f7,2d74fe01fabd2937d5dc49a8bd2e6349,580.06,2023-07-17,Successful,AME826,Ameerpet,Hyderabad,Net Banking,Merchant_95,Electronics
+f8d04c1bcf50543ad9612fc594dca420,3793a4842d1ffc13e3149a279ed85abc,497.8,2023-10-12,Successful,AME387,Ameerpet,Hyderabad,Net Banking,Merchant_23,Health
+9163c0819bd9c2175ca612fbc5316fdb,ff5c0beec3f6954cedb17737c78d9a8f,819.07,2023-01-27,Failed,AME103,Ameerpet,Hyderabad,Net Banking,Merchant_58,Health
+8ab57bc99828d61ba30056f2f9f38681,f4e618ac2153cb5d1294d2ce6f7634c7,181.0,2023-04-15,Successful,AME942,Ameerpet,Hyderabad,Debit,Merchant_57,Health
+b629e48faac92128022fe060dc7a4b2e,054603e66f8230a07193242b00ce12e7,349.35,2023-08-24,Failed,AME836,Ameerpet,Hyderabad,UPI,Merchant_93,Groceries
+5f0f2e194375f0bddc1e03ccef73a676,d6a1e44f0324855bd27a23f552fc74cc,46.17,2023-08-02,Failed,AME710,Ameerpet,Hyderabad,Debit,Merchant_24,Groceries
+313e062b25cc73954e4a4810300e02e7,b7fc411749553d760ceb07856cdc4320,295.73,2023-01-17,Failed,AME665,Ameerpet,Hyderabad,Net Banking,Merchant_8,Groceries
+d5c4b52243b011b6613dfca69e83adc1,d17d1d02e1e9f63943760634f62f9b0d,449.0,2023-06-22,Failed,AME711,Ameerpet,Hyderabad,Debit,Merchant_14,Health
+e1b21dc05abfcafc6e4f4d99f851b296,c3c32dd67ab09af4b5e54871005d1cac,218.91,2023-12-23,Successful,AME822,Ameerpet,Hyderabad,Net Banking,Merchant_31,Health
+b056ef49c46b4e7719c4f3ac17497f28,6949f24982bcf40a3ac0c3eb7b93c8b7,393.85,2023-11-11,Failed,AME576,Ameerpet,Hyderabad,UPI,Merchant_98,Groceries
+4b7931c7cbd6e8e84c7ab2778b9982c0,6c2981a497177f00cf4864cfe2f3c26c,577.18,2023-12-13,Failed,AME810,Ameerpet,Hyderabad,Debit,Merchant_63,Health
+1812c79aee58d3d3332f28520a829a38,8afcd010b20881b4f0fc681b452c20e7,121.18,2023-08-25,Successful,AME949,Ameerpet,Hyderabad,Debit,Merchant_95,Groceries
+bc9d1c709ca8b1f811db217f159678e9,22a775ac66f5dcbd63a88eb3bc09e70b,442.44,2023-05-11,Failed,AME774,Ameerpet,Hyderabad,Credit,Merchant_68,Clothing
+dc7ec593b87ee9d211561eb0e5f907ba,eec7faa4d86ffc4122d5e28efdd19f3d,697.66,2023-07-24,Failed,AME481,Ameerpet,Hyderabad,Net Banking,Merchant_81,Electronics
+0b3761819bd997750806143b74be2992,436189bbbc04224c22d2bf3b726c841a,884.84,2023-12-31,Successful,AME380,Ameerpet,Hyderabad,UPI,Merchant_42,Clothing
+cd9753f015bcffc078c346417e91f005,0dc93f0aef06c2d1d0dec4b781ff2ee3,548.32,2023-03-06,Successful,AME525,Ameerpet,Hyderabad,Credit,Merchant_93,Clothing
+2a6b935fbe407df4a0f4e4b708de60ad,971c7edfd21105008ca21f82eae95240,896.76,2023-04-13,Failed,AME933,Ameerpet,Hyderabad,Net Banking,Merchant_34,Health
+e5430d86b677742c1a1a5694e1701301,20616a9be40ef12ef134bfdcf72d79f7,565.22,2023-10-10,Failed,AME154,Ameerpet,Hyderabad,Net Banking,Merchant_83,Electronics
+3cb94210db12d019fcc4f1cb8fd535e6,b7f851dbf2963da1105ab70a023a203e,337.88,2023-06-27,Failed,AME218,Ameerpet,Hyderabad,Debit,Merchant_41,Clothing
+86e30f410452ea6fad2263f40e5d8383,9d415bb4cb57a0a55ec01ddf879bf13d,917.16,2023-01-22,Failed,AME307,Ameerpet,Hyderabad,Credit,Merchant_94,Groceries
+c63825f4f58f57a3832d1c67d0b9c621,a639c933159c53d67a582d1791e1dd6c,347.08,2023-10-14,Failed,AME204,Ameerpet,Hyderabad,UPI,Merchant_26,Clothing
+b2c19323c4fb308eddc61b20c38fa2ff,9c4da541de003959128b64f1368a794a,525.66,2023-03-12,Failed,AME696,Ameerpet,Hyderabad,Net Banking,Merchant_87,Clothing
+6a4bd3210e671d584992288cf2de31fe,78fcc56cc3b9c7d449b6aa2704a9ae9d,732.25,2023-02-18,Successful,AME965,Ameerpet,Hyderabad,Net Banking,Merchant_97,Electronics
+04eb23aec8b9f7e854a6c8c3a7a70a91,1dbe6b6b90c4ea0487d94eeb4a11f80c,283.32,2023-10-07,Successful,AME669,Ameerpet,Hyderabad,UPI,Merchant_46,Health
+f288821c5e9d2b7d1c94fbf2c4d09423,d27455411778956d7fd6aa768fdfaeee,933.91,2023-08-17,Failed,AME715,Ameerpet,Hyderabad,Credit,Merchant_52,Groceries
+3eba8e6477bde1cb19328d2bcb756c3a,a3af21b8548bc99d44d74ba00651630a,263.14,2023-10-02,Failed,AME361,Ameerpet,Hyderabad,Credit,Merchant_16,Health
+5936a3cbff216f1e12de179233b5e284,ab4d98e1e2e5c34556bdfcf42c23cb8c,274.14,2023-01-30,Successful,AME204,Ameerpet,Hyderabad,Credit,Merchant_83,Electronics
+854950252a677e8a3eeb83f92651dc0a,296a11e1e8a512809d350e15add1dd6c,169.07,2023-01-22,Failed,AME692,Ameerpet,Hyderabad,UPI,Merchant_46,Electronics
+de763a7241918b34da7718f3279edad7,14512345378ca4f6a327c0f2f98f84b1,761.52,2023-12-17,Failed,AME110,Ameerpet,Hyderabad,Credit,Merchant_63,Electronics
+e60737ebce00223fcaa9fdd1e39e2372,d470d9fd0c755c2826cf4c7ae50a98a4,557.28,2023-07-03,Failed,AME335,Ameerpet,Hyderabad,Debit,Merchant_100,Electronics
+f0aed5918d9e34f329a89a9aa57f5c00,5143e611e059f220b63fd0f8bb023418,188.57,2023-11-30,Failed,AME847,Ameerpet,Hyderabad,Debit,Merchant_44,Health
+a01ecbe211dd6b5f904f9133f9d35aa5,e3118a3db1b224db95574f41455b1ead,270.9,2023-09-26,Failed,AME208,Ameerpet,Hyderabad,Credit,Merchant_19,Groceries
+ff950c0001ede980aa660f068d10eb5c,260b67c8f282dcdbcc0dca7940f61cf5,713.29,2023-07-11,Failed,AME486,Ameerpet,Hyderabad,Debit,Merchant_93,Groceries
+bf7b302d7795144be8826ce336b2a182,8ec433b77355165c429fa2eeb878a2bf,536.93,2023-11-10,Failed,AME119,Ameerpet,Hyderabad,Credit,Merchant_28,Electronics
+457e4f9056fbbf282cfea5b8c25c883b,9dc1582210df5730f2dedc8f0ddc9258,314.0,2023-03-02,Successful,AME942,Ameerpet,Hyderabad,Credit,Merchant_48,Groceries
+11237881e99898b8ce6721ffaf4227e1,69e6fa10f45f4cea0c83c36912ab6121,301.73,2023-09-05,Successful,AME918,Ameerpet,Hyderabad,Net Banking,Merchant_77,Electronics
+97765b5a8e32d66aa731d104b149820f,5eb58253a6ad1e010830ad0fd4d526be,666.4,2023-09-27,Failed,AME654,Ameerpet,Hyderabad,Net Banking,Merchant_16,Groceries
+e9541f82023fa4cff7f914fe379e264f,a4602e4e9ac785bda5b1366db3ce5818,83.79,2023-10-05,Successful,AME825,Ameerpet,Hyderabad,Net Banking,Merchant_36,Clothing
+f400eae576c1b83c541205f257a2108b,8b59fa7570bc41096ad817ff30ce8682,644.8,2023-07-29,Successful,AME856,Ameerpet,Hyderabad,Debit,Merchant_84,Electronics
+a6b2c3771aabef44afaac34a907d0520,93f8c3c45f1510633d812f22af9e7edd,970.95,2023-10-13,Successful,AME195,Ameerpet,Hyderabad,UPI,Merchant_13,Health
+d4ca239eb4b40a30fa8006d7d7db348f,156da43c67d9f52d1aad049f76ee0c87,411.38,2023-11-28,Successful,AME947,Ameerpet,Hyderabad,Debit,Merchant_6,Clothing
+4eb1110c52ff59c37264f1ad97a0632c,4aaf6dae7369c23d8264ceec8746857f,946.0,2023-03-07,Successful,AME675,Ameerpet,Hyderabad,Credit,Merchant_32,Health
+86cf9e25c09f566ba37fca250c5abcf5,9bb6018c875ec741eedffa73dfcd0c49,45.74,2023-09-17,Failed,AME204,Ameerpet,Hyderabad,Credit,Merchant_68,Clothing
+e2710bdf5ac573a2cf6e81e2b5853770,1c9852614a8edf9814416d7fb3ed5900,961.8,2023-05-06,Failed,AME661,Ameerpet,Hyderabad,Credit,Merchant_66,Electronics
+efbf2da292e2a2dd86ad6d1166a1d144,ff4c9524da89994bcd64dfbbc70d6b41,499.02,2023-12-05,Successful,AME427,Ameerpet,Hyderabad,UPI,Merchant_86,Electronics
+86c077934d4d33b1e5e554075e954962,7060156c0222ecc6b01867771cf7f454,124.61,2023-09-16,Successful,AME628,Ameerpet,Hyderabad,Net Banking,Merchant_65,Clothing
+61868a3f0ab39dd853e13308ce17ceac,f11c8d83dc3ecf53c0ed194f3abe3dc1,519.82,2023-01-14,Failed,AME140,Ameerpet,Hyderabad,Debit,Merchant_44,Health
+a270d7a92be4018c085461a51c5aa01a,268ca2b5edf3308ef950abdbf3c4beec,174.32,2023-04-24,Failed,AME190,Ameerpet,Hyderabad,Credit,Merchant_71,Electronics
+83136aef60a2bcf29acf65d8b6380516,3e4992b4771b305469cb443fc1396ee0,857.82,2023-02-02,Failed,AME573,Ameerpet,Hyderabad,Net Banking,Merchant_11,Health
+349f663d231aa2fd3bf1548454fcc58f,1ae84e040876af86e4a49646312213a2,530.71,2023-07-20,Failed,AME498,Ameerpet,Hyderabad,Debit,Merchant_45,Groceries
+a1e7ed7971e77bad0c1bc575ae3bbeab,025a9aacafa3622804c6181d64f91cd4,975.63,2023-07-03,Successful,AME196,Ameerpet,Hyderabad,UPI,Merchant_45,Clothing
+8282acc23c65128af1be2318a6e4417b,abdb7c082cc6fa34bc6dc3040ee64921,377.84,2023-12-01,Successful,AME801,Ameerpet,Hyderabad,UPI,Merchant_61,Groceries
+cf70b4d81653f16b9ab7cac777425c5d,0e11c73222836f88b3cbc4ec318255e7,156.35,2023-06-18,Failed,AME378,Ameerpet,Hyderabad,Debit,Merchant_74,Health
+3312453fb11fb670250dae6e2481e53b,4c91f5e90ab175f5ecbe72043a91d1b0,528.75,2023-12-29,Successful,AME236,Ameerpet,Hyderabad,Net Banking,Merchant_49,Groceries
+b0487c0396d65542a1448f07ef60c2db,26ec776fcf109b10cfcadef940981059,591.49,2023-07-26,Successful,AME917,Ameerpet,Hyderabad,UPI,Merchant_97,Electronics
+8a0cb7768de8ef1e4331e56c6dfdeda4,f001d26624ce4da1213d03fca434ab57,723.22,2023-01-22,Successful,AME876,Ameerpet,Hyderabad,UPI,Merchant_44,Electronics
+3ec9e6140a84c943effdb257bb737c01,788f189986668e2d4f478470600546b8,930.94,2023-05-09,Failed,AME643,Ameerpet,Hyderabad,UPI,Merchant_77,Groceries
+bf10877d5704c5f6c231fb60f87adbe7,7eb635a929d659dd73a46c579b5fdd4f,396.91,2023-02-23,Failed,AME982,Ameerpet,Hyderabad,Credit,Merchant_65,Health
+43eb2ae10095fe1aa8c49c31ce1902e7,5d4fb82e92cd1383f98582e53a81aa03,548.99,2023-11-07,Successful,AME845,Ameerpet,Hyderabad,UPI,Merchant_88,Electronics
+86334339980134cb1040c1ade880216d,1a0efd493f52ae3da76d393123c14bdf,742.75,2023-02-16,Failed,AME578,Ameerpet,Hyderabad,Credit,Merchant_99,Electronics
+1fc6df089ba2d5796a4cbaf11c393c96,02a2f074f891c43582beda30df050646,319.61,2023-07-01,Failed,AME237,Ameerpet,Hyderabad,Debit,Merchant_60,Groceries
+ef2a9409975b75fc9eec7a1dcde34e4a,74e5bb597db244584c0d4266c987a893,643.47,2023-04-23,Failed,AME244,Ameerpet,Hyderabad,Credit,Merchant_10,Health
+2b7ee59db68903d6c5a2fcee25d41fce,b0432ca0c5864dc95379860ef83023a4,62.84,2023-05-29,Failed,AME861,Ameerpet,Hyderabad,Debit,Merchant_57,Clothing
+07ff07ab9e61f6afe10e5e9078d08d70,c957052fcb788635e4cb7db3902dad1d,255.89,2023-03-17,Successful,AME512,Ameerpet,Hyderabad,Net Banking,Merchant_93,Health
+3e093e281db92804a0f0df2cb9de1f72,ba3ff1b512a78ee7675434a5c5408458,634.18,2023-08-28,Successful,AME489,Ameerpet,Hyderabad,UPI,Merchant_51,Health
+e843bc35f45d1bd14b4d55e24dd1ce53,e022b07117b944867b9d55dcd522989d,839.5,2023-05-13,Successful,AME512,Ameerpet,Hyderabad,Debit,Merchant_37,Health
+074bf60b4e9e7a0b82807499ab418d1b,0c8697e0719dd38879877540fafbdf39,994.16,2023-04-04,Successful,AME960,Ameerpet,Hyderabad,Debit,Merchant_99,Electronics
+5d726a5abc51dfbaa5c8d7bab59e54db,07cdefd44191a51f0c62981b2f7e49ca,472.41,2023-01-05,Failed,AME963,Ameerpet,Hyderabad,UPI,Merchant_7,Health
+220ced0dd8603292d807850a3f82c666,af55cc412f7895075d99b3cd49850edd,601.78,2023-08-22,Successful,AME986,Ameerpet,Hyderabad,UPI,Merchant_92,Clothing
+e8a7e06b569cc370fa3f940b970c2116,bb09365b6df93a9709cffebcbd4f26c1,66.7,2023-04-08,Failed,AME649,Ameerpet,Hyderabad,UPI,Merchant_68,Groceries
+9cad76ce6c32a317aae3dae862a53e5a,668e24b0046dc230935705e97ecc401a,686.7,2023-01-30,Successful,AME455,Ameerpet,Hyderabad,Net Banking,Merchant_30,Health
+9c9aae2fe9e6a3a2496c3d0747930842,b5e0d31d1129180d96995478e2a5d117,299.87,2023-01-16,Failed,AME406,Ameerpet,Hyderabad,Credit,Merchant_88,Clothing
+08b6d9004681ee8b9bb8d58e84880d15,d20b4c82f108c67c3cb732ee6a4a51de,703.81,2023-08-26,Successful,AME976,Ameerpet,Hyderabad,Net Banking,Merchant_9,Electronics
+6c875640b46746fd5f824b39afe7b9b4,3ec3979f7518b0561186710efdefcd88,859.12,2023-04-21,Successful,AME970,Ameerpet,Hyderabad,Debit,Merchant_34,Groceries
+edc08ed86bff8def95821fde7f32a9fc,bf4757cbc88e06cb5c7e9a8f09b8c5b1,944.3,2023-05-23,Failed,AME234,Ameerpet,Hyderabad,Debit,Merchant_46,Clothing
+bb81f572d06da5eb866bfa43eba7c634,8f4d7d79b5efbc7285a277b4fc25fc74,474.17,2023-07-06,Failed,AME967,Ameerpet,Hyderabad,UPI,Merchant_4,Electronics
+046350bf0e82c06f1ae74c4dd08b3a65,968c29b16c7af5436e5f2deaf9a906ec,879.16,2023-12-20,Successful,AME173,Ameerpet,Hyderabad,UPI,Merchant_31,Electronics
+d1e07c29307f312a1947d188378b8190,8b23bec7604ae8eed91b49e729b86fbd,350.09,2023-09-28,Successful,AME835,Ameerpet,Hyderabad,Credit,Merchant_11,Health
+05835adf05381344bdf963ed9f994a6e,5022ade8295196adc8ac772966c6d54f,130.86,2023-05-12,Successful,AME565,Ameerpet,Hyderabad,Debit,Merchant_42,Health
+5bfec3f6a2275e8a2d3d6f5f673f0de0,d5a595fd1fd2b0f083a4d102ebfa4e86,193.35,2023-09-22,Failed,AME108,Ameerpet,Hyderabad,Debit,Merchant_51,Electronics
+7957a4bf988e798121c81f05000b8162,c375a7e397895ec500bae330446bf04f,479.71,2023-04-22,Failed,AME876,Ameerpet,Hyderabad,Credit,Merchant_45,Electronics
+5025b5d5a85ddbe5a4316c797298881d,d05c72c8d1ce68168011f3b08af83f22,827.05,2023-04-09,Failed,AME739,Ameerpet,Hyderabad,Net Banking,Merchant_38,Health
+9169d9dd28eae7955cd43fd746a12948,7774d8d269cb01e9b7681ac27f8c43f8,667.46,2023-09-13,Successful,AME829,Ameerpet,Hyderabad,UPI,Merchant_14,Clothing
+ed2ee418a058d85aa9efe07ce57bd2fb,494a0cc01147874aac7ef9b63b5d917f,811.41,2023-06-08,Failed,AME827,Ameerpet,Hyderabad,UPI,Merchant_15,Groceries
+9d9936586c9d1ab45794084e1bc47e3a,62469a7976502882de47656f40ace88c,834.44,2023-03-23,Successful,AME842,Ameerpet,Hyderabad,Debit,Merchant_22,Health
+6277fa1445430bf90f4ca950c293c2a3,eb3efc08c67145b6b06b917807c2157f,580.63,2023-10-09,Failed,AME307,Ameerpet,Hyderabad,UPI,Merchant_28,Groceries
+7aab8ad6d6572ff01c8f821244c922e2,e5b0cd38cd8ad409957805ff7f65d41f,225.87,2023-01-18,Successful,AME776,Ameerpet,Hyderabad,Net Banking,Merchant_4,Clothing
+d8da116c22684201791f92f097b63aef,61ea2723c870b8063db335c4b7f7d43e,547.85,2023-05-28,Failed,AME629,Ameerpet,Hyderabad,Debit,Merchant_50,Health
+f559d07a9e3de81b47805483f3ddc5cf,234e018f61c508e22533d1c5870df023,712.85,2023-11-12,Failed,AME124,Ameerpet,Hyderabad,Net Banking,Merchant_96,Clothing
+bb5752abaa5f60fed9da160e5de52782,dfbddf4a27e67842a187ff6cceb7c11b,979.11,2023-08-26,Successful,AME194,Ameerpet,Hyderabad,Credit,Merchant_88,Clothing
+641a3ef6ce7c2c588d9260c2363c59b4,5793be19d780bf728236570749ee10ec,954.89,2023-12-16,Successful,AME130,Ameerpet,Hyderabad,Net Banking,Merchant_18,Clothing
+29e1e242a58a21dd90c2f7d9cc3216c2,94b895d0a65f18f6de223e52dc94b95b,109.06,2023-01-16,Failed,AME552,Ameerpet,Hyderabad,UPI,Merchant_52,Groceries
+7d5f050e06d028bb164448d23d319768,dcf92ac97d22296e2b9e4d5bfe184002,918.02,2023-06-09,Failed,AME170,Ameerpet,Hyderabad,Net Banking,Merchant_93,Groceries
+9596bd144e10a30f9712bf7156702ebc,e4e6201aa31b8a90543fa0d276ecfe0d,494.6,2023-01-10,Failed,AME577,Ameerpet,Hyderabad,UPI,Merchant_25,Electronics
+049a7c719f5ee226cd2a7815ec462919,73320806e939d01f1addc4b59fa0879f,461.52,2023-05-20,Successful,AME699,Ameerpet,Hyderabad,UPI,Merchant_22,Clothing
+6269ccd2de6999942c3bb66e9f6e5984,220e96f79f3c285f56f30e6a40e84d75,280.34,2023-01-14,Successful,AME562,Ameerpet,Hyderabad,UPI,Merchant_28,Groceries
+c015200b8ee7be9acc36656f9c2255ab,a7fe840b2887b637c85f31cf18073a99,448.2,2023-02-14,Successful,AME139,Ameerpet,Hyderabad,Credit,Merchant_43,Groceries
+9560bb38199b8c1b605ea33cc4f9f145,88e8fae1190b0f0edfdc3eb1ffc1810d,516.18,2023-07-20,Failed,AME550,Ameerpet,Hyderabad,Debit,Merchant_5,Groceries
+d27e16d946f741f16894334e586530a3,a05269ae4c12900d36e50b7fec176c15,504.11,2023-02-10,Failed,AME476,Ameerpet,Hyderabad,Debit,Merchant_15,Electronics
+acbaa4adcbc69865ea8e92b29dfc4a96,c1283a234103b0711840edf4e7f50c49,732.42,2023-08-05,Successful,AME261,Ameerpet,Hyderabad,Credit,Merchant_11,Health
+4d94f6723c2c94508dfbf4a680ebc127,645fd4b314afcf5959f5efce51ed7a15,929.28,2023-01-15,Failed,AME683,Ameerpet,Hyderabad,Credit,Merchant_77,Groceries
+e651429d9a662edffd07e283af0fa37e,20cb1dfae433be9b2c2b8625bdfb497d,743.84,2023-02-18,Failed,AME602,Ameerpet,Hyderabad,UPI,Merchant_85,Health
+5f3af555ad7c2ebe9d333948b15cc4b6,04b1355868b1a1f55965b3c40a66c76b,118.66,2023-05-19,Failed,AME951,Ameerpet,Hyderabad,Net Banking,Merchant_78,Electronics
+a6193715ed61fd26dcea6375be5e3c86,28399298665264273c8bda8bff8f86fc,158.38,2023-03-24,Successful,AME650,Ameerpet,Hyderabad,UPI,Merchant_78,Electronics
+c2d145c4a32b63678cb52570635950bb,0001d591b94517291827e40b5af88461,695.65,2023-06-21,Failed,AME150,Ameerpet,Hyderabad,Debit,Merchant_41,Groceries
+fdffa474159e935c53c28ad40780d8d8,81fbb341b58c6388e70ff872d14f44a7,471.56,2023-04-07,Failed,AME957,Ameerpet,Hyderabad,UPI,Merchant_84,Electronics
+d005ab7a6b60827ae3f703ec29280ee3,d419b89a815c23a2a71a1f865ae613a9,612.42,2023-05-21,Failed,AME574,Ameerpet,Hyderabad,Debit,Merchant_54,Electronics
+dd0e74acc0ffc7720e5352272d53456a,be161905afc28a06d46017dc405bae33,610.23,2023-05-17,Successful,AME900,Ameerpet,Hyderabad,Net Banking,Merchant_71,Clothing
+94ac9d9a8bee15ed79a03cd01f59c593,d69725f05428ab45caa7c96c9e885863,459.61,2023-05-08,Failed,AME938,Ameerpet,Hyderabad,UPI,Merchant_55,Health
+a334cec85ed296216c15398cc0b2cd21,b980431161d27e617dd3e5b16e6532ac,237.86,2023-06-23,Failed,AME346,Ameerpet,Hyderabad,Net Banking,Merchant_81,Groceries
+150b247caa3a3a74210228bd2417e20c,97d0614c429a43869c19121346c972e2,798.17,2023-10-04,Successful,AME464,Ameerpet,Hyderabad,UPI,Merchant_39,Groceries
+9b8266298dcd6ee134702a7232212491,3009c5e67b58313879319c78eaaf2f76,612.82,2023-08-31,Failed,AME708,Ameerpet,Hyderabad,Credit,Merchant_62,Health
+8908e606d078ce3ec45bea1058917982,2f1a14464083aa317f3130063b4d89a0,595.86,2023-05-01,Successful,AME316,Ameerpet,Hyderabad,Debit,Merchant_51,Groceries
+b4ad7b6df0ad29b8eb5223ca66de2f8e,4fa15335b3ab9b45742b31f17972bf9b,492.56,2023-02-01,Successful,AME545,Ameerpet,Hyderabad,Credit,Merchant_99,Health
+f5954d75c4d62b0939c1b6c96ece0374,e6f0c025fcafd45f05e4c473a3371106,789.06,2023-06-23,Failed,AME921,Ameerpet,Hyderabad,Net Banking,Merchant_65,Clothing
+cf9f174d862bf0cb7ef064e8c02645f7,b1f41da5951f422d3f8ff99b7d554f13,428.22,2023-12-03,Successful,AME839,Ameerpet,Hyderabad,Debit,Merchant_57,Electronics
+33c94d72502402ed096b7ca0d451f2c5,f0cb82a7132f0deb9a66c51430102733,281.89,2023-07-08,Failed,AME757,Ameerpet,Hyderabad,Net Banking,Merchant_84,Health
+72d78e59e8df38847cdaeaf112324f78,3a28f721e9431699e9e5418e3ed70504,356.15,2023-11-15,Successful,AME370,Ameerpet,Hyderabad,Debit,Merchant_37,Health
+4adda1922bd5d62ee8fbc3f3ebe7e96a,5ff75143b0a2893dcd8c2a729e0b6b53,271.12,2023-11-28,Failed,AME704,Ameerpet,Hyderabad,Net Banking,Merchant_89,Electronics
+f992f277f6d5b676e61d421b12b010b3,1afba39ea17040264527e1d6e2f5f63a,255.21,2023-05-31,Failed,AME179,Ameerpet,Hyderabad,Net Banking,Merchant_98,Electronics
+42799737569852993f04f0e0740157bf,e1ab3c1b30384547dc0f11eb81a610c2,981.03,2023-07-17,Successful,AME463,Ameerpet,Hyderabad,Debit,Merchant_68,Health

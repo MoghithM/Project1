@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+435d1aabc447e136f62e3e5a2c7c01c4,c4ab960a735d421c3a699e7625e47e40,826.51,2023-10-16,Successful,KOR502,Koramangala,Bangalore,Debit,Merchant_84,Groceries
+e4933ba25e461ba32f43920cc90a47a2,63e0a84d4d9cb70db675067e5bc6c92e,504.79,2023-11-17,Failed,KOR221,Koramangala,Bangalore,Net Banking,Merchant_1,Electronics
+75148dbf069d8fa542b9670e7ad9e11d,86420417e2dbdc46c557354fedaa2848,920.79,2023-04-12,Successful,KOR498,Koramangala,Bangalore,Net Banking,Merchant_10,Groceries
+2cc3f02d2d10cf2dc6cc7b4a1568f352,c17355c0baa71a0a47d3a54094ff506f,945.81,2023-03-02,Failed,KOR700,Koramangala,Bangalore,UPI,Merchant_7,Electronics
+0990599b0b1912b1139904ec02f3bccf,0ba8110f1cd2285ece2e5d99468ef94b,536.36,2023-10-08,Failed,KOR292,Koramangala,Bangalore,Debit,Merchant_54,Groceries
+d5637ce15316977685d61af7f33359bc,01b9076209367b2b137e08d1d1476426,898.45,2023-04-04,Failed,KOR782,Koramangala,Bangalore,UPI,Merchant_31,Groceries
+f2fd742e624430557e1b9915ff170c32,9d0dce58e72fe5c34e0d26c86baed382,755.68,2023-11-17,Failed,KOR288,Koramangala,Bangalore,UPI,Merchant_46,Electronics
+3734862bd77121aadd6cf1e0a661ce31,bfb5beb4ad8a63bd8631e6b8d88605fa,719.81,2023-09-16,Failed,KOR645,Koramangala,Bangalore,Credit,Merchant_28,Clothing
+4074c6a3c4be6057475f1411ce6e3ee0,c1b5d06c3a87c7acb2b252850f9de74f,982.11,2023-04-22,Failed,KOR232,Koramangala,Bangalore,UPI,Merchant_35,Electronics
+a8766b091cbba0287729916ae8c4b245,69a70d666f2a39807aaf698a0f6e74df,41.37,2023-06-15,Successful,KOR250,Koramangala,Bangalore,Net Banking,Merchant_85,Groceries
+3690afe7a18df60381d2d5724a12342a,7998c48e93692e8cc4ee5ff037fbf2f2,865.01,2023-06-04,Successful,KOR727,Koramangala,Bangalore,Credit,Merchant_97,Clothing
+4a2b7c6bc835f387bc69d0cd5a3460d5,e6095004bce5d58b6d02312df5177723,680.56,2023-10-19,Failed,KOR996,Koramangala,Bangalore,Debit,Merchant_41,Groceries
+34b1b60394ec4f02629178e2f1cd3ef5,1a065726f4e3b5c931258f87f58c33e2,581.56,2023-01-14,Successful,KOR407,Koramangala,Bangalore,Debit,Merchant_70,Electronics
+c445754d1db4167b434a9e29070ddc19,a5a1d9db8e254b8ffdaf8bd2d80ec682,287.81,2023-08-21,Successful,KOR384,Koramangala,Bangalore,Net Banking,Merchant_14,Clothing
+1995e56e0739ea5c56a351839a013653,0b206d25e8ddf81d6eade502ac990676,954.05,2023-09-25,Successful,KOR611,Koramangala,Bangalore,UPI,Merchant_72,Health
+5f105c6752bb1573d335c24d91cb70a5,0d82b88ef0fe4e7d30abc8512b9ced21,910.92,2023-12-16,Successful,KOR422,Koramangala,Bangalore,Credit,Merchant_94,Health
+2e2eec9ef1eeb67d53232062acda694c,80a5b8e3fa06f50c57e87ec138791519,706.27,2023-03-09,Successful,KOR160,Koramangala,Bangalore,Credit,Merchant_100,Clothing
+965ccd92aad7668ef7a3b4bffce126ee,5556d04d67639ab8310fc779377794d1,856.4,2023-05-17,Failed,KOR307,Koramangala,Bangalore,UPI,Merchant_56,Health
+ff1b2a58ecaa89e9e9ce73420203136f,c542c66ad238e559acfc2aa7e68e50eb,256.6,2023-08-25,Failed,KOR626,Koramangala,Bangalore,Credit,Merchant_99,Clothing
+82ce625da36a8663b2a3fe25ff09de7e,42a07f25e00ac6dece158d3c84cdfaf6,148.07,2023-09-07,Successful,KOR583,Koramangala,Bangalore,UPI,Merchant_17,Electronics
+ed1307ffdeea9297e6e7c5611b305861,b7961a49132766bd634ba0b774e55d39,373.61,2023-07-28,Successful,KOR976,Koramangala,Bangalore,UPI,Merchant_15,Health
+d3dcb3868e6d4ef982d886c3fbce0adf,63de5780121b168c2c1e8efd255a9bdd,443.0,2023-08-19,Failed,KOR718,Koramangala,Bangalore,Credit,Merchant_82,Clothing
+21250ff8c2104434f2f9049ba51fad33,eb0506c009ada242dd12a6af423c5739,954.87,2023-01-13,Failed,KOR194,Koramangala,Bangalore,Debit,Merchant_80,Health
+b08f7fc58f363e32980655e0f0bb4321,220a6df2611ba1e2250e44d6d0f3382a,690.04,2023-12-02,Successful,KOR637,Koramangala,Bangalore,UPI,Merchant_2,Groceries
+03794cf9e8a8e3d1f9c9283257580b7d,7250e4b0d4c7c854e1300666980e29f8,271.52,2023-05-31,Failed,KOR304,Koramangala,Bangalore,Debit,Merchant_19,Groceries
+02639e28ca5cf085a2059cb4970aaf18,46461f8218d63a12c2c42c8c95d8c2e7,279.17,2023-03-20,Failed,KOR846,Koramangala,Bangalore,Credit,Merchant_24,Electronics
+266853a2247744b1a8f87a05b2e48be0,baf7df3493cec1f28411112fe606485c,231.59,2023-12-26,Successful,KOR366,Koramangala,Bangalore,Net Banking,Merchant_42,Health
+f92c7f8897e75c6c95c4a72b88c6adb5,b83a1a9145feca8986b49aeb14bfe608,59.11,2023-05-06,Failed,KOR181,Koramangala,Bangalore,Debit,Merchant_33,Electronics
+671b3de526b36e291e19f57c2720dae0,7248609561c7c8fecd3899fc2e198cf0,835.88,2023-11-21,Successful,KOR501,Koramangala,Bangalore,Credit,Merchant_30,Clothing
+c7434e1fff97237b2b4bdbee3e13f659,7ac78f4e0e0bff2b8c5886f44ccff918,678.88,2023-08-18,Failed,KOR214,Koramangala,Bangalore,Net Banking,Merchant_9,Health
+ec73c20064df587c95579a57cbbfc65e,763b76718966c595ab13c192426cbcfd,978.26,2023-03-16,Successful,KOR193,Koramangala,Bangalore,Credit,Merchant_40,Clothing
+5eb3b66860741620f72d996d1706d9a1,028acd2c9659798ca01473cf2bdaae94,991.0,2023-08-01,Successful,KOR266,Koramangala,Bangalore,Net Banking,Merchant_5,Clothing
+216a8a527d8f67f86a89ce20f2ced466,e04df059877f7d53923a24d2622dc90f,611.59,2023-11-17,Successful,KOR602,Koramangala,Bangalore,Credit,Merchant_74,Clothing
+8b100b5b209cbf83deb6f73b84f82722,564c42a3c58e7358b4c472f8f65c2817,148.1,2023-03-31,Failed,KOR256,Koramangala,Bangalore,Credit,Merchant_87,Groceries
+67f5de901b3507ab3803e24c83b80e50,18024af76fe815e7ad04591c2872c6e0,106.44,2023-05-13,Successful,KOR928,Koramangala,Bangalore,Debit,Merchant_91,Groceries
+758a4b712f102622dee1c61ff92d86f2,117dfa16f971f3bf6a7c0888eacf5f35,865.47,2023-08-22,Successful,KOR958,Koramangala,Bangalore,UPI,Merchant_39,Health
+a04f0e343711e27e893484e978706ac3,0f1a8cd4ac2a5b88b1efe907f7942d1a,587.95,2023-06-18,Failed,KOR903,Koramangala,Bangalore,UPI,Merchant_6,Electronics
+85e5c9410229e3a5124c1a6fa0adc0c1,bf6b21b2a64ea9f6b464f350e31caa1d,111.53,2023-05-09,Successful,KOR873,Koramangala,Bangalore,Net Banking,Merchant_57,Health
+ca4490c8d60d77d0737f9cb3ac43aa0d,ca9e2f5893712e9f1bc066f4689996b5,137.53,2023-12-04,Successful,KOR319,Koramangala,Bangalore,UPI,Merchant_11,Clothing
+bee67ceb067ada0cc89abd8ae5cff828,170a9c0f020a39ee243938c8ffcb4c63,882.36,2023-08-17,Failed,KOR690,Koramangala,Bangalore,Debit,Merchant_91,Clothing
+d26a7a07ca0f92f38e92ad87be0dffba,45c6d81b33c8a48cc4022b63f0db8ddf,830.84,2023-06-13,Failed,KOR917,Koramangala,Bangalore,Debit,Merchant_41,Groceries
+a10a44433ae6ec491e893090269dfc6f,e985c642fb35b7a4e2874ee235c6c03e,56.48,2023-03-22,Failed,KOR752,Koramangala,Bangalore,UPI,Merchant_25,Clothing
+63f0e9932950099d1d2a8dd1952e3871,85cbcaafdeae606a958cd83098ddf667,755.0,2023-03-14,Successful,KOR768,Koramangala,Bangalore,UPI,Merchant_96,Health
+19c397a7a611967c6a8a1fbb04e63e14,56afaed593759e657116f4212b368d1b,325.52,2023-11-12,Successful,KOR748,Koramangala,Bangalore,Debit,Merchant_8,Health
+ab7c809ef7172d2c522c9f134b19ed59,08f03a199908546d1c27b6233f93a362,959.68,2023-09-28,Successful,KOR964,Koramangala,Bangalore,Net Banking,Merchant_22,Electronics
+37e932d2356b0ed18d64f1dca7b6157b,d200c00ff04290caf2dac5b3718ed9fc,138.17,2023-02-05,Failed,KOR142,Koramangala,Bangalore,Credit,Merchant_5,Groceries
+14475f448e4bcf2a7d573cd32943b878,3de05faa142376266620ec0f61763635,602.13,2023-11-16,Successful,KOR780,Koramangala,Bangalore,UPI,Merchant_61,Clothing
+432333c700f93eef58884cf3bc939f65,36081dcfde923dd7db2c6e42017c2abd,326.33,2023-10-29,Failed,KOR674,Koramangala,Bangalore,Credit,Merchant_71,Clothing
+0932ba54c443390e3c207e3e8d204901,f422fc4fa61acabdc7769258b0097a5f,568.82,2023-06-27,Successful,KOR716,Koramangala,Bangalore,Credit,Merchant_68,Electronics
+fde4f790602022b7f66ce6664e07835b,5ff445120552ed314d0f915e57278e07,515.49,2023-05-16,Successful,KOR961,Koramangala,Bangalore,Credit,Merchant_36,Groceries
+8aa757dd32706b3642d70fa602735142,e285beba0eaf7b28066e3d9db1114cb8,796.97,2023-07-03,Failed,KOR182,Koramangala,Bangalore,UPI,Merchant_48,Groceries
+f06a53fb1c29a45368859956506983c1,8f88f1d4a38a2313c5a5bf4fa1fb853c,546.57,2023-09-20,Successful,KOR946,Koramangala,Bangalore,Credit,Merchant_28,Health
+6af69d33deea2b1935d1612833c00d01,0e861a5e03735b8bfeb579b03ecf9afa,114.6,2023-12-05,Successful,KOR656,Koramangala,Bangalore,Debit,Merchant_39,Electronics
+ea76af6ce87a7ea139cd5cf046fcf9ee,4cd7f2d7221a64f8d78f16aef3232bce,63.72,2023-03-14,Successful,KOR679,Koramangala,Bangalore,Debit,Merchant_96,Groceries
+30affaea1dde981c372ca005e87d298b,e8f5d49e96f9736132b9e887df32e7be,894.88,2023-05-17,Successful,KOR770,Koramangala,Bangalore,Debit,Merchant_84,Clothing
+008f21c05ccafc2d38553a992c917fca,651d615ab0b8f61afe63062aa37e704d,941.98,2023-06-24,Successful,KOR206,Koramangala,Bangalore,UPI,Merchant_80,Groceries
+3e97e5b71057bab3ce09f84f6d2a7113,e1df1ffb1d79f128f15b24c001a60070,400.58,2023-07-05,Failed,KOR737,Koramangala,Bangalore,UPI,Merchant_22,Clothing
+6e1ac650e32c7e45f8e5e2d76d7faf2c,ce6cd296040ea73f4f3f71db2c4b825a,202.16,2023-12-21,Successful,KOR943,Koramangala,Bangalore,Net Banking,Merchant_37,Electronics
+c832540a438512c220443fae04f5c17f,ec9c6fcf13e7a19380bec355aa6b4996,843.59,2023-01-11,Successful,KOR743,Koramangala,Bangalore,Net Banking,Merchant_7,Clothing
+1e31998be3d39cd9064b848b5576ae56,80faafdac61103ac040d7d284cc1a4e7,259.06,2023-07-20,Failed,KOR842,Koramangala,Bangalore,UPI,Merchant_1,Groceries
+e3b4f4f75ddde4397b9ef65c01157432,04b06aef0f37bbc4984bbb7f14b016c0,623.14,2023-07-11,Successful,KOR826,Koramangala,Bangalore,Debit,Merchant_39,Health
+cef3a60a418ee526d4a2c8924328b637,cf09b0964071c61c895ec28cd7f02340,395.34,2023-04-30,Failed,KOR285,Koramangala,Bangalore,Debit,Merchant_48,Groceries
+30a922246fe213f22f9257df013a295a,51be1177636f6593f5ed4398cf918b58,744.27,2023-12-19,Successful,KOR579,Koramangala,Bangalore,Net Banking,Merchant_78,Groceries
+4bb79046a5c0796dde6768116012bba0,8d16a518cd4406a57353c256f19a7df1,928.38,2023-11-20,Failed,KOR886,Koramangala,Bangalore,Net Banking,Merchant_73,Health
+8028786e2b5ffc6ce55e9045ed4fadd2,7bfda02a6de28f46c218f73bed9dee6a,311.53,2023-11-13,Successful,KOR449,Koramangala,Bangalore,Credit,Merchant_80,Health
+c7f1812ebc89db654279c8ceba12f3de,b2b4ca39e8e911090ca13f95a0b53cd8,492.67,2023-12-14,Successful,KOR971,Koramangala,Bangalore,Net Banking,Merchant_35,Electronics
+722d10c5512f69124bfdb1ac2ac0c37a,1c378f4cd281ea01b8e35667f582e9a1,225.63,2023-10-19,Failed,KOR560,Koramangala,Bangalore,Debit,Merchant_52,Health
+184a994e8555b1c758f9f1f795c85f71,fd905272edc8e46bc4a371013dedea4e,301.67,2023-09-12,Failed,KOR924,Koramangala,Bangalore,Net Banking,Merchant_38,Groceries
+caad8dfb6a1a61d512fc2c78c205a806,eff2960dab697d82e543eb4a62e3a0bb,397.03,2023-09-03,Successful,KOR744,Koramangala,Bangalore,Net Banking,Merchant_67,Health
+20c8e3bc528d5570cffb2fcfaeffc984,06d46d698545563bac5dff05ed7e5097,344.64,2023-01-18,Failed,KOR878,Koramangala,Bangalore,Net Banking,Merchant_98,Clothing
+887c047a0b64055e6c2a4dc235814f4d,7cda2dcfd0fe2de577e0ee23c6970154,446.99,2023-06-26,Successful,KOR836,Koramangala,Bangalore,UPI,Merchant_49,Health
+830f35130a67307b7e62285939785715,fc40761bf67ce7e6f5e34aa37929db93,50.25,2023-09-29,Failed,KOR445,Koramangala,Bangalore,Credit,Merchant_63,Clothing
+d096621da58b6937d651272694175425,819b59bb7313ccce7e1f81ddaf2d8215,496.69,2023-10-26,Successful,KOR164,Koramangala,Bangalore,Net Banking,Merchant_1,Electronics
+5a95500184c560ef9ec40f8253560f93,a893eb0cb93b6ee22eeb17ef996321a7,428.4,2023-03-20,Successful,KOR507,Koramangala,Bangalore,Debit,Merchant_76,Electronics
+d2dc3c464ca5178826b94336272449d5,db48068b9b6fd5a4d156b34726562a17,56.08,2023-08-12,Failed,KOR462,Koramangala,Bangalore,UPI,Merchant_44,Clothing
+946f34e294551606434b6f25ead12367,19ca0a0d2403723850aa395dccfb543d,98.14,2023-02-06,Successful,KOR535,Koramangala,Bangalore,Debit,Merchant_47,Clothing
+5e7d7448955c24f70e5e42f670d3a62c,2c13768da435572b09ca0c45fd552bfb,250.7,2023-07-20,Successful,KOR711,Koramangala,Bangalore,Credit,Merchant_76,Health
+260136f17180ed5e37b7d8f42c4a8bc6,01df927b6b060713668fa41f1cb227be,143.48,2023-07-27,Failed,KOR648,Koramangala,Bangalore,Debit,Merchant_80,Clothing
+94eb948796a242a91914dd34edd4a3d8,ac28d6d66bf0d6866360cf22225a7277,387.95,2023-12-14,Failed,KOR128,Koramangala,Bangalore,Debit,Merchant_24,Electronics
+eced4d26a3ab257ba187d260a5b15723,ff2e26f046a1d3d96156d43992dff5bf,316.23,2023-09-03,Successful,KOR478,Koramangala,Bangalore,Net Banking,Merchant_64,Health
+f82e62b51b91c616debc4e2be976f1ec,c45e93e5bf78a4f17a926bf90a2c39fc,666.2,2023-03-12,Successful,KOR293,Koramangala,Bangalore,UPI,Merchant_37,Clothing
+b099de27eb9d5c6e98abf10bcc05829e,469291941969e344721f5b6513127c2c,539.26,2023-12-27,Failed,KOR924,Koramangala,Bangalore,Credit,Merchant_53,Clothing
+50e33251927ab430a257c70946ead2f5,10ec9aba47277be036a08f7653663c4e,327.79,2023-05-20,Successful,KOR137,Koramangala,Bangalore,Debit,Merchant_90,Electronics
+18a5bccc8c35f10f39a145d2e98a7b91,9a6e406e16d374c8c3c0875a52c1a027,333.81,2023-07-15,Failed,KOR442,Koramangala,Bangalore,Net Banking,Merchant_80,Clothing
+f816a136beb1e89341916f4ef41e64dc,d61f4e89b7da73d11c700e4df365f8ac,714.84,2023-05-22,Failed,KOR496,Koramangala,Bangalore,Credit,Merchant_31,Electronics
+2e2ab1e62d2e618b45728befb452550b,65933257405e2f95a0df7ee203225054,446.24,2023-09-03,Successful,KOR772,Koramangala,Bangalore,Credit,Merchant_52,Groceries
+a8646ab527150f78371aaa3c777359d2,30d0bd495e21ec9c532431c1f36bd350,421.46,2023-06-28,Successful,KOR545,Koramangala,Bangalore,UPI,Merchant_98,Groceries
+038bb8960fe245856ea6b6405e427fdf,75dd3081cf786a9baec65d20f6d1c6c7,256.26,2023-06-02,Failed,KOR785,Koramangala,Bangalore,Net Banking,Merchant_67,Clothing
+68b30c482ed84fd5c65b57fe45e27e61,80ef1200d13c2122548187d04546417a,633.85,2023-06-27,Failed,KOR967,Koramangala,Bangalore,Credit,Merchant_51,Electronics
+a46f7017b7882f88490ee6fc682ec377,79161cc21fe3ac0476f023644b69bdd8,564.47,2023-10-22,Failed,KOR925,Koramangala,Bangalore,Net Banking,Merchant_7,Clothing
+d21f7c2d46bfece07abcc51d183533a6,b4a1044b834d7189e6f69deb0631e576,238.63,2023-09-08,Successful,KOR532,Koramangala,Bangalore,Net Banking,Merchant_68,Clothing
+e4b98b3b078a98d68201302d8629b5c0,564e8a316cf8ca92c95fb019faa702ae,887.56,2023-10-13,Successful,KOR895,Koramangala,Bangalore,Debit,Merchant_29,Electronics
+31d4cdd08fbef9aeadd682506e596522,074db4ace90b2fa340053afea8e7f6a0,536.37,2023-08-02,Failed,KOR936,Koramangala,Bangalore,Net Banking,Merchant_21,Groceries
+2c62a7a21d28374022b61934b8083762,f5ad08217dbbe7bf821c1a6cb62a1283,778.14,2023-03-03,Successful,KOR461,Koramangala,Bangalore,Credit,Merchant_72,Electronics
+fa9b33bacf165cdfc9c0908bb48f388c,f8a57e3aab2f70b62cd32b110f3e5626,837.9,2023-11-18,Successful,KOR308,Koramangala,Bangalore,Debit,Merchant_22,Groceries
+b9e3d912de93055cf25d8796d39a60c4,536a5b59693c6c9fae351b786e9f4827,280.87,2023-11-09,Failed,KOR543,Koramangala,Bangalore,Debit,Merchant_16,Clothing
+a2f7f7845d860c5fc5b5364b8132e6b2,9d27a6ccbfbf5c07a1b5952ddd98d0ae,786.33,2023-01-20,Successful,KOR249,Koramangala,Bangalore,Debit,Merchant_89,Electronics
+0e80a07a8dedc0f4a62f5bb70b0f163f,910b57feb4a0afd2956956ec5f8fd0e6,351.05,2023-08-21,Failed,KOR690,Koramangala,Bangalore,Debit,Merchant_46,Health
+132baa6d139e3f64e9e9dc2bab91c7e2,2eaf90bba9d61b0ddd7bfff87c7763b1,144.75,2023-10-01,Failed,KOR915,Koramangala,Bangalore,Debit,Merchant_51,Groceries
+34c93ac2fddba3c06a5510daeffcc357,6a6eccbbecdcbcaaa98f66f121d7a9f6,379.23,2023-01-02,Successful,KOR530,Koramangala,Bangalore,Credit,Merchant_29,Health
+0c4ec2ea506b8db03ea3aed44d097aed,4c5373edd3bbd74db06ca717d6b08ddf,613.76,2023-11-05,Failed,KOR671,Koramangala,Bangalore,Net Banking,Merchant_18,Health
+15a87588455ef3e9f04136dbadd59c09,c386b9153e9a0512de0d28edadfb5ca6,22.41,2023-11-17,Successful,KOR681,Koramangala,Bangalore,UPI,Merchant_45,Health
+f648c415f1b806a4cdb1d39315db1de8,53aa2c4df93ca5cacf372c1ad6c7220e,631.18,2023-01-22,Successful,KOR472,Koramangala,Bangalore,Net Banking,Merchant_95,Clothing
+5814cbb7c2b24378385c8727883dd409,38d13390827593454ae4c8f8537abd35,947.46,2023-05-28,Failed,KOR403,Koramangala,Bangalore,Credit,Merchant_54,Clothing
+9074d5523c6fc2699e1b784029d5a8cd,551ed7905fb1a911e29b038e59165291,299.35,2023-02-23,Failed,KOR373,Koramangala,Bangalore,UPI,Merchant_24,Health
+2dd9c0352229d0d8998616e742a8011e,fe566696553556a340cf9862afe0fe7b,900.92,2023-07-09,Failed,KOR210,Koramangala,Bangalore,Net Banking,Merchant_69,Health
+ed1fd29ea1069eec11bf1e436c4f75e3,38a8986829c229cc8baa98cffe3e5678,489.2,2023-10-23,Failed,KOR753,Koramangala,Bangalore,Credit,Merchant_66,Health
+227d602bc1eeebafa094f12e8738fa83,b3b26e9eda15f57e3447698b2d7b7dea,844.87,2023-07-06,Failed,KOR401,Koramangala,Bangalore,Credit,Merchant_95,Clothing
+6d5d3d6891ba6fde24317e22711ddc5c,401517bb200213487afff2cb862c210e,801.9,2023-03-29,Failed,KOR122,Koramangala,Bangalore,Debit,Merchant_88,Clothing
+84936d4292c0c584fa252d78bcfa1b60,cacd26c93dfb3528129615ba701f5662,662.15,2023-04-30,Successful,KOR126,Koramangala,Bangalore,Debit,Merchant_9,Groceries
+e52b2c1781a5413225e1d112f3958958,bc52b9906fd59d64a6764d2f7c0d0bca,925.03,2023-06-28,Failed,KOR949,Koramangala,Bangalore,UPI,Merchant_62,Groceries
+fe8e0aab07d1925ef78c67becc7799c3,5cda45babe35a06cbc7adc10d3a3cee1,328.74,2023-03-10,Failed,KOR177,Koramangala,Bangalore,UPI,Merchant_25,Groceries
+915af51fdd5f418a3eea0ae3327b2754,d6e7c27441f173896b5141123d46badd,739.81,2023-11-11,Failed,KOR548,Koramangala,Bangalore,UPI,Merchant_92,Groceries
+0e2300f1c8cd3b7e7a16288bcf5968ca,364ef19428aa20c064043b232f9c0333,511.21,2023-09-04,Failed,KOR339,Koramangala,Bangalore,Net Banking,Merchant_47,Health
+24bfa3f46c1914613275b0d690b74b2d,a94e5ada0db45661987983389de06045,190.47,2023-02-24,Successful,KOR269,Koramangala,Bangalore,UPI,Merchant_16,Clothing
+8416dedfd81e025c37e3c2d3ba6d630f,096fba0bfe1f95504153dcc7a1a9b61b,364.32,2023-09-04,Failed,KOR947,Koramangala,Bangalore,Net Banking,Merchant_77,Clothing
+b64b945c9bef7764890b500cf14f1350,b0606bb8c035dfcc83ff6672c993a1dd,651.58,2023-11-04,Failed,KOR316,Koramangala,Bangalore,UPI,Merchant_32,Electronics
+fddd2ac62dcc98b0bcad041793bd472b,7e1e2917cd11b8fc3a6e621e6db82346,377.78,2023-06-17,Failed,KOR201,Koramangala,Bangalore,Credit,Merchant_60,Health
+140c092441d35d27b23cdedfa0473413,b7a13944d3a2a71aa733b900a4a11e60,732.62,2023-12-08,Successful,KOR302,Koramangala,Bangalore,Debit,Merchant_57,Groceries
+506a02c301e6427b4273ab0f1fa2c91f,d09493772a1a6847f663fb8e18cf3e1e,545.22,2023-09-28,Successful,KOR861,Koramangala,Bangalore,Net Banking,Merchant_32,Health
+51781685fde30945f384ed3b16f7795d,7b0687fd7fb51e5ec845e9cc3395e13a,790.81,2023-08-20,Failed,KOR417,Koramangala,Bangalore,UPI,Merchant_14,Groceries
+d12201e674031ef4954b573b7e090d60,188d3d70004f1a3e9c9a31978f516807,693.3,2023-12-31,Successful,KOR838,Koramangala,Bangalore,Debit,Merchant_49,Health
+4ca70defa994c2e3f1dd75479a68248b,d27c86fecf5bb85bb28d0f6af69c8138,415.13,2023-06-17,Failed,KOR877,Koramangala,Bangalore,UPI,Merchant_65,Electronics
+3416c4d258d6bf9eba5f7a913371297b,5e90a52e890dbd148bfa4652f046df8a,965.44,2023-03-28,Failed,KOR189,Koramangala,Bangalore,Net Banking,Merchant_57,Electronics
+70f2ab530c1e91537ae4d9598794560b,93dfa04593859bb89e8dcd3be9bffeb9,678.25,2023-04-15,Successful,KOR232,Koramangala,Bangalore,Net Banking,Merchant_15,Clothing
+746610b322733b7e14bd794ce6ef04a9,955fcaaa8769b61cb24a8b6b65f0786f,958.32,2023-12-05,Failed,KOR114,Koramangala,Bangalore,Debit,Merchant_22,Clothing
+e7bcda89c4e81615328311ea2fce498d,1fd5504ee0c59f15c3f4d5b5e0f43f38,162.43,2023-02-03,Successful,KOR381,Koramangala,Bangalore,Net Banking,Merchant_91,Electronics
+de090f329ef6c93bc641239462031b36,39582bf97bd978644c53ecedac229fc9,318.69,2023-06-12,Failed,KOR244,Koramangala,Bangalore,Net Banking,Merchant_60,Health
+50bdee30a3a619f0ede1ee99232e598e,09ecbe858f3f01146535a6935d9442d1,593.75,2023-10-24,Failed,KOR679,Koramangala,Bangalore,Net Banking,Merchant_74,Groceries
+283d8453738c92fcbd3239f91251ad94,15e77d7128b57490a310dcbb6070fc9b,335.24,2023-02-13,Successful,KOR345,Koramangala,Bangalore,Credit,Merchant_8,Clothing
+a4c709b3f5bcd86a5a54ae92e0a1d155,823c94d9a5089fc18285db1f7807630c,104.6,2023-08-23,Failed,KOR615,Koramangala,Bangalore,Debit,Merchant_77,Groceries
+74d1178b71a4026047e46c0572e7f031,ab7cda4a157256623db237bdfffbade7,368.67,2023-04-03,Failed,KOR748,Koramangala,Bangalore,Debit,Merchant_90,Groceries
+2d217269e471fb101da276bf7e83a5ec,689b2bd23746ef4d0ed0c293714f5a99,401.51,2023-12-21,Successful,KOR369,Koramangala,Bangalore,Credit,Merchant_14,Health
+dea8bcfdbe7f9fb36d13be564d0aa651,2c05de970ee9a17f4df4c05bcbbab6fc,883.37,2023-11-01,Successful,KOR626,Koramangala,Bangalore,Debit,Merchant_83,Clothing
+39e45523f3016c109b881938fd7450ce,d4b46818f60a988fdecfd8ef59342366,653.17,2023-08-11,Successful,KOR531,Koramangala,Bangalore,Net Banking,Merchant_67,Health
+092a7ea1088f81c35f455ca9bea6ca8e,ed72dc534529a54a241b89f88ed303d0,389.33,2023-04-19,Successful,KOR385,Koramangala,Bangalore,Debit,Merchant_79,Groceries
+ffaf49cbd86ffcc997e3cc731e712d4b,ef20124036b1c41d79a0bbb60645efa1,730.76,2023-12-11,Failed,KOR406,Koramangala,Bangalore,Credit,Merchant_26,Groceries
+00d98de394804c20abeab075b522962a,f9b68471b86271531fef1cea806f70c0,168.38,2023-06-15,Successful,KOR627,Koramangala,Bangalore,Debit,Merchant_90,Clothing
+3183fdec4d2fb86947ffc43239240f81,386cd266835125879d000b25728edd66,852.17,2023-03-09,Successful,KOR855,Koramangala,Bangalore,UPI,Merchant_21,Health
+8583b61fb73e0c6b33f3c43aa3850b76,4d489cc7d0effb3002e88c8acce690f9,661.13,2023-10-07,Failed,KOR835,Koramangala,Bangalore,Debit,Merchant_66,Clothing
+84ec1df748351653a3c51db26b24d6f5,d1085310902ae8d698e85645edea92fd,340.52,2023-07-13,Successful,KOR493,Koramangala,Bangalore,Credit,Merchant_81,Groceries
+1791c6185cb8040b1462be2e7a5179aa,828d7c3c15849aa2752819b1a23acdb0,608.8,2023-11-17,Failed,KOR300,Koramangala,Bangalore,Credit,Merchant_84,Health
+3556be4560642ee583ffb41512b5c752,4318be38b396fedbcccf1ee557fe3a3c,170.79,2023-06-30,Failed,KOR825,Koramangala,Bangalore,Net Banking,Merchant_11,Groceries
+c8459cd79ec41c373267479fa4ecd4a8,d26a0fb04aa1a52ba17bc42969ffdbba,997.47,2023-11-04,Failed,KOR944,Koramangala,Bangalore,Net Banking,Merchant_58,Health
+a2c1bcbce463f5461bd0859d37b8d49c,00f3a0eb47b83ac259f626f584283c52,154.93,2023-05-24,Successful,KOR372,Koramangala,Bangalore,UPI,Merchant_64,Groceries
+280762b1f1d3b40634a65582360a20cd,93b0de180eabd829c1c7249c80620e7f,902.51,2023-02-13,Failed,KOR481,Koramangala,Bangalore,Credit,Merchant_50,Clothing
+c44081c1fda7d54691def1d7a0fceee9,62b92ab7e6c914f717dbd660441ee3ad,445.2,2023-12-09,Successful,KOR891,Koramangala,Bangalore,Credit,Merchant_16,Health
+1cfd041a980959fab1af5c1daabb98dc,43e9ce93df44befceb8d1d76b11a5286,372.28,2023-05-31,Successful,KOR130,Koramangala,Bangalore,Debit,Merchant_50,Electronics
+d0624e7cd0a4fb0b4ee5894b4f8b6acf,983a5e81e553d45a3009ff11c69d613c,699.23,2023-01-05,Failed,KOR345,Koramangala,Bangalore,Debit,Merchant_72,Clothing
+2588e6b1743412958e6a7d37bad480d6,ee6e7b94e753116305be2d90b5ff369a,485.09,2023-06-29,Successful,KOR594,Koramangala,Bangalore,Debit,Merchant_50,Health
+d3bab2e0a87b31830ff3bbf62e12bb62,b8d55e098d63be295308fedb9e9dd0f8,502.97,2023-09-16,Failed,KOR996,Koramangala,Bangalore,Debit,Merchant_52,Groceries
+5d322a024e062bda3772e163543b6fa7,1b6fd328f94d80d0660fe267e6a908c3,535.92,2023-09-14,Successful,KOR118,Koramangala,Bangalore,Net Banking,Merchant_68,Electronics
+509486ca40e6090347f3a3e5895cb0d4,a79ff7a3c627089747e6546cff7c3903,516.45,2023-05-11,Successful,KOR215,Koramangala,Bangalore,UPI,Merchant_26,Clothing
+16e8906866f6014a7b91f84a3d02ad7a,41de914ef125a889d57a0077f3620153,253.61,2023-01-01,Failed,KOR717,Koramangala,Bangalore,Credit,Merchant_67,Electronics
+cb13d86d71ee9a5248a724774fa62de0,9e5780f5c29d5c8b95282b869069b121,526.17,2023-05-02,Successful,KOR600,Koramangala,Bangalore,Net Banking,Merchant_99,Health
+3a3bee155e8a527f737cebb0ec9a6b53,97c66a338ed4ef1ad66173ebb2fbf12c,886.67,2023-01-14,Failed,KOR253,Koramangala,Bangalore,UPI,Merchant_91,Electronics
+b09f892961e4b8e9a49dd68ee81448ff,dd79a844917aae6d643f5be596c37357,324.58,2023-02-07,Failed,KOR170,Koramangala,Bangalore,Credit,Merchant_30,Health
+35e2010b3a0d5c1b3ad4c90741aba681,ee182d04467dc81a5c22864eb75a5b85,137.48,2023-04-08,Successful,KOR355,Koramangala,Bangalore,Credit,Merchant_33,Health
+cfd9a0a60e52d91babaee7bdb1e4ebe7,58f344fa301260b8c11cdd908d32d4d3,937.88,2023-06-12,Failed,KOR466,Koramangala,Bangalore,UPI,Merchant_55,Groceries
+afeb7a14d5d8daa7f1bdc18bb00441eb,367c79e89dc748bf941383febaf1a554,77.52,2023-02-25,Failed,KOR681,Koramangala,Bangalore,UPI,Merchant_51,Electronics
+76ed0706864a7d57c85608385bdd09ba,026fee8115b4aa37218909bf8dfd5c6d,842.88,2023-10-24,Failed,KOR811,Koramangala,Bangalore,Debit,Merchant_100,Clothing
+d03a6223377eea95115b3248403896de,91389526ca8493aae7da7c3598c0f1c0,379.33,2023-08-30,Failed,KOR973,Koramangala,Bangalore,Debit,Merchant_8,Clothing
+fe3f33a7b997d75a5253e5125c3da300,abc07208044b004ec4e20cf602d5d2ea,337.64,2023-09-05,Successful,KOR204,Koramangala,Bangalore,Debit,Merchant_14,Electronics
+99aaac07a35badff2c5d1a4c34e75b80,28fb5448b5cb7cd47f2014192f461dc6,888.27,2023-02-14,Failed,KOR605,Koramangala,Bangalore,Net Banking,Merchant_59,Health
+0edc0c918ef9c721354f0b26e0dceb99,2e94f0c8450f2ccec453b029668a0891,848.29,2023-06-26,Failed,KOR876,Koramangala,Bangalore,Credit,Merchant_71,Clothing
+568f5a072f26836845d4ff9ba90bba4f,2a15e40704ff7881acfc5047ca209e01,565.78,2023-07-28,Successful,KOR208,Koramangala,Bangalore,Credit,Merchant_33,Health
+63edb9122b0c8b9a2c60a9338c6ec042,39085bb2d4a63707b7512ca9783e8db3,389.76,2023-08-22,Successful,KOR869,Koramangala,Bangalore,Net Banking,Merchant_5,Groceries
+b14146d724335278a8c6490c4cc846e2,e34330e07d0fc4416895644541d5c61a,319.96,2023-12-12,Successful,KOR675,Koramangala,Bangalore,UPI,Merchant_57,Clothing
+152d1c603f767813591d4e9f87a2b668,6dbbd596977ba75cf39f9a9471ff49f3,444.1,2023-02-03,Failed,KOR377,Koramangala,Bangalore,Credit,Merchant_61,Groceries
+b80b890cfa2b30b5c2500a76dee5fb35,21195977603e2854f9139ff8ed3af24e,668.92,2023-10-18,Failed,KOR475,Koramangala,Bangalore,Debit,Merchant_28,Clothing
+f1025ee34d9db8b190eff6bb09057c14,c04123f830bd42a2f04d2d9aac4ee3e2,876.84,2023-03-16,Successful,KOR125,Koramangala,Bangalore,Credit,Merchant_90,Clothing
+ad481d019d92926130fc75f330d09ae9,d31fc3bc5cbcaada38428c2589fb6082,201.29,2023-03-26,Successful,KOR901,Koramangala,Bangalore,Net Banking,Merchant_25,Electronics
+985556baeaed16a2a6b9dcd8c832f29f,f41514a870542251ad805d2acfce073a,601.28,2023-03-07,Successful,KOR975,Koramangala,Bangalore,Credit,Merchant_1,Health
+bae1a03541fb033f79ed018803719912,c027af3f5ecf8fe9c1ed7bda2c1ffda1,290.26,2023-04-22,Failed,KOR202,Koramangala,Bangalore,Net Banking,Merchant_86,Groceries
+bdaedcd67d03750b1424541f842763bb,d7197b61127ec2ee87fd8dc3d225fefa,324.7,2023-05-10,Failed,KOR735,Koramangala,Bangalore,Net Banking,Merchant_5,Groceries
+17935214f1b51f1df28c9fb875094071,037998d53944c829ca8243183058a451,21.69,2023-10-08,Successful,KOR828,Koramangala,Bangalore,UPI,Merchant_53,Health
+990e78e433b1305db8007ca20bb9398b,41693051fe63ade076aada2fad086a7a,76.48,2023-08-21,Failed,KOR634,Koramangala,Bangalore,UPI,Merchant_32,Health
+ea8eff07f607224dd25de44da6b23173,2f288ce4a83a079480f2c0768c80e7a6,730.2,2023-10-03,Successful,KOR862,Koramangala,Bangalore,Net Banking,Merchant_62,Electronics
+edaeb6b789ae6f727fc1d6c451453f70,835bf92e6d6a096425d6e09bab098361,708.66,2023-11-23,Failed,KOR738,Koramangala,Bangalore,Net Banking,Merchant_41,Clothing
+a8900183ffc2a0035768aa1d1c0e332b,c2f126eb7464836054d74893016475e1,620.27,2023-10-05,Successful,KOR622,Koramangala,Bangalore,UPI,Merchant_43,Health
+54b5ed9a652258a894e37099fd7c053a,03dc8dffee35ad8b191b8e01124788c5,674.37,2023-07-01,Failed,KOR460,Koramangala,Bangalore,Debit,Merchant_72,Electronics
+f8eff19fbaa2436477349845e3910ad6,194243a5fd8612ab062deceb141a336a,473.83,2023-01-14,Successful,KOR875,Koramangala,Bangalore,UPI,Merchant_45,Health
+6ba502ff07db5ec79497b03beedbeba2,2e76b59bffd61533a8b027acb1c81510,707.05,2023-07-29,Failed,KOR983,Koramangala,Bangalore,UPI,Merchant_62,Electronics
+da2d81f41d646c97d0e25cad20ceee3e,362f835b4c80be2897f2996d0d1ceb0b,208.48,2023-10-23,Failed,KOR994,Koramangala,Bangalore,Debit,Merchant_49,Clothing
+36dcbb7db2a4d274848236e4c69fb3c4,0b9b96e683d77947503c6a4b7ccb5b0c,649.78,2023-10-30,Successful,KOR331,Koramangala,Bangalore,Credit,Merchant_27,Clothing
+696ba08da4c428001582ad2aed9b9c2c,15230960fa3a53d08d18f36ffd5f8009,429.23,2023-03-30,Successful,KOR127,Koramangala,Bangalore,Net Banking,Merchant_53,Groceries
+366768e5aed517b50182d8342b4cba91,b9bbc0a78b2f39736be11f2724f4050f,820.94,2023-04-28,Failed,KOR497,Koramangala,Bangalore,UPI,Merchant_92,Health
+92e24b5ffdd553bd06901eca90062208,4a5cfffae68922db0ddce80d640574f4,745.64,2023-12-13,Successful,KOR751,Koramangala,Bangalore,Net Banking,Merchant_81,Electronics
+bf9e67c9d3030fb373e93050b548e7ec,b3d4e144aef6ca6ad08f9d9aed52c7bf,916.32,2023-09-17,Failed,KOR250,Koramangala,Bangalore,Net Banking,Merchant_59,Clothing
+09963165ce11a27d73876ca4cd1e425b,70b079c32035866d096999584804b3d5,705.95,2023-05-20,Failed,KOR571,Koramangala,Bangalore,Debit,Merchant_61,Clothing
+3353da04ce1b95e39fe939fb0ea60e4c,834a128fe5541aa05d7f838757cf9465,392.89,2023-10-24,Successful,KOR728,Koramangala,Bangalore,Credit,Merchant_70,Health
+ad3d3fa3c92feb5ba14ac8bfda691919,2942b05aef6df401ce2affa8dc4a8f56,92.17,2023-05-24,Failed,KOR628,Koramangala,Bangalore,Credit,Merchant_20,Health
+11156a32fc00c8706336242e65d89705,164a6e5934aeb59017885468a04cec8c,886.78,2023-01-17,Failed,KOR124,Koramangala,Bangalore,Debit,Merchant_23,Clothing
+ccdc92179ab52f11dfd1d97a01317059,1ecb1ffed2d289d2f92b259cace48701,731.28,2023-09-15,Successful,KOR246,Koramangala,Bangalore,Net Banking,Merchant_66,Health
+a605fb2915cbb44fcba1b8970c840e4a,d0fe7e25206c4b95709d882cf8aa23b7,132.16,2023-12-07,Successful,KOR168,Koramangala,Bangalore,UPI,Merchant_50,Electronics
+749bfed226cb5b9c2cf162c918984357,a7725360cb41a0fbef953a9a687d915c,636.83,2023-01-20,Failed,KOR180,Koramangala,Bangalore,Debit,Merchant_57,Health
+ef791031ff1a43bbe6adce7b7f77bd42,47e0060a822960caecb21dabfd618b74,876.93,2023-12-24,Failed,KOR399,Koramangala,Bangalore,Debit,Merchant_38,Electronics
+fe4b24fec221b92cb31e7f567d6726ec,9d12dd5d920dd97de1a3c7c9f864ca5d,553.81,2023-01-02,Successful,KOR864,Koramangala,Bangalore,Debit,Merchant_63,Groceries
+9195fabaaf03b46d402df57a61793777,fca59fcedf2937e88422defe3f32098c,708.25,2023-11-21,Failed,KOR588,Koramangala,Bangalore,Credit,Merchant_90,Health
+23d558ab395e4a7baeb283c3fd6b6418,7d40d0f87eaa11c9abc568db5ebfc7c9,663.43,2023-02-13,Successful,KOR380,Koramangala,Bangalore,Credit,Merchant_61,Clothing
+713e2b042a3496bebd8fa686ea98f507,52dff7a93659957d5b4ec6aa56bb10f4,659.45,2023-01-08,Failed,KOR888,Koramangala,Bangalore,Credit,Merchant_13,Clothing
+8efcdf2cbb2e270d0deb1a40fcbbdcc3,705b45f17df15f82cddc9059883585af,642.51,2023-07-01,Successful,KOR934,Koramangala,Bangalore,Credit,Merchant_10,Electronics
+0ba676dc77ecfef0f0a5a3096ee9972c,e71fe7ecdf48ee486c64e13504752cb9,674.02,2023-03-19,Successful,KOR117,Koramangala,Bangalore,Debit,Merchant_5,Health
+2d153e1d4fe7627d239d77e0d597e3b6,7c6a06164377055575c53733883f749a,159.48,2023-02-06,Successful,KOR480,Koramangala,Bangalore,UPI,Merchant_39,Groceries
+7803154be3fa156e8fbc59f3463e6a46,9cd15ea9d3d082ae3b42500597975ee5,613.98,2023-04-25,Successful,KOR332,Koramangala,Bangalore,Net Banking,Merchant_8,Health
+b0abf64e25b3f0dfc19a5345d9e46b56,a765dc080a03fa83ab648e26fa89de94,447.27,2023-08-22,Successful,KOR199,Koramangala,Bangalore,Credit,Merchant_65,Groceries
+21fac05e9b1e1ff83cf6f63ca4506794,a801b5b9b611a5aa866cbe7cde30aafc,315.49,2023-02-01,Failed,KOR240,Koramangala,Bangalore,Credit,Merchant_36,Clothing
+2a992e99d2bcabd7a76c847166fd415a,571eac6fa5b8fc2e9d77c97988f3f46d,134.76,2023-05-21,Failed,KOR659,Koramangala,Bangalore,UPI,Merchant_90,Health
+d6409412121c451e67f52ba8707c693e,f0d65a84edbcaefcb337c86ebd5285d6,983.88,2023-06-18,Failed,KOR640,Koramangala,Bangalore,UPI,Merchant_94,Health
+67bd538d93465f68586f614b9c3420ce,4c23ce0675a9f36e830c6ce5f659163c,541.32,2023-10-26,Failed,KOR380,Koramangala,Bangalore,UPI,Merchant_4,Groceries
+c6ced0eadda14c7b5b2abcd9426e481c,53f3b72b0c57b23993faa6c20e385c69,15.95,2023-09-01,Failed,KOR329,Koramangala,Bangalore,UPI,Merchant_85,Groceries
+3da3c442861098e1682844ba63c72927,7490cd5b15002d06d581ae040b83b4e1,680.25,2023-10-12,Failed,KOR407,Koramangala,Bangalore,Net Banking,Merchant_92,Electronics
+7024a909178f93a9b66f005b9d1d4cfa,5170e02bf2f4a46cee9321afa59b6b2f,524.28,2023-07-17,Successful,KOR769,Koramangala,Bangalore,Net Banking,Merchant_54,Electronics
+984ec8e37140c6cd0bbc97046e4b875a,abfc660cdaae2c7ccddabd93148327a2,31.73,2023-12-03,Successful,KOR719,Koramangala,Bangalore,Net Banking,Merchant_87,Clothing
+3c98e3f13bc33c5bd10908feec20c1d1,5ca53e9661a73d1a862eda09e781f0e1,910.33,2023-11-09,Failed,KOR392,Koramangala,Bangalore,Debit,Merchant_64,Clothing
+168db21d91d34ebb56c2c87144309020,6b41a6e299db563e4cec29cc8c25a607,789.65,2023-01-09,Successful,KOR602,Koramangala,Bangalore,Debit,Merchant_18,Health
+b3f96fe91f744799b63d55b4e6a9c720,b4b1d46f27a9fd9e96e92052f5b40754,951.41,2023-09-13,Successful,KOR903,Koramangala,Bangalore,Net Banking,Merchant_58,Electronics
+c59db0f25f9c6a4589e6afed4d121649,4ba4b26e46bba4687bf0d0c0efcaacc5,977.24,2023-12-24,Failed,KOR871,Koramangala,Bangalore,UPI,Merchant_80,Groceries
+46bb6ea99f76723966af700dcee0d71a,0cf60b2d31e49a1fb3ac4809c23d5680,497.51,2023-12-11,Failed,KOR840,Koramangala,Bangalore,Debit,Merchant_21,Health
+4464fcb2090e483e06cdf90ce030fb52,6da7e648f206550e99e45265958a6464,832.83,2023-07-21,Failed,KOR751,Koramangala,Bangalore,Net Banking,Merchant_76,Clothing
+36bb4ce00db522bac867ed85ce09420f,1eb183bbab3a822c27830a7c1a6229dd,189.28,2023-05-17,Successful,KOR758,Koramangala,Bangalore,UPI,Merchant_69,Groceries
+994cb206875a08ebeee72e65cee437b0,e8d129c07535053096239ff9d6b3b236,656.66,2023-09-19,Failed,KOR578,Koramangala,Bangalore,UPI,Merchant_100,Groceries
+e750597c94506b4073895cc3d6c96e7b,d31cba3b2c3baa7831f38043a37f1394,275.77,2023-09-09,Successful,KOR249,Koramangala,Bangalore,Debit,Merchant_2,Health
+de2cc9e14d8f060bbc719b1ff5d30945,9106f9562eb78e442fca7f2901a04e86,988.55,2023-09-09,Failed,KOR544,Koramangala,Bangalore,UPI,Merchant_24,Health
+a08a25559a7bd40252d93cec3bdeeed9,84a086da7d4b6912f168e4a396624ed2,404.41,2023-07-19,Failed,KOR310,Koramangala,Bangalore,Credit,Merchant_1,Clothing
+ebc53abf992be54f6430175b7cca4cee,a860c93df834fd1dd7c5d653652da80c,282.16,2023-09-26,Failed,KOR738,Koramangala,Bangalore,Credit,Merchant_55,Health
+e248f334b6501572879ae33862b12473,43bf50d8869af376e27ea7260a2c6e5a,961.37,2023-03-09,Failed,KOR226,Koramangala,Bangalore,Net Banking,Merchant_18,Electronics
+6955263173862acc6d7e5bb7033cedf3,9b88868ed1bc67aeba8f41abba360631,910.85,2023-06-04,Successful,KOR342,Koramangala,Bangalore,Net Banking,Merchant_23,Health
+74fcba1573d4a7df482c5c26b6c1f122,3ce4c8584d6f8ca86b60da38b3b723d6,738.86,2023-04-25,Successful,KOR251,Koramangala,Bangalore,Credit,Merchant_92,Electronics
+f60c4c5089cefbe1690e08ec54cf182c,d06d081653420f6fe8ebf63758d8aec4,213.44,2023-11-30,Failed,KOR568,Koramangala,Bangalore,Debit,Merchant_42,Electronics
+5155c3b89214194badcc1abb766cce19,13b6e405fea6adef69ff75307e1fff83,404.22,2023-06-08,Successful,KOR839,Koramangala,Bangalore,UPI,Merchant_5,Electronics
+03edd467d904bb51067e1c788a86d4e5,778da7fe3925a58c6c40e1be4067d845,939.58,2023-05-08,Successful,KOR344,Koramangala,Bangalore,Debit,Merchant_35,Electronics
+c5b3d5d6546ac7a5a076847559b614e7,4b8c0ef689f684a4cc3edf1f9db3830f,210.37,2023-04-12,Failed,KOR325,Koramangala,Bangalore,Debit,Merchant_87,Health
+cd676ccd3728a1a1d556d98c14d3a38e,8fae440817b6a4eef9128f6076f053f9,909.5,2023-11-15,Failed,KOR603,Koramangala,Bangalore,UPI,Merchant_89,Clothing
+526c1795eede796eb6e346e4e84a3dfc,c5e976b46829804ce9c52bcd56939389,243.19,2023-06-03,Failed,KOR861,Koramangala,Bangalore,Net Banking,Merchant_12,Electronics
+f0f15db58a719948323aab2af0b44a18,cc67f3eb88b7c9357ab5bf2d7247396f,594.65,2023-11-22,Failed,KOR855,Koramangala,Bangalore,Net Banking,Merchant_57,Clothing
+550238aea862434d1071996982d6ff4d,e69a10dd57fd34f1484b1d2ad11751f6,700.16,2023-01-24,Successful,KOR191,Koramangala,Bangalore,Debit,Merchant_43,Clothing
+0cac5f1804d0f1f89aecf54a09e67432,5535a2147b7957a99ac578c9b65ccfd2,822.89,2023-04-08,Failed,KOR980,Koramangala,Bangalore,Net Banking,Merchant_23,Electronics
+d0e197c7f28e0aa9795430d405e3ee78,7ee1ce1c643056dc8108f9123847dd00,277.99,2023-08-28,Failed,KOR460,Koramangala,Bangalore,Credit,Merchant_48,Groceries
+7e28b8dca1bf55ab8432a738f47f378d,f486e7bc7975edc8af5820b300ce29de,107.02,2023-03-30,Failed,KOR446,Koramangala,Bangalore,Credit,Merchant_48,Clothing
+6289a3daaa13a94b332a7281eb713330,154735fdf0bf92b7db4174f779aa58d0,247.68,2023-10-19,Successful,KOR260,Koramangala,Bangalore,Debit,Merchant_37,Electronics
+c0dbfb6053e2971dd7d66b8de04304ca,573e877f52dc8bb8d0abee2415fc21c5,783.75,2023-05-27,Successful,KOR166,Koramangala,Bangalore,Debit,Merchant_82,Electronics
+56aecd05223d3a1f2373167240f6bc0c,8f71388a0003b10b7747c4f615d8d8f5,349.29,2023-10-31,Successful,KOR935,Koramangala,Bangalore,Credit,Merchant_38,Groceries
+5f7044b18e8cbf5d197a63e0bc9b8ff4,817b40147ab507e3759d4d80969ec01d,730.07,2023-03-30,Failed,KOR123,Koramangala,Bangalore,Credit,Merchant_31,Health
+151b1078b63a8ca8ee6afa77f90c3b62,9761d0c8c8fa78d753c167dbbee8edd4,695.87,2023-01-22,Successful,KOR926,Koramangala,Bangalore,Debit,Merchant_5,Health
+cf27bd2d1dcb04b5579906b04609b1a5,bb1b2af11319a26a80aca24d72432cf6,454.57,2023-06-24,Successful,KOR786,Koramangala,Bangalore,Debit,Merchant_44,Groceries
+219979221ba14295819b62300facd1cf,a0e04600882e08d5449e71835355d9e3,239.77,2023-05-21,Successful,KOR122,Koramangala,Bangalore,Net Banking,Merchant_81,Groceries
+5060c1ad20be2f07ec76a22f5fe323ad,1b4ff115e0ef37390c8e926df0ec20d3,998.23,2023-09-14,Successful,KOR339,Koramangala,Bangalore,UPI,Merchant_2,Electronics
+d04cd78fbd81afbd41fcaa5988bddcf3,9a0ea318bc03e6fc368cac38a71e7686,657.59,2023-03-09,Failed,KOR413,Koramangala,Bangalore,Debit,Merchant_100,Clothing
+578b4eab9f9aae3295234bfd2be2d9e0,e9ee8ae7c1e8ebb0851979f75821973b,307.47,2023-02-23,Failed,KOR372,Koramangala,Bangalore,Net Banking,Merchant_86,Health
+80ab34a8b09e490bb8a850230c057ee9,a3499efc90b01f1761e9e887c03510e7,629.97,2023-06-02,Failed,KOR733,Koramangala,Bangalore,Debit,Merchant_5,Groceries
+b347f80b5807b423cb0d9aa639aab93e,e08d879f9255302b896bd38271f08ea1,70.0,2023-03-25,Successful,KOR559,Koramangala,Bangalore,Debit,Merchant_84,Electronics
+2f8f3f1d77e5a2a82efd2189107956d6,8d9a7e326c707fec96b8ab6da6f596b9,554.36,2023-06-23,Failed,KOR944,Koramangala,Bangalore,Credit,Merchant_58,Electronics
+aa21d1e872d88e1d86fa5d56316799a1,8dc22dc274b02412a6ae94c5c8e9be72,980.49,2023-12-08,Successful,KOR383,Koramangala,Bangalore,Net Banking,Merchant_75,Clothing
+5cc4428909dcfd82d875b1f82ac614e5,6cec5751a2b35fb6264f8fad45a417c1,427.42,2023-06-13,Failed,KOR837,Koramangala,Bangalore,Net Banking,Merchant_91,Health
+3c6d002fc33236bc42147e47e403e6ed,c5a4e17a9fcd191393739e1cf877bd50,551.26,2023-11-22,Failed,KOR994,Koramangala,Bangalore,Net Banking,Merchant_77,Clothing
+e89973d26d3659dada784ea7154954c1,214dc0c092b097d7c906994d25442a77,483.6,2023-07-11,Successful,KOR518,Koramangala,Bangalore,Debit,Merchant_97,Health
+8f82c4e6ca35c5f6b98a97ef656923fb,1e40e74f8a1d6022952169c5bdfd9ad9,998.09,2023-02-16,Failed,KOR247,Koramangala,Bangalore,UPI,Merchant_40,Electronics
+7f3cb71629a02d98871bc8446c20df66,9ed4fb52e87c75a02ef04994112e5c6d,238.16,2023-01-07,Failed,KOR859,Koramangala,Bangalore,UPI,Merchant_79,Health
+d6d367d7746e9598c1d87e76f24890a7,5cb6f7c6bc05a68aa3bc3d0dbe04f0bf,924.95,2023-01-03,Successful,KOR496,Koramangala,Bangalore,Credit,Merchant_72,Clothing
+e6557e7d7128c7147a6fcefb659ac935,92f88e3b27abbaf197bd49f2aff26026,966.25,2023-03-03,Successful,KOR739,Koramangala,Bangalore,Credit,Merchant_27,Clothing
+d3ede2dffc0e2c6f774820580e3df2e6,f42b4480ad327721c59755d03b00e5ea,640.69,2023-10-10,Successful,KOR981,Koramangala,Bangalore,UPI,Merchant_26,Groceries
+b4914bd9d15261cfb0e1bb7fdfb9ebe7,8e2dec75fe17054ede730f2ad7c30e7c,409.15,2023-03-18,Failed,KOR821,Koramangala,Bangalore,Debit,Merchant_31,Clothing
+19cfa32f77c61afe2c6cb9ea477c513d,f2d8d0fe730692e768a8fea63233d155,187.64,2023-11-03,Successful,KOR302,Koramangala,Bangalore,UPI,Merchant_69,Electronics
+6fea6219ac73c241f2ab9451bc83c7f5,f8903e880bc9b8f910fd26eef4782ef1,696.76,2023-10-03,Failed,KOR225,Koramangala,Bangalore,Credit,Merchant_91,Clothing
+302fed9516f87b05ed2a33343d1d4ccb,692d8656c9337edb1ac9c9bb5da0c6d8,594.62,2023-04-22,Successful,KOR389,Koramangala,Bangalore,UPI,Merchant_49,Electronics
+59e67d45eef3e631815f456bf64b2bcb,41432a87a1a9d262ad6cf2495ed0309e,867.68,2023-03-09,Failed,KOR209,Koramangala,Bangalore,UPI,Merchant_95,Electronics
+543b368986b34103a11da3b4b3670497,89b7e0fb616a1e909873019bcf50baf2,837.77,2023-11-03,Successful,KOR279,Koramangala,Bangalore,Debit,Merchant_41,Health
+2338427b1ab7dfb776d765c3f5336dba,a60423348fc0f4ef01cbbd7fd7a17f1e,822.53,2023-01-11,Successful,KOR408,Koramangala,Bangalore,Credit,Merchant_61,Groceries
+3d56e7dd128cc47d5ba5cc185ce6786e,e1a608c65a4bf7591a2be779c2c83c73,585.41,2023-09-08,Successful,KOR519,Koramangala,Bangalore,Credit,Merchant_64,Health
+ef5391be14f698c18fc7ae36df2e4626,e3e91d5b3f9b16d32147ec0dffe0d72d,894.53,2023-12-01,Successful,KOR420,Koramangala,Bangalore,Credit,Merchant_76,Electronics
+f5d6784b771d75489bac94cb9162e3b8,92b283e5d63e4b1a4cfd0067ef4d0868,163.64,2023-11-04,Failed,KOR675,Koramangala,Bangalore,UPI,Merchant_17,Groceries
+4a3efa1f51b032fa070fd22263292a60,fc0fe84130821479a8b5a52e3ffb09dd,45.88,2023-09-02,Failed,KOR787,Koramangala,Bangalore,Debit,Merchant_98,Health
+2b350e52bf2e069a25ef411988a636bc,b05b1a7f48be6b9704702ffc8dd43934,832.45,2023-05-29,Failed,KOR216,Koramangala,Bangalore,UPI,Merchant_81,Groceries
+a06b6081dc67f28225e9ab75d91cd644,fe07230cd82135c8da2c1dbaeb0bd7a4,347.7,2023-08-07,Successful,KOR143,Koramangala,Bangalore,UPI,Merchant_68,Electronics
+37a1df2447b6621a3f4e3a47c969b555,ebcebe779ab46c39f102306b264ffd96,449.58,2023-08-28,Failed,KOR741,Koramangala,Bangalore,Net Banking,Merchant_57,Health
+627c679b89f77cdfd655262f83e0651b,06faeb9df8adcae5a11ab71fdfc0aa2b,805.28,2023-03-11,Failed,KOR526,Koramangala,Bangalore,Net Banking,Merchant_3,Electronics
+11eecec3f542694a33fcc4c593c3b9cb,983d0888c12b512e167743feaffdfdd8,474.58,2023-08-14,Successful,KOR395,Koramangala,Bangalore,UPI,Merchant_75,Health
+866ce4afef7b8027b047339c64b70a8b,87267dc258149d255865ce90a942693f,967.95,2023-01-11,Successful,KOR121,Koramangala,Bangalore,Net Banking,Merchant_16,Groceries
+e0b55d7ed9ff41f3222a4ee17bcf490e,98accc532fe6614cb86478b828a92a66,877.14,2023-02-14,Failed,KOR237,Koramangala,Bangalore,Net Banking,Merchant_31,Clothing
+0d9208a28b73726532ac91757024463e,37f762de228bd5fb204dd0baf9b3e276,399.86,2023-06-15,Successful,KOR560,Koramangala,Bangalore,Credit,Merchant_89,Groceries
+786d731a6b7e4a3605c8fd92d49a4b5e,f65a1d9be1c98e0d23b2d4a0a7ae1f91,985.63,2023-06-14,Failed,KOR788,Koramangala,Bangalore,UPI,Merchant_87,Clothing
+ca8b53cd4d69e39fb0e0a3d5ab90597a,32d4ed481097f120b81c53d212a706b0,775.78,2023-09-25,Successful,KOR946,Koramangala,Bangalore,Net Banking,Merchant_70,Groceries
+c1dc51fb45bea19d6ea1802b8be1b23d,c02583ea6e3638c01a36cb24b0616cac,373.53,2023-11-11,Successful,KOR642,Koramangala,Bangalore,Credit,Merchant_34,Clothing
+cba751c01690f862ead976db912fbb98,8a780061d70583c82fae71ece248597a,884.69,2023-04-30,Successful,KOR818,Koramangala,Bangalore,Debit,Merchant_56,Electronics
+d9e94743a3858552cf5e72080ee7029b,904cd7de1f3ce5b291f580f7d2aa0f67,875.69,2023-05-21,Successful,KOR155,Koramangala,Bangalore,Debit,Merchant_65,Electronics
+4e41b6774dc14f5492eef1eef85b577a,3b65449c4ba8062751bfd35efc374482,580.22,2023-04-23,Successful,KOR129,Koramangala,Bangalore,UPI,Merchant_28,Clothing
+fa51dfc96069a2fb93c1270568d67676,aea595ffe379856e1ae80112be4f6062,734.78,2023-06-06,Failed,KOR245,Koramangala,Bangalore,UPI,Merchant_16,Clothing
+3602e063be356188871de8eb473dbf12,4decac6e8bafa86cdcb398af948ce883,220.24,2023-12-22,Successful,KOR957,Koramangala,Bangalore,UPI,Merchant_27,Health
+4f3a9393a4f27058875740f419b4f8f4,cdf0b11d2ce1be5de090bb383c457436,982.91,2023-05-26,Successful,KOR105,Koramangala,Bangalore,UPI,Merchant_65,Electronics
+5e38dc2645fa5c0c45e546b60c8b09ce,19da43aa0c6c69a6418f5453313dc167,735.82,2023-07-16,Failed,KOR345,Koramangala,Bangalore,Net Banking,Merchant_34,Clothing
+33e5a495e3b0b592f2f536295ea9b697,dd6150aed65870c5a9b093fda46fe183,510.46,2023-09-24,Failed,KOR757,Koramangala,Bangalore,Credit,Merchant_91,Clothing
+3a62370945ae3d0e2008faabd1c7ae3b,cb9993e3a0560881b35bd6a20b95ad67,963.77,2023-08-10,Failed,KOR765,Koramangala,Bangalore,UPI,Merchant_35,Electronics
+142009ef7370e14fca2da3aeb23afdb4,663b6a9f7ea1a4af06dc396fc0492c44,151.64,2023-04-20,Failed,KOR468,Koramangala,Bangalore,Debit,Merchant_60,Health
+1ba64854a3d2f04dbdb49d95b4306449,85bec032140e3277d3dc6889c941cb4e,592.27,2023-12-08,Successful,KOR760,Koramangala,Bangalore,UPI,Merchant_34,Groceries
+75cbaf728857f55c516c059dd63c93cf,872439ce8af6273df90f9d4bfd792c97,520.29,2023-10-15,Failed,KOR291,Koramangala,Bangalore,Debit,Merchant_86,Electronics
+42265ebcc14eb135b5419cd2a2bfe289,6625a7836f33cf065465efe32d704c69,69.0,2023-11-09,Failed,KOR776,Koramangala,Bangalore,Debit,Merchant_73,Clothing
+d115f875db8d8fbdcfe218e6a0eb90ed,4c33a36d24d1fcfd53d3dd097c1fd35d,535.97,2023-05-07,Failed,KOR160,Koramangala,Bangalore,UPI,Merchant_28,Health
+ec97e4aa1c60e32416c99dd6fc3f5f1b,8187781a8a8af88b70ebdbd4eb154902,508.73,2023-08-09,Successful,KOR266,Koramangala,Bangalore,Credit,Merchant_80,Clothing
+33005f2f0b647819984758d62d124af0,800568fa4c50bdff1d9a388b0a542082,338.59,2023-04-25,Failed,KOR956,Koramangala,Bangalore,Credit,Merchant_63,Health
+93e529c81e49fc73218a5217a27c2c74,6e4e0852e4b248a85a9d2d78de6273e4,171.97,2023-08-27,Failed,KOR252,Koramangala,Bangalore,UPI,Merchant_69,Electronics
+b0210cf91ff5de480e5dfc0a28ce9c48,2bc40d74b10ca3e926257e4b9bd29343,209.55,2023-09-07,Successful,KOR360,Koramangala,Bangalore,Credit,Merchant_85,Groceries
+814000a854444f2ecb44c2925cd82f08,619e76bfa8598b5bbc2c9bd8d1448782,663.28,2023-12-19,Failed,KOR189,Koramangala,Bangalore,Credit,Merchant_77,Clothing
+9146fd7bce77766f8e67adce7f80288d,acaa366f265113fdcc7feb2c6593b30b,951.14,2023-08-04,Successful,KOR836,Koramangala,Bangalore,Debit,Merchant_78,Electronics
+3fa388e431fa49d0549a245b24bae479,e84fb20e2e120dc82a46129bb97cdb2f,997.33,2023-02-06,Successful,KOR271,Koramangala,Bangalore,Debit,Merchant_50,Clothing
+c9dcfd9d1049175605b37c4e93953b84,c2719fc8bd7ffe1d6ffb858cf6922fbe,407.78,2023-08-23,Failed,KOR346,Koramangala,Bangalore,Debit,Merchant_20,Clothing
+c6abf2dc226fe935f6fb79856579e49a,604f018ed14a0b1ec1d529a7c9aeb142,350.94,2023-06-14,Failed,KOR145,Koramangala,Bangalore,Debit,Merchant_91,Clothing
+5c497498ddaa80d2104c2c250fa850d4,2969b132d704c9cc2ebb4b5701264698,453.69,2023-06-04,Successful,KOR137,Koramangala,Bangalore,Credit,Merchant_21,Health
+1a6d08315ef27906274454bd15b78992,19d4d8ed13dbebf2a49b0bca60e822b5,568.92,2023-04-05,Failed,KOR311,Koramangala,Bangalore,UPI,Merchant_67,Groceries
+93be893c459cb1dfe58b7c6a5eddea7e,bf991a87965c9948adab6922a0bc98cc,453.12,2023-10-11,Successful,KOR868,Koramangala,Bangalore,UPI,Merchant_97,Clothing
+9d259b5c66dd94c56aa5aeba3baffa24,901b70a38dc3ea5fc145ff5de83f1163,464.13,2023-10-09,Successful,KOR289,Koramangala,Bangalore,Debit,Merchant_44,Groceries
+98a9c7143b6f772a56ea765f2f179215,3892b528836c1cb256c76cfe0db343d2,733.37,2023-05-01,Failed,KOR362,Koramangala,Bangalore,UPI,Merchant_7,Health
+f38b8928dcca0eb9eccb987f656c9d0f,9b380ca2fc37e286234886b7f0e8290e,28.6,2023-07-03,Failed,KOR902,Koramangala,Bangalore,Net Banking,Merchant_71,Groceries
+6cd9c45596c9a31719e1a7ac9a0c87be,73cb181ef9750c21980e1b163e4c9d9e,346.55,2023-03-03,Successful,KOR565,Koramangala,Bangalore,Net Banking,Merchant_68,Clothing
+42a679a451ab52c414d33d1334776137,a36503bc6df78c1d83d7c2dea98c8711,955.78,2023-12-09,Failed,KOR955,Koramangala,Bangalore,Credit,Merchant_49,Electronics
+e4aaa3eba1e35b41f87c7d1a28ef3f25,78467a619bbf863b9195367c4f48044f,713.91,2023-09-06,Successful,KOR797,Koramangala,Bangalore,UPI,Merchant_94,Electronics
+8a9ad478a76b1b5d88a0a32573573fed,784613b0c65926376d75548181e32ab3,195.02,2023-09-10,Failed,KOR471,Koramangala,Bangalore,Credit,Merchant_25,Electronics
+c5f3009e6aba724ab625749aae385a18,161e5de51dad02c7aafbd985ade71297,599.08,2023-04-10,Failed,KOR302,Koramangala,Bangalore,Net Banking,Merchant_11,Groceries
+222947bb48a585207f1379bf45683fd8,6bd899f8cb4b2defe8102178da50afc2,91.31,2023-04-11,Failed,KOR930,Koramangala,Bangalore,Credit,Merchant_32,Electronics
+2303d42d91b0cfa9babe85d1c828bde2,2dd5af2c15c629fa37f70710e6c75ce8,227.31,2023-07-19,Successful,KOR842,Koramangala,Bangalore,UPI,Merchant_43,Groceries
+aff1dc262a4cbfcbe760da99714f0b0a,de1b8dd6bb252a9e91eced5f07ab370c,771.59,2023-03-02,Failed,KOR717,Koramangala,Bangalore,Debit,Merchant_85,Electronics
+356a8bcc69f0fad360c17f75fb235690,686c760211b815adabf92d7c877431df,338.99,2023-02-21,Successful,KOR333,Koramangala,Bangalore,Net Banking,Merchant_97,Groceries
+1f7fab2221b43fb6e71fe92ac4ce49f9,d0004d50c6002582a21bf96609513c0c,460.67,2023-09-24,Failed,KOR347,Koramangala,Bangalore,Net Banking,Merchant_47,Clothing
+9b60adb333ed93fa78e5c1b0ae44e09d,615c0c373a3116bcd1d40efacaee382b,59.09,2023-02-20,Successful,KOR265,Koramangala,Bangalore,UPI,Merchant_17,Groceries
+4b3fbbabc6d9acd8bd4bd47df101dc85,c4d291ff1f1c1b8aaf967e9aad69e24b,240.2,2023-06-01,Failed,KOR720,Koramangala,Bangalore,Debit,Merchant_27,Health
+23655ee1eb85faebc6ff1128b2f8d90b,d90caadb4906f37a9190d6df187e0a7f,118.23,2023-04-24,Failed,KOR263,Koramangala,Bangalore,UPI,Merchant_68,Clothing
+e35c4ea773cdf0be4241c4c27edfa9f5,3aa8957c7ba4982ea6dbfcc309750de9,853.81,2023-05-16,Failed,KOR456,Koramangala,Bangalore,Credit,Merchant_32,Health
+cf38dd6d1e8c852543fa604403255eb8,6c8663c9094fb7c0d997445e18749e6a,997.52,2023-12-15,Failed,KOR710,Koramangala,Bangalore,Debit,Merchant_48,Health
+121bed8ec28626c57d76ec2cb9e25c2a,d73ccb8e406f262e0aed42cc94c8178b,967.7,2023-01-27,Successful,KOR262,Koramangala,Bangalore,UPI,Merchant_73,Electronics
+12297c60dd20c9ef3f48b24da9e89d5e,532fd134dc671c35da14dae17db31376,897.38,2023-12-29,Failed,KOR516,Koramangala,Bangalore,Credit,Merchant_11,Health
+d512d1c36bd7495f22929cc56a9240a0,928951d81cfef134165d0e844eff11f0,869.71,2023-02-01,Successful,KOR262,Koramangala,Bangalore,Debit,Merchant_26,Groceries
+f847f336a7ae29d79b05781b6be84d1c,51c7a337aecfc6a833c0319dd213b0b7,720.15,2023-01-13,Failed,KOR544,Koramangala,Bangalore,Net Banking,Merchant_75,Health
+e7dfd6ea39772507964080bd8f8d2c5d,67fe4449cd1af01f1fe8e7e9e036c4cf,224.73,2023-11-12,Failed,KOR689,Koramangala,Bangalore,Debit,Merchant_48,Groceries
+c8c76fb3ae1a859247aa404a240a1d6b,bdff0f6afbc6080b46224cd5919e39b6,703.89,2023-12-07,Failed,KOR852,Koramangala,Bangalore,Debit,Merchant_26,Groceries
+5519b5c05fe883e45321d83226543569,accacf9a34c5e68c079e2f57fbf08ce3,293.34,2023-05-31,Failed,KOR576,Koramangala,Bangalore,UPI,Merchant_49,Clothing
+9817500a9a8acf8d8487e75a3a8756ca,064b4a6af31d2d55b6546aaa017391bd,109.97,2023-07-10,Successful,KOR786,Koramangala,Bangalore,Net Banking,Merchant_79,Electronics
+baa76f866ab44879297b4ce09049e17d,a61300d6df64987f6bd759ae63d29f57,971.49,2023-05-01,Failed,KOR963,Koramangala,Bangalore,UPI,Merchant_69,Groceries
+e275cf6f8cadf6a02e30b25d93997521,080d6de3a403cb8e5e926596a2494852,942.09,2023-07-11,Failed,KOR297,Koramangala,Bangalore,Debit,Merchant_43,Clothing
+5066ca34c0dbf9a0d3c7a5770ba180de,72fc6a00a34ef7ff19d8db10f51fdfdc,574.0,2023-07-13,Successful,KOR734,Koramangala,Bangalore,Net Banking,Merchant_24,Clothing
+00fc89ffd60cc65f8e7ff7fb7b3c91e7,3b51e81fab7a540274495a540ad90678,636.99,2023-06-24,Failed,KOR333,Koramangala,Bangalore,Credit,Merchant_25,Health
+f843360a6c4b045d8959f5f4408ea41f,311e85d25a4f5aadccbdeb983b3528c1,638.19,2023-03-16,Failed,KOR773,Koramangala,Bangalore,UPI,Merchant_88,Electronics
+b605edacc87e5c42db5a027aae42b131,a411b5ee5077f676cb5c0364ca2aeb8c,477.03,2023-04-20,Successful,KOR166,Koramangala,Bangalore,Debit,Merchant_78,Electronics
+3981e22f7d75dd707b6cfa0001542220,f29ee43047defca07e7a27d6f01919cd,698.06,2023-07-02,Successful,KOR935,Koramangala,Bangalore,Net Banking,Merchant_25,Groceries
+fe592fa25bc21b8f0dd34d9d80811971,10c36b065d503d94aacf40721693de4a,638.41,2023-09-06,Successful,KOR999,Koramangala,Bangalore,Credit,Merchant_22,Clothing
+854feb4c5d339f32ca010f43a7fc0713,4bb050b28d04b31cc0ddf1eb56997b18,254.64,2023-05-18,Successful,KOR964,Koramangala,Bangalore,Net Banking,Merchant_6,Health
+2e163edba3497d61d85bcc2060164909,04e3ee617585de24783b8deb0a32a9ca,24.22,2023-08-13,Failed,KOR679,Koramangala,Bangalore,UPI,Merchant_92,Clothing
+c78de498b5feeb936d2316b95b891024,83e40b5c50274ee8f3580bad197a458c,519.74,2023-02-07,Successful,KOR592,Koramangala,Bangalore,Net Banking,Merchant_3,Groceries
+632438902d93e325ac0a782667d1e410,55487b3528db967e24afccafa53583be,814.52,2023-07-14,Failed,KOR264,Koramangala,Bangalore,Debit,Merchant_54,Groceries
+1711b3c1ac1fc7fb56f5a0cd114e137c,777cfa35e46c1de54a3db397b62d5e42,239.14,2023-12-18,Failed,KOR978,Koramangala,Bangalore,UPI,Merchant_29,Electronics
+51cf5059908001e4af2865d777fce360,13554e43efc56a826eba40a814063b5f,902.35,2023-08-26,Failed,KOR771,Koramangala,Bangalore,Credit,Merchant_94,Electronics
+975d36fb0e9dabc73851ef2324767782,4be783e595c495393665aa834bb387bf,48.74,2023-07-27,Successful,KOR589,Koramangala,Bangalore,Debit,Merchant_97,Health
+c70d2570e2d2000f37c4cceea987673f,c8837d5f64971f7530e4b096864233ed,685.75,2023-04-09,Successful,KOR964,Koramangala,Bangalore,Net Banking,Merchant_89,Health
+328b87cdb8945fd4477748179876bf31,3f71b0a5c7a935d90989d442e2dbc78a,830.59,2023-01-20,Successful,KOR926,Koramangala,Bangalore,Debit,Merchant_2,Electronics
+78a247291c6eac1e159fde373356e2a7,6ad1ad0da75ebd756e36d9d8db77f303,656.01,2023-12-17,Failed,KOR906,Koramangala,Bangalore,Net Banking,Merchant_26,Groceries
+23ccce8501a2e986db49e2b27cbf861e,e54364f333792d365a53feea07252073,325.74,2023-06-15,Successful,KOR982,Koramangala,Bangalore,Debit,Merchant_51,Electronics
+ba49f5fea40649feb496e896135b8ed9,39e5701b3f0d5fca8c6b6520017fd690,658.85,2023-07-07,Successful,KOR294,Koramangala,Bangalore,UPI,Merchant_8,Groceries
+8b843234a16e2bb476934fade67c9b58,63ec90be1c97be1a58935e2dadb9b8dc,382.24,2023-08-27,Failed,KOR114,Koramangala,Bangalore,Credit,Merchant_97,Groceries
+ef880c145b5153580dec148bd866481d,f207d995519c0dffbd5b78c8cc81fc22,63.72,2023-06-22,Successful,KOR985,Koramangala,Bangalore,Credit,Merchant_24,Groceries
+ac8312725966dd91811e2e661779764c,12d99c0bff2869c7558057801b752ab2,914.26,2023-10-17,Failed,KOR245,Koramangala,Bangalore,Net Banking,Merchant_1,Clothing
+fdc0c17e21f5e013d9480b814806676e,4c586930d201a8d6b4db70c466ec43be,249.18,2023-09-29,Failed,KOR275,Koramangala,Bangalore,UPI,Merchant_87,Health
+44246c6c3518e6b9c07f874cbb930173,7030fa8c2d1eee60eaa3d684c44cee5b,525.5,2023-06-08,Failed,KOR767,Koramangala,Bangalore,Debit,Merchant_17,Groceries
+adb035e7915abfe34d3850d2204f7121,f67cafb8915cbbde5d15712cdddea43e,967.36,2023-11-05,Failed,KOR462,Koramangala,Bangalore,UPI,Merchant_7,Groceries
+2a08ffc697bd8034fd994b7dccd06b10,0375307a9311f1c737e74b24bb5ed7c9,792.59,2023-01-17,Successful,KOR134,Koramangala,Bangalore,Credit,Merchant_32,Groceries
+afb8d7387b1b2eacd20cd4a7ec721bc1,8397d3948633a2a04da61a75b48abe7a,87.61,2023-06-21,Failed,KOR100,Koramangala,Bangalore,UPI,Merchant_81,Groceries
+5fc27ff425524ee875702b73784ded08,f01d054f69c1308bd1ce66ba697ccad2,612.8,2023-01-14,Failed,KOR780,Koramangala,Bangalore,Net Banking,Merchant_58,Groceries
+73996d46be0bcdd1988a48f404c3f346,38bbfa021771243f37c5c18f251043dc,148.8,2023-11-27,Failed,KOR499,Koramangala,Bangalore,Net Banking,Merchant_46,Health
+736d7262e451016d77a6ac3fd208a7d5,3b0aae3f6bad9d88bec238252ec47600,605.25,2023-05-27,Failed,KOR467,Koramangala,Bangalore,Debit,Merchant_30,Clothing
+7ecdb2c033dad9a8462bd80990e1a446,3009df5d5ded9819addf459b041bc503,957.37,2023-09-07,Failed,KOR225,Koramangala,Bangalore,UPI,Merchant_52,Health
+ad44a2fdc33c6be8895d7615e1d62c98,168761ce472fbbe3fd40f7acd4f758e0,333.14,2023-08-10,Successful,KOR148,Koramangala,Bangalore,Credit,Merchant_67,Health
+d17c46d2e9cba0d8fafc33faf056fd37,a0bf259e20c5c91b2883bf9915cb325b,610.69,2023-02-27,Successful,KOR202,Koramangala,Bangalore,Debit,Merchant_57,Groceries
+ce20bfdf2059b182d274b1cdf35295d2,ba6c9ef23b81b91c22564ff7dcfb95fe,782.5,2023-12-25,Successful,KOR337,Koramangala,Bangalore,UPI,Merchant_38,Clothing
+4390be6effec2543875fb1100e9d72e6,7b930b0b12c22239f50a445e00a95e95,283.23,2023-04-25,Successful,KOR313,Koramangala,Bangalore,UPI,Merchant_49,Health
+0e7d0242ec9988f7eb225e46744a64e1,01cb4d8e03d01f10a2ba5261b15e2dee,592.57,2023-07-27,Failed,KOR136,Koramangala,Bangalore,Credit,Merchant_86,Health
+b3b666573bcab2803eae73720a79f6dd,fc0944891e84f4ea2032ce831a460c4c,425.86,2023-12-09,Successful,KOR497,Koramangala,Bangalore,Net Banking,Merchant_100,Electronics
+7e60e15f2f4c91f06942a8addc3a37c8,963b87db5c2de7726f587a72a0102f66,288.02,2023-12-28,Failed,KOR450,Koramangala,Bangalore,Debit,Merchant_55,Clothing
+6bc11ee6493d9783ca9e25865c7e17a0,1f23bed8b11c4805de17d5d1f8d84310,400.5,2023-12-11,Failed,KOR754,Koramangala,Bangalore,UPI,Merchant_52,Electronics
+e952b75393ee83cd5138e2645cd70222,ff8a2f69593585edab7b1f657ef3cac2,890.28,2023-12-15,Failed,KOR101,Koramangala,Bangalore,UPI,Merchant_8,Clothing
+1dd0993ad2442780a5b6c9b3a722238d,58325f24d0bd475a5f51e92685aa54c1,240.23,2023-08-20,Successful,KOR664,Koramangala,Bangalore,UPI,Merchant_49,Electronics
+29182003aea3208037b8d7995a557270,9073a8d26b201f886454f6160853816b,433.57,2023-03-07,Successful,KOR287,Koramangala,Bangalore,Debit,Merchant_57,Clothing
+27201252e551dd76ca9d2967ab3cdb99,18f536f721282cf18861d155bdb0d0ea,460.68,2023-08-15,Failed,KOR893,Koramangala,Bangalore,UPI,Merchant_66,Electronics
+c5c230f09c0d16d7d36b45a029d8c7df,f3099a6b6ea5f7d95bf18a320efbcf31,715.8,2023-06-30,Successful,KOR285,Koramangala,Bangalore,Net Banking,Merchant_80,Electronics
+85b46c8653183af082fef7e91be82680,d71d9f5d0ddb2e63e5f2810d31e0e2c5,995.83,2023-01-14,Failed,KOR388,Koramangala,Bangalore,Credit,Merchant_81,Groceries
+f1ce455c7388974059277674ea12aa76,b576904ce110f9a7696e5f36e7f7726d,933.61,2023-10-03,Successful,KOR193,Koramangala,Bangalore,Debit,Merchant_20,Health
+e5fa361b2027c6f948766f9d33a94262,ec410b4775f5342815b3fb173b698d46,324.68,2023-02-07,Successful,KOR809,Koramangala,Bangalore,UPI,Merchant_92,Groceries
+ed1a573a99e942ff5a1c714b6b7e42d0,f590b3280ed34f987ee250b8cd94c898,684.35,2023-03-03,Failed,KOR498,Koramangala,Bangalore,Net Banking,Merchant_38,Clothing
+7d0b55135b291a9e71273669a550c780,ee852c10bbba2c901b52219ffd9d7a1e,68.1,2023-07-25,Failed,KOR289,Koramangala,Bangalore,Debit,Merchant_16,Groceries
+5eb681ee18c0d05952b4b337b03d2926,bdc4f88ec0d77d3322e2719df4023193,509.37,2023-03-31,Failed,KOR136,Koramangala,Bangalore,Credit,Merchant_6,Groceries
+af1c0a4160598a755c2e0f79a9968d6e,c50b3db5eac86d524ccb3c5485ca9eb7,605.34,2023-04-03,Successful,KOR207,Koramangala,Bangalore,Credit,Merchant_11,Groceries
+6f8c0b2983b869d38aa724f3a5d2f0fe,c3a095fb5ba9f7da06a75706f4690dcc,383.71,2023-03-04,Failed,KOR116,Koramangala,Bangalore,Credit,Merchant_29,Health
+10f28f013aa221200912dbdf872b2493,cf4ec0b747890838c4ffd7bb22889df3,319.12,2023-07-28,Successful,KOR716,Koramangala,Bangalore,Net Banking,Merchant_37,Groceries
+bd2b2ddf2d9a3421ba19d571717ffa90,661a2032b51625456a9c76a1ebd6e94a,426.32,2023-10-27,Failed,KOR611,Koramangala,Bangalore,Debit,Merchant_31,Clothing
+78625fee6ec45b190001d4a89c8c0621,c69131569cf7adb0c890648a7c810a9e,374.18,2023-09-20,Failed,KOR671,Koramangala,Bangalore,UPI,Merchant_36,Electronics
+f5dd4fd0c2e2bc6ef2b86300864a2bad,65322db8e0b27a5647bbf7f34173af2a,902.71,2023-05-23,Failed,KOR621,Koramangala,Bangalore,Net Banking,Merchant_99,Health
+3fb546667e9f21b571734bd31f666015,f99dcc5be924c8887c8a18ecf180fb55,392.55,2023-06-07,Failed,KOR655,Koramangala,Bangalore,UPI,Merchant_71,Electronics
+e759222d99b08922d97be5b53d8c0b9b,bcb21110a2918ed4fe8be1fe22398ec7,847.26,2023-10-10,Successful,KOR425,Koramangala,Bangalore,UPI,Merchant_86,Groceries
+94907b9eeb92f8acd8f3737b640b2922,be75b3f0375d589d9f14b4b65eb6cb7c,317.86,2023-07-04,Successful,KOR331,Koramangala,Bangalore,UPI,Merchant_15,Electronics
+9dc6a549545a17733bbfac27c2d7762c,1d418f007ac2633a1177fa3b25ded360,760.76,2023-06-12,Successful,KOR867,Koramangala,Bangalore,Net Banking,Merchant_44,Electronics
+793f9f1989a798c533ecfc999bdd2536,18ed6de91dca11a432ed51f4f9b01af2,920.21,2023-07-04,Failed,KOR810,Koramangala,Bangalore,Debit,Merchant_18,Groceries
+70e057040fdcd15e477561948965c1be,879d9a9c5f233dc001049c4f6bc03d64,97.73,2023-08-19,Successful,KOR183,Koramangala,Bangalore,UPI,Merchant_99,Health
+86228fd0147978fbf6a087b54d517b14,06e27dd44a9df4023456bc3e14d6eac4,658.76,2023-07-21,Failed,KOR650,Koramangala,Bangalore,UPI,Merchant_36,Health

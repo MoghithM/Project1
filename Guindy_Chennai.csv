@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+1254a86cf0370813749a0d45b675623a,13bc405a6017a919bc128bb74a1ab49c,546.71,2023-10-26,Failed,GUI466,Guindy,Chennai,Debit,Merchant_86,Clothing
+012c9fb041bf6ed8d736a3845e51ff07,a37f7e4b82e5e4c45534454c0cc0b775,807.42,2023-09-09,Failed,GUI710,Guindy,Chennai,UPI,Merchant_63,Groceries
+6cad1435ce8c62f7aefa34cfee28677d,abb8d9155bf55a8138997c0259cb3487,828.59,2023-05-01,Successful,GUI252,Guindy,Chennai,Credit,Merchant_83,Health
+2e5c8ac57706c2b17c905bd445ba3efe,80573b0fbb84b2316a515ea31c432590,95.0,2023-11-30,Successful,GUI628,Guindy,Chennai,Net Banking,Merchant_22,Groceries
+3959bf56766e972c941e1816ca40b73a,d5295fc90b89aeae3098d9fbf1b5ed9d,335.63,2023-12-25,Failed,GUI612,Guindy,Chennai,Debit,Merchant_4,Clothing
+7a4082f5fb3da196d92d23a3efdb716c,627c224cc834105cc94afaa94ee044ff,323.32,2023-09-29,Failed,GUI501,Guindy,Chennai,Debit,Merchant_15,Health
+170f6bab833485e42efcf6c8aa94e6b5,09a595f1fbdd36043b47855843116f66,480.33,2023-06-06,Successful,GUI372,Guindy,Chennai,Credit,Merchant_73,Electronics
+d17d72c6c48beb88590c5951c6a74aee,5ce46110b0243a0f0997c398082f54b2,577.94,2023-12-30,Failed,GUI703,Guindy,Chennai,Net Banking,Merchant_10,Groceries
+20e0d5d8d11fa2bfc50b618b3e944f0b,bcea44e0ac6c9774effe825cae3ae2db,460.01,2023-03-21,Successful,GUI568,Guindy,Chennai,Net Banking,Merchant_82,Health
+d0feba46da9a824d784323e27eb999aa,4a7d2b90b3c0d9666d68d72d4e6d41eb,729.23,2023-03-11,Failed,GUI378,Guindy,Chennai,Net Banking,Merchant_87,Clothing
+8e062f52a9b79f29ab9391705ab89d6b,5df3dd8a45f9bd0cbcdfa4126a8ddb8a,160.48,2023-07-11,Failed,GUI948,Guindy,Chennai,Credit,Merchant_88,Groceries
+c98591c87f32348aa7c521b540750105,7c7587e4c508beff140cbe59c37604f5,386.99,2023-10-02,Successful,GUI346,Guindy,Chennai,Debit,Merchant_52,Clothing
+e2ec741e00fb5fc46b9dd00a88785a0a,5ad6ba2277dc5891b62a8f95acc238f4,93.22,2023-03-22,Failed,GUI369,Guindy,Chennai,Credit,Merchant_45,Clothing
+756f6c5db6b47f7d32f4df273bace951,d5ec60e45ea8b77f9a5586b577cfd885,943.5,2023-10-01,Failed,GUI704,Guindy,Chennai,Net Banking,Merchant_64,Groceries
+0cbfa067e9590a17bb45085d4dea9543,a1a5f1c1f8839061dc17cccfd7f53938,764.81,2023-03-01,Successful,GUI984,Guindy,Chennai,Credit,Merchant_24,Electronics
+65c67348cb42973f3ae474101f09e4e7,ce74f63e7e344d9a0c4bad61cdfb552f,577.23,2023-02-16,Successful,GUI697,Guindy,Chennai,Debit,Merchant_46,Health
+233a0deb1817607d52265775ccbc5259,f38e54b52ed2626aa8a402503bff85fe,36.74,2023-12-26,Failed,GUI745,Guindy,Chennai,Net Banking,Merchant_4,Clothing
+a742c68152cbb5720593e3c970da463b,68d86e91dca240bc27ad40abc6606377,637.22,2023-12-13,Failed,GUI813,Guindy,Chennai,UPI,Merchant_5,Clothing
+7ed0520235cd97ea8e320b5688f34e4e,ae70e1c356189c522ebab5962b46e207,93.83,2023-12-19,Failed,GUI287,Guindy,Chennai,Credit,Merchant_52,Electronics
+1e75a7afced3fcb6b6ca4f34c614d3f5,f6563f289ff6112808d1d56974e9e06c,764.31,2023-01-16,Failed,GUI579,Guindy,Chennai,Debit,Merchant_33,Health
+aa4e476b36d4787441dda47955afa14c,e9602c4eab52938170f456897b1a89ea,420.71,2023-01-08,Failed,GUI392,Guindy,Chennai,Net Banking,Merchant_92,Groceries
+f63c18cba12f1a0fa916cf4abdfac6e9,34356287d52185638dd7360701dcb938,359.16,2023-04-27,Successful,GUI350,Guindy,Chennai,Debit,Merchant_91,Groceries
+d54c61a4c08724afb236961e9611d2d3,c643431425bcbf247134291d3a21b329,669.99,2023-10-25,Successful,GUI258,Guindy,Chennai,Credit,Merchant_23,Electronics
+ee83c6e64aafcb58cc8f9d27cb3210e9,cbc3cc72e5e26fc64a710d441ba51374,246.02,2023-07-30,Failed,GUI628,Guindy,Chennai,Net Banking,Merchant_15,Groceries
+80d199cfe90c5729a47bcc5839f9b38e,966ffeacd0fa0d2e2cfb2eea4a3bf961,283.2,2023-06-13,Successful,GUI245,Guindy,Chennai,Credit,Merchant_53,Electronics
+537ca3e04b94b11be032f8fae123c91a,8cf01b59222b4b397f7dc311ddf6b8d6,651.93,2023-05-06,Failed,GUI435,Guindy,Chennai,Net Banking,Merchant_94,Groceries
+3fe657d5f31fc7e54d86b177b3878d61,dc30ba1a701d41f79d3717d7b0c7499b,303.42,2023-12-15,Successful,GUI574,Guindy,Chennai,Credit,Merchant_59,Clothing
+46070a1ebc022ff683cacd97a80b8cf9,7137d09d88ccd44683b01b826165e927,458.17,2023-08-10,Failed,GUI789,Guindy,Chennai,UPI,Merchant_86,Health
+dd992038749d04389977662a0c6c1465,227f205835f1f209f3bb4f147c7dcff1,355.23,2023-05-20,Failed,GUI365,Guindy,Chennai,Debit,Merchant_71,Electronics
+8cf832af5c3475acae598fb3af7cf06f,0e479d0e2dc74edb7c9511bba7796b8c,975.12,2023-01-21,Successful,GUI878,Guindy,Chennai,Net Banking,Merchant_69,Clothing
+af55dd91f0f8291c43512d335b41dfbb,3532bc5c65411160b3f0b88a33b8e4d5,143.72,2023-01-30,Failed,GUI657,Guindy,Chennai,Net Banking,Merchant_13,Clothing
+050f6f5a5b9bbeb698f7ecb9cdee706d,32c92ba3a4f362ccb720475ef1adf864,975.16,2023-01-30,Failed,GUI287,Guindy,Chennai,Net Banking,Merchant_50,Clothing
+7bb1d189442519546992ae130c950c17,99e2880d54c03a029c774f6c904a02fe,90.44,2023-12-08,Successful,GUI394,Guindy,Chennai,Credit,Merchant_43,Health
+107df91980c09420a493ee2332f15d74,e96c7e9fe29491a4ff0337a6b5267bd3,370.58,2023-07-11,Failed,GUI774,Guindy,Chennai,Net Banking,Merchant_83,Health
+1d6200bdb9137005af0056211d1fe449,7be892bb032808b43bc9939021f370ac,620.04,2023-11-22,Successful,GUI466,Guindy,Chennai,Net Banking,Merchant_99,Electronics
+e9c7a680f4ed66eb7bdca224c6479eb9,df11e21c8ca5a841f872b95f43a47827,411.18,2023-08-24,Successful,GUI109,Guindy,Chennai,Credit,Merchant_1,Groceries
+e66924210392d475e0eec85a399e6c64,6b1b6a408fd3e8b25e09d866a7422bad,730.9,2023-06-05,Successful,GUI320,Guindy,Chennai,Credit,Merchant_59,Groceries
+b4ccbd75b6843cbcd738e592ace8f370,a0f355396c646bb7987e9bc18a95f9ba,111.62,2023-12-09,Failed,GUI132,Guindy,Chennai,Debit,Merchant_50,Groceries
+c7d6c060ece8855d393bda5b1f8d522f,c55e7723c65500bdc13ad7ff2d1381a2,433.77,2023-07-26,Successful,GUI923,Guindy,Chennai,UPI,Merchant_10,Clothing
+db7642f5a8ad34e5aace90bdf119cb27,9d341671a21701d1ce9149eda3c50300,941.9,2023-09-01,Successful,GUI900,Guindy,Chennai,Credit,Merchant_86,Health
+542dceaa8f83b549c0dda67c3820a274,971a12ed8bbcd9c8158910c25f992cbb,149.37,2023-11-30,Successful,GUI148,Guindy,Chennai,Net Banking,Merchant_51,Clothing
+80c9f1d6afd0bd04f20c363a4a705829,214106a3ef8eb010d0fbe969f032db8f,67.09,2023-10-29,Failed,GUI755,Guindy,Chennai,UPI,Merchant_19,Electronics
+26da15c16e34ef6774de071f8dd87eff,34098a4447b1323eed446a5302ec5f5b,110.36,2023-10-28,Failed,GUI323,Guindy,Chennai,Net Banking,Merchant_10,Health
+826cb5a2bc922f9acf58157f6b561db7,4f06ae08d39529ba1e1b1fb8f8ddaa74,125.76,2023-03-15,Failed,GUI402,Guindy,Chennai,Net Banking,Merchant_73,Health
+6c886265348c68e342decd780cf6b7ca,b7490bcdc35b347cc97974cd237a324e,369.53,2023-03-09,Failed,GUI128,Guindy,Chennai,Net Banking,Merchant_55,Groceries
+d963ef0be0759ab9fb39f454233b073b,b5cd93601c792380fdade688d011c387,63.14,2023-08-28,Failed,GUI415,Guindy,Chennai,Net Banking,Merchant_1,Health
+9c77cba89260488a8d91eb5d5243deb2,5d5c1c00aa1f13cfc0215e4f86d0163d,742.63,2023-07-05,Failed,GUI589,Guindy,Chennai,UPI,Merchant_52,Groceries
+f48d6d6656f3810af2e50d3fd494c77c,1851d1a4e9ae816eeb18be0fcec0f48b,931.72,2023-12-11,Failed,GUI637,Guindy,Chennai,Debit,Merchant_93,Groceries
+168332433be7c9b01246f67104d90f0d,6eec68318c4a7d6d51dcecd44a138d8c,981.09,2023-08-28,Successful,GUI579,Guindy,Chennai,Net Banking,Merchant_65,Clothing
+2ade54ee75a389db4911e91897401c7f,8e37655cf2df093411e32718e46668c5,687.01,2023-07-19,Successful,GUI573,Guindy,Chennai,Net Banking,Merchant_45,Groceries
+a6a4eb010be342a288008a15f1644490,d8f0f9b605c5be65171315cb0538324e,983.16,2023-02-28,Failed,GUI403,Guindy,Chennai,UPI,Merchant_88,Health
+8a348b98cac499a7e7482101e0ddccd9,ee68133b451e0509b5b5d177d597311c,61.12,2023-08-24,Failed,GUI186,Guindy,Chennai,Net Banking,Merchant_75,Clothing
+7d0930080b89430debe39f2794450cc1,47f413982b3f66e69bec10ae2c6037cd,149.35,2023-09-15,Successful,GUI204,Guindy,Chennai,Net Banking,Merchant_86,Clothing
+ccff2fa05074adcd8529ff392fd02260,40543df495b5de4c8bf0f397c052286c,669.41,2023-03-16,Failed,GUI941,Guindy,Chennai,Credit,Merchant_28,Clothing
+f00dfdae3e64ff540b2c060eff4a25b8,6723364eec63b6c492fe9c2c157d8909,465.9,2023-06-22,Failed,GUI633,Guindy,Chennai,Debit,Merchant_9,Electronics
+700e20b3569b7db6261fe539b36e184d,489582d3210ea3211c45cda1d42c0be1,722.46,2023-04-16,Successful,GUI127,Guindy,Chennai,UPI,Merchant_10,Electronics
+1f9c6382bbb119eb1ba65d445ae04b4a,baad2f86977e85a576bbad9c87be38f0,402.19,2023-06-19,Failed,GUI295,Guindy,Chennai,Credit,Merchant_29,Health
+28f7c3e275e4354f3e9bf27784719717,5c453392f1072e522a31668d172407da,890.1,2023-06-13,Failed,GUI186,Guindy,Chennai,Debit,Merchant_78,Clothing
+e1c52681e90c1c9a08d6220f2f4a45fe,34c45bfd730d273816cb300377a186f4,457.99,2023-02-07,Successful,GUI793,Guindy,Chennai,UPI,Merchant_16,Clothing
+b741e702791eda084ea10a3e83b0dfa9,5845d4ab17c7d3f08e69bb902b14f49f,219.07,2023-11-07,Failed,GUI728,Guindy,Chennai,UPI,Merchant_87,Electronics
+de4a2a3273579c3d76f6cac357c5fa8e,811edc119f0ffb02fbc9465179f3ae7b,203.47,2023-09-25,Successful,GUI182,Guindy,Chennai,Debit,Merchant_30,Health
+12227e7a55ea3cf3bbdac0ec572e62bc,6aa6f057dfd5c221bc87f3c8634e6366,778.09,2023-03-21,Successful,GUI442,Guindy,Chennai,Credit,Merchant_2,Clothing
+7aea7d8dc0607babb73bce2413eba9ef,33702895a4d0c6936db34f3187951a13,554.08,2023-04-02,Successful,GUI304,Guindy,Chennai,Net Banking,Merchant_14,Groceries
+4d616fc3d09c969308e380f120d493c7,600a67a2e249e683b651895c2c9f462d,381.0,2023-11-12,Successful,GUI354,Guindy,Chennai,Credit,Merchant_79,Groceries
+e96e24b22ddaa1002507092e58413af9,2d495edd8cd581429f83ee82b789bc2a,406.79,2023-08-05,Failed,GUI297,Guindy,Chennai,Debit,Merchant_35,Health
+e33e6ebb89d688cfaa5ab4ae0bb05209,7d4499fb75cf87ae2fee79eb0a5053b8,56.01,2023-05-19,Failed,GUI798,Guindy,Chennai,Credit,Merchant_14,Clothing
+73b2fb530256dc7761c1c1bfb14cb8a6,de5c834abbfa657942d5e8a885ed725d,669.43,2023-03-13,Failed,GUI960,Guindy,Chennai,Debit,Merchant_48,Clothing
+a9f5776b73111f86fa6b78f7b7bfd493,3cf3a67e02e974b2da611359bcdb637f,898.4,2023-10-24,Failed,GUI748,Guindy,Chennai,Credit,Merchant_4,Health
+fc386340a37e5c605a560b32437d9713,f2a8cc5bb9c10437598167e1e7b46456,827.21,2023-01-02,Successful,GUI386,Guindy,Chennai,UPI,Merchant_38,Health
+7080e6ec9e5763a2a7a1f83836f3f84a,b99e37a345cc6bd703a1d121830a41c1,452.23,2023-06-30,Successful,GUI556,Guindy,Chennai,UPI,Merchant_93,Groceries
+1540e2672112482fdc56ec2e661f35d9,ebaf6d0aaa16faadc2626682489f4d48,875.15,2023-03-21,Failed,GUI542,Guindy,Chennai,UPI,Merchant_63,Clothing
+9261dd34ab4e2710c43cb7ea111173fc,280554e6e01329f967b1de84a0063500,679.89,2023-09-30,Failed,GUI718,Guindy,Chennai,Debit,Merchant_49,Clothing
+b846960974e7ee00f30e4f3338293aff,dec7612b35d23da2d3da18b8702ef5e8,398.68,2023-06-09,Failed,GUI503,Guindy,Chennai,Net Banking,Merchant_77,Health
+a58b5d1fbc490e7477eb3d4c0125c211,7c56bce29ea72e5a38aa8fa3b2456cfc,102.05,2023-07-02,Successful,GUI225,Guindy,Chennai,UPI,Merchant_34,Electronics
+eb5617d7f8996cfaf504281d44d75b3f,f8784265e908f53b734ed05dba788da1,766.34,2023-07-05,Successful,GUI752,Guindy,Chennai,Net Banking,Merchant_91,Health
+e8d64663084ff9ad71deaec302830ee1,2507d6dc4f371073f065efeb8250df83,985.49,2023-06-11,Failed,GUI303,Guindy,Chennai,Credit,Merchant_85,Clothing
+e3220c5a75a6b5dd0e2f4db6ae1c8e83,c6feff88b601054155fa5d74814541ad,462.37,2023-09-06,Successful,GUI493,Guindy,Chennai,UPI,Merchant_22,Health
+e21b00c3ca800aa15b3be0bab62d030e,0316de2b15e245c3f449a1370db37436,150.13,2023-06-27,Failed,GUI883,Guindy,Chennai,Net Banking,Merchant_27,Clothing
+e71751888ca8da3d63c87e4c8c6f5c51,34ba123bad4d87d6e1806e4c44e13d91,75.34,2023-03-18,Successful,GUI857,Guindy,Chennai,Debit,Merchant_20,Electronics
+76beaa5a6f0521e195c66d7d43169c5a,5e16c9ebae2acbfa6cb68a7c369ed2ea,126.07,2023-08-27,Successful,GUI207,Guindy,Chennai,Net Banking,Merchant_85,Clothing
+e8c46aad48d2f354eb2c9202d3094958,f64267b3752f82a3c012e7ddb4df8def,100.78,2023-11-11,Failed,GUI884,Guindy,Chennai,Net Banking,Merchant_92,Clothing
+ed9661e2cab075815e4e45b7f1a49d4e,57e3b3471e359ca980482c7bd1e3be17,592.68,2023-01-12,Successful,GUI825,Guindy,Chennai,Net Banking,Merchant_99,Clothing
+3e4eeefeadfbdd28d8d0e8c837330a15,3aad2ec4581d76d19eed7bb3c26ec180,853.04,2023-06-19,Successful,GUI714,Guindy,Chennai,Debit,Merchant_94,Electronics
+05e5dae006943307b163a614337d58c7,d4b470f742beae7e52bb4ca129cfb89e,286.72,2023-01-09,Failed,GUI285,Guindy,Chennai,UPI,Merchant_48,Electronics
+7d31f32adb6820e149c405eeccb9fe5a,04459167fa668602738c50f27fac3ab7,328.79,2023-02-17,Failed,GUI650,Guindy,Chennai,Net Banking,Merchant_79,Electronics
+953927f7d6fa12356659dfb96a9fb900,06d38a6548dd242c5d5921201d947896,455.31,2023-03-25,Failed,GUI820,Guindy,Chennai,Credit,Merchant_39,Health
+918b6149ce7d5805ebac3c4a19d16101,752c54320374091b39889dcfea95f3f9,60.8,2023-05-07,Failed,GUI516,Guindy,Chennai,Credit,Merchant_63,Groceries
+f8d443a8ec71ece8c568e42d3208aadf,e9806f481d9d0ad4507c1ca48c3c9f94,320.98,2023-02-08,Failed,GUI926,Guindy,Chennai,UPI,Merchant_94,Groceries
+070c1d33f93430a3be63d03b1831d2cd,6bbf238dc5ca41d8fd62e62896f8846c,933.03,2023-08-06,Successful,GUI854,Guindy,Chennai,Net Banking,Merchant_48,Electronics
+6574547191e21e5c25317d4652a752d4,0f83bd7f76f32bbd3461960abec3dc08,903.26,2023-11-28,Successful,GUI468,Guindy,Chennai,UPI,Merchant_29,Health
+6b2708c34e48138a95fbd9fc7f4d290b,f100510e9aa895dfa195e88542af67c9,766.18,2023-01-03,Failed,GUI275,Guindy,Chennai,Debit,Merchant_89,Clothing
+5bae0581cb891e3501abd92af7fe7d11,f1ddd60fbe38dca7c04959a874a03fc0,916.53,2023-04-22,Failed,GUI289,Guindy,Chennai,Credit,Merchant_14,Groceries
+1f587ed969a8e295b88e5bb02f85645b,6c55c2416038ecc94e719657b874669f,808.87,2023-07-30,Successful,GUI607,Guindy,Chennai,Credit,Merchant_91,Electronics
+1d5c6692fd4a5f8fea6dfe66c2b9728f,8db7196abb2cab9cdd650549872c7ee1,342.88,2023-10-19,Failed,GUI821,Guindy,Chennai,UPI,Merchant_35,Electronics
+c4eb50486d63c0bfc0f98889114c9faa,7d4f49b1bce6b5f7117ec6f797acb902,741.03,2023-06-09,Failed,GUI518,Guindy,Chennai,UPI,Merchant_59,Clothing
+eb1533ab2fa47facfe19f00b82af8907,cbf426f53502fa47951d772be633bee6,192.36,2023-08-21,Failed,GUI600,Guindy,Chennai,UPI,Merchant_35,Health
+9d4f49ac8c3b2075481e2840c52cb8ac,f3f6e48dc0517fc5305f737b58b4a148,82.37,2023-04-27,Failed,GUI839,Guindy,Chennai,Net Banking,Merchant_38,Electronics
+d0fa9833fbdc6c63964d297883dfdc2d,1c38fe427bc366c27e5e821ac111e599,832.35,2023-02-25,Failed,GUI193,Guindy,Chennai,Credit,Merchant_6,Groceries
+dc83eadbd6a004c546fc7944fb668a30,6666bbbfc5c4bc5aaeaf5225e64be9e8,101.34,2023-06-16,Successful,GUI409,Guindy,Chennai,UPI,Merchant_70,Groceries
+9630dcbdc2b1324d6ed05e77cac009eb,fdbcf7fb26ae7ff37f3c40eecdf94114,949.61,2023-12-19,Successful,GUI902,Guindy,Chennai,Net Banking,Merchant_86,Clothing
+ff814dcea6d433709a1da69446da2bc1,84a6bfdb1229ccf02d4ff52780999caf,682.8,2023-10-31,Successful,GUI754,Guindy,Chennai,Debit,Merchant_98,Health
+5925fc00b1a46036414eb4b7c70746c5,c30b70db2ffd63c84eefb8c40387a26f,683.39,2023-05-19,Failed,GUI594,Guindy,Chennai,Net Banking,Merchant_68,Electronics
+45cf22a49a9302c80c273e68adb2b06b,c2c5152c233cfd46ee922f12a7eef173,841.4,2023-11-27,Successful,GUI382,Guindy,Chennai,Credit,Merchant_64,Groceries
+4903685aea4f712be37e3cbbc26d8588,ccdf6a4cc7c41ebd9905816779aeea08,735.52,2023-10-30,Failed,GUI879,Guindy,Chennai,UPI,Merchant_86,Health
+2d0d6ded67cb7e0af88a1853a21dfc9f,65edbbf13bac0edecd1f4ff3ba9af12a,377.8,2023-10-15,Successful,GUI565,Guindy,Chennai,Credit,Merchant_41,Clothing
+6828fd135ed259b5f46a4acac8677311,b2d81ff101985ddb7a44a7bd85edc118,830.88,2023-07-30,Successful,GUI614,Guindy,Chennai,Net Banking,Merchant_54,Health
+c09441ef8eff5e532d6592940ee19e0d,25fc0395d8a363356dec7b8763883f30,38.94,2023-09-21,Failed,GUI995,Guindy,Chennai,Debit,Merchant_10,Groceries
+655cb8fa1054bb026a7d7d1f07205b50,7ff3f8ecceeeadd6a914ce061667afb4,328.78,2023-02-28,Failed,GUI188,Guindy,Chennai,Debit,Merchant_31,Clothing
+93f70ff4552ae9866e7f16729f439a05,88b90fc4dcf40288b71dd242d1e6e4bb,969.41,2023-06-22,Successful,GUI873,Guindy,Chennai,UPI,Merchant_89,Clothing
+be516ab23c76dc9ea208c240e9db341e,18c2b8d7e5e4829411464c425219d766,960.55,2023-07-17,Failed,GUI872,Guindy,Chennai,Credit,Merchant_33,Groceries
+fdb4f35e7d563e6b05c46e1ee03c7128,d735005b10e2dea7b60d7e4444eb5d02,858.9,2023-05-07,Successful,GUI205,Guindy,Chennai,Debit,Merchant_100,Clothing
+fac34393b4934d6107a07e0003a90ef1,8e5b6fe549e95adb6c7cfa81d773a08f,536.93,2023-10-23,Failed,GUI746,Guindy,Chennai,Debit,Merchant_32,Electronics
+929387c36309ba73f493a78889aa0e1b,b3eace0dddc96c8cb9dc35d365455821,509.92,2023-06-20,Successful,GUI563,Guindy,Chennai,UPI,Merchant_24,Clothing
+f2202fa15654ccff694798e00f2bfe4e,d46dbfcdb3c16ff16ab4e6a74c32d564,11.49,2023-08-25,Successful,GUI650,Guindy,Chennai,Credit,Merchant_48,Clothing
+68dc388aa41aa6eaca8c7cfc9b1943df,8199196898d1afd1696e30dfa285173e,847.28,2023-07-25,Successful,GUI555,Guindy,Chennai,UPI,Merchant_58,Clothing
+8fe4bedb07779532734f436159e896b7,d8ecf3cd96505769c2cd60bc9dcd9986,762.06,2023-09-28,Failed,GUI855,Guindy,Chennai,Debit,Merchant_68,Health
+950c7a007fbdc92ff2a5de57d9fa0ea8,af00ebc9849ccb67e5d49de03e76e2b3,90.24,2023-11-26,Failed,GUI763,Guindy,Chennai,Net Banking,Merchant_49,Clothing
+8d7d9ad0cb344cc6a5275ecc89c1b75f,a98e1b31c1371cdf01e39c03c9aecb4e,253.86,2023-12-27,Failed,GUI293,Guindy,Chennai,UPI,Merchant_6,Electronics
+4d24251f71704c2160e471172a1ad97d,431030b3550b74fb3614d9f0a883a705,717.64,2023-05-22,Successful,GUI244,Guindy,Chennai,UPI,Merchant_18,Electronics
+2127ed3ba978aed26471d0e1b57f4eef,2809ae889ed9b476bef736e1dbf563d1,927.6,2023-12-05,Successful,GUI655,Guindy,Chennai,Debit,Merchant_67,Health
+ed4709aefb91b3228fba6273d3dfcaef,a2c2261b3f1f7ca2b0c1c186c69ba1e4,236.55,2023-03-17,Failed,GUI949,Guindy,Chennai,Credit,Merchant_57,Electronics
+f65bc53f7b70362f48a7ff45380b1714,54257d4286b25e3f9d2a9fd35d23b455,296.27,2023-06-11,Successful,GUI832,Guindy,Chennai,Net Banking,Merchant_97,Groceries
+535f06668e8083ff0d35721b1287c5ef,cb596f5489afaa32d64008cbdbba90d7,68.79,2023-10-04,Failed,GUI340,Guindy,Chennai,Net Banking,Merchant_35,Groceries
+6e5cf589a02da2b2ad16231bb817c0fa,41d3bf61877d0f5f69cbbd3e3d2c6e0b,72.11,2023-09-01,Successful,GUI680,Guindy,Chennai,UPI,Merchant_78,Groceries
+53fe45f1b9b4709016222d1a0ee34201,9e7b367e0e132e679e7a20ce7e9f090c,422.41,2023-03-18,Successful,GUI486,Guindy,Chennai,Net Banking,Merchant_67,Groceries
+0111f16ec782f5ee192709ed7c6b7439,3671ae16eceadc652247567dad402837,103.62,2023-04-13,Failed,GUI494,Guindy,Chennai,Net Banking,Merchant_41,Groceries
+791a3ce5857cce928ebc0c7918ef003d,fcee3d0f067141dde728a0a22c5cccdb,299.62,2023-06-08,Successful,GUI764,Guindy,Chennai,UPI,Merchant_12,Electronics
+a0573091bbbdf99190a943c79abe454e,70987c2f6f74149835c7ceb8b856cc17,928.94,2023-07-03,Successful,GUI727,Guindy,Chennai,Credit,Merchant_66,Health
+042b27108c3b5dbab99d3bbf6675a8b9,67125a521829c4411096bb6184d1d691,836.41,2023-02-11,Failed,GUI778,Guindy,Chennai,Debit,Merchant_75,Health
+df1b081bf4600863bde8e4fb9845ba75,07454aa3108f69e40916e265f7ed5868,237.55,2023-02-13,Successful,GUI266,Guindy,Chennai,Credit,Merchant_11,Groceries
+c4a0b8c3bed208194a299aa175d304c3,a1587872a62da5f72621c26e9d3df5ca,68.01,2023-02-03,Successful,GUI918,Guindy,Chennai,UPI,Merchant_80,Clothing
+4ae590f921b27b529200e88b7bbe61cd,81d056e700e7dc3b36ee1e34d81863c0,132.45,2023-11-29,Successful,GUI698,Guindy,Chennai,Debit,Merchant_17,Electronics
+c4779be22d3b5c05a5ae483267a3499d,cb1c0c198425824ab39e94b3cbd26766,978.74,2023-11-13,Failed,GUI613,Guindy,Chennai,Net Banking,Merchant_64,Health
+9e4d2cddb1528e3c565cc307d98f1dd4,6e772184b9e0b6e1fd72eb5491a9134f,554.3,2023-01-15,Failed,GUI877,Guindy,Chennai,Credit,Merchant_92,Health
+40c50eaec228d8651cef6ffba9e61d84,a5b928f46a1c2324bf32324e414d1d92,187.84,2023-01-03,Failed,GUI370,Guindy,Chennai,Credit,Merchant_18,Clothing
+742efcad51ceab7c6f25fe084237e23a,d323b275a70fab4e3a06876a227e6ba7,373.47,2023-11-05,Failed,GUI162,Guindy,Chennai,UPI,Merchant_84,Health
+946db826ba5875ee9212896224d85aaf,7dd15a8396843fa671f5192287498e29,79.89,2023-04-22,Failed,GUI629,Guindy,Chennai,UPI,Merchant_30,Groceries
+25535202a8be49a3b0b253e4ffddc927,9f756544519683459c24b58b89dddd90,176.92,2023-07-26,Failed,GUI444,Guindy,Chennai,UPI,Merchant_3,Groceries
+a1d1507b284a7e5fb0876051bdcd9af9,17737af143262241a6015fd3e76a00f5,565.74,2023-09-25,Failed,GUI558,Guindy,Chennai,Debit,Merchant_79,Groceries
+addda38777781a230902e517453f086c,5551b5f70e7836a07878074f173aa102,786.03,2023-12-09,Successful,GUI661,Guindy,Chennai,Credit,Merchant_60,Groceries
+624c2d7f0514a9610f28237a21a9de39,1176ceaa3c853003ba6e82d4f252f58e,128.68,2023-04-21,Failed,GUI133,Guindy,Chennai,UPI,Merchant_55,Groceries
+beb090dfb5a5016664d52a8e0e543601,30937946ea614eef2ae237dc76b41114,380.88,2023-10-10,Successful,GUI205,Guindy,Chennai,Debit,Merchant_50,Health
+7b2c5b96540902f5d0e919eaa03766c3,70881054d011817083eec103b17238a4,878.54,2023-02-01,Failed,GUI822,Guindy,Chennai,Net Banking,Merchant_15,Clothing
+d7794d2cb3fa5f1698c5f39d8238946d,7922824307edc1bf080be07055028ece,625.21,2023-01-26,Successful,GUI944,Guindy,Chennai,UPI,Merchant_68,Clothing
+ccc66c8281e1e9886c65209c82cea55a,c55073eaf52beb96721edeac045b8944,936.29,2023-03-27,Successful,GUI815,Guindy,Chennai,Credit,Merchant_64,Electronics
+5dd0ae5df7584662c90df91e17cb4cbc,6f4ec435ef11369be3b410666d963333,329.26,2023-02-07,Successful,GUI159,Guindy,Chennai,Debit,Merchant_37,Electronics
+ab710eedcab49c8ce7e8a8fc56a6f0e1,392eb81b96f8591b69861148b997c470,899.55,2023-07-18,Successful,GUI230,Guindy,Chennai,Net Banking,Merchant_85,Health
+cf5f85c7ea7e64da0bece49e6ac7f558,2dc4a9ec999e481e9854c774de4eab33,997.41,2023-12-15,Successful,GUI878,Guindy,Chennai,Credit,Merchant_67,Electronics
+010f9d554c5cb04a5f9b38971d2364fa,a1863e4528de3c4d43d88c77740c0349,390.37,2023-05-03,Successful,GUI751,Guindy,Chennai,UPI,Merchant_92,Clothing
+84dccf01a654532d5c87ba2cbb76f2af,f176b32bb13ba776fb210b714f8d59aa,795.35,2023-03-24,Successful,GUI119,Guindy,Chennai,Debit,Merchant_57,Electronics
+ae2bf971e7186c7d609a2bc553620bb8,2e505c8c6476a03445d0ea452db84ff2,825.89,2023-09-23,Failed,GUI719,Guindy,Chennai,Credit,Merchant_77,Clothing
+ff2049add8ff59084628a3c4031dd54a,ea2d793ce14bb43b1d0dfe9f13dcbc0f,53.01,2023-06-15,Failed,GUI394,Guindy,Chennai,Debit,Merchant_1,Electronics
+a628be9cb3b6a909256f4329ef9ee76e,3ab7905a9ead4051758786789e9eef95,198.15,2023-08-18,Failed,GUI473,Guindy,Chennai,Net Banking,Merchant_63,Clothing
+8fc29bec11ad05c6abee1dfa0d5572e8,5c7f78401ebdd550e1c455f693a3afa0,703.06,2023-08-29,Successful,GUI773,Guindy,Chennai,UPI,Merchant_76,Clothing
+0709d3d2ebcbbbca43670feab304532f,cd624a87da945be55fb07f0bbd94adc8,728.73,2023-03-07,Successful,GUI834,Guindy,Chennai,Debit,Merchant_31,Health
+347261f17f117c65d698820b5b2ebddc,c2e121c63244af8097e9feee389a1b5a,19.84,2023-03-31,Successful,GUI601,Guindy,Chennai,Credit,Merchant_50,Clothing
+67bd655f9445db5e68d3f29888749911,07a29eff37a6015509ba5f299555cb3a,722.63,2023-04-09,Failed,GUI524,Guindy,Chennai,Credit,Merchant_50,Health
+d16321be61ea50a0dc4db556b55250d7,812f0f6cb89fe5e8478b64e1e9beec4d,437.88,2023-12-28,Successful,GUI359,Guindy,Chennai,Debit,Merchant_45,Clothing
+b702d7675cd6fb54e8f1d2bc2d61ed7a,0deccb55f9f3954893d673a7255fec4d,178.8,2023-10-31,Successful,GUI310,Guindy,Chennai,Credit,Merchant_98,Groceries
+58051ad0da216e6604ac890f0693beb2,65e818d46d0aa89f5df78e327dd9b8a9,426.4,2023-04-05,Failed,GUI902,Guindy,Chennai,Net Banking,Merchant_1,Health
+2f94042b106b4dc92913a316ca43ef58,1751f99c221776fd161e89dcd7fc8f9b,240.33,2023-09-27,Successful,GUI277,Guindy,Chennai,UPI,Merchant_18,Health
+994f407a845879f41682575b9595c413,ac67ffa2435a8ec2620c66f39ef98a3a,592.78,2023-08-18,Failed,GUI774,Guindy,Chennai,Net Banking,Merchant_52,Groceries
+5126f50c6bc230f3536d724675ef4fea,bc5a0b134dd99294705993d43f2fe5c1,931.78,2023-01-07,Successful,GUI380,Guindy,Chennai,Credit,Merchant_73,Clothing
+7d2b7bd2ec37c05bb80e49bd97bb8fca,76a075f0aaf076c1a305ce13abad33de,486.98,2023-04-29,Successful,GUI680,Guindy,Chennai,Net Banking,Merchant_71,Electronics
+b5d271a41483df91b754e91f383eac23,93c913313e8924089e095f185ea9223a,692.57,2023-02-01,Successful,GUI155,Guindy,Chennai,Net Banking,Merchant_62,Electronics
+21281b867d15663adae5c951be3dc059,75a6a945097037e4ec7d91ffab2263b3,858.35,2023-07-05,Failed,GUI215,Guindy,Chennai,UPI,Merchant_51,Groceries
+4716ccbca627d3b228605f7d06733a5d,8e417bd73551ac310d768f3442f48d83,991.79,2023-03-08,Failed,GUI851,Guindy,Chennai,Credit,Merchant_87,Groceries
+8e14ae72652e78aa5e332832e4b96657,a8a2932912b5fec6604a0597e16e4ff6,260.84,2023-02-10,Successful,GUI493,Guindy,Chennai,Debit,Merchant_84,Clothing
+166281b1f6e097cadc542ddfba118b38,ee4cd2a4c9c9f3b7572888540953c760,158.23,2023-09-29,Successful,GUI899,Guindy,Chennai,Net Banking,Merchant_49,Health
+e4dee132bb270b152b3d70cd2796cd3e,53400c664db345f72e677646515863a7,946.83,2023-01-05,Failed,GUI451,Guindy,Chennai,Debit,Merchant_55,Groceries
+dd3766289e55886bcea3ccc2a3f4d24c,be7a3ca3471081f074501f759553aec4,512.89,2023-02-17,Failed,GUI636,Guindy,Chennai,UPI,Merchant_58,Clothing
+8b13feda173a6646456932fc16edd956,19ac4b9d70fe5f740657cbc9a11039e9,527.32,2023-11-04,Failed,GUI936,Guindy,Chennai,Net Banking,Merchant_1,Clothing
+c86022db7c86858a42a0a0e37848e41e,a0a1fde546c5f5f4d80bc294fe331b35,36.45,2023-10-23,Failed,GUI633,Guindy,Chennai,Debit,Merchant_79,Clothing
+1726c5cd70ab53f784705a1502b58e57,61db173d6b7d840ec00a8f2fd227d2d2,858.18,2023-03-29,Successful,GUI541,Guindy,Chennai,Credit,Merchant_98,Clothing
+2d0704bf0af6e8c923310cd7279f06de,83a02422fa2264d8680150f6f86c567c,760.86,2023-01-25,Failed,GUI950,Guindy,Chennai,Debit,Merchant_97,Electronics
+8e3f03353fd67736cfda2ff94c44edd1,da4fde36ed69bdad2df6ff0eab4be02b,655.79,2023-07-20,Failed,GUI813,Guindy,Chennai,Net Banking,Merchant_29,Electronics
+beb3478d192f0bc4b1350529bc3e3166,63a50f22163ff3617ff92bca22958722,896.32,2023-08-29,Successful,GUI549,Guindy,Chennai,UPI,Merchant_2,Electronics
+0a6cc51b59861f191b3e58a1a6968e5d,3a89965d225c78d1b08b461c8212c04a,847.51,2023-04-12,Successful,GUI668,Guindy,Chennai,Credit,Merchant_97,Health
+451d3d0313e2e5ff58dcf31943d03fbf,1f6ac56bb8e600bfab3319e763a6d832,101.35,2023-01-26,Successful,GUI782,Guindy,Chennai,Net Banking,Merchant_83,Groceries
+65600bb7cd4f5f5d78f98b5a71e0349c,5a4fb8ef9a9624654b9a7ed09841ecfe,225.12,2023-12-29,Failed,GUI909,Guindy,Chennai,UPI,Merchant_85,Health
+2a96f806513a65fd789d6b470449f5e5,97f21a20984e0da56ecaebe72ceab02d,642.5,2023-09-30,Failed,GUI587,Guindy,Chennai,Debit,Merchant_25,Groceries
+a9feb519f0b53139d45ae57b6b9527f2,ae2d6f14c23c641306f01c39d8161bdf,235.72,2023-03-16,Failed,GUI193,Guindy,Chennai,UPI,Merchant_81,Health
+fd14352a9ad94e6db589338eb7277901,7ad132345c70d6c7fb2e1b4dc5333e1d,434.09,2023-03-24,Failed,GUI668,Guindy,Chennai,Debit,Merchant_57,Groceries
+874da8f627168d211817db89d4c61339,e9a4f610f19376766127b4145eb8a774,955.73,2023-11-13,Failed,GUI619,Guindy,Chennai,Debit,Merchant_86,Groceries
+990a88d8db5007637404a07f16e8e9f8,0c828d8abb35810c6abce2ab9db65ec0,272.84,2023-03-18,Successful,GUI162,Guindy,Chennai,Debit,Merchant_42,Clothing
+2f81f1de537bc74e43d8130180b6caae,398b15ba89e6267cf4fffefda64c646a,719.14,2023-12-18,Failed,GUI361,Guindy,Chennai,Net Banking,Merchant_36,Electronics
+6f2cd29b7643a2100cde236c6fddf4a6,7491d87e44d2b057571d09c0be4cea0b,370.79,2023-03-19,Failed,GUI294,Guindy,Chennai,Debit,Merchant_27,Groceries
+1c15cec6875669556f02e96740bdaa11,3b614c833924ef43b101c52e04706d7e,243.01,2023-03-11,Successful,GUI916,Guindy,Chennai,UPI,Merchant_39,Groceries
+e6fe8bb80b3e49e5f98a2a0058e5a043,cc13c085b263dc0d9df1fba8c0652058,87.79,2023-04-06,Successful,GUI558,Guindy,Chennai,UPI,Merchant_97,Groceries
+abaabd32a619e9f4c9214fbf0ee03c5d,5863311bc026ee65b09f3019c799bb83,35.8,2023-03-13,Failed,GUI956,Guindy,Chennai,Debit,Merchant_18,Groceries
+c05a4280075e04df91883d2cf7750774,d952c8e0c811cd566ab66a57b5967c96,823.68,2023-06-25,Successful,GUI957,Guindy,Chennai,UPI,Merchant_45,Health
+0d3b4b66e19b16439c574c18099eb92e,a19345ab32887aee90d54910f415efec,740.95,2023-02-13,Successful,GUI820,Guindy,Chennai,Debit,Merchant_38,Groceries
+a989ca9c0a1814badd0febb2bc0cdfdb,40cba9940721fc818be90f3d7023392d,547.57,2023-09-02,Failed,GUI336,Guindy,Chennai,Credit,Merchant_33,Clothing
+dab07e42f31139eb645063639f6f6e28,0002af3ecdaa1c85de5bfbe52014a12d,436.98,2023-06-04,Successful,GUI223,Guindy,Chennai,UPI,Merchant_12,Clothing
+2985c85b2549b30c94e66a4689c07534,b307d8ce6043922a1ab0bda7ae8baae9,672.1,2023-11-21,Successful,GUI815,Guindy,Chennai,Credit,Merchant_11,Groceries
+7aea04480b8ce8e62cd98eb43a4688dd,6f314b65b9fd8ead824028a2a6977db3,17.02,2023-01-24,Successful,GUI682,Guindy,Chennai,UPI,Merchant_53,Electronics
+5fec26eb846f46e1667a7f866b111d59,e98a5c6919e40e6d442eccaf01517fcc,39.62,2023-04-03,Successful,GUI708,Guindy,Chennai,Credit,Merchant_24,Groceries
+121b4c501bbe008241997b4163a058e5,2e73408c94a7e376ee05e9f4a7b9d98d,976.31,2023-08-12,Successful,GUI105,Guindy,Chennai,Debit,Merchant_22,Electronics
+a5365ce89ac108ce7036a2183e22ec6b,26b424d1da9abb7d6f9fd17e4264050c,795.94,2023-05-09,Failed,GUI445,Guindy,Chennai,Credit,Merchant_17,Health
+aa44f11339594c4f3943de52c1f6fcf9,260445b9d82d73783ac659503bece22b,427.33,2023-10-30,Failed,GUI333,Guindy,Chennai,Debit,Merchant_91,Health
+34cbb60de8786fe53f084cac96df9f17,c142bfe6e2df18c2714ff2cd526ba56b,243.77,2023-04-06,Successful,GUI561,Guindy,Chennai,Debit,Merchant_54,Groceries
+383e14c60078dd0a1b9ee981a9694b6e,ca89ca9d834a77f74e7daaae7b6ed8b8,455.94,2023-11-02,Successful,GUI532,Guindy,Chennai,Debit,Merchant_58,Health
+dd3aae3297d152ed41d08a8ea6f67167,5ab79e028e57ca9980faf8323059b8dc,707.54,2023-05-23,Failed,GUI350,Guindy,Chennai,Credit,Merchant_58,Groceries
+66ddc6e8ca456eca55a9d2eaf67bb39f,4b3cc779d53fbda1447363ccf38a202e,819.58,2023-11-06,Failed,GUI110,Guindy,Chennai,Net Banking,Merchant_23,Clothing
+110e06b14cabc901de2514a445f67b63,01403aca84f80bed456a420747ca2635,246.33,2023-02-03,Failed,GUI985,Guindy,Chennai,UPI,Merchant_56,Groceries
+4844a980f23e6f76bda06eddbae4d6b3,b519961decebedc09e2e5bda7bbe7548,672.92,2023-02-16,Failed,GUI719,Guindy,Chennai,UPI,Merchant_67,Health
+048995f56a5bfa68cfb367667ab903a9,05a799d146f77625cce0b99fdb2b3f99,249.82,2023-08-13,Failed,GUI571,Guindy,Chennai,Credit,Merchant_99,Groceries
+3510deae088a6b787f8ce9749ffdab47,ce3a765c289173767a80828dd890b11e,729.41,2023-06-13,Failed,GUI947,Guindy,Chennai,UPI,Merchant_57,Groceries
+0f10d0fda456b745a1565d48b57a1de0,37ac40e23c7e048ac9b9b7616207cfb4,816.33,2023-10-29,Failed,GUI834,Guindy,Chennai,Debit,Merchant_69,Health
+35e55b7bf3bef9bfb7202465ab2b73f8,12ead6ce960befbea399d90b50ce7078,463.86,2023-12-28,Successful,GUI828,Guindy,Chennai,Debit,Merchant_96,Health
+adcfdd20594c4bd1e8832954776c5f81,10be7f68c205ae0b8a8f8729cae7b737,911.44,2023-09-13,Successful,GUI532,Guindy,Chennai,UPI,Merchant_70,Health
+34f6d06fee43e6f5759cf6c84908128a,08eac00c0ac731ec1b16ffeb896589f3,12.19,2023-08-20,Successful,GUI142,Guindy,Chennai,Net Banking,Merchant_36,Electronics
+913e92b879a182139b2f8ec12830bfcd,ee68a8e29dbaffe94f266a8cc715028f,795.08,2023-03-16,Successful,GUI923,Guindy,Chennai,UPI,Merchant_33,Health
+de6269ce075c67866f106962c26d69d1,f552ea419dda2414c99acf3787a95057,386.63,2023-04-08,Successful,GUI734,Guindy,Chennai,Net Banking,Merchant_52,Health
+931ab8144ad20a82546411691df17d3b,1f7d03ba3554615b92631b2a55141f9f,441.22,2023-01-10,Successful,GUI875,Guindy,Chennai,Net Banking,Merchant_28,Health
+3d0b80547fdeda177d34c13564b6913f,57c69e95bddb625b0c37d3572f72daba,348.07,2023-04-24,Successful,GUI871,Guindy,Chennai,Net Banking,Merchant_46,Health
+f680bae510fc14e3f4f8c7294b53cd98,d66d4414bc4143ebb538f550644a823b,925.71,2023-01-22,Successful,GUI255,Guindy,Chennai,Credit,Merchant_15,Health
+6b176ce646df211c911dc97789ed8613,1f441042062e2e6cd609da3dcbc2e9e8,279.84,2023-01-04,Successful,GUI215,Guindy,Chennai,UPI,Merchant_89,Health
+d54fb53e3ac89dc35d6b9c1081961092,1158a1bab6d6960781a435c17ea9c7b2,938.0,2023-03-31,Successful,GUI908,Guindy,Chennai,Net Banking,Merchant_36,Health
+de30ca40754b260cea24e8ba1598f924,def85525197b9fc0bf00f72d05fb14c3,507.41,2023-08-21,Failed,GUI235,Guindy,Chennai,Net Banking,Merchant_36,Groceries
+7627750be701bbeb46e64cdc5090acc5,f41988569d81aede191bb4d64fbcc5bc,625.49,2023-07-14,Successful,GUI445,Guindy,Chennai,Credit,Merchant_92,Electronics
+a75cd84b0f07467a6b1731e8289e6f40,4157dcdf6103356470dcb0121dde7de0,823.74,2023-04-09,Successful,GUI763,Guindy,Chennai,Credit,Merchant_91,Groceries
+fe764e4a0bfb52cd4d840515061e977d,e94b15f9daac1717e2778fbb8654ee0c,415.44,2023-12-30,Failed,GUI458,Guindy,Chennai,Net Banking,Merchant_51,Electronics
+47d98051e3f9bff75dc347816e8f03a4,4234c7be0b394e43c3f52bc366109355,605.7,2023-05-26,Failed,GUI781,Guindy,Chennai,Debit,Merchant_53,Electronics
+f7dd89672373a356975e81eb24c2efa3,52bc8a3efc8d35f2e4ba57d572aa1c54,226.69,2023-10-22,Successful,GUI804,Guindy,Chennai,Net Banking,Merchant_32,Health
+ec0b14540797aae9934e6fcf9ecd11ca,1ed66828493fc98647135bd40788634b,757.02,2023-03-26,Failed,GUI264,Guindy,Chennai,UPI,Merchant_37,Groceries
+e14f41db957abcb410c7f2816724e47d,7f0af5670621dfaa87176b72a42f3499,349.48,2023-05-06,Failed,GUI764,Guindy,Chennai,UPI,Merchant_98,Clothing
+92df99692dc339339b1e09e60ee146e2,9e1837b4c991276a1c4db2ce144eb5ce,681.58,2023-04-08,Successful,GUI260,Guindy,Chennai,Debit,Merchant_14,Groceries
+d56b99fca99e7c3a70ccbad9bcd71daa,b976f7fdba7d0a49e6b9810a13c2eed3,834.81,2023-01-19,Failed,GUI381,Guindy,Chennai,UPI,Merchant_81,Groceries
+e937addabe03a8eea9ddc6f7b5da66ea,faebcbae7f212bbf86fad131c2f6a8f2,742.96,2023-01-27,Failed,GUI239,Guindy,Chennai,Debit,Merchant_86,Electronics
+a0bf58742e4a650b5bb04b807755f24c,7e8fd54e11358239ff3b8bcbd42e5d21,62.33,2023-09-05,Failed,GUI404,Guindy,Chennai,Credit,Merchant_11,Clothing
+a7cdda57299607388f28848a8284f577,5468a4e0edf6dfdfc14f07807f44f855,882.97,2023-09-10,Failed,GUI407,Guindy,Chennai,UPI,Merchant_61,Health
+d73df8c9ef6eb15d70cf03e090bb78ad,78bf9737a067d5ce4b21f10102e4e52e,361.21,2023-11-18,Failed,GUI538,Guindy,Chennai,Net Banking,Merchant_19,Electronics
+aee13448906f003a98ad2b7f9866b2d4,98e5ef9b49d3fdda2b474cec304d540e,386.06,2023-01-16,Successful,GUI547,Guindy,Chennai,Credit,Merchant_37,Electronics
+abdf135df2f265a644edbed9773b467a,1c6a0fdb8734d79adba055ff5e28994d,485.94,2023-08-06,Successful,GUI143,Guindy,Chennai,Credit,Merchant_63,Groceries
+44de54346a68dfd080da0b2c2145bf5f,038ee890e19bc96ea56435c4bfe74619,530.19,2023-08-15,Successful,GUI162,Guindy,Chennai,Net Banking,Merchant_22,Electronics
+eb050bc64a65928a908ec57bc4c03c40,66aa71507d6f76ee37daeb50d8ffdbf1,807.45,2023-05-24,Successful,GUI908,Guindy,Chennai,Credit,Merchant_16,Electronics
+58745d2208b12a268c848e5877ba5706,c53e8d34a9c75c6f68f28b42f623a3ae,497.1,2023-04-25,Successful,GUI234,Guindy,Chennai,UPI,Merchant_97,Clothing
+41a0fd12d45b226a8b7ab349a4959147,cb1991f80fb6d79614c79f8fc116fc2c,820.69,2023-09-18,Successful,GUI635,Guindy,Chennai,Credit,Merchant_69,Health
+4ff91c7f080b9377b7ba22a3609be076,54971da6f3bc194f870c32229af844a8,189.78,2023-01-20,Failed,GUI449,Guindy,Chennai,Net Banking,Merchant_59,Electronics
+3a18296ecb1ea34e9e8ef216f496a188,123f7f20ad7683a08435702d5d3da371,428.42,2023-03-03,Failed,GUI662,Guindy,Chennai,UPI,Merchant_40,Groceries
+90c81d1f2f964aa787a41c5e976d79c4,3d67ded83ce33987d00e5c41adf7b608,813.75,2023-02-12,Failed,GUI312,Guindy,Chennai,Net Banking,Merchant_19,Health
+8764a40f859fbefd675edc0d7594d6fa,ac6b60a728e01879f86c09c0eb9ab2a2,61.13,2023-06-07,Successful,GUI624,Guindy,Chennai,Credit,Merchant_25,Health
+a9812b67994f869d6993a60e44ca8398,173b19d298b424705e12c4391c69eac6,948.58,2023-01-03,Successful,GUI706,Guindy,Chennai,Debit,Merchant_61,Health
+f71f0f3e5e1011a4ea2704b14a55c719,7baffa5f688d89ba48972f4ffb630f5f,17.16,2023-11-10,Failed,GUI853,Guindy,Chennai,Net Banking,Merchant_47,Groceries
+debf092312ad5a910eb8108ac26a5c2e,6c1cf6bd9be4302b98e53f2b731f0c5e,983.64,2023-04-22,Successful,GUI790,Guindy,Chennai,UPI,Merchant_30,Health
+c0d842bf419be631bfa9ae0dd8fdcfa0,4e847727ae70a4f5286c3a799d62051a,831.11,2023-07-30,Failed,GUI670,Guindy,Chennai,UPI,Merchant_31,Clothing
+f22a3fd5137e35d8eb7e9b7751bcc4eb,ced0edae4b0d3d61212d8eac1664db12,433.41,2023-05-19,Failed,GUI194,Guindy,Chennai,Credit,Merchant_30,Clothing
+630b30ef4ef90ff194eae761dc5c72af,b52f2b24e2df1a247db99512b56dea49,557.16,2023-08-22,Successful,GUI342,Guindy,Chennai,UPI,Merchant_49,Groceries
+f367beb041ec851c54fab58d9e17a8c3,9ceb98bdadbea969a4509eb2127e9512,312.4,2023-07-24,Successful,GUI737,Guindy,Chennai,UPI,Merchant_41,Clothing
+ad67921ca387a3947da23560db2dd309,f13f080f2ec4bd986479fe637e5b8843,606.03,2023-07-19,Failed,GUI651,Guindy,Chennai,Debit,Merchant_37,Electronics
+c9332a92cecbe0b7a257415df8d8b21f,7e7830377f832431a2d996a2eaa3fb6d,582.77,2023-02-04,Failed,GUI367,Guindy,Chennai,Credit,Merchant_6,Clothing
+9c1c5322809fb22dfe910298e0f4c1c9,ad7ec0ca34b479efd9efcadb68ea6f88,165.76,2023-06-25,Failed,GUI892,Guindy,Chennai,UPI,Merchant_59,Clothing
+1ac2fe10e116c45aace93af44ffbe81c,2f0c2cdc62cd394aa9f485b53e519f3c,449.02,2023-05-13,Successful,GUI663,Guindy,Chennai,Credit,Merchant_37,Health
+b2919de48b14c675f3985f319648c282,7987bb1958ded86ee0eb123d1d993e8c,393.93,2023-01-26,Failed,GUI337,Guindy,Chennai,UPI,Merchant_21,Groceries
+0bed959eeaba47e9724106f73d9037c4,4960bba493e30ee783c5cb26e5fb046d,519.32,2023-11-25,Failed,GUI939,Guindy,Chennai,Debit,Merchant_100,Groceries
+ab6c9d5b86a71b90ef9152cc3b10d34d,45ccf24a69cb5397be0589ffe4f2fd06,805.63,2023-06-21,Failed,GUI185,Guindy,Chennai,UPI,Merchant_10,Groceries
+ba1912af1c7165b280aa56fe28cd1316,754a9c20cc475dc334928a8483d26381,342.06,2023-06-14,Failed,GUI685,Guindy,Chennai,Net Banking,Merchant_79,Electronics
+3685a674aa17822534460bc88f500d5e,b8125313608cce75d78e1be264929226,166.67,2023-07-07,Successful,GUI108,Guindy,Chennai,Credit,Merchant_40,Groceries
+fb301e1d71efa938311e2bd3f033e101,3a463d3cb85df3af7667abeef3891404,623.21,2023-04-14,Successful,GUI542,Guindy,Chennai,UPI,Merchant_48,Groceries
+c6376eebd4fbb0cd6b697a9cebd215ba,69f0ff9c8224bbae1a174de77c21a52d,405.22,2023-12-14,Successful,GUI158,Guindy,Chennai,UPI,Merchant_48,Electronics
+b0a5436fd25f9239d4b599136d64b353,064e36c99b2426c11aecc40905f9c458,185.39,2023-03-29,Successful,GUI107,Guindy,Chennai,Net Banking,Merchant_82,Electronics
+326d22772f735debb1e006f5adafe584,015b4910f36fa45319ce2a5952106a6d,891.91,2023-06-14,Failed,GUI769,Guindy,Chennai,Debit,Merchant_36,Clothing
+b7aeb642fe7f311bada7350007ac8e79,f300ba77d69d2557b371f513a857327b,642.54,2023-02-24,Failed,GUI719,Guindy,Chennai,UPI,Merchant_72,Clothing
+cd8e752c76f1d2e644c90daecf138bb8,00d2908eda7940910ecd53a2dbe522d3,494.72,2023-06-30,Successful,GUI735,Guindy,Chennai,Debit,Merchant_39,Groceries
+0c12393abc8178766e3059865afc1e45,6733de3167cbb0959060ab24c4fdc42f,381.87,2023-08-02,Failed,GUI954,Guindy,Chennai,Net Banking,Merchant_84,Health
+f351a6e0dced5de0b04dac4d71c1242e,c98bf4af21f8917c46a37e025f76fba1,709.24,2023-05-11,Failed,GUI957,Guindy,Chennai,Credit,Merchant_44,Health
+ed4b0a0d55b818f6821e64b3c7b2212f,ca49efe693bfe411823e4445f2f436ca,101.89,2023-07-02,Successful,GUI659,Guindy,Chennai,Credit,Merchant_38,Health
+b3e0c5a541b0bb74ae698043f693564e,f70dd31b0fef9ed5345cb5ca1b8946dc,428.91,2023-07-05,Successful,GUI857,Guindy,Chennai,Debit,Merchant_11,Health
+c52673f432fee6a297e62282b1277d7e,2f4f7a295754730fb3d96fcf7bf0fb80,570.97,2023-06-10,Successful,GUI952,Guindy,Chennai,Credit,Merchant_99,Groceries
+65a5e1e21d7205f18ef0dd6eb74c6f32,f1227696cf0efcba01d8da8f348dec41,257.03,2023-08-25,Successful,GUI655,Guindy,Chennai,Net Banking,Merchant_37,Clothing
+54bb398d3fe25a1dff3b6f72ac6f32d9,200f257fd330b1ac43a1828784d25f97,77.69,2023-05-13,Successful,GUI661,Guindy,Chennai,Debit,Merchant_16,Groceries
+28de5c956481588694d3bd747ae73adf,72795d0b7cbfe7804b3185d845653bf4,718.43,2023-04-26,Successful,GUI338,Guindy,Chennai,Debit,Merchant_84,Groceries
+54745940a19c4b730dae1b2fbf9cd646,e23600bbab0c05843f4ebc5ca0016168,781.2,2023-10-13,Successful,GUI744,Guindy,Chennai,Credit,Merchant_53,Groceries
+c32d998c8bfd2da7660bf9a907f98dae,d14e3c5373780e328d4cd73816f1e19d,192.38,2023-01-10,Failed,GUI239,Guindy,Chennai,Net Banking,Merchant_24,Groceries
+e1c397840fb5e90613bbef18a3e7fdb8,b13dce20080dc04bd66a7d17ed34e694,686.76,2023-06-28,Successful,GUI437,Guindy,Chennai,UPI,Merchant_83,Groceries
+ee8c1c58d95776b74f7ee4749be98e64,95cd3c9bc650d29125f12898b0b750d4,664.51,2023-08-20,Successful,GUI711,Guindy,Chennai,Net Banking,Merchant_9,Clothing
+9cb3edc2f71125be8bd88fb8748df98b,e8ec9f79a78a7c79680318fc509daaba,538.1,2023-01-11,Failed,GUI594,Guindy,Chennai,Debit,Merchant_1,Clothing
+7bd142bbb88b7725a12375bc5219c140,de21c8d6d073f2e8486a6de0f9bb9a19,455.01,2023-03-21,Failed,GUI964,Guindy,Chennai,Net Banking,Merchant_25,Health
+614ba7dd03e5559001679cbe49052609,a5641bd8ac9d017bc1440e096f9c9fdd,79.16,2023-05-19,Successful,GUI900,Guindy,Chennai,Net Banking,Merchant_92,Health
+d1fdf8f601db41deab8b795710bc8ffb,66645b8436b5e6e5f7197597c6726093,50.21,2023-05-14,Successful,GUI213,Guindy,Chennai,UPI,Merchant_24,Groceries
+1b25c12f285fc71cd86814553e2e5099,e1f26a88f69c3f757e3c368d82165c55,67.91,2023-03-02,Failed,GUI917,Guindy,Chennai,Net Banking,Merchant_87,Clothing
+441fa37084514948674e4a6af9b412fc,4e5e5baf1f9c8018dfb1081eca8b89d9,611.1,2023-01-30,Successful,GUI770,Guindy,Chennai,Credit,Merchant_82,Health
+5755d2fa66ff10687b7158b344c1dcec,cacd6977ba0943a2ab607bc0f922ffae,89.29,2023-09-29,Failed,GUI339,Guindy,Chennai,Debit,Merchant_49,Electronics
+e45269dbf45fc2fd36c0bfb418150b98,ab9e4d736c9e9b2850e70f32368afc5f,311.08,2023-03-04,Failed,GUI433,Guindy,Chennai,UPI,Merchant_78,Electronics
+9db39d21909b08f84079de190ddd0248,7605d00c52205d33153af3362c50291f,455.38,2023-04-11,Successful,GUI108,Guindy,Chennai,Debit,Merchant_82,Health
+e54ec107fcaea979934264fd12846a96,8b9ebe1ac5daf84a556af3ee3713fe60,417.28,2023-03-17,Successful,GUI802,Guindy,Chennai,Credit,Merchant_84,Health
+61095e3c4004e7def48138ef4fddcce3,c61515c851e595b19caa2d4637be7d6d,840.09,2023-04-17,Successful,GUI292,Guindy,Chennai,Net Banking,Merchant_95,Groceries
+c679f3b0755db20e1c17aec2747c5bcd,1d84f96ca234585880ba5af1cd772de8,110.46,2023-08-10,Successful,GUI307,Guindy,Chennai,Credit,Merchant_12,Groceries
+5eb1556ef415f3ca9f41cb53e7a358ff,8cfb872b82af91a1cd8d030c289faba3,388.61,2023-08-31,Failed,GUI359,Guindy,Chennai,Net Banking,Merchant_12,Groceries
+5584cc8a0fd842a4a139b08c26673432,c1204ec54373e9cc3c58894db7668d50,222.55,2023-08-18,Successful,GUI544,Guindy,Chennai,Net Banking,Merchant_23,Groceries
+a3c2d2bced850c8e50f0fca34a5e8bba,444874ee93c38e96e2e1b26b657098ee,343.03,2023-06-11,Failed,GUI129,Guindy,Chennai,Debit,Merchant_3,Electronics
+52405ce1a9103cd2e5710a87334f2bcb,c8c06ee6f1ed9dd381fdaa03dd2c950e,316.48,2023-02-12,Failed,GUI587,Guindy,Chennai,UPI,Merchant_56,Electronics
+e4c904ce3ce0202fe8e4c48e9d7aeee9,4ded0d35da58d39054d8838a4d29562c,500.66,2023-08-07,Successful,GUI927,Guindy,Chennai,Net Banking,Merchant_53,Electronics
+6e8cde641945c1cc59f8b30ca5ce674f,4031b5267b45d65f26c43ddb46f202ba,691.62,2023-01-11,Successful,GUI279,Guindy,Chennai,UPI,Merchant_2,Clothing
+ceda60d029f1f16a09d13e7c33d3cbb9,987a56a069271dd29702b709f8197ea8,956.25,2023-12-21,Failed,GUI464,Guindy,Chennai,Debit,Merchant_69,Groceries
+6effec6f3fab7196809866833e0d6233,8ffe26016c4ebda1043dd59055b9b973,458.38,2023-11-10,Successful,GUI529,Guindy,Chennai,Debit,Merchant_19,Clothing
+bb119d818f667b5962ea495b233e9517,c0cb3ceab20e0240b4682da2d46b5f70,993.62,2023-11-19,Failed,GUI547,Guindy,Chennai,Net Banking,Merchant_10,Clothing
+6309dbdac2542cafdb7caadc68a5e354,61d40da38be9fcdad27a85204013b6e6,220.8,2023-01-10,Failed,GUI409,Guindy,Chennai,Net Banking,Merchant_38,Health
+729cc3ae493301292b84b16ce0e28e92,e54d0e7ea4e9dbbb8c08b639d7b48997,313.86,2023-08-09,Successful,GUI257,Guindy,Chennai,Net Banking,Merchant_34,Groceries
+cbb1b4eb838ea65f89fadaa78c837a83,a821be1eee4aa9200062814a93e218df,634.26,2023-01-27,Successful,GUI397,Guindy,Chennai,Net Banking,Merchant_11,Clothing
+9b358bda741869ec9e6ed55652f82275,73a0ff08f8cd031c65ffa2c9b438a3b2,504.05,2023-12-29,Successful,GUI382,Guindy,Chennai,Net Banking,Merchant_75,Clothing
+08060a76a8a7c5019a33fe538a0a6025,0cdaa213ee06064c6c14f23e28c35603,948.83,2023-07-07,Failed,GUI507,Guindy,Chennai,Credit,Merchant_90,Health
+b820fc59308b0a1b6c12086b5474a87d,a106c5811841c206936a26d70a49019e,758.4,2023-06-14,Failed,GUI113,Guindy,Chennai,UPI,Merchant_8,Clothing
+e218c5f766bad507f35a7882d9d3bd88,415581863d84103a7990191364a9eefb,866.8,2023-09-18,Successful,GUI569,Guindy,Chennai,Debit,Merchant_54,Groceries
+2b6c2716abd4ac0608a6771ff50d8d86,795f18fd5ecbd206df53c72405822a17,234.02,2023-09-02,Successful,GUI227,Guindy,Chennai,Debit,Merchant_37,Health
+1fc2ad297ef14f4c5176579491a2356c,495d59761582102a8cca1ff424d21c51,707.23,2023-07-03,Successful,GUI821,Guindy,Chennai,Net Banking,Merchant_99,Health
+ab13d99c170a56d6ac41f52b2bb4d827,d4ca3d42c2cdb5d03e872669f198e0d9,537.2,2023-03-13,Failed,GUI719,Guindy,Chennai,Debit,Merchant_21,Health
+3e0850d1530005c096fb9c77a5ff92a9,3f9ae07159ed855d555a59737b51b3ab,239.88,2023-08-18,Successful,GUI225,Guindy,Chennai,Credit,Merchant_5,Groceries
+aa7a1be77ab0e4bb1b1c78309e17c649,705f36988449a10ed5235ee995ab5334,211.42,2023-09-12,Failed,GUI519,Guindy,Chennai,Credit,Merchant_5,Clothing
+41e6ee9aa04fe38f525052b6cc781c6b,279227cf346e57707a2784e95e859c05,992.78,2023-08-29,Failed,GUI569,Guindy,Chennai,Debit,Merchant_72,Electronics
+e6fdace3fb7b4105aa445a1b0da4d141,6438857d36e88fb29e392ea86686cdf8,152.78,2023-05-01,Successful,GUI122,Guindy,Chennai,Debit,Merchant_16,Electronics
+0102ffbf06c245f8f8ebc6e84e10dda8,b52156706b02ae82244a8a2b3e53d470,730.99,2023-05-24,Failed,GUI508,Guindy,Chennai,Debit,Merchant_66,Clothing
+517f77413e486cdc4e48bbb175a423e7,541e992c99fc0bbccbad6a8381e9f1c5,719.66,2023-05-06,Failed,GUI883,Guindy,Chennai,Net Banking,Merchant_76,Health
+c0ac413ac380d6340f4c9f813c7fa313,9cea14e42e7639275386513a10bb46df,972.39,2023-07-17,Successful,GUI541,Guindy,Chennai,Debit,Merchant_49,Clothing
+ffeb5c938c2717f9e639bfbdd44e022d,4eb096a0cfc4998554f949f127c8b6c8,825.23,2023-01-01,Failed,GUI296,Guindy,Chennai,Debit,Merchant_4,Health
+c8dee670c7ea353b9fe33b4322c8635e,f7c0e6f8257ebd48f67f7079a22601b0,824.4,2023-03-21,Successful,GUI621,Guindy,Chennai,Net Banking,Merchant_44,Electronics
+d02170b85890dae8eecdabeb15667d56,da89bdc96ab200291fe86787fd4dc59c,172.41,2023-10-15,Successful,GUI133,Guindy,Chennai,Net Banking,Merchant_7,Clothing
+240620ed2a63c6b33d4a82dda08f38db,107156dc5c67785227ea50cac2556a9a,459.1,2023-02-15,Failed,GUI763,Guindy,Chennai,Credit,Merchant_10,Health
+86af5960fca84a7ef31c4c61d36087df,ec668393afe4a24e10f2517667f3d87e,58.37,2023-06-16,Failed,GUI603,Guindy,Chennai,Debit,Merchant_57,Health
+662f7301cb2027cd0dbc9202511aebd4,403963ee461982e04f1da3de6e391c7f,372.44,2023-06-13,Successful,GUI981,Guindy,Chennai,Net Banking,Merchant_65,Groceries
+182d15e75279e78a7ca93bafea20fa83,cedd4a4c5224242709a9de44ab652fa9,224.9,2023-09-25,Failed,GUI272,Guindy,Chennai,Debit,Merchant_52,Health
+64b4786ca05dbf5bb59aa368d10a967a,877b26d316839cf39c4cd43d0f639445,955.47,2023-05-23,Successful,GUI272,Guindy,Chennai,UPI,Merchant_97,Groceries
+36143c507ad620a10d14b7139b10cd10,54250dbe99779c6e765f696549a93902,835.85,2023-07-19,Failed,GUI969,Guindy,Chennai,Credit,Merchant_75,Health
+f0bb151a8b51a5e6eec1a45f863d02b4,678931da72d99c3703e9795b1cf22955,840.28,2023-06-07,Successful,GUI629,Guindy,Chennai,Credit,Merchant_54,Electronics
+c67319952f205f2ffe32a0dc43c4a7f2,3f3e3e17d2cbf8febd9e8fa4cb9675d8,269.53,2023-03-24,Successful,GUI738,Guindy,Chennai,Debit,Merchant_15,Electronics
+5d1011daccb1aad987dca74583bc87f8,2c47e0b244fcded819e85242b04f9800,200.08,2023-12-11,Successful,GUI584,Guindy,Chennai,Debit,Merchant_5,Health
+04de514ad889bd4ce031db6ac7db30ab,95188b7b01e77b39f7a3e0804ce79247,894.95,2023-11-04,Failed,GUI425,Guindy,Chennai,Net Banking,Merchant_90,Health
+f86a7111723d9a8c4712a4e31d57e959,afc8e2fa3fdb819ff08dcf4cb1be9ea7,28.05,2023-02-11,Successful,GUI308,Guindy,Chennai,UPI,Merchant_17,Groceries
+22ef31ff0db7e86603f477b44eac3fa9,3844900e9ada273f5360b87430f279af,980.3,2023-06-06,Failed,GUI291,Guindy,Chennai,Net Banking,Merchant_80,Health
+4bd1f8e5555da00de3df35961c9a42c8,07f8554e687eb0f07b81bdef4df7bd76,48.91,2023-07-06,Failed,GUI830,Guindy,Chennai,Net Banking,Merchant_25,Clothing
+b312ec60f72e7febcaac95532f428fd8,8d87b9d0a097d818643ae5e993fcddfa,898.12,2023-10-27,Successful,GUI498,Guindy,Chennai,Net Banking,Merchant_42,Groceries
+792cca3c6c8e378babc1abd267b45db1,5356cebb9c0404caf72c59c6dfc98ed0,448.73,2023-12-13,Successful,GUI609,Guindy,Chennai,UPI,Merchant_62,Electronics
+5c489f82f4cae862c64aac40153d507d,5a8579a3f75cf767572708f03492f893,450.94,2023-12-08,Successful,GUI279,Guindy,Chennai,Debit,Merchant_52,Groceries
+98cd1d1290c1798d2098a665d3e0230f,eb701a46b23f5fc2d7e18112863d2731,374.81,2023-12-17,Failed,GUI666,Guindy,Chennai,Net Banking,Merchant_72,Clothing
+29884beb22c84d48db69986db8e2630a,73988b387a0de68f4adb5b977a1ccb21,808.3,2023-07-15,Successful,GUI399,Guindy,Chennai,Debit,Merchant_39,Electronics
+305d8041296ca047f42435dd32baa8d1,66ef719ee90b8f13252d8cc5817e90a1,974.14,2023-03-17,Failed,GUI763,Guindy,Chennai,UPI,Merchant_56,Groceries
+4c24bcd89acdd2b7591ee99b89bc96c2,5d477fd7bccaed8ab8a968b0ef939a0c,784.58,2023-06-19,Successful,GUI577,Guindy,Chennai,Debit,Merchant_31,Clothing
+141e35f49f811387d936ff24ee3b075c,87f1f409004282775ec8e3edfeca6fe3,692.64,2023-07-21,Successful,GUI263,Guindy,Chennai,Debit,Merchant_39,Electronics
+a41f016925159020bcd9dd9eae8c1f1e,34975a65156c91e4ae9cd4bba57eaf3a,558.0,2023-05-20,Successful,GUI734,Guindy,Chennai,UPI,Merchant_93,Groceries
+97c4a62c73d4042cb47024fdd970b120,b2d0f43458afd8fe9470beb83432e05c,672.42,2023-11-17,Failed,GUI486,Guindy,Chennai,Credit,Merchant_9,Health
+d9c28a9a6d70a8b14c72814052671e83,1b72a19562dc2609a888db48d328eb65,336.95,2023-07-11,Failed,GUI548,Guindy,Chennai,Net Banking,Merchant_41,Electronics
+50186624c96fbea5cb11f6905a0a6cf4,fc7bc497833d3879dec7ab4eb44e84f3,750.83,2023-08-04,Successful,GUI875,Guindy,Chennai,UPI,Merchant_34,Clothing
+7062a112082359640f54a82071e5bec7,fe9bc251aefc5e1a8873629bad66f191,729.14,2023-11-04,Successful,GUI299,Guindy,Chennai,Net Banking,Merchant_55,Health
+ccaf9ce5f52f23c805be7f47e8d69e43,c5a42551ba7743bf2492ef1a475c7fd0,120.36,2023-01-08,Failed,GUI192,Guindy,Chennai,Debit,Merchant_32,Health
+a4613a784766fd964cbb430d9e00f2c2,367f4330d5c104a46cdf667fe7c9cd89,401.02,2023-09-21,Failed,GUI943,Guindy,Chennai,Debit,Merchant_81,Health
+5b8b2a9879bdef7bf73bc9cbc1b02b93,71554241fcade2f50675076e457d02e0,995.53,2023-12-15,Successful,GUI132,Guindy,Chennai,Debit,Merchant_29,Groceries
+428448b0abc7c33016c004ed43135d4e,b378a9f7cd6179b6e11ed698308cdf85,619.38,2023-11-16,Successful,GUI805,Guindy,Chennai,Debit,Merchant_62,Electronics
+586845f7c309eb37c6f8c286890ffae4,de4e2627f40dad8e9653c02b9b1b0f46,607.18,2023-07-22,Successful,GUI577,Guindy,Chennai,UPI,Merchant_65,Electronics
+1ddf787de667712167465bf5303e1acf,6f99abc4914173cea2cc5479bbeb7605,205.78,2023-05-05,Successful,GUI484,Guindy,Chennai,Debit,Merchant_12,Clothing
+f000e0d7e9582608d31778530318f6e1,81a6281e4f02f252b94d5df6d7650b69,527.44,2023-05-30,Successful,GUI466,Guindy,Chennai,Net Banking,Merchant_8,Electronics
+f3a69bfc414a6d0c1d30583a1ce33c3f,07e421b4866636b120ca452d8205c48c,164.99,2023-10-15,Successful,GUI124,Guindy,Chennai,Net Banking,Merchant_83,Clothing
+40f81fa34a3d38e8f6160d1a60771113,6e38901b0efb26de1e5f1444b3dae4d2,786.74,2023-05-06,Successful,GUI361,Guindy,Chennai,Debit,Merchant_59,Electronics
+6580cd912c2111776ca5a6e3a6f38d12,cb7273d443b3c900b67ee454e15e1fa3,559.7,2023-10-08,Failed,GUI113,Guindy,Chennai,UPI,Merchant_86,Clothing
+63e4613816079ad2d88511a22d3c6b50,4685bc6e6b76a8dff06acfc54d6bcec3,978.83,2023-02-10,Successful,GUI952,Guindy,Chennai,UPI,Merchant_91,Groceries
+6f66b570c0febbace6ad2b4b2a863d9c,ca23f9af7a87db7688ba1165fab891e2,766.15,2023-07-02,Failed,GUI355,Guindy,Chennai,Net Banking,Merchant_82,Electronics
+5cddda3afe8d3ee0cabc761173eeb658,32767fa8ea2b53eb549877e9ce8fe004,236.77,2023-09-17,Successful,GUI205,Guindy,Chennai,Net Banking,Merchant_71,Clothing
+f89c7a0bc1f8bcfe97ac2876e5a3ac27,c31950eb4ef1a32695df3c4a696891fa,180.63,2023-03-27,Successful,GUI769,Guindy,Chennai,Credit,Merchant_8,Health
+8f4b0cf8d9423323a5e97082443022a1,df923fbcf53cd7f843c70fcaadd1538b,75.5,2023-08-04,Failed,GUI248,Guindy,Chennai,UPI,Merchant_77,Health
+13b1fa4737439b9b620ce1b22bb4fcbb,aecaa315e63705fe9867e1d90cc33182,913.8,2023-12-23,Successful,GUI391,Guindy,Chennai,UPI,Merchant_95,Clothing
+178b8ddbf9fca61786d9f1531e464643,2dbafa31499a26d1cf160d71ecb9aa4e,505.29,2023-12-15,Successful,GUI935,Guindy,Chennai,Debit,Merchant_40,Electronics
+b401fb6f1915ec68a2cd44c872b0f15d,7c719fb5b5174c1788cbafd32ab168e9,415.69,2023-06-27,Successful,GUI984,Guindy,Chennai,Credit,Merchant_99,Clothing
+f978a86f81e3fb1ec004c7083f5c44bd,5e9bb16cbd2ec0bc0d731dd519c8bc59,325.54,2023-07-13,Failed,GUI587,Guindy,Chennai,Debit,Merchant_94,Groceries
+e5064476514b260510bc24c1ee064a2d,884705a436f491771280ce2b283b4b4a,822.54,2023-03-05,Successful,GUI337,Guindy,Chennai,Net Banking,Merchant_84,Groceries
+4c61bfdec6b153e8fc134ad12bfdd66d,bf50bce7aa68285259ab774b7055b8c7,935.03,2023-05-30,Failed,GUI835,Guindy,Chennai,Net Banking,Merchant_36,Health
+660d502ff8e231225f0642a2aa18f464,cc39297cf567d38fddf9dd9b286a0653,129.01,2023-09-09,Failed,GUI268,Guindy,Chennai,UPI,Merchant_40,Electronics
+830d532b8574615531ac4be33f72b039,5022c11ba68b5cb2e682f560611690b1,713.66,2023-07-21,Successful,GUI411,Guindy,Chennai,UPI,Merchant_48,Electronics
+7f13b5494454ab0f3cd0578629166c86,b8d3d50c9163b23117ec362a6484fa79,54.22,2023-12-06,Failed,GUI281,Guindy,Chennai,Credit,Merchant_69,Groceries
+73501092b66bb517566cdd182c3afb2a,c010bfbf3381dd02279fb1cb7adfd5a2,571.55,2023-07-13,Failed,GUI478,Guindy,Chennai,Debit,Merchant_24,Electronics
+15d6d98d37d2d21c445f9f6968741fc9,8ffa35f560e36f9e9646ad209ddef702,246.37,2023-04-10,Failed,GUI941,Guindy,Chennai,Net Banking,Merchant_84,Health
+c17c26ea34d92dd423ce3f3c5ed93dfe,64f36d86f5d0613978131f192d7b2938,553.78,2023-08-24,Successful,GUI741,Guindy,Chennai,Credit,Merchant_75,Groceries
+35c86ee709717ddd1b8f72e3c95babcf,372c2b72c52f467e7c19fea5787f915e,182.78,2023-11-18,Failed,GUI787,Guindy,Chennai,Debit,Merchant_15,Electronics
+c67017f70323a9066000f42dcbf3b1e5,dfda8b8a3b397dd683085064c937fd5c,201.43,2023-06-13,Successful,GUI197,Guindy,Chennai,Credit,Merchant_15,Electronics
+1edcb4b62dbb960a35ed54bc962322bf,8744bd4fb4e0b4f194b6ab4760c2910a,511.66,2023-02-26,Failed,GUI987,Guindy,Chennai,Debit,Merchant_79,Health
+f474cae7fc76468954404fc256f8bbff,ec863ad1dfff984506a5ef040fdde325,858.23,2023-07-08,Successful,GUI234,Guindy,Chennai,Net Banking,Merchant_51,Electronics
+fa907b7bef9cf983a82d39dca61c4869,74e26ef07447dc3c83808f572250e02e,433.04,2023-06-13,Successful,GUI639,Guindy,Chennai,Credit,Merchant_96,Electronics
+b6c26ea4bf43f6b04bf37a7ad5c93fb6,214ea36b692cedb8a16ed544db4716ba,383.2,2023-08-18,Successful,GUI698,Guindy,Chennai,UPI,Merchant_92,Groceries
+437dbd31ac0a7c4ee6d658399be58064,3039a9518fc7c04278249a1268028a9b,589.47,2023-03-06,Failed,GUI777,Guindy,Chennai,Credit,Merchant_100,Health
+c8fe8117ff393e72f25f9838a943976e,44d308021da42e5b8f49c86479d82584,473.7,2023-08-23,Successful,GUI142,Guindy,Chennai,Credit,Merchant_17,Groceries
+ca05d5db2b7158a8d75fd89c254e962c,b0d4283fcc1e93603a408a3ca4282989,780.49,2023-06-24,Successful,GUI331,Guindy,Chennai,Debit,Merchant_30,Health
+c6b7238bc6c46f0045cc218e0a7de3a7,d9e0b02b5ed06e5d7d50ea9165f3d207,794.32,2023-01-27,Successful,GUI657,Guindy,Chennai,Net Banking,Merchant_33,Groceries
+024d4babdc4376395a30c971c95bf5d6,0e27c7a72621d88fc81ae1bbc4046013,60.16,2023-08-10,Failed,GUI547,Guindy,Chennai,Net Banking,Merchant_11,Groceries
+596023753c256dde04bf7d5b25b71c06,42e10f2fd6c1a92762389aeeb93a44f2,683.1,2023-04-30,Failed,GUI576,Guindy,Chennai,Debit,Merchant_41,Electronics
+8e59a25849683456b31739280b90a43c,0a6a5280747d2a61acccb18c48949f4e,964.21,2023-08-30,Successful,GUI507,Guindy,Chennai,UPI,Merchant_27,Clothing
+278dc51d7899d4d186cd1d6d4591ef7d,f26869544c56a3eebb8ede8fa1ff6dda,97.9,2023-02-22,Successful,GUI532,Guindy,Chennai,Debit,Merchant_2,Electronics
+bea4429d70db1cd726162be3fdb0109d,2e84384d456bfc2bdb496f2ed4e1d2a0,593.31,2023-02-26,Successful,GUI424,Guindy,Chennai,Debit,Merchant_38,Groceries
+a694b2813d230fc49fab4c93746c2a54,88ad8ab02f8c01b9efa6b3250f811555,62.93,2023-09-21,Successful,GUI211,Guindy,Chennai,Net Banking,Merchant_4,Health
+5782f32845a53ce41da66510a8243c8c,f23e256ae24e0fdfae799a4fd82c4b97,163.63,2023-07-17,Successful,GUI168,Guindy,Chennai,Credit,Merchant_67,Electronics
+db6a9a5c0e5c17ffc25b7716880a7750,c39b13233538935467a6a375633a2e62,707.38,2023-05-23,Failed,GUI277,Guindy,Chennai,Debit,Merchant_82,Health
+3f0af7f7ed4df73f8b3382236bdd718a,fdc62201447f04268527a96220299321,967.73,2023-02-12,Failed,GUI179,Guindy,Chennai,Credit,Merchant_4,Groceries
+2705cb2f66f648b68c79dbba583cfca9,35ae89eb6c4e5592cfc713f03a74c384,394.25,2023-01-17,Failed,GUI110,Guindy,Chennai,UPI,Merchant_38,Health
+879321d3a037ad8e8e3f88a74e52d2b4,eef61b84165111bb6f84a91f68981146,304.48,2023-05-01,Successful,GUI220,Guindy,Chennai,UPI,Merchant_61,Health
+f9f81e63068c35b85844d7ccc761af14,c90e2aceea4312901f2feb850265f3d6,14.22,2023-07-12,Successful,GUI630,Guindy,Chennai,Net Banking,Merchant_86,Health
+4369d1b5da246956ca4b18094562b4d3,c84c83dbd0263e3674ed72491800f236,733.87,2023-07-18,Successful,GUI376,Guindy,Chennai,Debit,Merchant_23,Groceries
+9dd91ce15a9590c144109d79a9e3f84b,cbfb63657d52226fabc5518a9aa240d3,159.15,2023-11-23,Successful,GUI356,Guindy,Chennai,Credit,Merchant_6,Health
+a9eb53d3e932853a0c3a8257028780c5,3efd85c3915af8291d2ec9fc056a3aec,446.04,2023-12-14,Successful,GUI698,Guindy,Chennai,Debit,Merchant_42,Groceries
+87d9ab2af9c36c3f756e188b3f48a9ae,413e556242c72e2aa30136021aec1707,239.45,2023-04-01,Successful,GUI754,Guindy,Chennai,UPI,Merchant_70,Clothing
+b46298becded6f28c977af843e438fc4,a73684bdd73a37be95a2b15e0c1c9781,487.35,2023-08-20,Failed,GUI211,Guindy,Chennai,Debit,Merchant_92,Electronics
+9ce6f9997e470c67fe60dc54ef3af634,65a973440063718df446989092d10136,116.27,2023-10-26,Failed,GUI604,Guindy,Chennai,Credit,Merchant_60,Groceries
+1ddb9c3a84c1a0d8f6b484ab582beed9,e77631327601fb1aa732cb91df97fc11,999.84,2023-07-17,Failed,GUI282,Guindy,Chennai,Debit,Merchant_52,Groceries

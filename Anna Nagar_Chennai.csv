@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+1e7b874bacbe049fd3ffd32766178068,665c4221c59fece31dd1831cbf6e3331,632.67,2023-04-15,Successful,ANN746,Anna Nagar,Chennai,Debit,Merchant_97,Clothing
+b64adc5dea8e174f9262e5f8387b6642,bbe09cdc4242c82bbc53619dc782bbf2,968.65,2023-05-08,Failed,ANN273,Anna Nagar,Chennai,Net Banking,Merchant_64,Clothing
+90a26f872963ee3ef1061ab8dfdcfe13,9292f619ef76214ca4f27a5616cccb91,773.8,2023-04-21,Failed,ANN968,Anna Nagar,Chennai,Debit,Merchant_61,Groceries
+bf6ce8bc70ef4b5234c071da4bbb5f7e,db23b239ce688bba0367c12f9b75c17b,587.22,2023-11-29,Failed,ANN246,Anna Nagar,Chennai,UPI,Merchant_31,Clothing
+20ed9cfb9ab3c6b2b82b6d1bce478aa8,76908db4c6556f2f4fa44d430bfd4324,749.13,2023-09-16,Failed,ANN837,Anna Nagar,Chennai,UPI,Merchant_5,Electronics
+0233d04a966aa99b4991b76c9ad571d4,bc6039b1f811a6c2843092c2ac2354ff,982.0,2023-12-15,Successful,ANN262,Anna Nagar,Chennai,Net Banking,Merchant_12,Electronics
+d524fdd0ed02b12f096e9005579f395e,22c68dc4ca1317e1ffc297d148ca02c5,972.63,2023-05-15,Failed,ANN472,Anna Nagar,Chennai,Net Banking,Merchant_84,Electronics
+944617e31f1e4582a6e98b03a931a4d5,0476ec15978c7965f95afcfefa92ae48,403.37,2023-12-19,Failed,ANN496,Anna Nagar,Chennai,Debit,Merchant_74,Groceries
+2d64c186b8484a4930d659c2daa5759a,8c234b375fd9c498cf0dffd9a593bae8,76.97,2023-04-16,Failed,ANN532,Anna Nagar,Chennai,Net Banking,Merchant_2,Clothing
+d908015e9fa8eab9d44fa379e51efcf2,2884ebe8ba7845b5e66c6227fb0da30f,313.5,2023-10-18,Successful,ANN431,Anna Nagar,Chennai,Debit,Merchant_2,Health
+b49dcbaa611d19efdad27b6d0b2633d8,f4c71ea88c71aaafe434d1b06bc07801,618.38,2023-08-17,Successful,ANN481,Anna Nagar,Chennai,Credit,Merchant_87,Clothing
+de8f2ca987ff072bc89a8c35fec3d73c,78eb15f6d7497a1350624233100c4b13,105.53,2023-01-28,Successful,ANN479,Anna Nagar,Chennai,Net Banking,Merchant_77,Clothing
+01a1e45b6ffd62b2ed2c298298a4d3b4,03f79673a5350d9c087131be28f18d18,644.85,2023-10-19,Failed,ANN135,Anna Nagar,Chennai,Debit,Merchant_97,Health
+d41d6722bb56ba2fe0ff6acb1952c43e,d6410aed7287a0776a82807d35b7b79b,520.42,2023-09-13,Failed,ANN539,Anna Nagar,Chennai,UPI,Merchant_85,Clothing
+8be46ca95fd5f58f832f340d1e54adc1,5f7c7d6f9f29068a5b0d181b2653886f,580.31,2023-01-10,Failed,ANN272,Anna Nagar,Chennai,UPI,Merchant_8,Groceries
+74171722cdb78938aba2f7fff233ecbd,84e79e38d9605eb782e28b96ae4118b1,815.3,2023-01-26,Failed,ANN748,Anna Nagar,Chennai,UPI,Merchant_92,Electronics
+03911616f2eade25f3ad030842651705,fa9eb67d8666f1fd7bb2d89ca3402faf,103.16,2023-05-01,Failed,ANN743,Anna Nagar,Chennai,Credit,Merchant_92,Electronics
+7c85280711dbc0ae898ef5678660c237,2a48e3f01788724a6a8afa9431a52ca4,438.88,2023-08-12,Failed,ANN138,Anna Nagar,Chennai,Credit,Merchant_38,Health
+47d0c61885049e8ca80fb862fa472445,d5e7ff57bbff69eaa4d699ed8eb028d5,66.78,2023-09-01,Failed,ANN203,Anna Nagar,Chennai,UPI,Merchant_9,Electronics
+e177a9718c78d71f36fdd7ac2c57f77f,8a8096ce72594e3ad373fab805aa6555,474.64,2023-12-31,Successful,ANN716,Anna Nagar,Chennai,Debit,Merchant_41,Health
+45de7d1a509ed1dba209e7eba807b87d,782789f698df214c887079fda325ff6e,661.21,2023-04-18,Successful,ANN763,Anna Nagar,Chennai,Credit,Merchant_96,Groceries
+665fbbbc38914548b8fad6c4f1146bbc,8814259488b7273515ccd76890a6b88b,952.13,2023-08-12,Successful,ANN567,Anna Nagar,Chennai,Credit,Merchant_29,Electronics
+18b42e70f5b4d13ef104490c5518a6e9,47a5cbf724bb19be831df073e08a2978,239.89,2023-09-20,Successful,ANN387,Anna Nagar,Chennai,Credit,Merchant_70,Electronics
+a825bfbea4ae12cd463700321caf76b1,631538774d3502f436772ae3add28142,610.27,2023-05-19,Successful,ANN895,Anna Nagar,Chennai,Net Banking,Merchant_53,Electronics
+4818af84151d64d63c4ffcf74226a06f,e7d3f6a84eecce5ce351e508bc13d2c7,514.26,2023-09-29,Successful,ANN808,Anna Nagar,Chennai,UPI,Merchant_37,Clothing
+b181609df961d15015640b44da446d7d,2cedd813c3bdffd5e8b856cbeef91e61,666.09,2023-11-01,Failed,ANN611,Anna Nagar,Chennai,Credit,Merchant_14,Health
+49985a497c6ee66f2d9ca842616a5844,cfeaa95abf4e1d60ee544b6ba1aa964f,693.02,2023-09-23,Failed,ANN410,Anna Nagar,Chennai,Credit,Merchant_64,Groceries
+8074f16e55664f9c14c1efaa0edf65f8,d423e56e65d4a89f23798e4c6401b7ea,804.75,2023-08-17,Successful,ANN437,Anna Nagar,Chennai,Credit,Merchant_13,Health
+176885f53d2ab2bfc0d8b8c48c6d59f1,10bff516c94b5dfb37fdf857ff75d47a,477.08,2023-06-21,Successful,ANN445,Anna Nagar,Chennai,Credit,Merchant_97,Groceries
+0c9bb57b6104ba70d35a80155079034c,bd7a9aba4213a559cb97e640cbd3806f,569.55,2023-05-05,Failed,ANN247,Anna Nagar,Chennai,Net Banking,Merchant_36,Groceries
+b64fe4a6b17447c8fba681073cf3f793,290b114e022a1860372cd2021c52b097,700.17,2023-11-14,Failed,ANN261,Anna Nagar,Chennai,UPI,Merchant_56,Groceries
+47d3b014e7ce5e057e3ec758c8531753,fdb3a99392f4e0bab9b51f630873ab15,324.35,2023-01-13,Successful,ANN194,Anna Nagar,Chennai,Credit,Merchant_34,Groceries
+7b9322030a88f0d73fee62ee71ebca47,d098e3b63c72718145fe07c1e97ca40c,668.44,2023-08-23,Successful,ANN537,Anna Nagar,Chennai,Credit,Merchant_78,Groceries
+4cbf6df2fc45c1ddb5f29b8533c4e118,516ebcbc6bdb37fb271107ee9044d2db,683.96,2023-05-04,Failed,ANN261,Anna Nagar,Chennai,UPI,Merchant_48,Health
+2c26ea99e5e0a1b61613bb2e66d19f86,e2d05c277a1ce8be4c00037e28169bda,566.89,2023-09-16,Successful,ANN846,Anna Nagar,Chennai,Net Banking,Merchant_91,Clothing
+02a11a7c6ac881b383a18974fb1b54fb,dd48d6dc9a9dd14c88d0865ddd59d0f6,492.46,2023-08-16,Successful,ANN732,Anna Nagar,Chennai,Debit,Merchant_92,Health
+dec7963896746574621c7e2a7100d9a8,f8e284e3266a891ef9e034635b4c37d7,953.75,2023-08-11,Successful,ANN277,Anna Nagar,Chennai,Net Banking,Merchant_79,Health
+fbeb024916946a2045430dea3da5bf5d,fa455bc6bad028c5ef240a3aeb43c4fd,519.41,2023-07-17,Successful,ANN395,Anna Nagar,Chennai,Debit,Merchant_52,Groceries
+05b43eeeb8febbc058805b9c821a638d,4c093507cf96ecefb058761a3b5f50ae,226.77,2023-07-21,Successful,ANN118,Anna Nagar,Chennai,Net Banking,Merchant_67,Health
+7a24e414c2d525ff3a3acef7ce2dbb07,edef8e5164bc7cc013cd8b5c60d09a46,496.25,2023-09-17,Failed,ANN427,Anna Nagar,Chennai,Credit,Merchant_41,Groceries
+7bd94c9ea33b1d81faae83aae3798000,a3edab0d7ad9648db804580b5dfd782e,954.38,2023-02-11,Successful,ANN694,Anna Nagar,Chennai,Credit,Merchant_26,Electronics
+493cf7de0fc72fc90bc79f56370b03a4,32f19e1c5f1d611f1ab755a53d469b41,918.02,2023-05-06,Successful,ANN857,Anna Nagar,Chennai,UPI,Merchant_87,Electronics
+9731bf2e84dce25cb98d7155b2b25c50,e1cda2f63f5d4b45379fd0ae75daa929,434.16,2023-10-08,Successful,ANN626,Anna Nagar,Chennai,UPI,Merchant_20,Clothing
+dbd0ff24cf8648d69457c6cea9a085f4,e38ab1402e0bdee726b66e9c80bda992,709.92,2023-03-02,Failed,ANN104,Anna Nagar,Chennai,UPI,Merchant_36,Groceries
+07cd35243abc402a2140c67f50e9a1cb,258f85e4cd1051a8a8140bb02218ab3e,576.83,2023-09-10,Successful,ANN778,Anna Nagar,Chennai,Net Banking,Merchant_25,Groceries
+3274469c3a8f2a9fc6a78fff8457527a,44ce5057dce3e724bf7808edd9630285,108.69,2023-10-17,Failed,ANN294,Anna Nagar,Chennai,Net Banking,Merchant_19,Groceries
+bba0e2677e0c38a2478161c609f63ad9,ea3f423e5016d67278208611e87140c6,779.99,2023-05-30,Successful,ANN986,Anna Nagar,Chennai,Credit,Merchant_8,Clothing
+73104e8094908c4e3cf461181641405a,1d0a3f7fedce60754d761aadaf0f39c2,738.71,2023-03-22,Failed,ANN940,Anna Nagar,Chennai,Debit,Merchant_23,Clothing
+31692443f788d175577099401e897554,7821548a8e5b5609eec37ccac04fbe21,574.86,2023-12-17,Failed,ANN649,Anna Nagar,Chennai,Net Banking,Merchant_13,Electronics
+0805a37c174cef575d1a4c9a6271c22e,6b10a068d62713ee872ed13e1e7c4990,425.87,2023-04-05,Successful,ANN871,Anna Nagar,Chennai,Credit,Merchant_45,Electronics
+66ec10990c37154cc531db26f2119c28,f2c6a764f95bb7ea3f0361f14e230360,387.57,2023-02-19,Successful,ANN145,Anna Nagar,Chennai,Credit,Merchant_75,Health
+dec1e9630819a3c906a28e71c32f284b,499151d35ab37e4156974a81aa7cf70c,607.6,2023-12-06,Failed,ANN581,Anna Nagar,Chennai,Credit,Merchant_5,Groceries
+49f48460c7599c519647bdd4bf2979f5,6e9ff6b2daaed8425cef046a0c893345,438.35,2023-07-10,Successful,ANN810,Anna Nagar,Chennai,Credit,Merchant_47,Electronics
+0941f4be11e6ba4ff973f3ce9ef9d6a1,06d40ddcd72961390ba242e1ddd140cc,665.27,2023-02-15,Successful,ANN491,Anna Nagar,Chennai,Debit,Merchant_27,Health
+a02b58b29d2ff52ad806e790a5b65cd4,d9044d0ac76fff930902ee1118a5dcf4,322.53,2023-06-11,Successful,ANN116,Anna Nagar,Chennai,Net Banking,Merchant_95,Health
+6f98fa13d90584764cb276a0cea49ec8,af0a7941a613a5dce48db50bea7b37c7,662.11,2023-08-25,Failed,ANN296,Anna Nagar,Chennai,Credit,Merchant_2,Health
+658e950e7e4f8fc81f2cbc1e232c6ab3,6f47f1779f1633f4c13fef291b315245,299.78,2023-08-22,Failed,ANN220,Anna Nagar,Chennai,Credit,Merchant_34,Groceries
+44af637d325a0c470aca7c565a3088fd,015fe6eb1f5fff3a7595ebf49f71a4f1,123.96,2023-08-23,Failed,ANN116,Anna Nagar,Chennai,UPI,Merchant_12,Groceries
+1a7dc8b383af0f0d1a313c9a804703e1,7f56e1899f50f3b606da7a6716157d89,248.54,2023-06-22,Successful,ANN831,Anna Nagar,Chennai,Debit,Merchant_24,Clothing
+b02336a0f9f5c3874ccce6081f4f3e76,659cb7ff0cb785a2d25760563988bc6f,455.89,2023-09-27,Failed,ANN726,Anna Nagar,Chennai,Debit,Merchant_52,Electronics
+e62d691a59bdcc54ed28fda9eaaa38e4,e41399e84f9d6a7c797eabaf40311559,330.97,2023-07-15,Failed,ANN812,Anna Nagar,Chennai,Credit,Merchant_27,Health
+f4c0332ca22e45afa8343673fc9da1d2,278767b6b7f5b9970202fde19e324ac2,10.38,2023-12-30,Successful,ANN947,Anna Nagar,Chennai,Credit,Merchant_17,Health
+ea7356cc67a2fe0a026f51f8a36e7fd9,224898988d84695ed1a6661c0a17618c,213.66,2023-04-10,Failed,ANN667,Anna Nagar,Chennai,Credit,Merchant_59,Health
+b6fe018f933de5aee6c6693e514db20b,915921228314a0e2cfaaf0ed5871a0ed,937.87,2023-03-28,Successful,ANN616,Anna Nagar,Chennai,Debit,Merchant_42,Groceries
+ff616221b716ec685a387b30275c74d0,4e4e4bfdd3f272361b4a96901d1d9283,575.78,2023-06-28,Successful,ANN652,Anna Nagar,Chennai,Debit,Merchant_1,Electronics
+93a5ee516bbf484214ba04bf23f2ffda,1a3a316332b0bc9b4dc26a4c61465408,434.97,2023-09-23,Failed,ANN955,Anna Nagar,Chennai,Net Banking,Merchant_13,Electronics
+ed085186899c4366f112ee92db39636c,fd83105febb976a67691cf9365224d5a,731.94,2023-05-28,Successful,ANN950,Anna Nagar,Chennai,UPI,Merchant_18,Electronics
+e8b11d08bc19175649e70c9f37746b44,094e9dfa7381791e5427b93aeebe690d,130.7,2023-11-24,Failed,ANN160,Anna Nagar,Chennai,Net Banking,Merchant_98,Groceries
+9a089583b8cc4e178989c8f21105798f,9ada7646ccab998d3d684022fc7af537,112.58,2023-12-14,Failed,ANN629,Anna Nagar,Chennai,Debit,Merchant_51,Electronics
+62aac3b1e965f045b1595e58496a949c,1cf42e89f630848b6b5278f21b9f7a88,785.73,2023-12-17,Successful,ANN440,Anna Nagar,Chennai,Debit,Merchant_56,Clothing
+152b1a75b05abc8c6d4c417987ea3f95,f286d77dae1ecb049d0c8e93e53a141d,581.66,2023-06-02,Failed,ANN530,Anna Nagar,Chennai,Debit,Merchant_76,Clothing
+fe86e46f10b3caee75db045c6966171d,52393335a7448a391378f72a2107131a,570.95,2023-12-12,Successful,ANN620,Anna Nagar,Chennai,UPI,Merchant_40,Clothing
+97ff1b0391406aaa5336bee0f6e05578,4f0f20a73d98f52621a49b06f629271b,669.64,2023-09-16,Failed,ANN259,Anna Nagar,Chennai,Net Banking,Merchant_35,Clothing
+a705cb72b49168ff70196db9a9c10988,188a64a5fdc1b6ff9da86c4e0a4a05ba,394.17,2023-05-22,Successful,ANN329,Anna Nagar,Chennai,Net Banking,Merchant_1,Health
+0e2b041e138bb470ea040143a7553275,9ac6a53499f2d7447ca539b665efcb6a,944.18,2023-07-02,Successful,ANN766,Anna Nagar,Chennai,UPI,Merchant_61,Electronics
+8de05ce290f1316a9424cbde49d0d107,cdb2239941058bf24b53bdcc171c54a0,42.72,2023-06-10,Failed,ANN213,Anna Nagar,Chennai,UPI,Merchant_17,Clothing
+93e3de39c4447417432b3d55f26b5c56,611bc7cc82ab284ccf80a6b871c18450,345.24,2023-10-13,Failed,ANN693,Anna Nagar,Chennai,UPI,Merchant_58,Health
+828695e3dbf3fe0bf3b57361590f9977,1c572fa67a99c77c0646acdeea5ad20b,358.01,2023-03-18,Successful,ANN863,Anna Nagar,Chennai,Debit,Merchant_58,Clothing
+3317f357ecb4d6f21d0a4d2a0a199ece,6c80ffa319e91d138ac994042152dc04,473.24,2023-05-11,Successful,ANN886,Anna Nagar,Chennai,Credit,Merchant_19,Clothing
+ae379a627cb3613a17c8036df125da99,87881d81ae27c67aee34503b88c7606f,356.75,2023-11-19,Successful,ANN476,Anna Nagar,Chennai,Debit,Merchant_87,Electronics
+9eedb2726f377e8f6d81a85f65caa7fe,99a6ea295a0b7ca02fe8032d3abf8bc7,137.95,2023-02-13,Failed,ANN745,Anna Nagar,Chennai,Credit,Merchant_53,Groceries
+5427c318192da84a64a3ef0d48add1a7,c6ac10b95f5367913b0013096237b256,718.83,2023-09-01,Failed,ANN276,Anna Nagar,Chennai,Debit,Merchant_96,Clothing
+750521271d32ccd6b007de612b3471d7,7002abd59b72d940c740f67bc3a699dd,970.32,2023-02-06,Successful,ANN566,Anna Nagar,Chennai,Net Banking,Merchant_9,Electronics
+f82d2bdc6bcd5efa1d8c6cda7c623c7f,4647e13553a2d1542c2160033744a5d4,977.52,2023-01-04,Successful,ANN433,Anna Nagar,Chennai,Net Banking,Merchant_51,Groceries
+4c43eaba1d4bb1085760fd93b703ffe0,82cf456b06b24ddb125a60630ebf0ee4,190.19,2023-07-18,Successful,ANN370,Anna Nagar,Chennai,UPI,Merchant_16,Groceries
+57e47bf7eecf8df127e213e6ccd8fe6c,4c43aced78070ebc5c44e58e4e8b3adc,66.29,2023-02-07,Successful,ANN726,Anna Nagar,Chennai,UPI,Merchant_25,Groceries
+7ace6bdd81605e4e1b170833ab17adfe,b8e8233b6c3eeca17417d996638392a8,742.51,2023-01-27,Successful,ANN583,Anna Nagar,Chennai,UPI,Merchant_39,Groceries
+359dbe6a58d999dab14a30a3e3fd7520,7a63fdfa99d3bc13b8416cf3370a3fd4,309.51,2023-04-22,Successful,ANN312,Anna Nagar,Chennai,UPI,Merchant_37,Groceries
+1c47d89c5a482184c8ad8f59151ad249,e55c28ea1d9b0da116e4701d577e238e,235.51,2023-10-19,Successful,ANN647,Anna Nagar,Chennai,Credit,Merchant_10,Health
+aafd6fc9c81f0d3c05081d1322e5ecb9,b16b7aac36d617b6f090f40b738ede15,408.54,2023-06-04,Successful,ANN166,Anna Nagar,Chennai,Debit,Merchant_34,Groceries
+662859a98ee1f289e053b21bc543f2fb,9aaea70f7f06166f51d2723d9c503a4a,19.71,2023-01-03,Failed,ANN283,Anna Nagar,Chennai,Net Banking,Merchant_15,Clothing
+43bb2d5ed7b36b09a49adc4374736e1d,f7ce846b70649f1e8b8b378a6426497d,205.55,2023-04-11,Successful,ANN498,Anna Nagar,Chennai,Net Banking,Merchant_88,Health
+a73377c61c5a1c2e958d9c868a15471c,e40e25555344e4f602d33dbac708b31b,885.14,2023-08-02,Successful,ANN153,Anna Nagar,Chennai,Credit,Merchant_6,Electronics
+73f9eb941da3ee4e445ddb8a5d3e6dec,7b09b010a06cf4e3a990bed28f0cd755,726.85,2023-01-25,Successful,ANN688,Anna Nagar,Chennai,UPI,Merchant_83,Health
+0a17ad557215eb2a10a2a75b41460927,eec53083069035f4fe438d65447a248f,843.43,2023-04-08,Successful,ANN723,Anna Nagar,Chennai,UPI,Merchant_68,Health
+76dc8abb9d8de95d929512d092123b8c,c127934eb5f5ef523a34a6ff89826020,825.65,2023-12-18,Failed,ANN955,Anna Nagar,Chennai,Debit,Merchant_76,Clothing
+3d4396b80108a4ae1bab0d420b48454b,730636a93b1fd23d941598164026dcc4,983.55,2023-05-09,Successful,ANN268,Anna Nagar,Chennai,Net Banking,Merchant_41,Clothing
+51554cb63e07c67d3efc82a0d18f0153,d08d5c7ea041fcc200df8dab0f061b80,850.89,2023-01-10,Successful,ANN732,Anna Nagar,Chennai,Net Banking,Merchant_79,Health
+6ad3ea80d5f4d4188b034148a65774d2,5d1bb2911b7e96a95b2f57090a7bb1d2,984.06,2023-06-01,Failed,ANN484,Anna Nagar,Chennai,Credit,Merchant_50,Clothing
+99bfa91618a4b5912213dfeacc4177a0,8fae36e6a0da2360774dba5ba352fab6,623.23,2023-02-16,Failed,ANN466,Anna Nagar,Chennai,Net Banking,Merchant_79,Electronics
+a735aff2c44c8e1e97676c37efab5137,b3d3756a0e78b69f1ed2e2af4596a814,639.94,2023-06-27,Successful,ANN194,Anna Nagar,Chennai,Net Banking,Merchant_31,Clothing
+9e3393df54e44e697fd921790d78f9c0,4c53889758e7a681006cf21dc419ef00,297.09,2023-07-21,Failed,ANN664,Anna Nagar,Chennai,Debit,Merchant_56,Groceries
+039d21c1b8f2b51b28da3e4a8d2c39bc,36aefba0e45855da1f396146bcc1c6ed,283.82,2023-06-08,Successful,ANN800,Anna Nagar,Chennai,Debit,Merchant_83,Electronics
+f7087287a0b03ff9e77b1b52e94bca14,c026e50dc7865d4d5de0bef6dcdb3d16,917.46,2023-06-28,Successful,ANN234,Anna Nagar,Chennai,Net Banking,Merchant_6,Health
+6fcd776f4ca4ed5b34297a7591105a78,464ed8c936156e10ea32eb5366ee964f,831.89,2023-12-13,Successful,ANN498,Anna Nagar,Chennai,UPI,Merchant_16,Health
+330d052831cdb442e09d9a63c7158a0c,75d3b92be4d7b9ef4eab9b2d62d749bf,682.79,2023-10-23,Failed,ANN511,Anna Nagar,Chennai,Net Banking,Merchant_89,Clothing
+ae7856b0f8eb27fb0fb3a6811b999b61,608634684abfde102136db1b07fa9a20,203.54,2023-08-04,Successful,ANN723,Anna Nagar,Chennai,Debit,Merchant_93,Groceries
+9e4ed31f0f20b280490b2a8a16b9b583,ddda62d59163d512c1c0d9a0e9827f66,931.2,2023-05-16,Failed,ANN412,Anna Nagar,Chennai,Credit,Merchant_86,Health
+2f6cec1ce5c289cec4337f457644b9af,2071995f0918b50eba09e102f23bcd1d,786.22,2023-12-30,Failed,ANN974,Anna Nagar,Chennai,Credit,Merchant_92,Clothing
+e70722c4eaf20eb716e7e8144bcb6bcb,6addf8dd1e9bf21bb4663c7f656fdb50,937.45,2023-04-26,Successful,ANN674,Anna Nagar,Chennai,Net Banking,Merchant_41,Health
+e8a5afd8054b01212f204419f7b2781e,1f1612531c3e3bedfa3c3a69b1f118e0,211.82,2023-02-26,Successful,ANN921,Anna Nagar,Chennai,UPI,Merchant_60,Clothing
+2cd9c1ee392799c3d3727611741a8638,9bbf94a203077b641fa2e9260c440c12,965.86,2023-08-01,Failed,ANN682,Anna Nagar,Chennai,UPI,Merchant_30,Groceries
+c095cfaaf26c14bd7730d1407d72cb97,b07f62ae2cdcfa8b45160a5f1ff49f7e,101.09,2023-02-27,Failed,ANN913,Anna Nagar,Chennai,UPI,Merchant_32,Electronics
+5c0c6a4a4c8cd36dd5e55c4e14c2384a,d6b9e3dda7c5f78c391cd6e996e7ed90,302.44,2023-01-26,Failed,ANN879,Anna Nagar,Chennai,Credit,Merchant_60,Groceries
+b1fb9eec2f1e0e37873a27dd25246a83,992e5e92994d822ef18e1de71b1dd561,167.22,2023-07-21,Failed,ANN299,Anna Nagar,Chennai,Net Banking,Merchant_71,Clothing
+f72f8b986ae4ab951c3f4912f4ec283e,9dd58c626663d7c4c28ce55ea603afc6,651.83,2023-09-13,Failed,ANN409,Anna Nagar,Chennai,Net Banking,Merchant_68,Clothing
+1ddf8b4990fbb34cf5cae1e69e3ff2c0,5e140b343ee0438655a4d9e41b18dbb5,261.2,2023-02-05,Failed,ANN772,Anna Nagar,Chennai,Net Banking,Merchant_12,Electronics
+ad2df3f9ab051ce8444af0445bf97d4e,c0e213e5775ff904d83eff0f925bbc2d,550.37,2023-07-12,Successful,ANN819,Anna Nagar,Chennai,Net Banking,Merchant_82,Groceries
+6dccf49124348ec310ac67c3d4e42829,ea929708335230e5211bb93c60b447b2,603.51,2023-01-07,Successful,ANN612,Anna Nagar,Chennai,Debit,Merchant_81,Clothing
+cdc68ddc59b8f2f7828f462bfedafd64,d2be8c43e618ecbd05f2fc0875e6584c,450.31,2023-01-04,Failed,ANN607,Anna Nagar,Chennai,Credit,Merchant_80,Electronics
+d51cbfd34bd45d275f60f139b9d38bd7,7bc66ac260bee575f8f128baa845bed5,938.08,2023-09-03,Failed,ANN673,Anna Nagar,Chennai,Debit,Merchant_58,Health
+373975158e0ec5535af2fd7820196f50,a0cb467d07a9e8b66eccda1d65229c73,52.13,2023-07-12,Failed,ANN181,Anna Nagar,Chennai,UPI,Merchant_98,Electronics
+eae548bb0931a32038f50f6767502ebb,d1a6134fcbed2b70f5013edf6ef601ae,938.43,2023-05-23,Successful,ANN419,Anna Nagar,Chennai,Credit,Merchant_54,Electronics
+2b820cb57f261d94cb7d7930ad42ce80,99390a27b05cce4a26bdf31232281c3c,854.7,2023-06-17,Failed,ANN384,Anna Nagar,Chennai,UPI,Merchant_69,Electronics
+f41120aa4b368394db9ed9dee69fd8e1,f7c317d9b5712c45fc321355df13d0cd,992.95,2023-05-13,Successful,ANN214,Anna Nagar,Chennai,Debit,Merchant_26,Clothing
+52de406c034f25c32407016b505d9930,7c539deaf471df66444113e9340bc313,325.16,2023-11-12,Failed,ANN490,Anna Nagar,Chennai,Net Banking,Merchant_71,Electronics
+00c92e190d9e967443034bb6558d31c9,186ddfe41d121b1ef156d70bc97b1809,630.3,2023-10-12,Successful,ANN820,Anna Nagar,Chennai,UPI,Merchant_75,Health
+bb1428f63c83c69e4fb8edd9a9bcce84,61324ac3cae95d505ee4ad7775b47de4,221.61,2023-08-02,Failed,ANN145,Anna Nagar,Chennai,Net Banking,Merchant_77,Health
+0d3abe12f1ebb4719fd185b7a6c3c173,de729a5b9c3ec7b494c767e69b98e495,711.81,2023-06-03,Successful,ANN839,Anna Nagar,Chennai,Credit,Merchant_24,Electronics
+a8f90ee6d34443f576a49b0b3cf00e83,6027a17cd4cbadfd71d57e449857a900,593.0,2023-02-07,Successful,ANN928,Anna Nagar,Chennai,UPI,Merchant_97,Groceries
+d44177e920d41ec20242a79d0cab1b8d,a9c6bfb540d9d245f7ad280df0148c39,961.03,2023-03-07,Successful,ANN707,Anna Nagar,Chennai,Credit,Merchant_84,Groceries
+b37b567094d4ddabd7f62ac2894131be,443c831faffe99c944e363c161151d58,521.42,2023-03-20,Failed,ANN949,Anna Nagar,Chennai,Debit,Merchant_15,Clothing
+d58a2ed7f82299479bfa42aac916202c,5ad13c9c9345fec3a42d2b4f4af512c6,262.44,2023-02-03,Successful,ANN995,Anna Nagar,Chennai,Net Banking,Merchant_5,Clothing
+f11a0337e11121314d8845cce6374529,5735bd26e09d6adb7b84d02436da8024,930.12,2023-02-08,Failed,ANN557,Anna Nagar,Chennai,UPI,Merchant_14,Clothing
+e33af7aeb83106fb2a3a711825d7c01e,eedc9653bd5086ddd4e3e233fe6e7a6b,414.57,2023-05-04,Successful,ANN804,Anna Nagar,Chennai,UPI,Merchant_8,Health
+68fa37224b803ddbb9682d100b2b0301,adbadbf20a9ad88cb7ee45f940c85619,557.46,2023-07-23,Successful,ANN538,Anna Nagar,Chennai,UPI,Merchant_26,Health
+374ed636b4d4df23cf8b6f9c6d4f5882,53d644573eecaf065befc99ef9d2a9a5,817.91,2023-01-10,Failed,ANN174,Anna Nagar,Chennai,Debit,Merchant_14,Clothing
+20c580af5abd15eb6db2bc528d96f2b7,796e7165dd5868f053a29e6921df0d79,580.61,2023-06-04,Successful,ANN290,Anna Nagar,Chennai,Debit,Merchant_63,Groceries
+e4971588f9ebacc88a5dcb499a460a6b,02edf936cda603624a125c2bc1bb2e41,571.14,2023-11-08,Successful,ANN828,Anna Nagar,Chennai,Net Banking,Merchant_42,Clothing
+fe1040cd239940faeeb21029525ca72d,cc0a04f6869113202b54f6a87f3234df,487.45,2023-12-07,Successful,ANN622,Anna Nagar,Chennai,Net Banking,Merchant_81,Clothing
+54ab9a4850809ea328782a2336ce7b2e,17a3a92f1e6b1ee2cac12e47dc87356f,242.54,2023-07-01,Successful,ANN992,Anna Nagar,Chennai,Net Banking,Merchant_36,Groceries
+7a85dd51d9030b9cae8300d35be991da,f6139e179221dcdb8f1ac6babb936340,75.01,2023-04-09,Failed,ANN683,Anna Nagar,Chennai,Debit,Merchant_93,Health
+20b3f28fbd48b98bcaddb169fd3fed81,d9bd83f7a4600f7a251d7ab368cd0069,339.7,2023-04-08,Failed,ANN442,Anna Nagar,Chennai,Credit,Merchant_43,Health
+cf6d3601958dd7df48d893caecfc4f93,bb3570aae5cf6cae5ce3ed3aec701621,380.41,2023-07-06,Failed,ANN549,Anna Nagar,Chennai,UPI,Merchant_66,Electronics
+04aaab4a2237add208b8652bfe79ceaa,5564fedc182f933303620e6db15dd83b,972.27,2023-11-13,Failed,ANN149,Anna Nagar,Chennai,Debit,Merchant_52,Health
+a6f679ccf5144994f008334246d5d4b8,952e7f8728e956dce0a0ba7f25198179,347.08,2023-10-28,Successful,ANN876,Anna Nagar,Chennai,Net Banking,Merchant_44,Clothing
+80ca09a548db11a95d16509193f5d3dd,55104744a527be1ccce65245c0fdcb53,964.42,2023-11-07,Failed,ANN422,Anna Nagar,Chennai,Debit,Merchant_86,Clothing
+59c01a7e2beb08cd6e405c86c35e415a,08587182444acd126a0244ebea63b58a,201.03,2023-04-25,Failed,ANN799,Anna Nagar,Chennai,UPI,Merchant_55,Electronics
+79a2b98e7dc55ae422eb77a00aedd450,522de3c2027f3fb2b6505241417b2db7,354.57,2023-03-15,Successful,ANN436,Anna Nagar,Chennai,UPI,Merchant_11,Groceries
+f657b3d032bcdcd231e9b1796f6c0b09,6d8a91442ace1f1ebde8c28a03d802ad,546.08,2023-02-13,Failed,ANN176,Anna Nagar,Chennai,UPI,Merchant_13,Clothing
+c3401da668dc8d41680a11690eaad94b,07bbc58d4d139aadea862486690f4f98,714.92,2023-09-16,Successful,ANN797,Anna Nagar,Chennai,Debit,Merchant_39,Electronics
+2f12d5b6379a52be16e9e95e456b3289,9a38e10aef7a98112ac1c2490e07507a,488.57,2023-08-22,Failed,ANN121,Anna Nagar,Chennai,Credit,Merchant_39,Health
+f14a8537affb4d16638479472b64cfb8,bfdffa4ebfdc43626997d5b91e82010d,141.03,2023-03-31,Successful,ANN873,Anna Nagar,Chennai,Net Banking,Merchant_73,Groceries
+781b3f7483da17cb43099b2ad6d6f14f,a83d37067c39215e9cbae823f8bf8535,108.23,2023-02-25,Successful,ANN606,Anna Nagar,Chennai,Debit,Merchant_5,Health
+b2ae6c9cbb97d4b4851c6226352c103a,0e923045a520dc9bfd39ca281f395ba0,47.04,2023-07-20,Successful,ANN364,Anna Nagar,Chennai,UPI,Merchant_72,Groceries
+1bfd8b0b7bcb84b75fa9b232c4c0915f,76051f90659e03ed43e2627472996089,641.71,2023-02-17,Successful,ANN311,Anna Nagar,Chennai,Debit,Merchant_27,Health
+b0f54cdb5356e60f60dd70ff141da913,198b7b87b5864411e9ecfbdc1e120bd6,648.7,2023-04-12,Failed,ANN999,Anna Nagar,Chennai,Debit,Merchant_11,Electronics
+8a6bd441c92603b5448231e7e7fd80ce,2782f038219266ebe99377134a201225,268.12,2023-11-10,Successful,ANN627,Anna Nagar,Chennai,Debit,Merchant_73,Clothing
+54d5b2dc354549b4369dc0e772272d68,33a97508bbe6109eecb73f1796941dec,257.1,2023-05-12,Successful,ANN893,Anna Nagar,Chennai,Credit,Merchant_77,Clothing
+05468a0c659d9e3481001abd99be8aac,29d113079f1dd753ba4973f750974af7,949.47,2023-09-07,Failed,ANN722,Anna Nagar,Chennai,Debit,Merchant_54,Clothing
+83ed2fe77bdd49978c533e48efb15364,195d06ad414ada5fcb649b6d2366ba21,750.26,2023-05-01,Successful,ANN468,Anna Nagar,Chennai,Debit,Merchant_99,Health
+409f9893e391eccb18a7ba9180a14730,0b033564a26f8dae4d7c51ecba3f01d1,415.72,2023-06-14,Failed,ANN238,Anna Nagar,Chennai,Net Banking,Merchant_79,Electronics
+50fe158a283534cc606ecf53ebec5d4c,0ae9a0ad32fa462da2d2e18003559719,540.66,2023-03-14,Successful,ANN138,Anna Nagar,Chennai,UPI,Merchant_66,Electronics
+a487338541e75930e076db504a9f1be5,dc96d10997aa98a56c6d939c1d48e0cb,577.83,2023-04-07,Successful,ANN528,Anna Nagar,Chennai,UPI,Merchant_9,Groceries
+da49462c34b8d700879139521652f88c,4345526b934261f3cac451f0da806b74,961.61,2023-07-14,Failed,ANN499,Anna Nagar,Chennai,Debit,Merchant_34,Groceries
+d6c4c60474bad61f94784c4d8ba2e487,a92ce78d2bda6ce5bdcccbee1bfe2e1b,432.45,2023-07-15,Successful,ANN706,Anna Nagar,Chennai,UPI,Merchant_46,Health
+e9c6a7fa8c49cee0e82ab711e906c076,00dbed853a5561cdda87aed53a0a9de8,965.81,2023-07-11,Failed,ANN137,Anna Nagar,Chennai,UPI,Merchant_52,Electronics
+327081737cc8e5bfedf700be21f9c02d,dbdf26691e0b049e9f610e7b4d12f52b,250.09,2023-05-13,Failed,ANN647,Anna Nagar,Chennai,Debit,Merchant_75,Health
+ef0f264e19683a9aebe2a1a6d731f5ab,880f947d6501d261cfb9fd3cf8c6c00c,362.99,2023-09-18,Successful,ANN493,Anna Nagar,Chennai,UPI,Merchant_57,Health
+28ca4201ad6eb12064d81eae70440c45,bc59a8b3f421b52807dc1a30731cc3a2,892.06,2023-02-10,Failed,ANN372,Anna Nagar,Chennai,Net Banking,Merchant_7,Health
+2f963971b807be8825d2124d4ec83eb3,8bb6777defb4074f9fcecc9b92e07c11,339.54,2023-11-23,Successful,ANN177,Anna Nagar,Chennai,Debit,Merchant_78,Groceries
+90e04c8b372abbf1dd70d62426693db2,1542d3c653ca83d62b4205b646c89c92,405.27,2023-07-05,Successful,ANN659,Anna Nagar,Chennai,Net Banking,Merchant_97,Electronics
+d5f93704ee4c324758dc2303be6ffcb5,d84b7a817a2f6d944180acc426f2dddf,314.85,2023-01-21,Failed,ANN467,Anna Nagar,Chennai,Net Banking,Merchant_46,Electronics
+54e835d658bcc78453d139b60682cd63,5db90f8a7af108410c832c5f46a4b9ae,540.92,2023-04-04,Failed,ANN719,Anna Nagar,Chennai,Net Banking,Merchant_23,Groceries
+3b9420e191856251a7b93c206831d308,997626d85005af325c300f33aa0d2808,542.83,2023-08-03,Failed,ANN601,Anna Nagar,Chennai,Credit,Merchant_60,Electronics
+d86a99a2243195226e1d0b4dbf88de41,992681f54cb8b266b95bfef3f6fc28b1,975.13,2023-07-25,Successful,ANN198,Anna Nagar,Chennai,UPI,Merchant_23,Groceries
+bc4c7ee97f3b197045df02a85f7d6dfc,b686aaa7ab843e9b936e6fdec5128592,477.58,2023-02-10,Successful,ANN493,Anna Nagar,Chennai,Net Banking,Merchant_12,Groceries
+a29380be3082026d9530bfdd3b97c241,1dcb260608e56857f104fd4cfad23a30,386.61,2023-01-13,Successful,ANN618,Anna Nagar,Chennai,Net Banking,Merchant_54,Electronics
+5ed4a149f43e596d521cc073719777e2,194b8e2da39c71fd9e54442d4561c57b,569.3,2023-12-13,Successful,ANN969,Anna Nagar,Chennai,Net Banking,Merchant_81,Groceries
+05ed9d6832c41f344b07d2aec56bcd36,d97c12cbed9b8862eccd315fed247ddc,495.84,2023-07-10,Failed,ANN308,Anna Nagar,Chennai,Credit,Merchant_30,Health
+f2f1b90a677333e4f85a306be5aece58,4a4264ff8d19c90e642ed30693e4d5b4,29.66,2023-06-08,Failed,ANN789,Anna Nagar,Chennai,Debit,Merchant_91,Clothing
+0e1076d0ae23ac5cab5184b8b9f0501a,2a3e0ae4d844bae21ff7125b75b7ea21,47.73,2023-06-29,Failed,ANN971,Anna Nagar,Chennai,UPI,Merchant_59,Clothing
+6acff6381c78f5e4e66f56cb96f70278,a12468693dba1f95bf23892e06d10fc6,622.24,2023-06-01,Successful,ANN158,Anna Nagar,Chennai,Debit,Merchant_30,Health
+69f049030f6a826810fb76abdffcea99,4dc2d378bd55a38780d0f74aa63f576a,513.46,2023-04-26,Successful,ANN837,Anna Nagar,Chennai,Debit,Merchant_88,Groceries
+367f8031df8ea28021d4cb299a09b3b9,f4504a7353bba72d63557ed9606974a9,150.52,2023-02-13,Failed,ANN830,Anna Nagar,Chennai,UPI,Merchant_23,Groceries
+9e97007dba41ed7dbff42079adf7bf96,2c724cbd682d81c25e7b788261847e5f,821.79,2023-10-01,Successful,ANN781,Anna Nagar,Chennai,Net Banking,Merchant_36,Electronics
+2fc3df7e96f8d7c868d6a92ebfc344e9,9914398fcb3b744ee5a0469c4898a502,293.2,2023-03-18,Failed,ANN844,Anna Nagar,Chennai,Net Banking,Merchant_29,Health
+c10d0baf7e21d43f1b3493299847255f,ed79126cdba8e7da792a681d67536b5e,607.05,2023-07-07,Failed,ANN360,Anna Nagar,Chennai,UPI,Merchant_33,Clothing
+bfe93c69adb8c17127591b53efc6c68b,a9132dff26cac99fd98e62972d704e1d,333.79,2023-07-16,Failed,ANN508,Anna Nagar,Chennai,UPI,Merchant_89,Health
+ff01d9967ef5964a90477932a03ca4e4,a391cbf975a1c112812796d3288955d0,731.82,2023-08-20,Failed,ANN952,Anna Nagar,Chennai,Credit,Merchant_32,Health
+27db37795f2a669623254dcc18ffa31a,4c62115dd5f0a5c9cabb98509ca7e19b,528.98,2023-12-10,Successful,ANN667,Anna Nagar,Chennai,UPI,Merchant_90,Clothing
+11952b653e2346cee332eba61ac3c18e,5d3a4cf4a9b6b2a2222f6cf5d72829d0,48.55,2023-05-02,Successful,ANN983,Anna Nagar,Chennai,Credit,Merchant_90,Clothing
+87030a30efffc834926d15cc1b562214,9e3f397b3cfac999a4dc97eac20e9d5a,44.64,2023-12-14,Successful,ANN739,Anna Nagar,Chennai,Net Banking,Merchant_67,Clothing
+913722e410c558d19932a7cf8772f578,8ef34063e21b2031af2f56ee062c9a18,764.92,2023-12-06,Failed,ANN699,Anna Nagar,Chennai,Credit,Merchant_6,Groceries
+d4adea234921700e30b87b83a72f7e6f,780c2792da6900622d0bc71a54c6b7ec,269.98,2023-07-03,Failed,ANN904,Anna Nagar,Chennai,Credit,Merchant_52,Electronics
+e534fe0a49f6250cb970088e9fee0780,802282158a89c65680f736ef0c270390,710.42,2023-01-26,Failed,ANN742,Anna Nagar,Chennai,UPI,Merchant_91,Clothing
+dccb4b40a381a7d02333d3dd269e748b,5b26c47028de9cf9b6a825955c722e0b,505.96,2023-04-27,Failed,ANN557,Anna Nagar,Chennai,Debit,Merchant_90,Health
+a97ba411e13f3e9098378cd645183ab6,29b2e116ba7acd4fc1f8b637b5a9cf1b,948.17,2023-12-03,Successful,ANN616,Anna Nagar,Chennai,UPI,Merchant_20,Electronics
+2847035e9c285c8b4061a21fe6233173,9c439af7fcdc60a549110395b2f5ff73,289.1,2023-11-29,Failed,ANN584,Anna Nagar,Chennai,UPI,Merchant_61,Clothing
+83636a72bcfce6369af2449e062ac817,aadba0794b756ddb81e9ea0d9fadfba0,344.51,2023-05-19,Failed,ANN670,Anna Nagar,Chennai,Net Banking,Merchant_71,Clothing
+20c6509e6a4d4e71fd462530f26e8986,d37e4d94da742c22f4525b1cbe1f94f3,536.43,2023-10-22,Successful,ANN516,Anna Nagar,Chennai,Debit,Merchant_78,Electronics
+8ac97b4917d5d23d1b675f32fc1abfa3,19ffdbb18477bbc35093382ed67c7cca,634.58,2023-05-18,Failed,ANN790,Anna Nagar,Chennai,UPI,Merchant_23,Clothing
+a97670d457ad3b2a0254846f11f96137,1c8d6bb08da51af02c9c1f2afc4502a8,896.82,2023-12-01,Failed,ANN411,Anna Nagar,Chennai,Debit,Merchant_90,Clothing
+0781c3d1699ff9408d12fd88a8124abe,51b2e608a540d7680486aa82cc243821,155.6,2023-07-27,Successful,ANN405,Anna Nagar,Chennai,Credit,Merchant_81,Groceries
+4f87270cd2f75030ffc2ec131bf07602,553b762af8ad59a996a4cddf8e2c2653,733.81,2023-07-04,Failed,ANN136,Anna Nagar,Chennai,Credit,Merchant_58,Clothing
+c421f2ad5ba1f2340efcc57b187d3407,6a016154e055c319d6e0e2ec29603dad,858.66,2023-03-23,Successful,ANN882,Anna Nagar,Chennai,Debit,Merchant_43,Groceries
+a42f8a94a854d0e08935779c53513fc0,9850415b5f37da51f60232294c654d71,130.54,2023-08-28,Successful,ANN299,Anna Nagar,Chennai,Net Banking,Merchant_44,Clothing
+d70961294f85cdf6af6792dfe6cf9a5b,769753e1fc2ed5661e71bdf22485b0a0,241.35,2023-09-18,Failed,ANN845,Anna Nagar,Chennai,UPI,Merchant_12,Electronics
+443075785b4ece7f5edfb035b71e3294,08354747b90d3dfd7068e62b90b832d5,332.78,2023-06-12,Successful,ANN188,Anna Nagar,Chennai,Net Banking,Merchant_69,Groceries
+3a40bc8e95ae1d6a51762f819ad211d3,17c3816bf9516646529103c782900698,607.63,2023-10-21,Successful,ANN276,Anna Nagar,Chennai,UPI,Merchant_2,Clothing
+ad3f14da78a81afe48f95e05f12b362d,98690a25d084a35753459c5c7a029513,619.7,2023-03-28,Failed,ANN976,Anna Nagar,Chennai,Credit,Merchant_49,Health
+b406fdfe52486a15076013621180b979,114c416a191038c4c0b39ae60b9da26e,920.01,2023-12-10,Failed,ANN913,Anna Nagar,Chennai,UPI,Merchant_94,Electronics
+6c6fb1964e3090a7076166284faf9ab3,bcb65e1457cebaf22137938b45855121,169.69,2023-11-15,Successful,ANN627,Anna Nagar,Chennai,Debit,Merchant_81,Electronics
+d4274863061faee6cde781aa74619ef4,abb0ec060a060eb326583b4eb2790185,285.02,2023-10-17,Successful,ANN141,Anna Nagar,Chennai,UPI,Merchant_5,Health
+aae3c663d1da48cb198ea0dec37952ba,68a079ac2a96d7169c5b5b2935d13776,260.74,2023-06-21,Failed,ANN743,Anna Nagar,Chennai,UPI,Merchant_52,Groceries
+8f79fcc364f6281e512a34f13c255c12,3440bf477d67994e69ceb5ca54f31cce,290.43,2023-10-16,Successful,ANN333,Anna Nagar,Chennai,Debit,Merchant_90,Groceries
+300860cc16363fd92a2ebb1515fe2c9d,1d8d648b39b4558eeedb877638ce081b,671.68,2023-10-05,Successful,ANN201,Anna Nagar,Chennai,Credit,Merchant_31,Health
+2044d279c3dd9aa00e3271dd5a5ec925,d96fd3680df085bcd4e339952bdff26d,199.07,2023-03-16,Failed,ANN283,Anna Nagar,Chennai,Net Banking,Merchant_58,Groceries
+6b829b1262f0064e56274f85d40b879f,acb06ff3899a8dfb4db3a4720e24351e,281.05,2023-04-01,Failed,ANN652,Anna Nagar,Chennai,UPI,Merchant_24,Electronics
+7a82fdab7e37b2b4d9509341f7dba39a,4c99b5c1846423a31369df899a54109e,123.79,2023-12-23,Failed,ANN708,Anna Nagar,Chennai,UPI,Merchant_92,Groceries
+a0cc4d1526e48dad1a9c285156eeba66,920d9f640ab358c6719b0262e9334264,319.08,2023-04-09,Failed,ANN671,Anna Nagar,Chennai,UPI,Merchant_59,Clothing
+93a8fae9e11cbf1bbb2e041b0b190eb7,2ef54693916342d9288e9c77bb03ce92,698.99,2023-07-24,Successful,ANN138,Anna Nagar,Chennai,Net Banking,Merchant_31,Electronics
+84649d2fa171767ea976964ab24d83a1,14422c3c2383f974e3765e73bf46bfb7,86.33,2023-04-05,Successful,ANN161,Anna Nagar,Chennai,Debit,Merchant_44,Health
+28f03d74eb6d04f5b29ca942f5bc4987,931a74ddde7ef6edb757d5ffa3284886,17.76,2023-06-03,Failed,ANN503,Anna Nagar,Chennai,Credit,Merchant_57,Groceries
+a6469870a565fd2c5abd822a6b9d91bd,c1ee179d15012f6da8e56983e791c964,850.0,2023-12-27,Successful,ANN948,Anna Nagar,Chennai,UPI,Merchant_60,Electronics
+b3a429f11e1114d97fb33cde8cb963c7,720d3e0b4a55abf165dd145396b922ad,958.26,2023-06-14,Successful,ANN363,Anna Nagar,Chennai,Credit,Merchant_58,Groceries
+79b04c2a93866fc778ee49973132c731,72f91ad9c4fb768481d52d139cf1423b,247.4,2023-06-29,Failed,ANN788,Anna Nagar,Chennai,Net Banking,Merchant_63,Groceries
+9ae81e09d6c23dc27644fc976c29d7fd,37d214b36565e3db5f52c4cda637c625,921.09,2023-03-13,Failed,ANN175,Anna Nagar,Chennai,Credit,Merchant_32,Health
+09bb16a3157fc570cdced20c161d4792,540b87220ac71742bb465bde198a32b9,562.63,2023-07-30,Failed,ANN105,Anna Nagar,Chennai,Credit,Merchant_67,Groceries
+f46023706d4b417cfc10ae305b31972a,6fd698b94037a557605f977ca6de88ed,364.39,2023-12-27,Successful,ANN199,Anna Nagar,Chennai,Net Banking,Merchant_17,Clothing
+b6857c2c1a8e9584d2363bc459643f03,4d2aeae839e804336ba683500f031001,199.8,2023-04-23,Failed,ANN779,Anna Nagar,Chennai,Net Banking,Merchant_20,Health
+d71e926008e03d30aa47bd5bc6b9e3eb,e81a9ea276a1c3ef89a27dfef5f890cf,460.21,2023-12-24,Failed,ANN307,Anna Nagar,Chennai,Net Banking,Merchant_96,Groceries
+c7daaa995aa213726adaa0bb2cff2319,b21c127b7541ff4263422aed7d8e7ea4,679.86,2023-04-18,Failed,ANN473,Anna Nagar,Chennai,Credit,Merchant_5,Clothing
+d5a15cc8d69abc3370c084466225717b,a53d0e51892c8896953359fe4cbb29a1,91.85,2023-02-10,Successful,ANN238,Anna Nagar,Chennai,Credit,Merchant_2,Groceries
+9b670ab05b27dc01bb7ddac8df7fb595,7434d07c3d39be7ce4f90359db20ae84,27.31,2023-06-02,Failed,ANN836,Anna Nagar,Chennai,Debit,Merchant_67,Health
+49d8e54769f836998d9639907ba4348d,12c9f1dc8156037bc6b3284658b0df68,930.13,2023-01-14,Failed,ANN957,Anna Nagar,Chennai,UPI,Merchant_55,Clothing
+c6f8a327c02c6eeaba75665a06881c81,317a28dd285f924d26b22ffb80fa7afe,88.53,2023-09-11,Successful,ANN938,Anna Nagar,Chennai,Debit,Merchant_77,Health
+d499269935872f8a859851c95f0731b0,f531aee733cc96f7c649b351799e47d0,22.48,2023-11-09,Failed,ANN987,Anna Nagar,Chennai,UPI,Merchant_72,Groceries
+0326a64a0372fc1fa5493f8f9dc562e2,1fe94f17ca00c2ff2ca64e162c62120e,270.03,2023-07-08,Successful,ANN699,Anna Nagar,Chennai,UPI,Merchant_97,Electronics
+99ba204a68efdde964b188eef980a66f,7b7c5a977cce78f938ec66639eee1e04,787.47,2023-04-30,Successful,ANN260,Anna Nagar,Chennai,Net Banking,Merchant_2,Electronics
+1aae92f14643c2f360444eb6a8caf85b,c3b98ba8144285f5e22d059ca31c408e,943.95,2023-04-05,Failed,ANN127,Anna Nagar,Chennai,Net Banking,Merchant_70,Electronics
+a0e037a09d769a245301dba43b2d7ef1,14921e8b7ba67462bb2bde3de46db937,217.81,2023-06-08,Failed,ANN719,Anna Nagar,Chennai,Debit,Merchant_42,Clothing
+576f9eeb91fdce2f254629d01da73296,f913ca83ffeffba956e41123410f5819,982.06,2023-10-16,Successful,ANN875,Anna Nagar,Chennai,Credit,Merchant_21,Groceries
+0aadc863e0607316ee9ba6c072803e4d,4471a3cbcbbb1189fa94316abeef63eb,45.48,2023-02-08,Successful,ANN490,Anna Nagar,Chennai,Net Banking,Merchant_79,Groceries
+e23680cd4113422fa50672360cfa9448,4767079a1a31af7f4675ffb889977a5e,77.55,2023-11-30,Successful,ANN998,Anna Nagar,Chennai,UPI,Merchant_43,Clothing
+6719fbc0f62cd3c7af5e73c85b2ca483,1792d51f54c8bd70a8d652c7196caa2b,365.0,2023-10-02,Failed,ANN361,Anna Nagar,Chennai,Net Banking,Merchant_60,Electronics
+8cc6413528e0d3a38630e7786bf5f799,40cb71ec2a0b5ecc4c89151f443489f7,568.96,2023-09-07,Successful,ANN612,Anna Nagar,Chennai,Debit,Merchant_32,Clothing
+98d71d000ce6877fcac2bec00ccf2099,20db839a9ac2edf88e5ac697b058df95,309.72,2023-07-03,Successful,ANN201,Anna Nagar,Chennai,Net Banking,Merchant_90,Clothing
+c61b96f3ce09585f6364efac54e4e91e,5abe88d35c3b052a4d27d083ffc8c9b3,471.77,2023-11-28,Failed,ANN141,Anna Nagar,Chennai,UPI,Merchant_52,Groceries
+aa67171c49c8f6177e8b3e33105bc707,67d105f999c52c1ebcb7674e6431c040,607.67,2023-07-20,Failed,ANN979,Anna Nagar,Chennai,Net Banking,Merchant_21,Clothing
+f47d6f3fcdb0747addd61954b26282f3,5b3f399983099686d1a7f4254e97c964,995.81,2023-01-31,Failed,ANN542,Anna Nagar,Chennai,Credit,Merchant_71,Health
+a9583b907b2b281f8a355757a5a160e2,0787e91ce596739aafc2d07163b2ff47,42.12,2023-01-24,Successful,ANN661,Anna Nagar,Chennai,Debit,Merchant_4,Electronics
+00a25e87cd36aa89912f1b2f90404e8d,3a1d2fcd75f5880ce64a8e386ebd99fe,680.58,2023-03-05,Successful,ANN665,Anna Nagar,Chennai,Net Banking,Merchant_82,Health
+e02388882298fc15a43da80a282ec778,e5383cc6f8904727fa9f9b915a3aa308,393.92,2023-11-06,Successful,ANN672,Anna Nagar,Chennai,UPI,Merchant_24,Health
+cc51d10f526c04ef7bdb942b0d1f3927,2688c8ad98c407205081654fc3ad8e46,645.26,2023-01-25,Successful,ANN523,Anna Nagar,Chennai,Net Banking,Merchant_61,Clothing
+3b10b3d42e3f5636dd9bdfe5ee4f409d,459477538b2d919267c44e90c56b173b,854.68,2023-07-10,Failed,ANN304,Anna Nagar,Chennai,Debit,Merchant_41,Clothing
+94ae95aa75ed8802169401eebcfd3c23,e580bf32d09ce8e895647c8a8027dc17,212.98,2023-07-21,Failed,ANN267,Anna Nagar,Chennai,Credit,Merchant_83,Clothing
+cb050ce5c3cd729f7cedb48ecf304d76,5c715604a7d34643e94cb25df96ae0d0,482.61,2023-03-05,Successful,ANN545,Anna Nagar,Chennai,Credit,Merchant_18,Health
+ad446770d8336f987ef8228cdd98d0c2,66a01d714a1cfaf0043de4fb25a2a98e,171.49,2023-04-28,Successful,ANN123,Anna Nagar,Chennai,Debit,Merchant_37,Clothing
+42ef6060481f24123d8688b34de1b256,b09787b6a1209e1cbf52327c835f35a0,616.58,2023-02-03,Successful,ANN222,Anna Nagar,Chennai,Net Banking,Merchant_95,Clothing
+78f77f37e53f8619c882281fbe66c371,024285a8d118e6b163bad53cd03583db,738.57,2023-08-31,Failed,ANN186,Anna Nagar,Chennai,Credit,Merchant_13,Groceries
+ed67ec20e0ec3b56e461cd39b436934c,f009622dac86e8033f96977f9406654c,277.13,2023-09-06,Failed,ANN113,Anna Nagar,Chennai,Net Banking,Merchant_7,Health
+64b98e08cc9e5b29b21edc8692021b5a,b16c4032b9cf013b0950191b0446eb84,219.21,2023-01-02,Failed,ANN385,Anna Nagar,Chennai,Debit,Merchant_12,Health
+abb850e8417d64a27eef5f0b8df1128f,8376be774995f0bb5dfbb8a372cf93d9,775.04,2023-07-24,Successful,ANN959,Anna Nagar,Chennai,UPI,Merchant_90,Health
+52aa08ee45537e7b05966149a22c020b,5e5fc7d7105e4687188aa7e700207dd3,338.37,2023-07-16,Failed,ANN932,Anna Nagar,Chennai,Debit,Merchant_63,Clothing
+e17d5cacfc9d7051781b84849a41b475,883841cafd883e17412a1e3eb9bd737c,468.37,2023-10-02,Successful,ANN344,Anna Nagar,Chennai,Net Banking,Merchant_55,Electronics
+fa2a02f958e2bc15aebb8e2fda8361fc,fd64ba8391ed664209ec607993dd34fd,564.83,2023-03-04,Failed,ANN341,Anna Nagar,Chennai,UPI,Merchant_66,Health
+ffddf0839b27370732909c92c2826f57,ced0b5791553795fa291a6f5f888bc4a,713.1,2023-07-25,Failed,ANN715,Anna Nagar,Chennai,Debit,Merchant_27,Clothing
+9c349d135ca7e7817073c5a1ee0b5f64,e1c8d952a25a9b4d9005ff036ea34d56,559.9,2023-02-06,Successful,ANN409,Anna Nagar,Chennai,Net Banking,Merchant_94,Electronics
+ce49d3c2d7b5d3a6b0d4170027b77f76,c96f76ef7052f394661768f82907d5f7,981.95,2023-04-06,Successful,ANN655,Anna Nagar,Chennai,Net Banking,Merchant_5,Electronics
+9a602139717128820a78d170581bae13,e30b71e868349f8fa3a38ad9f24439cf,773.8,2023-03-16,Successful,ANN444,Anna Nagar,Chennai,Debit,Merchant_65,Electronics
+2ee74e6c67972e7f498a923b64a8e10b,eb68a2c7a1ead0b6d29c89be8f9d55de,938.39,2023-03-20,Successful,ANN527,Anna Nagar,Chennai,UPI,Merchant_21,Health
+11d106bd53be3025607a86f538695d00,90590ec020bea49b2d153ac20961faa2,614.35,2023-03-02,Failed,ANN718,Anna Nagar,Chennai,Net Banking,Merchant_51,Groceries
+bae68065bdd3444370a1adbb9d6c446b,21e87d6c4c2fcffbf7df7c3fb81f8f74,935.86,2023-07-27,Failed,ANN431,Anna Nagar,Chennai,UPI,Merchant_34,Groceries
+9cbda312924b7dc2e37adf1acab58dd8,50b6ee3e0b237a5c4989de36c8bb96ee,646.79,2023-07-23,Successful,ANN483,Anna Nagar,Chennai,Credit,Merchant_96,Clothing
+45b9d6f217d708f254e8c4c264c4bb5b,c09fa8d888c37970aa2ad79c3fd12e1a,200.02,2023-09-25,Failed,ANN508,Anna Nagar,Chennai,Net Banking,Merchant_71,Health
+1ad0ef063629431a1606d21517fcc781,1a093bddca2bf6a0fcbedc82aff01a50,633.41,2023-11-24,Failed,ANN185,Anna Nagar,Chennai,Net Banking,Merchant_70,Groceries
+d02e1939867a9b332307bfb79e4fca98,ba23396d7dc9e5953d38c03c8b9a6bba,133.56,2023-11-11,Successful,ANN918,Anna Nagar,Chennai,UPI,Merchant_4,Electronics
+1bad213bb232aa09d5b79bdc00e4d8d0,eedd0e1727c1827ba41fbb89e006675b,515.22,2023-08-09,Failed,ANN594,Anna Nagar,Chennai,UPI,Merchant_29,Clothing
+0069c3631e71690a1f92cee19a0315b8,bae1b2641b697e093bcf853ec1da18d5,780.88,2023-09-05,Failed,ANN718,Anna Nagar,Chennai,Net Banking,Merchant_6,Clothing
+e20f031ff846d93dd37cae5317f1bd41,6847b2f4a0ead9eb0718e223530f1559,919.44,2023-09-17,Successful,ANN139,Anna Nagar,Chennai,UPI,Merchant_17,Groceries
+fed6559fe68625376bb9342d778f7a4b,3545dfcd456fb88ba6983842c949ca77,219.79,2023-03-26,Failed,ANN332,Anna Nagar,Chennai,Credit,Merchant_14,Groceries
+d536865a4b39f65de213e3d0a56a47bc,8bb1f14feb88f7ce5436dbeb7bc461a3,506.14,2023-12-19,Successful,ANN597,Anna Nagar,Chennai,Net Banking,Merchant_6,Clothing
+2107ffef8adee2b509518f02ce7c5903,5b49774e44e970e85cd2757ed4387f11,860.81,2023-12-27,Successful,ANN852,Anna Nagar,Chennai,UPI,Merchant_60,Health
+2777ceeac59abbd0bbdd51835b6c55b6,42acab9bb0fbe8d434811a8f8eaf6e9a,719.57,2023-06-21,Failed,ANN181,Anna Nagar,Chennai,Debit,Merchant_68,Electronics
+1596ef1de81bbf747065b2e152e94821,a4c27f3a0a6c10e9c4f2a142c4e7b688,798.56,2023-10-03,Failed,ANN255,Anna Nagar,Chennai,Net Banking,Merchant_87,Health
+79a982ef8efdec6489c0d51ecedfc0f5,5622166ccbc2ac52869298ede6732ed2,888.07,2023-07-12,Successful,ANN664,Anna Nagar,Chennai,Debit,Merchant_37,Groceries
+1a7f31aed4ea7053ede678e5dd60e03e,e3754d04109ffa79690d6e0951f0c0dc,915.83,2023-03-25,Successful,ANN884,Anna Nagar,Chennai,Credit,Merchant_88,Electronics
+cee913cb58eb7f9da8d2dee6a18a828b,39ee60c8ce11ddd1f0717c5c0b268d49,930.44,2023-01-14,Failed,ANN627,Anna Nagar,Chennai,Debit,Merchant_24,Electronics
+7ac8764c95991f2a37c7e65292d7067b,a4fe7b3620de5ebf6c51f144a4e46f3a,419.38,2023-09-16,Failed,ANN708,Anna Nagar,Chennai,UPI,Merchant_37,Electronics
+94688ff22c14bdb1c07ed625ac460c97,0c3b35fb2b7eb54bff3300f825778422,416.23,2023-05-31,Failed,ANN430,Anna Nagar,Chennai,Net Banking,Merchant_30,Health
+34a595bb29abaaf1225af6641bf51857,313b5402c226655a22a544af44facdb1,143.21,2023-04-03,Successful,ANN914,Anna Nagar,Chennai,Credit,Merchant_94,Electronics
+a5d66f476d195d07c3eccbf9b7084ac3,8e5e095ac117ec92a2281a77d4ddf75a,95.79,2023-05-21,Failed,ANN862,Anna Nagar,Chennai,Debit,Merchant_96,Electronics
+ca620c3cb4d8676d8a985d911078e340,2386e8b0eeee30021b43ec4c84cfe46f,248.72,2023-01-08,Successful,ANN554,Anna Nagar,Chennai,Net Banking,Merchant_93,Clothing
+74275920b096ce8aef3f002e9a0527ee,333c2c7d29c43c44c9678d3976ac85fd,410.02,2023-02-01,Failed,ANN597,Anna Nagar,Chennai,UPI,Merchant_11,Groceries
+0a58b9c9085d1d4c951260e1c8d88c76,2088b4f091a79a19a126fea93e6c588b,961.95,2023-10-23,Failed,ANN594,Anna Nagar,Chennai,Debit,Merchant_24,Health
+e892e7fc71fc9ed7b954186fc75c331b,bf8ab9e91b7f6d0ddc82c6f6c14749a2,416.98,2023-07-05,Successful,ANN762,Anna Nagar,Chennai,Net Banking,Merchant_32,Groceries
+51c673f59b298f0e4db32096af91a4a6,8f1eea65877492f4575ffbcae4d43ea8,692.94,2023-05-17,Failed,ANN364,Anna Nagar,Chennai,Net Banking,Merchant_70,Groceries
+35e8cd48f1cb08ef9058faec5c097955,34c3ab81ca811398f0a3331fdd275b73,760.57,2023-07-24,Failed,ANN995,Anna Nagar,Chennai,Credit,Merchant_1,Groceries
+572c1733a0fa1b07f189bf40febddb62,118ff0a1869c8559e278e70ce7f79c47,38.46,2023-12-26,Successful,ANN118,Anna Nagar,Chennai,Debit,Merchant_16,Health
+46dd584b68f47f42c8f36dc1d283441d,7567a1cb972c3c263dc18da0b3f1e375,300.23,2023-09-28,Successful,ANN515,Anna Nagar,Chennai,UPI,Merchant_61,Clothing
+4c133433d299c97e09f2ca9ddd8c2099,188a37f2054ad39d9f3d58ab66b94cbc,34.6,2023-09-11,Failed,ANN868,Anna Nagar,Chennai,Net Banking,Merchant_3,Groceries
+cf85b8e9d53a0f5e8b093a453cdddaa8,9cd4391d727f1fe3f1d7cc1091c11fc1,373.31,2023-10-17,Successful,ANN998,Anna Nagar,Chennai,Net Banking,Merchant_61,Clothing
+40ddc3383433bb9194e605206c7b25fd,59bf8c9afc8cce0ae08f5c2da5010f32,664.86,2023-10-27,Failed,ANN306,Anna Nagar,Chennai,UPI,Merchant_9,Groceries
+024b70f56f99036750f87faae842e95d,905281ba65704831f6fc0c377c2d1d59,782.2,2023-03-16,Successful,ANN902,Anna Nagar,Chennai,Net Banking,Merchant_83,Electronics
+0499388ee7b0af4ca3a36d0d262ac223,cf2dd0a921a47fab1c965f9fa5523b9e,18.57,2023-03-19,Failed,ANN478,Anna Nagar,Chennai,Credit,Merchant_18,Electronics
+9bb206e75be15e24762276f0caa78497,9114a63406b90dae4af3f6f602a0d004,355.43,2023-07-02,Successful,ANN849,Anna Nagar,Chennai,Net Banking,Merchant_63,Groceries
+6175d49eefcb262ac345f4f1edb505fc,91e58d0185d53ecd5a1f14523b0fb426,638.73,2023-04-04,Successful,ANN520,Anna Nagar,Chennai,Credit,Merchant_31,Health
+60ce5740f1155db86312192778fbd69f,80947bda8503a1ffc295a017e8a5555e,913.49,2023-05-12,Successful,ANN736,Anna Nagar,Chennai,Debit,Merchant_16,Health
+388689d5942187d6943b31e3cc597186,36b5aa586a6b89345fda7bcca82cccfb,916.67,2023-01-22,Successful,ANN974,Anna Nagar,Chennai,UPI,Merchant_15,Health
+3026be741af68cbe0e10a25070205ad0,a1cfd9c36ef702a8048e04d23b92cd26,246.33,2023-06-08,Successful,ANN480,Anna Nagar,Chennai,Credit,Merchant_67,Groceries
+b15785fa77ac45cc55fed7d181feee63,2bf743b2815d6a6c19370aebc32a7d7f,580.36,2023-10-22,Failed,ANN571,Anna Nagar,Chennai,UPI,Merchant_71,Health
+a8ed6913189bc10590bce2f3ec4cd513,137663697bdbe6187879696f1e1397cd,878.92,2023-05-28,Successful,ANN296,Anna Nagar,Chennai,Debit,Merchant_2,Groceries
+35d0541c7f6998731c25f28d3baae8ca,709eee589bd67f71a4b6f5764946a57a,456.66,2023-09-22,Failed,ANN355,Anna Nagar,Chennai,Credit,Merchant_40,Clothing
+a711b04bd4cbdb9c229d1164b525151f,d08f72eb4b73ee08d826fff0c17d5a75,326.87,2023-04-19,Failed,ANN383,Anna Nagar,Chennai,Net Banking,Merchant_37,Electronics
+eb8be698a66f28e0e75a9797395bdbc5,fbb332c93028fdf097a88cfed0b4a1d4,966.72,2023-02-19,Failed,ANN896,Anna Nagar,Chennai,Credit,Merchant_3,Health
+62eb08eea209bfbda189cae574248092,e09ddab7e393533e9cd72c94b082f3ff,180.42,2023-03-20,Successful,ANN220,Anna Nagar,Chennai,Credit,Merchant_59,Health
+b3d93c5089fc56ce86bc3b44759a9867,f5c47113f1655d3788738bc5cd503643,164.01,2023-07-04,Failed,ANN853,Anna Nagar,Chennai,Debit,Merchant_38,Electronics
+44d1e27872dd8e920ecda867f7d6f1ae,c64ed17ef17e11a5bfebe56908c02b89,307.05,2023-08-15,Failed,ANN359,Anna Nagar,Chennai,Credit,Merchant_51,Clothing
+bb454359455a560b7a5cf3b4bbdcf1f1,08cde581f5749285ba21933d19d2ee80,92.28,2023-07-16,Failed,ANN329,Anna Nagar,Chennai,UPI,Merchant_24,Clothing
+eab61e6d3ed14ab94a241a563293dc27,0ff6c5f2327766fc94d07039b29fbb38,711.97,2023-12-08,Failed,ANN194,Anna Nagar,Chennai,Debit,Merchant_67,Electronics
+4d3750015cdb0d01a1326fc720f0d8e1,465cc4a0fd707bb148a9a4165e3f6b58,843.03,2023-11-05,Successful,ANN637,Anna Nagar,Chennai,UPI,Merchant_31,Clothing
+48e89cb6aafa1302d1d2f73ece2bb8dd,b223809036d7d47f2f00f9e153e05c06,544.02,2023-09-08,Failed,ANN161,Anna Nagar,Chennai,Debit,Merchant_17,Health
+d6fdc2228a41d4a035a559603d8d921b,a4b8d9d656998977e45ace9899fa46ec,686.38,2023-10-28,Failed,ANN589,Anna Nagar,Chennai,UPI,Merchant_66,Clothing
+750e6aa0e293f02bb75615f26c7f878b,996c7cb8db45694d1abac0e11c8d9f30,18.23,2023-01-13,Failed,ANN894,Anna Nagar,Chennai,Net Banking,Merchant_89,Groceries
+2b78e808cbe11551a8430a4cbb5d697f,d2569201377e8549ab04cd2077ca6e0c,360.17,2023-05-19,Failed,ANN959,Anna Nagar,Chennai,UPI,Merchant_55,Groceries
+db9dbb9f6c0ea7f156e56c14934639cf,59e6ded9a9efecbe0425ed607a3ad34d,105.77,2023-09-17,Successful,ANN935,Anna Nagar,Chennai,Debit,Merchant_75,Electronics
+2ecddda0cb27bc7ccd872c2236358e03,44c21a8922a790207b9b0476a954e42b,657.38,2023-07-14,Successful,ANN968,Anna Nagar,Chennai,UPI,Merchant_47,Groceries
+5246a6323092a73589c247e63eaf6697,a9f2971dfc22086271689ccd4aeaf16e,30.01,2023-04-17,Failed,ANN805,Anna Nagar,Chennai,UPI,Merchant_77,Clothing
+659828473df4ec7163e101c9ec25bf03,053abee191cad1480265b742b76cb4a6,543.64,2023-06-06,Successful,ANN711,Anna Nagar,Chennai,Debit,Merchant_85,Electronics
+3187aebab5de89ab17971db24e89b4d3,f1ca1f944e6ce51fb60f240339ae39b9,519.28,2023-10-25,Successful,ANN931,Anna Nagar,Chennai,UPI,Merchant_26,Electronics
+c3521ffacedcaffbefc2c51129b29594,bbb86d245d80c871f251456434b54ef9,411.89,2023-05-13,Failed,ANN536,Anna Nagar,Chennai,UPI,Merchant_42,Clothing
+e3c7ac91d03ae14caa3f3816af073bd4,2ac6fac360517daa891883375949f4ad,219.38,2023-08-04,Failed,ANN675,Anna Nagar,Chennai,Debit,Merchant_17,Groceries
+5d89a0904f25e06d92df220d38fae9d4,80196f74e2bb5f51f41da8a94486ef30,805.8,2023-02-15,Successful,ANN222,Anna Nagar,Chennai,UPI,Merchant_26,Clothing
+a6072aeb594cb8f5b6779e25a66cb857,024976b42e8f1365c1da8d9b581cef5a,311.08,2023-01-13,Successful,ANN489,Anna Nagar,Chennai,Net Banking,Merchant_15,Electronics
+52aa84db94a82632de4b942496e41b8c,22db5e7166781933e835309f4591b8c3,832.74,2023-07-23,Successful,ANN706,Anna Nagar,Chennai,Credit,Merchant_35,Health
+0971c7c952165d2df76372ea8d5ade2d,120af65f2cecee32fb59b501228ad83a,585.12,2023-06-14,Successful,ANN286,Anna Nagar,Chennai,UPI,Merchant_63,Groceries
+740080b66d35c0a40c540d82659cd57b,65dcf71372dc5f0175c22ace7b3a6cd7,808.93,2023-04-07,Successful,ANN174,Anna Nagar,Chennai,Net Banking,Merchant_25,Groceries
+c9212d20b22cd54f99c2dd3f372a96c2,93a0c4ed5bc77289e19b049c9bcdf602,499.11,2023-06-03,Failed,ANN142,Anna Nagar,Chennai,Net Banking,Merchant_52,Groceries
+ac2add97dbafe503f37e796769a2c0a6,d97e3552d03e56209826030b373b26e4,884.19,2023-08-06,Failed,ANN311,Anna Nagar,Chennai,UPI,Merchant_27,Electronics
+dc67bb6ae4555963b9e591b5f7e4f3d9,56ee64e0888c23f7bbf8bcb4998c5157,352.77,2023-10-27,Failed,ANN479,Anna Nagar,Chennai,Net Banking,Merchant_30,Electronics
+d22f18e75d0db5fd38b2161d72adc700,4d5010d69abda3e8c4339b8839e4f190,713.84,2023-08-27,Failed,ANN798,Anna Nagar,Chennai,UPI,Merchant_61,Electronics
+16f3d3a9abac26267c04d07207c7b07e,00a0b37695f93d916ec0bd9b8a688b08,994.11,2023-03-19,Successful,ANN101,Anna Nagar,Chennai,Credit,Merchant_2,Electronics
+53e857b23028cc7a101934bec16c272b,2d7b9db5fbe697cfec232c231654bac0,921.06,2023-07-30,Failed,ANN302,Anna Nagar,Chennai,Net Banking,Merchant_4,Health
+d8a3a4db4d421afff77f2be9dc7cb0d6,ec44d298cf57df7340c9cf7d99976fbf,563.41,2023-04-24,Failed,ANN478,Anna Nagar,Chennai,Credit,Merchant_90,Health
+3012c1b32b4ecd1b28d8e1cd955fc7d0,9404d5f8d12cf04aba48e6b0ae353e03,627.36,2023-01-28,Successful,ANN599,Anna Nagar,Chennai,Net Banking,Merchant_36,Groceries
+322a7bbe62b86f8d7978eb25b287e518,b75f359b10e32bab470992d7efcc0ebe,667.69,2023-05-27,Failed,ANN669,Anna Nagar,Chennai,Net Banking,Merchant_17,Clothing
+4b15159cd5e88d52bb42ae7dfc36b29d,4bace8e0dff88c328b371d795e6533b0,874.14,2023-12-25,Successful,ANN811,Anna Nagar,Chennai,UPI,Merchant_33,Clothing
+2a1f446267a4c6d5bb8391f2cc21a7f2,385194ff1d945128b99ca3ce25e301dd,405.96,2023-12-10,Successful,ANN545,Anna Nagar,Chennai,UPI,Merchant_65,Clothing
+b912d2e429cf3d4d609331fccf9cccf2,93d24ae1d887000985561af230973e59,866.49,2023-02-05,Successful,ANN963,Anna Nagar,Chennai,Debit,Merchant_84,Clothing
+6f777c5bd53d5820f457d6f49e83a081,b4abfdcd11a46997450f041a533ba552,140.27,2023-01-12,Failed,ANN548,Anna Nagar,Chennai,UPI,Merchant_83,Electronics
+f05cc502cfd2f842fa9c2bf31d26ab81,15eef699ff471e7746ca0b210fc71b7d,65.05,2023-06-28,Successful,ANN341,Anna Nagar,Chennai,Debit,Merchant_53,Health
+666dc461794efe4b948364a499f93ce4,4b39c85b75084a7c298ff50ded6b5e50,306.84,2023-06-24,Successful,ANN970,Anna Nagar,Chennai,UPI,Merchant_59,Health
+5c01a371aae23ecdd01f4fe953f3cac6,5759bc5c0e4430df4ecc7fea3c23a941,947.15,2023-11-12,Successful,ANN987,Anna Nagar,Chennai,Credit,Merchant_87,Electronics
+5e7a7996d6ab5da2a309042afb90eb35,f29b215c8a5931a987702b610bda79a5,509.23,2023-05-19,Failed,ANN791,Anna Nagar,Chennai,Credit,Merchant_77,Health
+f0c7aaf640f2d64d605ae947f9c23fc0,5b2bd6da3b8642f9b0208d9b6eaaded2,355.19,2023-07-17,Successful,ANN674,Anna Nagar,Chennai,Credit,Merchant_25,Electronics
+6d7eb6ffc2dbdbb24c899fa187c4d7fc,e0d7a33a6df0460edfb13c52363dfb4c,643.3,2023-04-08,Failed,ANN368,Anna Nagar,Chennai,Net Banking,Merchant_6,Health
+4a5e151800be3d76458a01180185269e,878404ff651cd1039cb21f9f758884e2,684.14,2023-05-26,Successful,ANN383,Anna Nagar,Chennai,Net Banking,Merchant_36,Health
+8b1e3f045f30f41d9fcc8d063588552d,7376576837cf888dd175e9449b811a3f,212.78,2023-10-16,Successful,ANN272,Anna Nagar,Chennai,UPI,Merchant_21,Groceries
+112cd524a68234d34c07e4ad92678ff5,f9be894854f38e0de55a066297538249,195.78,2023-03-22,Successful,ANN276,Anna Nagar,Chennai,Net Banking,Merchant_80,Electronics
+dff2f96ee94007419ed81152e4b12978,a0c9aa12619be95fa95de543e17aaa17,858.76,2023-04-05,Failed,ANN276,Anna Nagar,Chennai,UPI,Merchant_98,Clothing
+2142133d82bfb77a4f353df57bd84005,166f79e88804f38ba5cff090c6cc4729,838.26,2023-07-17,Successful,ANN392,Anna Nagar,Chennai,Debit,Merchant_40,Health
+bb4e9d8f8e0543bdca749cfd755d9841,8b081d0960ca26627b1f46b5d56279a2,156.89,2023-04-30,Failed,ANN422,Anna Nagar,Chennai,Debit,Merchant_73,Health
+c3d301a867fe4be8f8b6f280fe3e9f40,8387564746d82fd9ab96d7d653cd3842,189.18,2023-05-31,Successful,ANN169,Anna Nagar,Chennai,Credit,Merchant_50,Clothing
+c1c10d909337e0dad4367c5d6b99d1f5,28f771c5b7924529dbbedde368ee5777,571.21,2023-09-21,Failed,ANN863,Anna Nagar,Chennai,UPI,Merchant_72,Groceries
+8fb04c8e0a4f935694030449b6297d3a,93a4638e83850adfa20bbf5d06916e39,781.08,2023-07-15,Failed,ANN673,Anna Nagar,Chennai,Net Banking,Merchant_47,Health
+0d02882321028cdb29cfeabedfb0398a,91043c7f66f4d413901c2073db03ca51,813.16,2023-04-14,Failed,ANN493,Anna Nagar,Chennai,Credit,Merchant_28,Clothing
+02032f37ed249f02918a842650771054,3a8beb6e466bd66ae3e671a175302edc,252.54,2023-07-16,Successful,ANN315,Anna Nagar,Chennai,Net Banking,Merchant_24,Health
+96a7e252462eef28ecbc1f5da54749d4,dde16cffc19322a986476956b1627228,442.65,2023-04-19,Successful,ANN305,Anna Nagar,Chennai,Debit,Merchant_17,Electronics
+dde590d43f5ec9202f3ebbf2245a717b,318cf88bbdae0998023d6b40a2c25e9f,733.29,2023-10-07,Failed,ANN927,Anna Nagar,Chennai,Debit,Merchant_54,Clothing
+95832312fdf2e12ed2cc7ba95487e635,6815e7b3edfafef74708cdf100938a7c,643.5,2023-09-09,Failed,ANN365,Anna Nagar,Chennai,Debit,Merchant_58,Clothing
+8f2ae12c98af6547afa8d1c45fb417c7,8f4f8e65d35b783ac889014673d00a0c,294.46,2023-06-28,Failed,ANN797,Anna Nagar,Chennai,UPI,Merchant_93,Health
+c99e2a995c6dc6fec9d1830db07d5f4f,65aeb862e0ed264cb83c9fd83f8b1b16,491.5,2023-07-08,Successful,ANN993,Anna Nagar,Chennai,Credit,Merchant_18,Health
+7b64e12ece3875bbb176330b16ed719d,ec4718151f00aaea95ae67cf6a13dbb0,821.81,2023-05-15,Successful,ANN253,Anna Nagar,Chennai,Debit,Merchant_61,Clothing
+6a59068846d0905b2ac97a79598dc7ed,bb76e62b9af36e25551d69aa814d3b94,587.82,2023-06-06,Successful,ANN819,Anna Nagar,Chennai,UPI,Merchant_82,Electronics
+44fcf446da81a97ccbccbc4691c6ab7e,f108776bd3799427a7c9ca9a913e94fe,207.03,2023-07-02,Failed,ANN491,Anna Nagar,Chennai,UPI,Merchant_36,Clothing
+84a7fc4f5bb042a770e4f9fa1d113a34,303ca6435da474b00ab2ddb24f32c89a,935.71,2023-08-15,Failed,ANN476,Anna Nagar,Chennai,Net Banking,Merchant_48,Electronics
+36839ea960baa8181c8b1aceb61f7994,88d7f37b775aecbcbace6432e285ea5a,409.91,2023-08-28,Failed,ANN986,Anna Nagar,Chennai,UPI,Merchant_54,Clothing
+d4d4cafc39e1fdb1fcf6322d94d81ba4,7c3bdfcdd4ef8aca8fca82ad54390134,720.9,2023-08-23,Failed,ANN619,Anna Nagar,Chennai,Credit,Merchant_88,Groceries
+f4c88ab3962847d7b3b689f0f758f471,3b1321aeccd170ebbc0d2db276eb5a50,327.7,2023-11-26,Failed,ANN611,Anna Nagar,Chennai,Credit,Merchant_78,Groceries
+487c9e8821d96124adb0aabd90dbfb59,faa6777630265d77bf76072310f0aaf1,340.98,2023-08-06,Failed,ANN925,Anna Nagar,Chennai,Credit,Merchant_8,Clothing
+1c63448c5f17b43cfc38da783d2d6c75,6f379aecc608c14371f5699192be8e15,340.69,2023-07-10,Failed,ANN309,Anna Nagar,Chennai,Debit,Merchant_55,Clothing
+534aff0c1a9724367d08b781ef01371e,2b9e637a3abd22f8952b69ad3c5c392d,273.07,2023-10-17,Failed,ANN664,Anna Nagar,Chennai,Debit,Merchant_61,Electronics
+2622a03655ef42532620bd47f27f6cb0,f6d0a2a9c62a931d31c64b286b114c4d,968.26,2023-11-11,Successful,ANN158,Anna Nagar,Chennai,Credit,Merchant_22,Groceries
+2ce7a6d8fe8ef27548e7469c0c93f825,43062fe1afad48da80dac149a56c53ad,408.32,2023-01-18,Failed,ANN881,Anna Nagar,Chennai,Credit,Merchant_79,Electronics
+7b7783a15f02c5319df5636eaf26d369,34d4ccbeed7078c1dcd054a0e0b952ad,771.81,2023-02-17,Failed,ANN639,Anna Nagar,Chennai,Net Banking,Merchant_21,Clothing
+0723f11c970284b47eb99e656a3b1c0e,fbedab57d276ec8930d428743e5b60c6,798.6,2023-10-08,Failed,ANN506,Anna Nagar,Chennai,UPI,Merchant_8,Electronics
+bf8e025920756d02e0a64871dd63de9c,d29da8ab233c11f448247bd72c4fddad,121.4,2023-01-06,Failed,ANN987,Anna Nagar,Chennai,Debit,Merchant_32,Clothing
+470e8ecf759bce2d468cdb44d153341e,b4afdbc2ca33a2b5d643ba19d991f720,601.87,2023-08-29,Successful,ANN460,Anna Nagar,Chennai,UPI,Merchant_41,Clothing
+007c647c2f55d4725e27a811ea02eb54,65f3a621d56a15d07c5ba69eea590717,504.26,2023-08-17,Successful,ANN278,Anna Nagar,Chennai,UPI,Merchant_66,Clothing
+500fac3bb0c25bc454627b1f8972645a,ffcf079c685e706b11ceffb99cf1021d,952.39,2023-06-20,Failed,ANN964,Anna Nagar,Chennai,UPI,Merchant_85,Clothing
+c414a6d8b7bfefcdf11c8cf6e05e03b8,c557d0b1d8b0b725d0b47fb6ef057595,964.55,2023-11-11,Successful,ANN148,Anna Nagar,Chennai,Net Banking,Merchant_67,Clothing
+14e8023211ddffa89be3352480895138,e716b303903940a0ec35164d53a13943,236.75,2023-03-05,Failed,ANN693,Anna Nagar,Chennai,Credit,Merchant_94,Health
+b83126e6afe7934b413df38e81cc9239,68ea473dcdb6b94555bd88d55c52d628,651.09,2023-06-08,Successful,ANN340,Anna Nagar,Chennai,Debit,Merchant_42,Electronics
+d07f57c92b42c9647146dce4fd3ccd1c,d1891ade0becc1a14e4e9a6804e24c8f,388.24,2023-05-21,Failed,ANN299,Anna Nagar,Chennai,Debit,Merchant_53,Groceries
+b97c6dc089c7579fc2e180d0e642a8b4,cb28521c177ce96acf2f146e2ccbf969,390.67,2023-12-12,Successful,ANN164,Anna Nagar,Chennai,UPI,Merchant_26,Health
+02c44c32f0cc53b74f27634af2fafb17,7ee7b4de74f85f7bcb51089286d466c1,385.28,2023-08-02,Successful,ANN384,Anna Nagar,Chennai,Net Banking,Merchant_55,Health
+c38c2cd608390af6ca2f73b3a2f45cca,c4a83888b8e2c5ddfd938f00d4cb5734,95.41,2023-01-23,Failed,ANN605,Anna Nagar,Chennai,UPI,Merchant_88,Electronics
+b3c8de37ff4eae96d9d6c3029b948dfd,6e6338f107ef22587ff1ef71ff578d39,567.42,2023-11-17,Failed,ANN125,Anna Nagar,Chennai,UPI,Merchant_80,Electronics
+a9397f24159371fb462d22f3ad86e679,3033e08ff3359cc25a5fe9b545edb46f,786.55,2023-06-25,Successful,ANN644,Anna Nagar,Chennai,Debit,Merchant_72,Electronics

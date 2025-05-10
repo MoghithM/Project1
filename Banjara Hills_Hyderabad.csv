@@ -1,0 +1,401 @@
+Transaction ID,Customer ID,Amount,Date,Status,Branch ID,Branch Name,City,Payment Mode,Merchant Name,Product Category
+354d63ee2fce610aaad33fa4986086c4,9fe4552a83b7df6bbbe88ef3b28db976,620.37,2023-12-15,Successful,BAN659,Banjara Hills,Hyderabad,UPI,Merchant_59,Electronics
+2392f325b2a0e6cdecc8c6bea7a1d3c7,a1b46a6146ae493afbbf1d3c756f693a,188.02,2023-07-30,Failed,BAN848,Banjara Hills,Hyderabad,Debit,Merchant_13,Health
+a800bcda1dc158a1f365587f3e056fbe,6540df320cb55f9dddd95a2eebf6ae73,277.8,2023-09-21,Failed,BAN452,Banjara Hills,Hyderabad,Net Banking,Merchant_65,Groceries
+d5202078df8cc4133a6c4e726062d518,b9330073f739035760a91d11533d4b12,447.82,2023-05-14,Failed,BAN897,Banjara Hills,Hyderabad,Net Banking,Merchant_11,Health
+479649d53fc9a8f860abdc68ea75b238,f05d8f6e222dae0712eb9cee18f792fb,430.16,2023-01-11,Successful,BAN416,Banjara Hills,Hyderabad,Net Banking,Merchant_59,Groceries
+28be43d429b86df65a766d839a6a4f2a,783ae5f673958dad5eba49f4cd62fdd0,187.86,2023-05-15,Failed,BAN890,Banjara Hills,Hyderabad,Debit,Merchant_27,Health
+c1411e99b8885d8bcfe40f1b5bb4d3ee,70385a23f3b56488b547f53c396b098c,863.1,2023-11-26,Failed,BAN224,Banjara Hills,Hyderabad,Debit,Merchant_32,Clothing
+2d49fadd2610e4b29562d6955f9c8e31,8a29a026704625ea43bc045a3bf78401,845.25,2023-08-03,Failed,BAN620,Banjara Hills,Hyderabad,Credit,Merchant_30,Health
+e05b1b0f70f1c9d313e259775f575c09,f67d5a4cd17e8cdaae690c8175bc8b14,463.69,2023-12-21,Successful,BAN618,Banjara Hills,Hyderabad,Credit,Merchant_23,Health
+911a0381c8a19874b6dfc24750015c98,62eaf01028dac6d90c462f112f8f233e,984.57,2023-04-17,Successful,BAN126,Banjara Hills,Hyderabad,Credit,Merchant_90,Clothing
+153462749334fcbcf519a2c2190f89ef,9d560137b94669f5b975d7629b4c4dfd,29.18,2023-11-29,Successful,BAN240,Banjara Hills,Hyderabad,Credit,Merchant_76,Groceries
+32e92a72a916ebdfe60d3b8637baf6ce,d6ecebd2d24d8f865a077b7c73d7b4b7,482.49,2023-06-01,Failed,BAN759,Banjara Hills,Hyderabad,Net Banking,Merchant_5,Health
+50b9573c9dd092b68a4bbaee6a51e2fe,3609213b090cf359ccb20abef5ecfd35,112.92,2023-01-06,Failed,BAN221,Banjara Hills,Hyderabad,Debit,Merchant_9,Health
+979fa1ac1b09f9ef73546a9c83d79892,f222ad72eb18b3f96b84e7ca3b69309f,401.3,2023-04-27,Successful,BAN278,Banjara Hills,Hyderabad,UPI,Merchant_54,Electronics
+56e2a5a6e7c02639ef152102b0b41013,d79cd4b15a59fe428ba9eaed5cd00155,800.48,2023-04-07,Failed,BAN940,Banjara Hills,Hyderabad,Net Banking,Merchant_22,Clothing
+1a7d619b27d134b1c14d442b73978f6e,468d812a3c8df6de37fe72c04442f80d,154.48,2023-09-12,Failed,BAN163,Banjara Hills,Hyderabad,UPI,Merchant_96,Health
+255f6dc27e9b2fe179ee2529bb88f505,10ee3f8329fecaac5c412ee0e3079e05,785.91,2023-10-22,Successful,BAN845,Banjara Hills,Hyderabad,Credit,Merchant_99,Clothing
+a33a2c4ddd597f0c0757a000c07660d8,10bfa1bd5d852f2bf615dba7b8f310b1,406.27,2023-02-06,Successful,BAN168,Banjara Hills,Hyderabad,UPI,Merchant_83,Clothing
+188b478c4185732510b71a05a2d06746,87a7f61f736428daffe4c14b8b91beca,690.54,2023-11-18,Successful,BAN529,Banjara Hills,Hyderabad,Debit,Merchant_89,Health
+37c7f5ce890e2e4ebdd301bf3781f480,a4b59cd65669ecd4681c1dc85488f902,93.35,2023-10-19,Successful,BAN653,Banjara Hills,Hyderabad,Net Banking,Merchant_87,Groceries
+cb74815959f6d333fd740a5e437d666d,3dc9344bc6e94f7709b582509dddc3c3,903.75,2023-10-15,Successful,BAN947,Banjara Hills,Hyderabad,Credit,Merchant_7,Clothing
+b58f6c85a214466836ea888872815b78,17c33b85cac77404c6e4d97e3eea7cf5,420.92,2023-03-14,Successful,BAN204,Banjara Hills,Hyderabad,UPI,Merchant_2,Groceries
+888a15d465c4a9b512c1a8c34913d6da,f25840dfaa07f155dfdabfbeb1867cec,204.98,2023-08-06,Failed,BAN272,Banjara Hills,Hyderabad,Net Banking,Merchant_53,Electronics
+be7e8a2e48be534b1d3f4955287efc15,021f959334749219a71d40d4381f67d4,498.8,2023-03-03,Failed,BAN238,Banjara Hills,Hyderabad,UPI,Merchant_44,Health
+ca2e8df6de5d77c66146733e9d9cac09,a686b4d9633a3af61120da54f0163d45,757.45,2023-11-10,Failed,BAN117,Banjara Hills,Hyderabad,Credit,Merchant_78,Electronics
+1c0e01b3dc42b537a238159971bfd29e,077bdaf916666e1d2e56bd61a6d177f6,667.72,2023-09-22,Successful,BAN768,Banjara Hills,Hyderabad,Credit,Merchant_92,Clothing
+c012165e4516d6d6b7758b5db217f34b,aa3015c608f9b2d4fe9af8ec32844448,78.05,2023-10-03,Failed,BAN102,Banjara Hills,Hyderabad,Credit,Merchant_62,Clothing
+f4e86071a5bd172ed71f5fe8626e8e51,e2a6adeb376d79f9eaee5822e57b8d75,932.74,2023-02-26,Failed,BAN188,Banjara Hills,Hyderabad,Credit,Merchant_38,Health
+7f7c63cbb8b3e24aefa8def774f8f931,c1619f178180aeb7f58f5c35d994ea36,716.3,2023-02-05,Successful,BAN902,Banjara Hills,Hyderabad,Net Banking,Merchant_63,Clothing
+186e8578171a5a392545e3fcb98a3de2,06e71f96bfccb0191b0580530ecc06c2,237.67,2023-06-30,Successful,BAN172,Banjara Hills,Hyderabad,UPI,Merchant_8,Clothing
+a4499a674f14c2c78912fa2654e9bff8,5abc0b20ad39f5c6f79f69678f9cf5f1,591.81,2023-02-05,Failed,BAN267,Banjara Hills,Hyderabad,Credit,Merchant_28,Health
+290cfb6d792e3e8a263036891897970b,0d73ff841529eb13839a617ea325d776,27.46,2023-01-28,Successful,BAN187,Banjara Hills,Hyderabad,Debit,Merchant_78,Electronics
+ad6b7f7a2115519af7740bc99e55a239,6f1abb9bf510fe231108e09c57a8185e,773.22,2023-04-08,Failed,BAN702,Banjara Hills,Hyderabad,Credit,Merchant_71,Electronics
+0f07035322b2c9a1d0d27a681de55142,ca421e81dc72fde3ad56d3273c9eb9ad,608.86,2023-12-05,Successful,BAN317,Banjara Hills,Hyderabad,Debit,Merchant_48,Groceries
+5d280ba63398e7a9b1417ed073d90bb9,bb62fbe5901774140a24c5d5934f0994,879.34,2023-03-04,Failed,BAN635,Banjara Hills,Hyderabad,Net Banking,Merchant_54,Health
+3b93d24be291a29b11b396fb81098ab2,c987d0c4da6460a92c2bbfecf1fbc419,183.21,2023-03-13,Failed,BAN795,Banjara Hills,Hyderabad,Debit,Merchant_7,Groceries
+6eb6b25e18545545e78d9de60a45245a,3e79caed76888331c4aeec46cbe92c78,688.07,2023-06-24,Failed,BAN828,Banjara Hills,Hyderabad,Net Banking,Merchant_75,Groceries
+83265ce96490ffbb9263e0a4d4aa7442,6544c55dfd6131c85c2821df535626c3,743.16,2023-03-14,Failed,BAN208,Banjara Hills,Hyderabad,Credit,Merchant_33,Health
+5b3a32e1df04399b1a33bc0742610b66,85a5a8ad668c43243eae426c27cc9879,584.69,2023-12-17,Failed,BAN428,Banjara Hills,Hyderabad,UPI,Merchant_82,Clothing
+97934cf429ca04960bfec9c8954c2faa,41ca18ca91b292973af1335a4e38f4f9,216.82,2023-11-25,Failed,BAN782,Banjara Hills,Hyderabad,Credit,Merchant_37,Clothing
+c553d334abfa80d7272312c12c28e34f,be3a5054839f5e485b9a0aecf6bad97c,823.91,2023-11-29,Successful,BAN494,Banjara Hills,Hyderabad,Debit,Merchant_47,Groceries
+c37b76296a1e1289a8cfe1d3e4820acc,b1135a68a9590ebbe2336f0f4c12200e,660.42,2023-07-06,Failed,BAN271,Banjara Hills,Hyderabad,Debit,Merchant_89,Clothing
+dc41466eff316600752af38ee06bd7a0,d672c3b3134fe64d16922a7ebdc46dce,482.28,2023-05-09,Successful,BAN869,Banjara Hills,Hyderabad,Credit,Merchant_47,Clothing
+98b330a6126e0cd8b287590505627021,b8cad25fe4e519128d9c84861fcd9924,254.31,2023-04-08,Failed,BAN401,Banjara Hills,Hyderabad,Credit,Merchant_71,Clothing
+0e2a396d9b90e74cf73a899f0ee4fa85,713c4aed833343197007bbc86cc942c5,808.31,2023-01-28,Failed,BAN476,Banjara Hills,Hyderabad,UPI,Merchant_73,Clothing
+0a710835643d1bf9bea3d0acb400af1c,a502c95e9f8a4c4aab2a75600237c903,981.93,2023-12-13,Failed,BAN247,Banjara Hills,Hyderabad,Net Banking,Merchant_41,Electronics
+30af5399071ddd4fe04e9abf76ce35a0,e5fd50be377e836b445a12dc1d2f753f,884.26,2023-05-10,Failed,BAN163,Banjara Hills,Hyderabad,UPI,Merchant_3,Clothing
+afca2bc207bdccc332e4f47a39d3429a,7500da8e4b9e13ab0921aebfcb061251,350.57,2023-05-24,Successful,BAN456,Banjara Hills,Hyderabad,Debit,Merchant_4,Groceries
+83aafccecfd03321052eac78ac392da0,328c3682718f920d00382198a12f3bfc,29.46,2023-11-25,Failed,BAN848,Banjara Hills,Hyderabad,Credit,Merchant_82,Groceries
+963f1307671fc80a3b304361e414328d,e7f6db793f093595b3fd242718398611,297.52,2023-07-21,Successful,BAN725,Banjara Hills,Hyderabad,Credit,Merchant_2,Health
+363a489dbfb8d6ec461997d16f803880,b1cf055385549da1ec29946113433f15,998.16,2023-03-26,Failed,BAN662,Banjara Hills,Hyderabad,Debit,Merchant_3,Electronics
+9b9302e3450a2f7aa2188ca9ad03dd61,7a3b35b7c3b5a5d7a7c53a79f7659eb1,365.4,2023-04-17,Successful,BAN161,Banjara Hills,Hyderabad,Debit,Merchant_79,Groceries
+4db174a343da74e6f3777331cdd1d2b6,7a378364b3a2f308e2ac389923005fd6,302.04,2023-08-21,Successful,BAN390,Banjara Hills,Hyderabad,Net Banking,Merchant_81,Clothing
+60c427e821e1940d46a0bb85968f4836,470b5a213c1450c85b3d13ded3544c39,118.31,2023-09-19,Successful,BAN281,Banjara Hills,Hyderabad,Debit,Merchant_23,Clothing
+64f642d219a4db0ec595aa9852c3cc9e,21cfb530bf95b6122ad8818564e61b88,746.33,2023-10-01,Failed,BAN114,Banjara Hills,Hyderabad,Credit,Merchant_92,Health
+239982664d90f8790fb3007da4cfeb55,22f71cc38d69d76f79e17eb0ccde3450,403.57,2023-02-20,Successful,BAN852,Banjara Hills,Hyderabad,Net Banking,Merchant_57,Clothing
+2d8c444d19680e537428fe6e4459ee16,edad470f31be6e63b29a7355dd79a384,435.28,2023-12-24,Failed,BAN885,Banjara Hills,Hyderabad,Net Banking,Merchant_93,Groceries
+323288d334f5ee318742349a35e5eed5,ca3081a9ff87b85bb6484f24e1fde202,547.44,2023-08-08,Successful,BAN341,Banjara Hills,Hyderabad,Credit,Merchant_81,Health
+2985893f0345be4df9cc038b6d4c3e3d,cdb33f1d8f4422bdee8ff104f3e1db06,450.36,2023-12-13,Successful,BAN807,Banjara Hills,Hyderabad,UPI,Merchant_68,Electronics
+c92dad32f1ff6ffde9ef76d1377b1f2a,0fbb621a73164a84f155dac3720520e0,47.15,2023-08-25,Failed,BAN369,Banjara Hills,Hyderabad,Debit,Merchant_26,Groceries
+e803f6e0ed418608f3ab749425ce2560,1f5a65e5839fd0e6820e1f0758b28e7e,449.07,2023-08-12,Successful,BAN224,Banjara Hills,Hyderabad,Credit,Merchant_85,Electronics
+984587535bda1c5e4daac9f31e522c6a,904f51fcdd1ea7a142bd57459944bd39,615.03,2023-03-21,Failed,BAN548,Banjara Hills,Hyderabad,UPI,Merchant_5,Health
+5ff68463913e6e2c05fe0b53b54fdc51,5628e01b5704acea1db48b73bd1bda0f,514.35,2023-01-07,Failed,BAN783,Banjara Hills,Hyderabad,UPI,Merchant_16,Groceries
+8603ff6a1f6a3a0666ddf13d628e538b,a845a396c4c5238787997c3aa46f1b3c,102.73,2023-07-21,Failed,BAN588,Banjara Hills,Hyderabad,Debit,Merchant_35,Electronics
+d7dae627a823dd0d4739bbd1609f98e5,0f348ae9ebd4fb83f472b90b02e2946a,96.74,2023-04-02,Failed,BAN151,Banjara Hills,Hyderabad,UPI,Merchant_11,Groceries
+5cef63082cace0976068e37d3d28d065,a46b1247f7d6672cc93a26e5f391334e,239.46,2023-10-27,Successful,BAN842,Banjara Hills,Hyderabad,Net Banking,Merchant_67,Groceries
+d75bbad102720d401576b5141bd3ee8d,1b3f8af0f4965ede1b837b438e9e4fb1,625.81,2023-12-18,Successful,BAN347,Banjara Hills,Hyderabad,Net Banking,Merchant_78,Electronics
+8bec8cd1cdc6792e130cda90ef618ca7,c1ef720e22edc673f34de1b0a45040ff,243.76,2023-12-21,Failed,BAN775,Banjara Hills,Hyderabad,Debit,Merchant_73,Health
+957e36e7f8dd5c0ad3fc6c23b561c2e0,ac6303043aa1b893b3e97ab836c35432,767.99,2023-09-19,Failed,BAN623,Banjara Hills,Hyderabad,Credit,Merchant_72,Clothing
+52bacbfdaa1eae22aea5d4e7a5510f33,73cdc413019f4e95ba6e05ca7f001db6,560.24,2023-12-19,Successful,BAN454,Banjara Hills,Hyderabad,Net Banking,Merchant_85,Electronics
+e506c97dadc28bc8409cf6eaf6038254,afaec0ac110d0f41734084695ccceae1,447.28,2023-04-13,Successful,BAN784,Banjara Hills,Hyderabad,Net Banking,Merchant_80,Health
+cc306159c2cfa650c1550c82ba49cfba,83f2cc4c998092c58f2a64ddb3a10526,294.58,2023-10-10,Failed,BAN115,Banjara Hills,Hyderabad,Net Banking,Merchant_22,Electronics
+5462d8611ae482591aa43afd59587cc6,9d72a525ab5329c9c5a51a5265c02777,339.05,2023-07-09,Successful,BAN783,Banjara Hills,Hyderabad,Debit,Merchant_40,Health
+cd7568129599ba130776b204a6a8c44b,0d52fb6b2824aa11db50af7522daf7b9,923.46,2023-06-13,Failed,BAN704,Banjara Hills,Hyderabad,Credit,Merchant_21,Clothing
+016123aa22de3be8c53ffad1ed40e352,53171febc93c2898c83defec9de2a3a3,279.71,2023-11-30,Failed,BAN842,Banjara Hills,Hyderabad,UPI,Merchant_87,Health
+92189701912b50cd71a765e2d63f9be8,8b65249940c2b9e11bc1e050d11c15ae,880.11,2023-07-17,Failed,BAN471,Banjara Hills,Hyderabad,Credit,Merchant_7,Health
+ca523e5cddecbc38b007e8e3358ee5df,06943493e2e228ebd26fb4bfa7cbd39a,748.79,2023-12-04,Failed,BAN571,Banjara Hills,Hyderabad,Credit,Merchant_16,Groceries
+84144f92d7bf4b350fd00f5e0a6c80d3,5ffbb0149ba5e1b9cbbe10bb7fe31716,78.65,2023-08-12,Successful,BAN788,Banjara Hills,Hyderabad,Net Banking,Merchant_73,Clothing
+d3ca0709460d9e297ed7eb5b040de1ef,2d0b2056aaa223d79373ccc19b5e22ac,452.6,2023-06-15,Failed,BAN943,Banjara Hills,Hyderabad,Credit,Merchant_20,Groceries
+b5012f6483918fbf3f9ea93cde51e88c,6a8a43c9bf3a84cf4cfaa5dac5b31c03,883.04,2023-01-05,Failed,BAN508,Banjara Hills,Hyderabad,Debit,Merchant_32,Clothing
+2e1e8957f28a65b64f84f2e1b3308514,48a897086b958268746a3b3f24783d50,90.62,2023-09-19,Failed,BAN605,Banjara Hills,Hyderabad,Credit,Merchant_64,Electronics
+a1aa14f0b42d1d72578b69f4ea649fbd,194f7390a943f3e9b6d8df69f5762b80,219.97,2023-12-06,Failed,BAN597,Banjara Hills,Hyderabad,UPI,Merchant_21,Clothing
+b8792b38429d48d8f843761b03293bdc,ce1c13dd4ddf3bccff65f41727c96c1b,842.53,2023-04-24,Failed,BAN571,Banjara Hills,Hyderabad,UPI,Merchant_89,Electronics
+9bc728bbfd70441fc37f20e13f69d43a,2e52b650d834219b7a1ecf4aab3ee2bc,271.57,2023-01-06,Failed,BAN992,Banjara Hills,Hyderabad,Debit,Merchant_9,Health
+ec8151da008afff5e9fd89bfdf1706da,336cd24c85a82715898660a5ef21a56f,589.88,2023-01-23,Successful,BAN802,Banjara Hills,Hyderabad,Debit,Merchant_10,Clothing
+00f6fec3ae00a2ff0e9419a57ae97ed0,0b603104bea9985ee262e3b127d9a141,969.71,2023-08-19,Failed,BAN943,Banjara Hills,Hyderabad,Credit,Merchant_60,Electronics
+a108672d3838f064dffd19bf535818b3,ac192e779d61ab72da74455422e3ff23,226.38,2023-10-09,Successful,BAN569,Banjara Hills,Hyderabad,UPI,Merchant_64,Health
+435be4d036f532cd59ee1fd7fcd965cb,d856c76f357b16f9ab04c38104356ed9,143.63,2023-04-05,Failed,BAN162,Banjara Hills,Hyderabad,Debit,Merchant_53,Electronics
+5f81f23e02bac2b460227acac340c72e,1df9645800d235e1612fe630cd9755d9,397.13,2023-11-23,Successful,BAN847,Banjara Hills,Hyderabad,Credit,Merchant_86,Health
+b44f7479fa24ceece6c206908cbf81be,4931ed90810ee920c868463c8c3996b6,511.69,2023-05-19,Successful,BAN776,Banjara Hills,Hyderabad,Net Banking,Merchant_43,Groceries
+b53473ce88e49440fabdd626b56e143d,17a8c8617469205a4bb4281611cdd872,723.92,2023-11-04,Successful,BAN144,Banjara Hills,Hyderabad,Credit,Merchant_25,Groceries
+5ac6bdf7c2b53cc8e6cb7b645aad7309,eefb17abb69538c9fde704306f004a5a,377.05,2023-02-19,Successful,BAN596,Banjara Hills,Hyderabad,Net Banking,Merchant_63,Health
+fde860d4299d069fe72737979a7ee8b8,2240f68f4d16e1d31ffaec04e08ebbd9,601.0,2023-11-19,Failed,BAN976,Banjara Hills,Hyderabad,Net Banking,Merchant_68,Electronics
+72e4095b73d4cbbdb1ed4b4923db2671,d44061572e760970c7b715dffb396094,512.13,2023-05-09,Failed,BAN981,Banjara Hills,Hyderabad,UPI,Merchant_94,Electronics
+9b34dd9d5bc9b678554ae4978a6ce699,412b30a6cd5116c2ecfd63bfeae14858,427.72,2023-11-30,Successful,BAN878,Banjara Hills,Hyderabad,Debit,Merchant_10,Groceries
+ac6b5391e569daf5c22165f5a8a64546,4361362f9de47c285c633f5bf6cbac2d,938.82,2023-02-28,Successful,BAN298,Banjara Hills,Hyderabad,Debit,Merchant_77,Health
+d61952bfea57d290eb38476809f2052b,dcfb25c386e1078e3d6bb00bc2a6b3f2,198.79,2023-03-31,Failed,BAN995,Banjara Hills,Hyderabad,UPI,Merchant_51,Health
+b70a59e2f4c31e464b94ab1fd46e5597,2e93f345628d5b79e6a9cfec6562680e,211.75,2023-01-10,Failed,BAN562,Banjara Hills,Hyderabad,UPI,Merchant_4,Electronics
+6c0e83bd40e613f0ac45272aa6535f5e,576d2fac41f3376260ccdd0a5605c75c,213.59,2023-07-07,Successful,BAN994,Banjara Hills,Hyderabad,Credit,Merchant_9,Groceries
+268c52437634177182a9e2398262d59c,3fcbf91c37f90f24ca1a6ec54bbd43de,101.65,2023-01-09,Successful,BAN633,Banjara Hills,Hyderabad,Debit,Merchant_33,Clothing
+ba75d82ea68d95e03070c0824bc83a8f,a4460738430a298249ea10c71d1f11b3,732.61,2023-05-14,Successful,BAN369,Banjara Hills,Hyderabad,Net Banking,Merchant_11,Health
+d91f7afbf0724a088fca3b56c63a8e8a,28337f40a2850c34b63d4097cf12969a,350.62,2023-03-23,Successful,BAN779,Banjara Hills,Hyderabad,Credit,Merchant_61,Electronics
+f6b212699316221e6a1ac7157acc7f17,83a70fbad8469236c6c6ac334a41786d,592.3,2023-06-27,Failed,BAN150,Banjara Hills,Hyderabad,Debit,Merchant_87,Health
+ed0ba43ebe2fb6d4eb74c0ef148075fb,6bca66fe78af245772d7583e7fbcc01d,847.44,2023-12-31,Failed,BAN505,Banjara Hills,Hyderabad,Debit,Merchant_47,Electronics
+76267ff376b1de85a54939d84fe576e5,b4b229d20a0c5585871acaabfffb06fc,446.24,2023-09-30,Successful,BAN618,Banjara Hills,Hyderabad,Credit,Merchant_33,Health
+db19afb33047c69544d0f156cec0aa89,c89ff0ed69e64c45f2b250a21ee3715d,74.19,2023-04-20,Successful,BAN561,Banjara Hills,Hyderabad,Debit,Merchant_16,Clothing
+15bbe1f6ab38792556ab791c86aa3e77,b84a14120de33d112812c54d5f5ca0f3,957.25,2023-01-30,Failed,BAN144,Banjara Hills,Hyderabad,Debit,Merchant_37,Electronics
+2fa69b46a4ab2e892199aa98aa1085f5,cde0131a02ec7fb0777bc3eb607751ab,62.44,2023-04-06,Failed,BAN175,Banjara Hills,Hyderabad,Net Banking,Merchant_32,Clothing
+50be2197ef6b90ed1505b6e888adb9a3,8f1701b411f1e9f2707e86a6ad8945b2,923.74,2023-04-15,Failed,BAN556,Banjara Hills,Hyderabad,UPI,Merchant_42,Groceries
+8ff2061df469ce1ec85b435c658c6558,27cb6473c72dc52002c193e84270c879,504.94,2023-02-03,Successful,BAN188,Banjara Hills,Hyderabad,Credit,Merchant_71,Health
+2b1a3450451c83a90cac7ed53cad7174,68c9c2152e5d0f62952696abde6d1a4b,477.11,2023-11-12,Successful,BAN903,Banjara Hills,Hyderabad,UPI,Merchant_72,Electronics
+d9abf43e51597e08b1edad5b3a887021,d69af64cbea893d93878af70b2eace23,49.56,2023-06-05,Successful,BAN476,Banjara Hills,Hyderabad,Credit,Merchant_45,Clothing
+02a604e96d06ca8632d227f63f2881e5,05d720dcb54a3f4643766e39ad608686,731.07,2023-11-27,Successful,BAN473,Banjara Hills,Hyderabad,Credit,Merchant_53,Health
+6603fa911c92237d9287848b24561b1e,6caf731e758f20b7a807ebf21c8b0e4d,730.32,2023-12-20,Failed,BAN728,Banjara Hills,Hyderabad,Net Banking,Merchant_35,Health
+b1cb6bdcb9f14457322f82744c12a59b,055294dc58c4d76c7016503fa936b200,75.37,2023-05-28,Failed,BAN261,Banjara Hills,Hyderabad,UPI,Merchant_67,Clothing
+f6ca5d01e02d58b1872eb378ffaef24f,37ad9ad1b8d7a9d8675eb40720d98a79,651.87,2023-12-21,Failed,BAN162,Banjara Hills,Hyderabad,Debit,Merchant_42,Groceries
+3bac0f04db729fe41556ece992a54ef8,012726aa475cfba5ac9973f11ea368c6,595.15,2023-04-28,Failed,BAN676,Banjara Hills,Hyderabad,Net Banking,Merchant_60,Electronics
+e8a5a39c98ffbdf6a027274fe56916a1,3d0bd5bef7d4fb3893792ad1f1c27e0f,62.37,2023-02-22,Successful,BAN482,Banjara Hills,Hyderabad,Debit,Merchant_35,Clothing
+d78a668a541da385f618bbbc53851479,ce8d6ef4587f98c1fb8badfe10a7f905,699.83,2023-11-27,Successful,BAN911,Banjara Hills,Hyderabad,Credit,Merchant_45,Health
+897e0871904ec0a0d76a40aebb0f223d,6141fe1d285d9a66d4efb6fc0f64128b,288.37,2023-10-12,Successful,BAN287,Banjara Hills,Hyderabad,Credit,Merchant_16,Electronics
+57377e38d77e916ee2d723ad568079cf,0a88e06ca05870e92022bc7cbf9f6a0c,367.58,2023-06-14,Failed,BAN584,Banjara Hills,Hyderabad,Credit,Merchant_29,Electronics
+89c3263fdf88fe49c9d5d3160720db6d,ef2e72ef2b85118ae7c2345e3ba5c604,707.91,2023-02-01,Successful,BAN818,Banjara Hills,Hyderabad,UPI,Merchant_27,Clothing
+3de4524981c31d47cd35675facbc4594,1becbcc4b294a7dc07e5b600e65df3be,209.87,2023-09-23,Failed,BAN242,Banjara Hills,Hyderabad,Debit,Merchant_46,Electronics
+633dd40ea01a33327cbd59ccacb357c2,95afba445c48d0b5402f5c8b0991ce12,207.23,2023-02-21,Successful,BAN227,Banjara Hills,Hyderabad,UPI,Merchant_78,Clothing
+ee69e3ba49b2527cf26006eb4140c738,4a1685ffdde841a424692a3a863e9034,495.26,2023-09-21,Successful,BAN876,Banjara Hills,Hyderabad,UPI,Merchant_66,Groceries
+9b8459a73984b1d32c59c9690b362395,c960c9d8bc440bc57885127b9ec6a524,648.05,2023-11-10,Successful,BAN307,Banjara Hills,Hyderabad,UPI,Merchant_84,Health
+8ff28af5e0f6ddf181b03ac2efb970c5,b6339980d864a702114e3bd1523c4612,708.92,2023-11-03,Successful,BAN694,Banjara Hills,Hyderabad,Net Banking,Merchant_45,Health
+3590e9652ec6bbafd642848da5dfe735,6808db2fe65434cfdc2781b7b8981a07,381.17,2023-07-23,Successful,BAN843,Banjara Hills,Hyderabad,UPI,Merchant_100,Electronics
+e2aaa720e60a11f082962d443454f564,b8850a119a6b5ac70e3b184e667c43f0,855.54,2023-03-12,Failed,BAN593,Banjara Hills,Hyderabad,UPI,Merchant_15,Health
+285041c53a904ec346c5e6b0a4f0da33,e656b3f0e3a8439d683dcf7cabcae08f,758.64,2023-11-18,Successful,BAN585,Banjara Hills,Hyderabad,Credit,Merchant_28,Health
+4dfe7688c7804d2400440ce02f375868,75a25ecaf44012795aace3908bb955aa,387.04,2023-03-15,Successful,BAN303,Banjara Hills,Hyderabad,UPI,Merchant_60,Groceries
+1b97e6f2be2899c5cccbef354cbf4df4,70b189714127528bfde1f92e8c725129,440.9,2023-07-18,Successful,BAN797,Banjara Hills,Hyderabad,UPI,Merchant_85,Clothing
+6fa85c0bee87ce5bb85bc3e92b5485aa,ca508081e3ff848eea78858fc793912b,988.91,2023-12-25,Successful,BAN392,Banjara Hills,Hyderabad,Credit,Merchant_31,Clothing
+4dc1c47d81bf4360292c609cbf1b6fb3,af9ba84e4422a7b1d3e1c815d8af3a4f,326.21,2023-06-15,Failed,BAN878,Banjara Hills,Hyderabad,Debit,Merchant_80,Health
+201690ec871a0d2ded87a5b87ad52cd3,205f6fb1bc5df92daadf1b50cb0ba541,541.52,2023-09-30,Successful,BAN260,Banjara Hills,Hyderabad,Debit,Merchant_94,Clothing
+b31f6892ef6904e830123d1de9246575,fb3057642dbe0ec890a73f2079a3c988,66.99,2023-09-17,Successful,BAN995,Banjara Hills,Hyderabad,Net Banking,Merchant_92,Clothing
+1feb0dac8ae552c5fedae237bb907d6a,c15bd14ca2c20db8c004adfde6d7f3fd,536.78,2023-04-07,Successful,BAN496,Banjara Hills,Hyderabad,Net Banking,Merchant_60,Clothing
+84d783c9037b4980c98be8325f061dce,141bcd72287e5df3bbd8f946ee446417,520.34,2023-11-19,Successful,BAN602,Banjara Hills,Hyderabad,UPI,Merchant_31,Groceries
+8660c84d955dca77a7526180b71443e4,3d0be207f623f153f69b0fd20eb74269,978.27,2023-01-27,Successful,BAN232,Banjara Hills,Hyderabad,Debit,Merchant_22,Electronics
+701cb47555eb372d50755bfc91e7bc2d,b4d26957a4593e25d3b02d73e6454fd1,89.28,2023-10-16,Failed,BAN575,Banjara Hills,Hyderabad,UPI,Merchant_42,Health
+8ca4035fd54c6698e9c5dc7f6ff3954e,03f13b756d793c94c355c821a5bba69e,876.63,2023-07-29,Failed,BAN330,Banjara Hills,Hyderabad,Debit,Merchant_7,Groceries
+34ff1b67eba8da49b04bbf21e513cc86,200f43813454e204881ec48601aa0dc4,281.33,2023-01-19,Failed,BAN691,Banjara Hills,Hyderabad,UPI,Merchant_41,Clothing
+c381ef175374b1e5bdb98e555d7cbfdb,951299d7cf9ff02da6f330d5aa40ae8c,611.54,2023-08-31,Successful,BAN946,Banjara Hills,Hyderabad,Credit,Merchant_40,Health
+a9da38d2d4002dd1fa581404561444b8,df54da73cee40ed95bd0ff9caa7024e7,976.0,2023-04-07,Successful,BAN825,Banjara Hills,Hyderabad,Debit,Merchant_34,Electronics
+fa5f6caea90529b60998d64ca0d721c0,1519789149eb3f1eb34b72ce02bc1bfa,691.61,2023-04-27,Failed,BAN229,Banjara Hills,Hyderabad,Credit,Merchant_73,Clothing
+6140861c1eaebb76e915b4ba4b77b34d,172ea7232f7daa4090283dc402d6527d,707.82,2023-05-01,Successful,BAN919,Banjara Hills,Hyderabad,Debit,Merchant_83,Health
+8a46eb529f6330465a77ea630be8d00a,fab4dedfa0f46622973bebea558b0ed4,579.51,2023-11-20,Successful,BAN172,Banjara Hills,Hyderabad,Debit,Merchant_80,Electronics
+58f1ee48181621f3fa251ea551fa3da3,655596c93a23884975b05cf9d7a7a2c7,483.01,2023-10-17,Failed,BAN237,Banjara Hills,Hyderabad,UPI,Merchant_57,Clothing
+fd14852178590558c187439ed49a6ebd,34592716da0b2abe690c737373290182,425.6,2023-11-30,Successful,BAN932,Banjara Hills,Hyderabad,Credit,Merchant_71,Groceries
+a9c162b630036c84fa5030d6dbbc630d,c4f406354933516ec6131a9c9d1945da,149.61,2023-07-03,Failed,BAN659,Banjara Hills,Hyderabad,Net Banking,Merchant_26,Clothing
+571b03ced58ccc40b41523f86e8d442d,6e1ce78e6daddee244755ddeb63f6c8c,513.14,2023-09-30,Successful,BAN899,Banjara Hills,Hyderabad,Credit,Merchant_24,Groceries
+48a6cad243a8b37b01921553ad371e11,5acbda1b69f75f768e6a955cd28a474b,185.94,2023-11-22,Failed,BAN828,Banjara Hills,Hyderabad,Debit,Merchant_49,Health
+0351c40d902274c27053df12bf1d2fb6,9d0902f9461f3df07b7b36c5ed5d00c2,16.42,2023-09-10,Failed,BAN742,Banjara Hills,Hyderabad,Credit,Merchant_1,Groceries
+40413bb3f52d5156197c31840f2ea33d,dc11a1ef8bb1fdd0834659b62ac48393,975.57,2023-11-19,Successful,BAN722,Banjara Hills,Hyderabad,Debit,Merchant_68,Groceries
+ff1d5bf30ac9ac367027b7a969db2e2f,053340e588d25460f1c0a0ee66380302,544.21,2023-07-26,Failed,BAN279,Banjara Hills,Hyderabad,Credit,Merchant_12,Health
+cefca8e48ffc2fd002c94bf30e73bc9e,05cccb985a10f690055679cdc041e623,895.1,2023-07-20,Successful,BAN759,Banjara Hills,Hyderabad,Credit,Merchant_40,Groceries
+39d80a02a48341e33e18e7ce58f963c4,37c550f8b33a928ce1b095b0171272bb,918.13,2023-09-03,Successful,BAN756,Banjara Hills,Hyderabad,Debit,Merchant_72,Groceries
+0ec0025b40f5da102ab4def61a6279c5,905147899abeae3b33960c2827f00d72,344.88,2023-06-13,Failed,BAN436,Banjara Hills,Hyderabad,UPI,Merchant_41,Electronics
+465f8aa34265708f6b864de540518cc5,c1ae20ac59d144fa550e66c3e69223d3,653.87,2023-06-23,Failed,BAN600,Banjara Hills,Hyderabad,Net Banking,Merchant_38,Electronics
+69563e4bd04332f05a915f7c450461ec,9cefc8a0fbca12c9a3173b90af3f356e,829.99,2023-05-27,Successful,BAN710,Banjara Hills,Hyderabad,Credit,Merchant_74,Health
+86467a94f58ad893ad81536ea7090932,da0ad2a3f26b04eede7b083e0623b2e6,602.29,2023-09-12,Successful,BAN643,Banjara Hills,Hyderabad,Debit,Merchant_33,Groceries
+71c28dc5daf45d38631dbfba1c29f027,42ecf7c88e14584529e3bf5bf37a3ad5,168.69,2023-02-13,Successful,BAN513,Banjara Hills,Hyderabad,UPI,Merchant_79,Groceries
+6ae8592af77e280f9a673eeeb7b61d8b,35f10d78d565326f575592166815fd33,131.69,2023-05-23,Failed,BAN375,Banjara Hills,Hyderabad,Debit,Merchant_23,Electronics
+6fadb96dc1e0968353bdfc00c561bb2c,32c16ff708380cf1791f479baa9a272b,358.38,2023-07-26,Failed,BAN676,Banjara Hills,Hyderabad,Credit,Merchant_25,Groceries
+f8fca10903b5c992fac5762eaac0d76a,34ac54ed92d785c7942ed070e75c37f3,816.72,2023-11-08,Successful,BAN972,Banjara Hills,Hyderabad,UPI,Merchant_37,Health
+73aefd8dd919fb642b62d323a7181702,9d7a546a83d2dcd758cfb759053ba5f0,558.07,2023-08-26,Successful,BAN973,Banjara Hills,Hyderabad,Credit,Merchant_44,Electronics
+4b096be92a6ee7b4b47a8da7c79fed4d,1ae46d188227b9567fc363bb832f98cd,591.68,2023-10-04,Failed,BAN676,Banjara Hills,Hyderabad,Debit,Merchant_71,Groceries
+bbb4e0686ea9e8102ec6dab14b42661d,a7843dad6485390ee075e9a98ced8a9d,168.98,2023-04-02,Successful,BAN328,Banjara Hills,Hyderabad,Credit,Merchant_61,Groceries
+82d69fd4a95867e2d22773648310def2,6435d87792329a3004f3c7a89a84f0ba,567.19,2023-06-14,Successful,BAN446,Banjara Hills,Hyderabad,Debit,Merchant_59,Groceries
+0ea92905546fced57f258b051643f959,d29081ae55e39cd31f8f6de3ab6ed871,115.58,2023-06-22,Successful,BAN291,Banjara Hills,Hyderabad,Debit,Merchant_89,Health
+273a942a0a2546b5f4513163666d2cd6,3014db1973b986a6de3870bde3460a37,749.39,2023-01-27,Successful,BAN384,Banjara Hills,Hyderabad,Debit,Merchant_13,Groceries
+81df51547f4295b2004e2a28d4c97978,d05e9f2cf666bb812748623ce169f3da,335.7,2023-11-19,Failed,BAN798,Banjara Hills,Hyderabad,Debit,Merchant_88,Clothing
+972b139acdbc5d91cde706f82d7aa353,c7e6708c30200fd5c35bdf21af49f42b,665.46,2023-12-08,Failed,BAN769,Banjara Hills,Hyderabad,Net Banking,Merchant_79,Clothing
+072525df23cbd1004a5cc68222783033,c8fc3971fd9d48540a59ed4575bce23b,379.1,2023-01-26,Successful,BAN774,Banjara Hills,Hyderabad,Credit,Merchant_23,Electronics
+c29afd112ec1269566db7bb542816667,3568f26ed5731285178f0f94b2de1c08,947.43,2023-04-22,Successful,BAN125,Banjara Hills,Hyderabad,Net Banking,Merchant_80,Clothing
+76e634fa6eccc422ad925579fe8d62e2,041a6ec9a61bc7132d75426ac29162ed,363.74,2023-02-01,Successful,BAN399,Banjara Hills,Hyderabad,Debit,Merchant_14,Health
+0c1cafc346fe7197d56c8d80a6bfa95e,e90db96475d39495cb39e9d43177b6d8,707.71,2023-08-05,Failed,BAN466,Banjara Hills,Hyderabad,UPI,Merchant_23,Groceries
+51db3ef4fb450b2812d90f3232b60e3c,db637e529ac15ea5655952f69d61ae83,979.58,2023-11-21,Failed,BAN125,Banjara Hills,Hyderabad,Debit,Merchant_10,Electronics
+3f8f4772c183ede851be359d0c796b9a,c3ac77bdd370d336d5cec195eef938d2,166.08,2023-04-29,Failed,BAN230,Banjara Hills,Hyderabad,Net Banking,Merchant_56,Electronics
+1ae959ce2b12aeb7ce8b50ddb88e4f3f,cb431e53dcff5c3f1c8cc74abcf21d69,875.06,2023-10-29,Failed,BAN311,Banjara Hills,Hyderabad,UPI,Merchant_48,Groceries
+00be40207eb6e4a3dd96b69996212e1f,7528050c4be23a1fd7057653646a90e0,733.35,2023-02-03,Successful,BAN176,Banjara Hills,Hyderabad,Net Banking,Merchant_88,Electronics
+56b4c71acbbdd05841700529f79e43a0,2b8a4faaf38644d7650d5c51d6903011,327.05,2023-12-03,Failed,BAN261,Banjara Hills,Hyderabad,Net Banking,Merchant_95,Health
+4907abc9ce5ad6497e5deb7d5eb4a0a2,09aab6830fe3bcb73cf0886cc5b01612,108.62,2023-02-02,Failed,BAN696,Banjara Hills,Hyderabad,Credit,Merchant_31,Health
+3fabb4c7a64d35f7b295d63959bc5519,ee10bf6ad033d8e1829b445147caf054,455.53,2023-05-03,Failed,BAN866,Banjara Hills,Hyderabad,UPI,Merchant_16,Electronics
+092726c782379152875beed070ec6d5c,46ace33e74e015597de8d26e8966b7b2,63.52,2023-02-08,Failed,BAN861,Banjara Hills,Hyderabad,Credit,Merchant_95,Health
+6b403f2dfcebbf6cfcbd57a3eef72127,3bde7a0c9b467688574f29dea8df1f63,268.42,2023-09-12,Failed,BAN868,Banjara Hills,Hyderabad,Net Banking,Merchant_2,Clothing
+f3cd2927472b8de0d9b072588f9455ea,1e389538d938d3b4e090946f7d59daed,373.99,2023-05-01,Failed,BAN677,Banjara Hills,Hyderabad,UPI,Merchant_8,Health
+b45af351b0abe0597807808d705fcd6b,3336d77b974818c46c99470eae9c0d75,387.45,2023-02-13,Failed,BAN356,Banjara Hills,Hyderabad,UPI,Merchant_18,Groceries
+79d4a6936a24d18e091962b58669eecd,bf2552e365e7d982a3cffd44168cd424,434.96,2023-12-22,Failed,BAN969,Banjara Hills,Hyderabad,Net Banking,Merchant_88,Clothing
+e91ede537ef6375f4ab745a4c56274fd,d79114bc84c97beaa7829af68a1c1d14,918.63,2023-06-27,Successful,BAN473,Banjara Hills,Hyderabad,UPI,Merchant_73,Electronics
+1fd2263370cced70911b4748067f4262,cc3223dcce79787b61ed6694182d7f6b,830.71,2023-11-24,Successful,BAN789,Banjara Hills,Hyderabad,Credit,Merchant_10,Health
+acf29958c324096bf795c111daa83838,21d7cc898dae2088b80e91371cec7c51,404.77,2023-12-12,Successful,BAN732,Banjara Hills,Hyderabad,Net Banking,Merchant_82,Health
+24f789d5cdb4767441cf24e1081028be,5697d2478737a4a7d9e8e1d6163a1f78,255.63,2023-09-10,Successful,BAN230,Banjara Hills,Hyderabad,Debit,Merchant_99,Groceries
+5fe1f675ec42996f5ba13e5788c2c5eb,3c58bda372b92adb387ed0999abb6884,405.25,2023-12-09,Successful,BAN741,Banjara Hills,Hyderabad,UPI,Merchant_89,Clothing
+49f0cfd4da365e73a526cd311fbc2f8d,58a362a9575c75b65de202abc42ea81b,740.63,2023-09-06,Failed,BAN504,Banjara Hills,Hyderabad,Credit,Merchant_23,Health
+d722c4245af7389dc9646d1327ff077f,27754820e4c9be4a154c072f4d7c3ca8,347.01,2023-04-28,Successful,BAN923,Banjara Hills,Hyderabad,UPI,Merchant_17,Clothing
+fe5b09c987af2fe9ecfd940fb75c2efa,2722984df7aad3e7ec84ff09c6dd981d,946.49,2023-02-21,Successful,BAN261,Banjara Hills,Hyderabad,Net Banking,Merchant_45,Electronics
+f75b6c295cfd6f5617ce74a801f428a3,5269883656a33ec4a1d961208fe9ed4e,888.64,2023-06-07,Successful,BAN838,Banjara Hills,Hyderabad,Debit,Merchant_51,Clothing
+15c7ec24406ed6fe1e895a2b3c9fd95f,0aa1986ab8ba1b2b186206eed2cd171b,833.46,2023-11-26,Failed,BAN164,Banjara Hills,Hyderabad,Debit,Merchant_17,Groceries
+9be8d8f8657ff1ee3288446c1d84ed84,f1715091c5a5be4d003aef2bdeb58c21,978.81,2023-07-26,Successful,BAN253,Banjara Hills,Hyderabad,Net Banking,Merchant_93,Electronics
+c129869e1c07877c749d2c9ceac5be6d,17f6e1ae777ea6cd94ccb3d7e35ebdc6,364.18,2023-03-27,Failed,BAN722,Banjara Hills,Hyderabad,Credit,Merchant_15,Electronics
+560d0856ec87bc5cdbf6e2cd26e00368,4d11d726663067de247112cfcf6bfdd9,729.64,2023-10-14,Failed,BAN684,Banjara Hills,Hyderabad,Debit,Merchant_21,Electronics
+7e1b3aa783af9d9bfe0ccbe90c32200c,05c60c5ccef596f24db53255facc6b7d,619.12,2023-01-11,Failed,BAN886,Banjara Hills,Hyderabad,Net Banking,Merchant_24,Electronics
+7dc220ca88470cd17d94be7f80f88288,10eea59b789ad379ec6f5d9aaa3a0481,151.77,2023-10-12,Failed,BAN440,Banjara Hills,Hyderabad,Debit,Merchant_29,Electronics
+ee6481252076bb7d51570cc283389200,fee4c43d26a68d21c8234eba70a592df,406.16,2023-06-26,Failed,BAN857,Banjara Hills,Hyderabad,UPI,Merchant_75,Groceries
+2ab5c6d02ea716c5a95067db5da5a15a,06160aab818516e0e31343ecd933d4d5,270.69,2023-02-22,Failed,BAN962,Banjara Hills,Hyderabad,Net Banking,Merchant_86,Electronics
+84fad6322186bbe93dabc8d5ec1a266d,4e40dee03fad1b15085caafbdca3a9f1,991.03,2023-08-22,Successful,BAN105,Banjara Hills,Hyderabad,UPI,Merchant_78,Clothing
+49180d7d120276202feadb848874e5d8,6c41a7d6484fd0f51c9990413e739070,353.61,2023-04-16,Successful,BAN389,Banjara Hills,Hyderabad,Credit,Merchant_12,Electronics
+e6f6da1ecb7e3791befcdc8b3ae9a1a3,aac54709661f104930405828c8977dde,534.56,2023-07-07,Successful,BAN441,Banjara Hills,Hyderabad,Net Banking,Merchant_100,Electronics
+d7a0817ec201936066ec1d838b555ec1,ec3b587e945984310981e7e88a624099,732.3,2023-02-21,Successful,BAN385,Banjara Hills,Hyderabad,Credit,Merchant_31,Clothing
+1132b6e70ab4b1cb7383f068860df317,aac0ad45f9676782967d26f62ec8671f,439.08,2023-07-01,Successful,BAN553,Banjara Hills,Hyderabad,Debit,Merchant_58,Health
+87cca0f28ee91c3a1465ca45b6f0a3c3,d2a7e0fe5b2e7e9f8c997c4afd7d721b,74.32,2023-09-25,Failed,BAN328,Banjara Hills,Hyderabad,Credit,Merchant_57,Clothing
+15060739c4f0b87427b3806781a2198d,e8768816f6638b1ae3ae8e09b4af3554,884.46,2023-08-26,Successful,BAN445,Banjara Hills,Hyderabad,Net Banking,Merchant_38,Electronics
+5e7b0f5d3e2350864bbe1a839e9d0d3f,e38cbea6c76f2650d138544437b3f5ed,176.42,2023-04-05,Failed,BAN504,Banjara Hills,Hyderabad,Net Banking,Merchant_81,Health
+5789ac222e3d37043f72c737417da5ee,2ebe43c35ac9e862ab2e8539a398a22a,460.16,2023-03-14,Failed,BAN756,Banjara Hills,Hyderabad,UPI,Merchant_91,Groceries
+6fae81d7e79ee80cb6426556ca23af7c,965dc9d223b02d602e6a13dc4302e33a,317.44,2023-11-22,Failed,BAN204,Banjara Hills,Hyderabad,Net Banking,Merchant_54,Clothing
+fd263990dff2c4b6bd326017dc195ec2,f880449c9cd7b30fec9d9daf28c51277,861.67,2023-09-24,Successful,BAN985,Banjara Hills,Hyderabad,Debit,Merchant_59,Clothing
+f449dd4b517457048140874de92ca5d2,76b09f0c4fce89cbf5032c9fe323d0b8,701.59,2023-12-23,Successful,BAN591,Banjara Hills,Hyderabad,UPI,Merchant_41,Health
+2e7190915f9e4864f67f7de1cc8046f2,447fda346f48d61c1eea88aa63888bb8,969.48,2023-04-25,Failed,BAN764,Banjara Hills,Hyderabad,UPI,Merchant_37,Health
+4935f7f57c478426cc0075396e9305bc,a0a3d1e85bde6b361c0725570595cf46,851.87,2023-06-27,Failed,BAN869,Banjara Hills,Hyderabad,Debit,Merchant_85,Electronics
+ce0a795033e6c43e529cac480b81b8e9,d11039d0463667f90224675f79b84856,184.47,2023-06-15,Successful,BAN975,Banjara Hills,Hyderabad,Debit,Merchant_34,Groceries
+eb17b159680cabedfad3ab13beca9063,dd1569262e1c0d2990c03040a6f1dabb,579.03,2023-04-09,Successful,BAN386,Banjara Hills,Hyderabad,UPI,Merchant_43,Groceries
+34b2bd720fc0683f290ed2ea64025966,7d397baf86126d2143f9e9a0cbab0529,567.84,2023-03-20,Failed,BAN708,Banjara Hills,Hyderabad,Net Banking,Merchant_72,Health
+8627ddaf8428e498e30f6d88ba21c651,a378634e83a5e63b8ed37de47e4b44c3,31.99,2023-01-20,Failed,BAN443,Banjara Hills,Hyderabad,Credit,Merchant_63,Health
+69afdb86dc2baa005e8e2d2160c8d8ef,96af6066f5bbf49d49c0026f40f69471,202.3,2023-04-08,Failed,BAN603,Banjara Hills,Hyderabad,Credit,Merchant_92,Health
+e21887b95bf47f5080974eec8716ab2b,f157ce8069a63bcf0191a0cb17ba4604,197.16,2023-09-13,Failed,BAN497,Banjara Hills,Hyderabad,Credit,Merchant_90,Health
+e14c53938005f94a566767b9889d1225,83921bdf564c4b0a399d6a08698e927c,819.16,2023-05-04,Successful,BAN318,Banjara Hills,Hyderabad,Credit,Merchant_5,Clothing
+53590e53abdf97d2cb7ed9aeed033b4f,a668bb72966981ff1cf1ee51cf05a204,668.42,2023-12-16,Successful,BAN187,Banjara Hills,Hyderabad,Net Banking,Merchant_9,Groceries
+4ada22dc8b1f72d829cc1b85eeabbcd4,4eacf29cffcbf477eb2614854c5cec2f,588.58,2023-01-05,Failed,BAN478,Banjara Hills,Hyderabad,UPI,Merchant_55,Clothing
+0a8a6d6a8ba48d29c09649eb418ca2f1,b04df7716237f4ea545bf7f3f7e2fe32,668.85,2023-01-18,Successful,BAN203,Banjara Hills,Hyderabad,Credit,Merchant_62,Health
+7f29a3d4aa4ccab98e4be5ed94d2ab49,83f03132fb9336cb62077b6bdcbd0224,652.74,2023-05-07,Failed,BAN838,Banjara Hills,Hyderabad,Net Banking,Merchant_68,Electronics
+52405d2efa3ecc37fb120fb5cd2e427a,49eccb2cbdb4c00084e5ea3cf9380167,63.49,2023-10-23,Successful,BAN112,Banjara Hills,Hyderabad,Net Banking,Merchant_48,Health
+1ebd7cc0e669ec72ade7b9bafdc5fb45,e890bc8d43cf57d866b19893214089dd,854.23,2023-02-07,Successful,BAN809,Banjara Hills,Hyderabad,UPI,Merchant_35,Groceries
+727534614a2847282a94638d4b651989,422cb33c85da4e409a1232b06df55012,707.82,2023-02-25,Successful,BAN284,Banjara Hills,Hyderabad,Net Banking,Merchant_72,Health
+e1cbc329baaa217306591476bc495cf5,c23247b1db99c36faa5de34a875d904f,197.3,2023-09-28,Successful,BAN622,Banjara Hills,Hyderabad,Debit,Merchant_36,Electronics
+ed84a109f2a1e1e1fd729e9249fecd04,5d08bc0321d76475269aff2bde06cb65,661.01,2023-12-27,Successful,BAN340,Banjara Hills,Hyderabad,Credit,Merchant_71,Groceries
+f0bef6cf96b2f11381e70792d30f772d,c590a6f413a31daa2719a35ad933bb4b,144.16,2023-02-22,Failed,BAN135,Banjara Hills,Hyderabad,Credit,Merchant_72,Health
+be80be522455b24466edbab4cb92a0d8,cc9ff5c3e9acb692f218270c5c286f3b,879.35,2023-01-10,Failed,BAN897,Banjara Hills,Hyderabad,Credit,Merchant_42,Clothing
+4265983fcd5f83da69c1b3e3dd0b2d7a,346b9a6a80206cc4115a54aa8fb2bd75,749.62,2023-06-19,Successful,BAN662,Banjara Hills,Hyderabad,Debit,Merchant_17,Electronics
+694e045aae251786444faa168cce1ed6,ef6f58b957a6b95755e900c1fa11bc38,411.67,2023-06-07,Successful,BAN854,Banjara Hills,Hyderabad,UPI,Merchant_16,Electronics
+2217bf6f5485a63f340234b7e17dbd2e,32b48697fc67c450819d1c1507f61019,188.36,2023-08-28,Successful,BAN607,Banjara Hills,Hyderabad,UPI,Merchant_62,Electronics
+fa0c0e7d8f15d5fa355f1c428ebf3e86,f19aa49c1e3c1c607b1d951d74f08700,684.13,2023-11-14,Failed,BAN459,Banjara Hills,Hyderabad,UPI,Merchant_24,Clothing
+d08a85f9c926a89299cdf0093d9626ea,928325a66606f83b53bd29dad19ac016,208.62,2023-11-17,Successful,BAN849,Banjara Hills,Hyderabad,UPI,Merchant_36,Electronics
+dd130705b490af9e19df7c3432ab0f96,ccebdfea641b23b60dbc4737e61464fc,968.46,2023-02-15,Successful,BAN752,Banjara Hills,Hyderabad,Debit,Merchant_64,Clothing
+54dc0666a5f283374eeeffaaa1e6c559,f872a0c8ba6d636e8fab5fa3a87b9aec,530.14,2023-09-21,Failed,BAN797,Banjara Hills,Hyderabad,Credit,Merchant_16,Clothing
+506a0045da9baf35ae364a94c9e8c6f8,95331f868a5a2edbb88d8554a3b39d4b,486.12,2023-10-24,Failed,BAN888,Banjara Hills,Hyderabad,Debit,Merchant_46,Electronics
+78c381367760b79e6561b24f69513235,fe454cb75f709410ca2d2333dd2a6f22,990.89,2023-03-20,Failed,BAN920,Banjara Hills,Hyderabad,Net Banking,Merchant_14,Health
+21c6355770f681dc98493050d4424092,f676594009a9ff7a7dfbab445a0ccf92,141.51,2023-12-25,Successful,BAN836,Banjara Hills,Hyderabad,UPI,Merchant_55,Clothing
+a3d474c9e595ff6de2d13523d526a102,9e7d17c7c7be84d1751d3ca9a08da069,958.2,2023-01-29,Successful,BAN299,Banjara Hills,Hyderabad,UPI,Merchant_47,Electronics
+1a19aebc105dee1728b239924d3a9801,dadde13fc0acba380e94622d03f705f0,785.74,2023-01-04,Failed,BAN633,Banjara Hills,Hyderabad,UPI,Merchant_79,Clothing
+932fefccdb75d7fee04da08471c4ffc8,623f1879e55082d8d80f85dfadeb26b3,638.46,2023-01-06,Successful,BAN187,Banjara Hills,Hyderabad,UPI,Merchant_62,Health
+0bd705044292e5f6b174b483b2820045,1d1ec36114770f8fdac494b73dbdaddb,754.25,2023-12-27,Successful,BAN223,Banjara Hills,Hyderabad,Credit,Merchant_62,Health
+4d5a44286e2ba3ddd1fa3254983c0028,2c1abc59b798ee74bb31917170bcfda6,109.64,2023-07-31,Failed,BAN884,Banjara Hills,Hyderabad,Debit,Merchant_25,Clothing
+1b75c63b56ce3a52b95fafaaeb4ed359,84f2a4363401ff88e50facc223d59ef7,633.35,2023-10-31,Successful,BAN871,Banjara Hills,Hyderabad,Net Banking,Merchant_77,Groceries
+c58885e8c6f0f84f5118a9a32925ad6d,ed8a774a76a4e6533c9733ff48d0da91,230.76,2023-03-06,Failed,BAN225,Banjara Hills,Hyderabad,Debit,Merchant_65,Groceries
+bb7dedf6e3bc5ef40701ac25056f8004,7c87cf6db57f8f41c07d3b98cd75ae85,929.05,2023-09-18,Failed,BAN680,Banjara Hills,Hyderabad,UPI,Merchant_88,Electronics
+a741690f950e85ec598866aab2c3e246,8b448c334b11894f9e7c1da05f091d9f,859.06,2023-10-27,Failed,BAN343,Banjara Hills,Hyderabad,Credit,Merchant_77,Clothing
+cd3ad66e3da135f3530473a3d43ec582,91776229c6a40e9ef090b10410949c11,112.6,2023-12-18,Successful,BAN723,Banjara Hills,Hyderabad,Debit,Merchant_87,Clothing
+d86d92845930a0ea29ffe85dc622bfce,85a26299be18aa186909ae93b0b4c9b4,859.29,2023-05-30,Failed,BAN948,Banjara Hills,Hyderabad,Net Banking,Merchant_32,Groceries
+540385092f8dfb74656a118f0f1bcb27,e4cb6b56904b1776b1e48179bae9c409,761.32,2023-04-30,Failed,BAN386,Banjara Hills,Hyderabad,Credit,Merchant_8,Groceries
+d2f965b4a1c9e8859b481de8ce0f76e9,d3b100b6942f83de4c72d9491e55acaf,233.62,2023-12-10,Failed,BAN556,Banjara Hills,Hyderabad,Credit,Merchant_25,Clothing
+fe12c86fa33a2eb4689c246e2bf0a4ee,35009d745c5a4545db862af5b5bd52ed,73.13,2023-07-26,Failed,BAN136,Banjara Hills,Hyderabad,Net Banking,Merchant_39,Health
+374bbbe9b5b3513190f9c7e32d4265a3,83d872768345b25b40b044921e348681,445.44,2023-02-03,Failed,BAN886,Banjara Hills,Hyderabad,Debit,Merchant_10,Clothing
+0629109c6683d1834f158afc31911610,2e44357c4da0b4705326048c96a70b52,916.2,2023-06-26,Failed,BAN630,Banjara Hills,Hyderabad,Credit,Merchant_53,Clothing
+79c8c06a5529a74f59ba20e457913864,561621ee94299fab55e069ef1da45c95,935.65,2023-09-03,Successful,BAN924,Banjara Hills,Hyderabad,Debit,Merchant_89,Health
+f7af095d3738cb7403fa44111098f233,2337ed78926e60ab58ef802b3563c131,934.84,2023-12-11,Failed,BAN947,Banjara Hills,Hyderabad,UPI,Merchant_55,Groceries
+dcb47d26b42b09d63d8ae93eb3468b80,194ea8fa3dcb442ee9222a2332a4f6c5,602.08,2023-07-18,Successful,BAN268,Banjara Hills,Hyderabad,Credit,Merchant_39,Groceries
+5fdd4f5c46a3085aeacfd7707f94dd48,4d2b58db8fdfc0c95e38a2c83180f2a6,327.93,2023-05-15,Successful,BAN824,Banjara Hills,Hyderabad,Net Banking,Merchant_10,Electronics
+cea1aef6cdae57abcbda99658dba44b9,231688d7802361c9179a5e12e74e49c7,634.76,2023-08-03,Successful,BAN533,Banjara Hills,Hyderabad,Debit,Merchant_65,Electronics
+79d695ea0733fbcac533224e90f40ef3,5eb29d0a19737437d4dc98f0ad3de450,537.3,2023-09-20,Successful,BAN145,Banjara Hills,Hyderabad,Net Banking,Merchant_86,Groceries
+6c81c4d81b93a903b8daae79545cffc8,73cbd42c75f881e3bb666f8bf793cae8,321.0,2023-12-22,Successful,BAN622,Banjara Hills,Hyderabad,Debit,Merchant_99,Health
+ceb11bafb67adc1302b73924c5f10374,f18b0dd5c80bb112160ed18900e15362,164.91,2023-05-22,Successful,BAN536,Banjara Hills,Hyderabad,UPI,Merchant_26,Health
+4821d93f38aa50d67e215632f262120f,0754d953e5ae4f9affc8afebe0f4175e,204.22,2023-08-06,Failed,BAN600,Banjara Hills,Hyderabad,Credit,Merchant_75,Health
+41b9af3062da4237a809ecf01591e898,bd776031870fcfd0630efb99fccaafde,873.97,2023-05-14,Failed,BAN603,Banjara Hills,Hyderabad,Net Banking,Merchant_38,Clothing
+4cb3d0f4fe8ef16499263046c3840b4d,7e99e306f6ee69a183d6f0fb553a1143,142.71,2023-06-03,Successful,BAN524,Banjara Hills,Hyderabad,Net Banking,Merchant_60,Clothing
+d28cd2069a731200eb24b06e28b97bbb,f5697badb6a9cc04085d42d51bbd2feb,693.18,2023-06-13,Failed,BAN116,Banjara Hills,Hyderabad,Credit,Merchant_47,Electronics
+6056b842bf6607cc4615aa6f6c3d18ba,f4a82604f217e5b0db689a5a20cac35d,47.5,2023-12-12,Successful,BAN712,Banjara Hills,Hyderabad,Net Banking,Merchant_79,Health
+40d17d44f5e00857e52c5ce586e255f0,3cfbc6e88fc7e643e1046c75e14abc6f,712.42,2023-04-07,Successful,BAN540,Banjara Hills,Hyderabad,UPI,Merchant_85,Electronics
+107a3a7cbeae61576ffe44c0fdfeb7f1,bedcf79730bd78aec85302e5a8a1511a,994.16,2023-04-14,Successful,BAN212,Banjara Hills,Hyderabad,Debit,Merchant_21,Health
+7ee1510ab2fe4a08b2cf4213ef66d754,919bd5f525a165759c91e4e9f6941131,782.01,2023-05-31,Failed,BAN807,Banjara Hills,Hyderabad,Debit,Merchant_33,Health
+f247c93c8b34a0cc8d5cb49175c59858,b7db24fcf8658c584562836da479017f,984.49,2023-07-04,Successful,BAN197,Banjara Hills,Hyderabad,Net Banking,Merchant_82,Health
+c54569d537019d5c98b5fcdb0f7140a6,22beed3250138f603ea723a33dbcd162,750.4,2023-02-14,Failed,BAN628,Banjara Hills,Hyderabad,Net Banking,Merchant_37,Clothing
+160dd966a08e9861fc7568b5d4c87b1e,e1689ec66aa0e721e48ad70a7707993e,275.3,2023-05-03,Failed,BAN419,Banjara Hills,Hyderabad,Debit,Merchant_95,Clothing
+34a1b7d24a0485698ee628ac9afa7887,9bf77865f9120fdc2edabc2ea89b0c1d,572.62,2023-05-28,Failed,BAN127,Banjara Hills,Hyderabad,Net Banking,Merchant_42,Health
+9336aac7b5f86444eebbd581adbe04bc,a2005bef19d1c33da78d3ccc642bb433,594.88,2023-05-15,Successful,BAN962,Banjara Hills,Hyderabad,Credit,Merchant_24,Health
+0d29a0fcce2deb04b69ef024c565b6a5,bd74a8a3a97726c44ca6ec05816b67b1,308.87,2023-01-21,Successful,BAN137,Banjara Hills,Hyderabad,UPI,Merchant_36,Electronics
+9e0c8f62a6a2a597289f3dbf5290fab5,cb8cb5fba05b78543f7ae3c13c4c92f9,833.66,2023-11-16,Successful,BAN953,Banjara Hills,Hyderabad,Credit,Merchant_3,Electronics
+7352ded3a07a856d76a19aadda783392,e1e6c6c73fa1b8e7399ad33586276d9d,488.04,2023-04-05,Successful,BAN352,Banjara Hills,Hyderabad,Credit,Merchant_28,Electronics
+64bd69b315dc8240b6da549c8faa309f,6c0c338f38b0538b8993014836e93654,521.55,2023-11-20,Successful,BAN153,Banjara Hills,Hyderabad,Net Banking,Merchant_74,Groceries
+1aa0dfd03aacc33ea9b0a00fb6251c62,65c278e6d45f011bbf4e29b00bbf3504,781.35,2023-10-13,Successful,BAN400,Banjara Hills,Hyderabad,Net Banking,Merchant_62,Clothing
+ea64204196158e7237c6f3eda70c447d,013b22bb8484733cbfc1dea68f899058,917.66,2023-07-17,Successful,BAN567,Banjara Hills,Hyderabad,Credit,Merchant_90,Health
+9c1acbdfb759cf2d185c3a0ac8cc36f1,612231ee89baa7b8fbae07dffa823d52,993.64,2023-02-12,Failed,BAN203,Banjara Hills,Hyderabad,UPI,Merchant_81,Groceries
+4cfd84686b56356bf4d8bbc81d489554,d617956afd9299ae9d47500a02d06565,300.19,2023-12-18,Successful,BAN472,Banjara Hills,Hyderabad,UPI,Merchant_48,Clothing
+04e4aa682f3913bb5e0320dde9dfdcfe,31a1fa7d462600e3d2bc60201f8d8a3c,457.34,2023-02-23,Failed,BAN993,Banjara Hills,Hyderabad,UPI,Merchant_77,Clothing
+8a19ed06e5673e31e9442e9277dd310e,73b31976a85082fdd49f68cb71a33818,189.61,2023-04-19,Successful,BAN209,Banjara Hills,Hyderabad,Net Banking,Merchant_89,Clothing
+bcdba2f96908e63bc4e5bbb53fb82909,a495a27c25db4a6c9f2de1bb0c59bead,111.57,2023-01-23,Successful,BAN244,Banjara Hills,Hyderabad,Net Banking,Merchant_26,Groceries
+ec491d84061f862112e7147923319d35,01afc1e0d168d7c9d760e031c8cb553b,495.5,2023-03-25,Successful,BAN477,Banjara Hills,Hyderabad,Credit,Merchant_78,Clothing
+98368dbd2276e1487af9c59764347b25,2b0634ad1b94b90a007025091f7a7e7b,54.61,2023-09-09,Failed,BAN707,Banjara Hills,Hyderabad,Debit,Merchant_79,Clothing
+54ce8203e9ae8b099062c65c3d543f37,a381b1799b0d2448deb90c3e8078d1f3,140.49,2023-02-10,Failed,BAN357,Banjara Hills,Hyderabad,Net Banking,Merchant_54,Health
+6d60b91ebc0afaf7b22d2e88859abd84,778961d30cee36fc6ee29f7f2823989a,979.34,2023-11-17,Successful,BAN372,Banjara Hills,Hyderabad,UPI,Merchant_91,Electronics
+5aaf15bdc9457393e0a977d434ff8d74,cd3eef976bbba21284f7f844a3caadb0,420.18,2023-04-01,Successful,BAN835,Banjara Hills,Hyderabad,Net Banking,Merchant_47,Electronics
+a3cfb31a6587c4cf44dcbe81ccbf4fa9,224a4cf018a3587f84b5f18960af929a,964.2,2023-08-14,Successful,BAN240,Banjara Hills,Hyderabad,Debit,Merchant_30,Health
+2bc64da1416e67082a08b51a9fcef066,edec3d367d77b2bd5939fe8950eb0992,20.62,2023-04-02,Failed,BAN211,Banjara Hills,Hyderabad,Credit,Merchant_39,Electronics
+69252d1395a26042ffc8462c4e6eb970,075d34d7221115d1ab0566356034c3bf,505.22,2023-03-28,Failed,BAN429,Banjara Hills,Hyderabad,Debit,Merchant_88,Health
+58ea76b6d1a488f2db4e54c9c00b3a90,5bc3e65079c96b2b7e0b35ef9a57d959,413.73,2023-09-12,Successful,BAN662,Banjara Hills,Hyderabad,UPI,Merchant_75,Clothing
+34666913114ee10d567992ff8c338796,93018973d45723cc7607c337959628d2,149.37,2023-04-15,Failed,BAN410,Banjara Hills,Hyderabad,Net Banking,Merchant_74,Groceries
+ab9680c87fef33f5d5a4d0614de71079,4175819915681b7753b274d986fb2401,488.46,2023-06-18,Successful,BAN391,Banjara Hills,Hyderabad,Credit,Merchant_39,Groceries
+e95e4debe37bc9d47d96953d114a2811,4770700df20d5d5f23cefa819b145d4b,760.56,2023-07-01,Failed,BAN485,Banjara Hills,Hyderabad,UPI,Merchant_33,Clothing
+f8092e99935c46e7e285654acc039d56,ff1d7cac37f69f27c8296390fa5955ec,937.34,2023-10-15,Successful,BAN166,Banjara Hills,Hyderabad,Net Banking,Merchant_5,Health
+21293d573b7a54cf93c06c26d78a6bc1,6b23125bcc407c48d4561667aca06f50,868.76,2023-01-28,Failed,BAN622,Banjara Hills,Hyderabad,UPI,Merchant_78,Health
+55f4289665d31bf780de7c4b0199444b,186fd7f11c3ac58fd0fa76f60c4728eb,665.15,2023-10-31,Successful,BAN656,Banjara Hills,Hyderabad,Credit,Merchant_31,Groceries
+021b42a3aeaec7d866fc57fdf057f5b4,ef38135d1489140814a6f9d28e4f4b09,235.08,2023-01-02,Failed,BAN998,Banjara Hills,Hyderabad,Net Banking,Merchant_89,Groceries
+9f320ff2f89894a6b34577131fff63ad,2302525866d7daffd14d8e31820ea8ee,661.77,2023-05-09,Failed,BAN793,Banjara Hills,Hyderabad,Credit,Merchant_64,Electronics
+433f7d2d90764c873e888fd4b981656b,0e466bdc25b45be2c3dfc026a2b4468f,225.17,2023-09-15,Failed,BAN147,Banjara Hills,Hyderabad,Credit,Merchant_15,Health
+2338081dabdc1ffebf81d6b0f7c3076b,5423bf5c157baa4d3cc3152cc42a888f,638.78,2023-09-19,Failed,BAN818,Banjara Hills,Hyderabad,Credit,Merchant_41,Groceries
+0b06930395b9469d69b07ed9c997a9c2,2d1097ff07a86eda08a6992a500af214,433.73,2023-11-07,Failed,BAN625,Banjara Hills,Hyderabad,Debit,Merchant_41,Clothing
+d78e713fc49d35fcf717ef1057d703f3,68dd8eeb943e6e0d5bad098deb7f356e,558.66,2023-02-10,Failed,BAN413,Banjara Hills,Hyderabad,Debit,Merchant_2,Electronics
+43e12327e8d2ef369460680af938a17f,5f7925313576714464434fcd69742681,608.71,2023-12-27,Successful,BAN801,Banjara Hills,Hyderabad,Net Banking,Merchant_78,Clothing
+bf0d2e6c909ed589a41170d5c980e544,ad145740747ec172c004a9ed552330a0,583.04,2023-12-20,Failed,BAN507,Banjara Hills,Hyderabad,UPI,Merchant_45,Groceries
+35f9a59da39c416f2727b0b408fe6679,7c5900acaff8188aabd6f335e1a32eff,241.91,2023-04-27,Failed,BAN579,Banjara Hills,Hyderabad,Net Banking,Merchant_60,Health
+ad7240dab88d6784661cca735191fbd0,c458f3d937f35c66143328d35e7f6931,320.03,2023-07-22,Failed,BAN614,Banjara Hills,Hyderabad,Net Banking,Merchant_70,Groceries
+facf9562224b02097781456e03827a29,74b4d164658a0b944a2fa488a49fb8f0,820.82,2023-10-31,Successful,BAN322,Banjara Hills,Hyderabad,UPI,Merchant_78,Electronics
+9a6537a0f783e3ae5900acd387eb18a8,933682800e4c936da296b4320ee13507,640.42,2023-07-18,Successful,BAN618,Banjara Hills,Hyderabad,Debit,Merchant_70,Electronics
+041f1866d134e22fd8f4e76f5681c8ce,5ebfe19d4224ff21c1438e593eb7edb6,394.22,2023-12-13,Failed,BAN863,Banjara Hills,Hyderabad,UPI,Merchant_57,Electronics
+9aacbeb6e7ff371127d6cc7f1834eac3,a1128a36377fe00aad66274528ed57b3,218.34,2023-12-22,Failed,BAN196,Banjara Hills,Hyderabad,UPI,Merchant_25,Electronics
+742c025bb7084be72c4cc0dd1f0763ae,9c2bc035eec49cbe6b09400a31ec8c4d,206.01,2023-06-28,Failed,BAN207,Banjara Hills,Hyderabad,Debit,Merchant_69,Groceries
+07ad57a9d87cd270ff12be2ca417f388,9e97d24048120636644bf940a2d5460b,68.77,2023-04-10,Failed,BAN915,Banjara Hills,Hyderabad,Debit,Merchant_99,Groceries
+8f49c08617119cfbb7ab359853b0912d,a2a058fce6d781bf3d46720e84155771,290.46,2023-07-19,Successful,BAN987,Banjara Hills,Hyderabad,Debit,Merchant_4,Electronics
+0b5b5ded853e5ffdaebc3ea7e8749432,4e0c5cc089806e7f80370c081e5190a3,872.18,2023-08-26,Failed,BAN439,Banjara Hills,Hyderabad,Credit,Merchant_49,Clothing
+542509ef7dbef9f925172a9a47a785ea,0d225acd83ee43b354d84decb7e91021,746.47,2023-06-20,Failed,BAN106,Banjara Hills,Hyderabad,UPI,Merchant_30,Groceries
+c362c7e93659e8e9f181bf06c8fe0c16,176175e2d882617d42a87a9192b80308,492.56,2023-05-24,Failed,BAN199,Banjara Hills,Hyderabad,Net Banking,Merchant_26,Electronics
+ee6776793f43bd6b90b6c1b9b6e3320e,54ce5d33d1415dc43e7c60aface45556,640.5,2023-05-22,Successful,BAN993,Banjara Hills,Hyderabad,Debit,Merchant_97,Health
+6c5792960723f65e5a8d7e23e624b1ae,a8d75f6269c07c6012a3bf4956926e66,222.9,2023-04-10,Failed,BAN983,Banjara Hills,Hyderabad,UPI,Merchant_22,Groceries
+a44f1a8cdae8ff8add6f78cec5b00dc1,43b3fec9274b93516fb12bf82190c3c6,903.29,2023-03-23,Successful,BAN939,Banjara Hills,Hyderabad,Net Banking,Merchant_92,Electronics
+73f4602ebb546bc077c74760b8b232e3,1f16f69ddb80f66f14e3c74ef1b831bd,580.06,2023-08-07,Successful,BAN922,Banjara Hills,Hyderabad,Debit,Merchant_35,Health
+14475b0bfa1a36b99544d397d18150fc,8ead70fd6c7bd3d265894fbf66b3b85d,844.31,2023-04-05,Successful,BAN820,Banjara Hills,Hyderabad,Debit,Merchant_3,Electronics
+3226f447056e534e412dc5512175220d,207efcce009c62ee58abe9fc7d713dc8,68.0,2023-11-11,Successful,BAN546,Banjara Hills,Hyderabad,Credit,Merchant_43,Clothing
+84febc09e096bcd2998eafd4e02b62ad,1b56f1d7904912c22beab53096819656,375.1,2023-01-16,Successful,BAN628,Banjara Hills,Hyderabad,Net Banking,Merchant_19,Clothing
+bcc5f836bfc855c79caa6cd3711300ba,efacfdd22b3a5f88421c3ba9982e7f66,863.75,2023-09-30,Failed,BAN306,Banjara Hills,Hyderabad,Debit,Merchant_88,Groceries
+bed56ccd1cda28a32e075a42f275a69f,c6020b2b424c3550d80f34a492580131,445.73,2023-07-09,Failed,BAN652,Banjara Hills,Hyderabad,UPI,Merchant_79,Electronics
+2d3e33199c2353e8fb3460e3836ace22,b753b577e394a71535b817268227a3e7,576.52,2023-01-26,Failed,BAN420,Banjara Hills,Hyderabad,Credit,Merchant_95,Electronics
+ad73cc6a775d3d26b593fe543bbd4167,523db1a8f3a5ccf8dc73f0a06202c26d,313.94,2023-10-21,Failed,BAN868,Banjara Hills,Hyderabad,Debit,Merchant_43,Groceries
+40d09dada2147abffa8379a223072d66,45da84b49fac73508d7a4d8d8d3a651c,266.82,2023-02-07,Successful,BAN453,Banjara Hills,Hyderabad,Debit,Merchant_97,Health
+85e6b3ffc0a001d77bbfbb43790836d0,c6be3291f33b2d4df94341787b31bbee,277.87,2023-06-14,Successful,BAN775,Banjara Hills,Hyderabad,Credit,Merchant_66,Groceries
+80324a7327136048d1fb791229f47423,6ad0af0e423003ad1ccddfd3c806126b,959.56,2023-03-23,Failed,BAN464,Banjara Hills,Hyderabad,Net Banking,Merchant_66,Clothing
+f7c454c433e58c991d81380e2bf322d8,e514920e8fb76b1a38301b14f3106bd9,516.76,2023-12-23,Failed,BAN993,Banjara Hills,Hyderabad,Credit,Merchant_68,Groceries
+de52ef162acb1c80cbd721af9f8b6f62,72c056ef6ebe6f1b80dfda67ec0f62af,377.71,2023-08-19,Failed,BAN751,Banjara Hills,Hyderabad,Debit,Merchant_32,Groceries
+becc90e3c90982f6997bd5229283c187,b3ba4a4bc9b04a33a75f3625364c0aed,21.35,2023-01-05,Successful,BAN208,Banjara Hills,Hyderabad,Credit,Merchant_78,Health
+4f7ec165a091a7f883a1c0d1a76a586e,746f6ad2aa7021fc375e0308ccd14792,241.04,2023-01-15,Successful,BAN407,Banjara Hills,Hyderabad,UPI,Merchant_74,Clothing
+e3ba6e5899a3a17ec37eba36258cfadf,ec8788d4ee3d7b194e46c2826bd30d3a,101.45,2023-11-04,Successful,BAN157,Banjara Hills,Hyderabad,Credit,Merchant_90,Clothing
+3adda76a70c771189f0c838e0a4ea53a,ee1ccc02b6647ed94648902a5a5d169d,417.85,2023-07-05,Failed,BAN116,Banjara Hills,Hyderabad,UPI,Merchant_10,Health
+585469170f2977f4a53d0da8b1a34e56,5d5f1c2814906027491688e08868fae1,904.22,2023-03-11,Failed,BAN705,Banjara Hills,Hyderabad,Net Banking,Merchant_52,Health
+89a63d7bd7b8cd8bc76570292b960400,a320a277663b937138333ae7f403f017,282.85,2023-04-24,Failed,BAN311,Banjara Hills,Hyderabad,Credit,Merchant_19,Groceries
+c4fe6dfad3a02c2e5b7d29ffbc72313e,bafb9ee9387ec3a5eccb047177070ed5,230.69,2023-09-30,Failed,BAN372,Banjara Hills,Hyderabad,Net Banking,Merchant_23,Health
+56e9e17f1ed178c7eb9a7ac16b347a11,3f93fe2385c1ab599010c8e6cd0503de,212.47,2023-05-27,Failed,BAN659,Banjara Hills,Hyderabad,Debit,Merchant_77,Clothing
+22363befccc5334c40ea0c6a048dd8bc,a34e19a15b1d396c03db826d20d94fc4,292.74,2023-04-26,Failed,BAN916,Banjara Hills,Hyderabad,Debit,Merchant_9,Clothing
+4f2967d85bb2ced3474bbc30ebbb60b4,f588b5a4d74bc9a8230509dbe5d07572,623.93,2023-10-21,Failed,BAN567,Banjara Hills,Hyderabad,Net Banking,Merchant_21,Health
+1518fb09d617962dab7c9fa41ff96f04,d254eb46d140070a4126c1b7cb2b58e0,743.58,2023-03-15,Successful,BAN526,Banjara Hills,Hyderabad,Debit,Merchant_85,Groceries
+868091071e8268af10d4e451b421d7d8,f679664e768e523a8157ea3e6d0c4af7,110.83,2023-12-30,Successful,BAN481,Banjara Hills,Hyderabad,Debit,Merchant_77,Groceries
+cffa453ef05145015e4a85cb0252154b,9865f72f44083d9876ff56d5077596fe,158.23,2023-02-09,Successful,BAN481,Banjara Hills,Hyderabad,Debit,Merchant_21,Groceries
+90004662f7d756eb429e39775e9e3162,e8ae443f968b4844248b5296d0485eb6,812.0,2023-05-11,Failed,BAN364,Banjara Hills,Hyderabad,Debit,Merchant_85,Clothing
+6e024c2fe54463b44b4436276c21f9ec,3fd4d26d15852b56e9d46336cd0f9309,822.8,2023-07-23,Successful,BAN607,Banjara Hills,Hyderabad,Credit,Merchant_99,Health
+41f1432c842e3b3308ddc4fc2c4b334f,4897c318b111e90321250c67d610c577,602.14,2023-12-30,Successful,BAN496,Banjara Hills,Hyderabad,Debit,Merchant_48,Electronics
+1e3295a49fdacf1f724ca85da3e33944,888eae77cf22f4e37eccf5fe2e9abf1c,171.79,2023-12-02,Failed,BAN787,Banjara Hills,Hyderabad,Debit,Merchant_54,Clothing
+7f1b1fa5c45cbadadef913c8815fbe4b,abfd3d5c2b49db3b1b841ac7c33001c2,790.2,2023-07-21,Failed,BAN513,Banjara Hills,Hyderabad,UPI,Merchant_4,Health
+3ff8e5e789608801855a55cc89b20b92,cb04d0f873f2762dadc1f164a598fb36,377.25,2023-04-11,Successful,BAN530,Banjara Hills,Hyderabad,Credit,Merchant_29,Health
+630c0ccd869d431ffa09f4d8b1dfda29,86bf477fa72cd84304d38bc9befd2661,664.89,2023-07-26,Failed,BAN327,Banjara Hills,Hyderabad,UPI,Merchant_9,Electronics
+1120c232f51fd21c6b173a3bb10845fc,b8fc3c8ab36d2daa390a3cbfe563c889,281.95,2023-11-02,Failed,BAN446,Banjara Hills,Hyderabad,UPI,Merchant_27,Health
+20b446d430d46bb34b2fab70da3fb3a4,ec0da1ae66524aae77e0c8a38104163c,576.5,2023-01-30,Successful,BAN515,Banjara Hills,Hyderabad,Net Banking,Merchant_64,Health
+280bf104ce93db07a85c46774f062397,b62f0ac3818d8bdfa00c4a5e63c04364,138.85,2023-09-17,Failed,BAN470,Banjara Hills,Hyderabad,Net Banking,Merchant_20,Health
+c6d455c86be2a8abe31777631cb3c886,2a002fe548d7a90fac1345b538138d50,214.32,2023-09-05,Successful,BAN120,Banjara Hills,Hyderabad,Net Banking,Merchant_13,Groceries
+e0df155cf72e9d3204ed5faddbd60352,03f777a7b9303036d33c1075b4e8e2a1,686.05,2023-02-01,Failed,BAN872,Banjara Hills,Hyderabad,Debit,Merchant_79,Clothing
+59bd98744b97462238d4df04b1eda698,bc471ec937c0df304e46a7b7611ee342,545.04,2023-10-24,Successful,BAN902,Banjara Hills,Hyderabad,Net Banking,Merchant_99,Electronics
+30fc1f5e3aa2f46400d5f6a9e487a836,6a17e48317d8e59db0311a4b77689b5c,57.05,2023-05-27,Successful,BAN735,Banjara Hills,Hyderabad,Net Banking,Merchant_100,Clothing
+64e379311a11dcf0c36acaa9cd050383,866d35b322e92d5bd69f5154eeea84a9,417.7,2023-12-10,Successful,BAN963,Banjara Hills,Hyderabad,Net Banking,Merchant_67,Clothing
+a787c4331424434ccb10111610f8aea3,c47358285ee48d11c5b3919efdf1006b,80.68,2023-06-29,Successful,BAN469,Banjara Hills,Hyderabad,Net Banking,Merchant_24,Electronics
+683468bb070157fc5c4e6487aea4aac4,687d243a800f58cad62e4bee6dcae58a,502.13,2023-04-23,Failed,BAN585,Banjara Hills,Hyderabad,UPI,Merchant_22,Clothing
+74a53bb309e8b34770ec46ec1722d32b,2b649cd55c3a8e6581266d8943b017f2,923.13,2023-09-15,Successful,BAN127,Banjara Hills,Hyderabad,Credit,Merchant_93,Groceries
+83853ccadeaf8046e65938bd467284ab,e6eff090e9b34625fd6faf0235b0ddb0,488.82,2023-03-13,Successful,BAN210,Banjara Hills,Hyderabad,Net Banking,Merchant_96,Health
+7b86ade22217f8a8747b2af7c000338e,190cdca592d49a6d826405676d13a752,94.87,2023-08-16,Failed,BAN160,Banjara Hills,Hyderabad,Credit,Merchant_99,Electronics
+8872f52bba75928f3426b92e3e339b1f,da3ba76b665ce3e02b8219788ef59c85,255.52,2023-06-09,Failed,BAN571,Banjara Hills,Hyderabad,UPI,Merchant_70,Clothing
+c238950860d19670eb57fe54e8e20bd3,37da8a82b2921689be8b7375089c35dd,882.51,2023-09-01,Failed,BAN492,Banjara Hills,Hyderabad,Net Banking,Merchant_77,Health
+bd00f2b3c9d6cd08182786001ec20e5a,325b0af53a1c112b66d0da91ad3a3e72,939.92,2023-05-04,Failed,BAN362,Banjara Hills,Hyderabad,Credit,Merchant_87,Groceries
+e68f33280a09e8483554d6c77d93b9c6,a5c47216a4cb51f5729103d1411c2f3a,123.46,2023-04-15,Successful,BAN868,Banjara Hills,Hyderabad,Net Banking,Merchant_57,Health
+fd18b244ae3937bf2b9639af8d7f995d,166dcba8a34fb10a97e065f0fad521cc,770.18,2023-02-07,Successful,BAN360,Banjara Hills,Hyderabad,Credit,Merchant_63,Electronics
+ecb23b74e3a0e069ee5c7c52265b9e73,b005915f563242f0a44f34a0bd3e560f,458.99,2023-05-05,Successful,BAN649,Banjara Hills,Hyderabad,UPI,Merchant_41,Groceries
+22783a6a3f96aa25a1219f2e3a8f4c5d,2150d35477a07bcc6d59b5082016be44,574.42,2023-06-16,Successful,BAN601,Banjara Hills,Hyderabad,UPI,Merchant_94,Health
+df5aea4121542f782f0864e4c36579e5,be152884d95d094963210c126bbce7b9,990.62,2023-11-20,Failed,BAN301,Banjara Hills,Hyderabad,UPI,Merchant_2,Groceries
+20efb9b211256b0d1da58c0f318f4d34,8f436c3df77c0fe62526915e3f77650b,350.05,2023-11-01,Successful,BAN481,Banjara Hills,Hyderabad,UPI,Merchant_94,Electronics
+f9ceeed0532668d2ef6ecae8d02b1d74,229f19762a75006ce7fa058bc072cbed,146.97,2023-05-12,Successful,BAN746,Banjara Hills,Hyderabad,Debit,Merchant_25,Groceries
+ae7da1327c95d840c03a3c7116583412,9935fae2484c83a82443be60c2ba5555,72.81,2023-03-28,Successful,BAN486,Banjara Hills,Hyderabad,Debit,Merchant_88,Groceries
+e74a1904dfa0fdb6b52121d57cf3f39f,b63cb5d6f86c50c20bfe06d5f51bb0e0,71.28,2023-06-27,Failed,BAN375,Banjara Hills,Hyderabad,UPI,Merchant_79,Health
+8efa0c774638ce554e189d2c642f05d2,58fd760868e7cb119d51e090c8603d27,53.8,2023-09-11,Failed,BAN801,Banjara Hills,Hyderabad,Net Banking,Merchant_25,Electronics
+f2309ddd1e4d2313d428ec271b9ce901,aae369229e15740a46286db73a61294d,822.09,2023-03-21,Successful,BAN248,Banjara Hills,Hyderabad,Credit,Merchant_76,Groceries
+af109814ac2859a16e1abb3b4700ec8f,fed3a227ef2187fff5c2dc99b87f6a93,121.31,2023-12-02,Failed,BAN679,Banjara Hills,Hyderabad,Net Banking,Merchant_98,Electronics
+39a3cc5948748e9990efb33e6abe37ff,2c9be732f2839c2af689061364191267,716.09,2023-08-15,Successful,BAN781,Banjara Hills,Hyderabad,UPI,Merchant_82,Clothing
+cc03100ff6a778acc35a61224e12cbab,ae685b637c50317a7fb3eebfb6a35b6f,616.38,2023-09-01,Failed,BAN715,Banjara Hills,Hyderabad,UPI,Merchant_36,Electronics
+84152841f8be57424e68e7cdd29f1183,2d6c9a96359baf2b1c235c5eb3859936,154.0,2023-02-01,Successful,BAN550,Banjara Hills,Hyderabad,Net Banking,Merchant_92,Health
+863e24b595bcfc1d6bb28605df34e41a,70d733779a2f3d1521f1d723bf97b15a,275.12,2023-05-23,Failed,BAN890,Banjara Hills,Hyderabad,Credit,Merchant_15,Health
+acce1fe01af5a3aff39363920f633d9f,5830f684717084c69e9747ba2fdf33e4,456.58,2023-04-17,Successful,BAN432,Banjara Hills,Hyderabad,UPI,Merchant_77,Clothing
